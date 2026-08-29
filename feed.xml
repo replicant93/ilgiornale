@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 29 Aug 2026 17:30:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 17:46:48 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Chi sono Luca Barachini e Patrizia Marziale, la coppia dispersa in Nepal</title>
@@ -30,6 +30,14 @@
 <pubDate>Sat, 29 Aug 2026 15:41:12 +0000</pubDate>
 <description>Alessandro Di Battista ricoverato a Cuba: “Trasferito a L’Avana in ambulanza”. Il forte mal di testa, poi il malore: “È in in gravi condizioni” “Dibba”, il grillino ortodosso che ha lasciato i 5Stelle per i reportage L’ex deputato si trova sull’isola per una serie di reportage. I pentastellati: “Grande apprensione, ci stringiamo attorno ai familiari” Redazione web La politica si stringe attorno all'ex parlamentare del M5s</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MTUOX7OGKRHCHPV7AGJMMG2L7E.jpg?smart=true&amp;auth=fdd0178e2173237e091c0dbd0e02b26f2351c45922349873c5764de43a7a481f&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Le cugine di Chiara all'attacco: “De Rensis ha depistato”</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/garlasco-cappa-allattacco-de-rensis-ha-depistato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/garlasco-cappa-allattacco-de-rensis-ha-depistato/</guid>
+<pubDate>Sat, 29 Aug 2026 15:32:09 +0000</pubDate>
+<description>“Stefania Cappa sulla scena del crimine”. Cosa c’è dietro la teoria su Garlasco Le cugine di Chiara all'attacco: “De Rensis ha depistato” In onda per la prima volta la telefonata in cui Alessandro De Giuseppe de Le Iene parla della sua teoria sul delitto di Garlasco: colloca sulla scena del crimine Stefania Cappa e Michele Bertani Angela Leucci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DJKSHDQ5FZOFLGBBWJAPG3UQV4.jpg?focal=1149%2C534&amp;auth=85874d21e4c1b19392c073a0e2a6cbfb43f3e658451c61bdcfdecc53bfe97cee&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Maltempo, tromba d’aria si abbatte su Cremona: 43 feriti, crolla una guglia del Duomo</title>
@@ -705,13 +713,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/iphone-18-pro-max-svelate-le-possibili-date-del-debutto-apple/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>Svelate le possibili date: quando arriva iPhone 18 Pro Max</description>
-</item>
-<item>
-<title>Abbiamo provato due dashcam di 70mai con vero 4K per tutte le tasche: A810S e A810 Lite</title>
-<link>https://www.ilgiornale.it/news/hardware-e-software/abbiamo-provato-due-dashcam-di-70mai-con-vero-4k-per-tutte-le-tasche-a810s-e-a810-lite/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/hardware-e-software/abbiamo-provato-due-dashcam-di-70mai-con-vero-4k-per-tutte-le-tasche-a810s-e-a810-lite/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>Abbiamo quindi messo alla prova sia l’ammiraglia della gamma, sia la versione entry level così da poter accontentare tutte le tasche Luigi Melita</description>
 </item>
 </channel>
 </rss>
