@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 29 Aug 2026 15:19:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 15:30:33 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Maltempo, tromba d’aria si abbatte su Cremona: 43 feriti, crolla una guglia del Duomo</title>
+<link>https://www.ilgiornale.it/news/meteo-e-clima/maltempo-tromba-daria-si-abbatte-su-cremona-43-feriti-crolla-una-guglia-del-duomo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/meteo-e-clima/maltempo-tromba-daria-si-abbatte-su-cremona-43-feriti-crolla-una-guglia-del-duomo/</guid>
+<pubDate>Sat, 29 Aug 2026 15:16:15 +0000</pubDate>
+<description>La devastazione dopo il passaggio della "supercella" La furia del maltempo ha provocato il parziale crollo della cattedrale, col cedimento di una delle guglie storiche Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/7L4PWBKOENCSFPW5NP362QRFTE.jpg?focal=1426%2C1437&amp;auth=d120022d7797bcfac59c61128b3ed1412f3ab694fb654ef383f3a1b1eb575ba8&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>“Come Falcone, Moro o Regeni”. Ranucci fa il martire, ma è bufera: “Accostamento improprio e difficile da sostenere”</title>
 <link>https://www.ilgiornale.it/news/attualita/accostamento-improprio-e-difficile-da-sostenere-la-strigliata-a-ranucci-dallosservatorio-nazionale-anni-di-piombo/</link>
@@ -701,13 +709,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/seat-ibiza-fr-15-si-aggiorna-ma-rimane-coerente-con-la-sua-indole/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>Quarantadue anni, cinque generazioni e un secondo restyling che affina senza stravolgere. La Ibiza FR con il 1.5 da 150 CV è ancora tra le utilitarie più divertenti da guidare. Il prezzo sale, ma rimane molto convincente rispetto al mercato Daniele Villa</description>
-</item>
-<item>
-<title>Nvidia vola in Borsa dopo i conti Entro il 2028 +70% per i ricavi</title>
-<link>https://www.ilgiornale.it/news/aziende/nvidia-vola-in-borsa-dopo-i-conti-entro-il-2028-70-per-i-ricavi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/nvidia-vola-in-borsa-dopo-i-conti-entro-il-2028-70-per-i-ricavi/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>Nvidia vola in Borsa dopo i conti Entro il 2028 +70% per i ricavi</description>
 </item>
 </channel>
 </rss>
