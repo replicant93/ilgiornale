@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 29 Aug 2026 17:47:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 17:57:48 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Va a vivere col fidanzato non musulmano, 20enne minacciata dai genitori: “Se non torni avrai una vita infernale”</title>
+<link>https://www.ilgiornale.it/news/nazionale/va-a-vivere-col-fidanzato-non-musulmano-20enne-minacciata-dai-genitori-se-non-torni-avrai-una-vita-infernale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/va-a-vivere-col-fidanzato-non-musulmano-20enne-minacciata-dai-genitori-se-non-torni-avrai-una-vita-infernale/</guid>
+<pubDate>Sat, 29 Aug 2026 17:52:57 +0000</pubDate>
+<description>Il caso a Rimini, dove ci sarebbe stato anche un tentativo di aggressione con calci e pugni Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/7L4D5ZN3HJNQRBEUONVZLUT6XA.jpg?focal=1813%2C1010&amp;auth=844cd47f82fce8800f67abb6f1fe350e19239464b546f336b4a314069441a58f&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Chi sono Luca Barachini e Patrizia Marziale, la coppia dispersa in Nepal</title>
 <link>https://www.ilgiornale.it/news/attualita/chi-sono-luca-barachini-e-patrizia-marziale-la-coppia-dispersa-in-nepal/</link>
@@ -706,13 +714,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/hardware-e-software/asus-zenbook-duo-lufficio-portatile-senza-le-limitazioni-del-lavoro-in-mobilita/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>Asus Zenbook Duo: l’ufficio portatile senza le limitazioni del lavoro in mobilità</description>
-</item>
-<item>
-<title>Svelate le possibili date: quando arriva iPhone 18 Pro Max</title>
-<link>https://www.ilgiornale.it/news/mobile/iphone-18-pro-max-svelate-le-possibili-date-del-debutto-apple/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/iphone-18-pro-max-svelate-le-possibili-date-del-debutto-apple/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>Svelate le possibili date: quando arriva iPhone 18 Pro Max</description>
 </item>
 </channel>
 </rss>
