@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 29 Aug 2026 15:30:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 15:46:43 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Dibba”, il grillino ortodosso che ha lasciato i 5Stelle per i reportage</title>
+<link>https://www.ilgiornale.it/news/personaggi/dalla-politica-ai-reportage-chi-e-alessandro-di-battista-lex-volto-ribelle-dei-5-stelle/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/dalla-politica-ai-reportage-chi-e-alessandro-di-battista-lex-volto-ribelle-dei-5-stelle/</guid>
+<pubDate>Sat, 29 Aug 2026 15:41:12 +0000</pubDate>
+<description>Alessandro Di Battista ricoverato a Cuba: “Trasferito a L’Avana in ambulanza”. Il forte mal di testa, poi il malore: “È in in gravi condizioni” “Dibba”, il grillino ortodosso che ha lasciato i 5Stelle per i reportage L’ex deputato si trova sull’isola per una serie di reportage. I pentastellati: “Grande apprensione, ci stringiamo attorno ai familiari” Redazione web La politica si stringe attorno all'ex parlamentare del M5s</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MTUOX7OGKRHCHPV7AGJMMG2L7E.jpg?smart=true&amp;auth=fdd0178e2173237e091c0dbd0e02b26f2351c45922349873c5764de43a7a481f&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Maltempo, tromba d’aria si abbatte su Cremona: 43 feriti, crolla una guglia del Duomo</title>
 <link>https://www.ilgiornale.it/news/meteo-e-clima/maltempo-tromba-daria-si-abbatte-su-cremona-43-feriti-crolla-una-guglia-del-duomo/</link>
@@ -702,13 +710,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/alfa-romeo-tonale-dna-del-biscione-e-allestimento-speciale-anche-ibrido/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>Alfa Romeo Tonale: DNA del biscione e allestimento speciale, anche ibrido</description>
-</item>
-<item>
-<title>Seat Ibiza FR 1.5: si aggiorna ma rimane coerente con la sua indole</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/seat-ibiza-fr-15-si-aggiorna-ma-rimane-coerente-con-la-sua-indole/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/seat-ibiza-fr-15-si-aggiorna-ma-rimane-coerente-con-la-sua-indole/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>Quarantadue anni, cinque generazioni e un secondo restyling che affina senza stravolgere. La Ibiza FR con il 1.5 da 150 CV è ancora tra le utilitarie più divertenti da guidare. Il prezzo sale, ma rimane molto convincente rispetto al mercato Daniele Villa</description>
 </item>
 </channel>
 </rss>
