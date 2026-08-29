@@ -1,660 +1,711 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Il Giornale - Ultime notizie</title>
 <link>https://www.ilgiornale.it/</link>
-<description>Feed RSS ricostruito delle ultime notizie pubblicate da Il Giornale</description>
-<lastBuildDate>Sat, 29 Aug 2026 08:30:53 +0000</lastBuildDate>
+<description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
+<language>it-IT</language>
+<lastBuildDate>Sat, 29 Aug 2026 08:40:30 +0000</lastBuildDate>
+<atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>Ranucci fa la vittima: “Mi vogliono mandare al Cairo per fare la fine di Regeni”. E attacca i successori: “Mortificano le professionalità di Report”</title>
-<link>https://www.ilgiornale.it/news/interni/ranucci-fuori-da-report-il-legale-annuncia-battaglia-difenderemo-il-giornalismo-dinchiesta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ranucci-fuori-da-report-il-legale-annuncia-battaglia-difenderemo-il-giornalismo-dinchiesta/</guid>
-<description>Report, implode la chat del programma tra accuse incrociate e veleni Ranucci fa la vittima: “Mi vogliono mandare al Cairo per fare la fine di Regeni”. E attacca i successori: “Mortificano le professionalità di Report” La prossima settimana dovrebbe essere convocata la conferenza stampa della redazione di Report tra sospetti e soffiate Alessandra Corradi Ranucci fuori da Report, ecco le tre proposte della Rai La Rai ha deciso: “Presutti e Piervincenzi alla conduzione&quot;</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2X6VCPSXHVGRXIFIRAVOJPGHXM.jpg?smart=true&amp;auth=e2967e695e569fafb62a67955d368f9a72a11f07ee92a8e7d4796fb8c2b80369&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“Era tutto sotto controllo”. Ma ora Madrid chiede aiuto all’Ue per la crisi di Ceuta</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/era-tutto-sotto-controllo-ma-ora-madrid-chiede-aiuto-allue-per-la-crisi-di-ceuta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/era-tutto-sotto-controllo-ma-ora-madrid-chiede-aiuto-allue-per-la-crisi-di-ceuta/</guid>
-<description>“Era tutto sotto controllo”. Ma ora Madrid chiede aiuto all’Ue per la crisi di Ceuta Sánchez salva la faccia: niente vacanze nel resort a 5 stelle Dopo settimane di rassicurazioni, la Spagna chiama in causa Frontex, Europol e l’Agenzia Ue per l’asilo per gestire migliaia di migranti ancora presenti nell’exclave Alessandra Corradi “Ridono di noi, siamo dei fessi”. Ceuta sull’orlo della rivolta sociale</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/DC3UJGNXXVFPHOK3H4FSCF3BYI.jpg?smart=true&amp;auth=1db1742a34821447c69e7e5c9699abb279111d572061ce4d5f56bfd9675395e0&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Bonaccini attacca gli elettori di destra, ma sui social è un boomerang: pochi follower e pioggia di critiche</title>
-<link>https://www.ilgiornale.it/news/esteri/bonaccini-attacca-gli-elettori-di-destra-ma-sui-social-e-un-boomerang-pochi-follower-e-pioggia-di-critiche/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/esteri/bonaccini-attacca-gli-elettori-di-destra-ma-sui-social-e-un-boomerang-pochi-follower-e-pioggia-di-critiche/</guid>
-<description>Bonaccini attacca gli elettori di destra, ma sui social è un boomerang: pochi follower e pioggia di critiche Lo scivolone: “Chi vota Meloni e Vannacci ha studiato poco” Domenico Giordano Da “cogl....” a ignoranti. Tutte le volte che la sinistra ha insultato chi vota a destra “È un’arma di distrazione”. Ma per difendere Bonaccini il Pd va in cortocircuito</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/4HPSWRXGIVCHZK5PUJFC6RPY5I.jpg?smart=true&amp;auth=ab2f48ad24ffb033851593efdf88ccd3f5a93b3e2022e514f55267d68b3728cb&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Alluvione in Nepal, il bilancio sale a 626 morti e 2.300 feriti. Nessuna notizia dei tre italiani dispersi</title>
-<link>https://www.ilgiornale.it/diretta/cronaca-internazionale/alluvione-in-nepal-il-bilancio-sale-a-616-morti-e-2300-feriti-nessuna-notizia-dei-tre-italiani-dispersi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/diretta/cronaca-internazionale/alluvione-in-nepal-il-bilancio-sale-a-616-morti-e-2300-feriti-nessuna-notizia-dei-tre-italiani-dispersi/</guid>
-<description>DIRETTA Alluvione in Nepal, il bilancio sale a 626 morti e 2.300 feriti. Nessuna notizia dei tre italiani dispersi Cosa rischiano le Alpi Il Paese devastato ha chiesto aiuto internazionale per il salvataggio di persone intrappolate in un tunnel e per la gestione delle salme Redazione web “GLOF”, sisma e temperature cosa è successo in Nepal Chi è Marco Ratto, il 50enne di Rapallo di cui non si hanno notizie</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GEPBAYOTS5CHXAHJVF5J6DGK2U.jpg?smart=true&amp;auth=a510c55d3c6e9beac8916c6a0d7c591a294e571b84094e5697e3cd932ba5b185&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Islam e politica Opens in new window</title>
-<link>https://www.ilgiornale.it/news/interni/inaccettabili-minacce-il-centrodestra-fa-quadrato-contro-lo-sciopero-etnico-dei-bengalesi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/inaccettabili-minacce-il-centrodestra-fa-quadrato-contro-lo-sciopero-etnico-dei-bengalesi/</guid>
-<description>In evidenza Sigfrido Ranucci Opens in new window Ceuta Opens in new window Bonaccini Opens in new window Alluvione in Nepal Opens in new window Islam e politica Opens in new window Aggiornato alle ore 08:20</description>
-</item>
-<item>
-<title>Fuel price is over the moon</title>
-<link>https://www.ilgiornale.it/video/editoria-e-media/fuel-price-is-over-the-moon/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/editoria-e-media/fuel-price-is-over-the-moon/</guid>
-<description>Editoria e Media Fuel price is over the moon</description>
-</item>
-<item>
-<title>Il caso Ranucci, il patto dei droni, applicati i rimpatri veloci</title>
-<link>https://www.ilgiornale.it/video/editoria-e-media/il-caso-ranucci-il-patto-dei-droni-applicati-i-rimpatri-veloci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/editoria-e-media/il-caso-ranucci-il-patto-dei-droni-applicati-i-rimpatri-veloci/</guid>
-<description>Editoria e Media Il caso Ranucci, il patto dei droni, applicati i rimpatri veloci</description>
-</item>
-<item>
-<title>Caso Ranucci, l’elogio all’Italia, la morte di Mladic</title>
-<link>https://www.ilgiornale.it/video/editoria-e-media/caso-ranucci-lelogio-allitalia-la-morte-di-mladic/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/editoria-e-media/caso-ranucci-lelogio-allitalia-la-morte-di-mladic/</guid>
-<description>Editoria e Media Caso Ranucci, l’elogio all’Italia, la morte di Mladic</description>
-</item>
-<item>
-<title>Ma che noia queste primarie: il campo largo non sa ancora chi corre contro la Meloni</title>
-<link>https://www.ilgiornale.it/video/interni/ma-che-noia-queste-primarie-il-campo-largo-non-sa-ancora-chi-corre-contro-la-meloni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/interni/ma-che-noia-queste-primarie-il-campo-largo-non-sa-ancora-chi-corre-contro-la-meloni/</guid>
-<description>Interni Ma che noia queste primarie: il campo largo non sa ancora chi corre contro la Meloni Gabriele Barberis</description>
+<title>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo</title>
+<link>https://www.ilgiornale.it/news/viaggi/folgore-el-alamein-viaggio-nella-storia-fausto-biloslavo-2644076.html</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/viaggi/folgore-el-alamein-viaggio-nella-storia-fausto-biloslavo-2644076.html</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description>Dal 16 al 19 ottobre 2026: tra memoria, deserto e il racconto del nostro inviato Fausto Biloslavo Redazione Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</description>
 </item>
 <item>
 <title>Cronaca internazionale</title>
 <link>https://www.ilgiornale.it/esteri/cronaca-internazionale</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/esteri/cronaca-internazionale</guid>
-<description>Cronaca internazionale L'acqua fangosa travolge gli insediamenti nei distretti himalayani | Il video</description>
-</item>
-<item>
-<title>Imboscata dei migranti ai militari, i cittadini distruggono le tende sulla spiaggia</title>
-<link>https://www.ilgiornale.it/video/cronaca-internazionale/imboscata-dei-migranti-ai-militari-i-cittadini-distruggono-le-tende-sulla-spiaggia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/cronaca-internazionale/imboscata-dei-migranti-ai-militari-i-cittadini-distruggono-le-tende-sulla-spiaggia/</guid>
-<description>Cronaca internazionale Imboscata dei migranti ai militari, i cittadini distruggono le tende sulla spiaggia Fausto Biloslavo</description>
-</item>
-<item>
-<title>Interventi contro il caro-carburanti, la minaccia a Venezia, la strage in Tibet</title>
-<link>https://www.ilgiornale.it/video/editoria-e-media/interventi-contro-il-caro-carburanti-la-minaccia-a-venezia-la-strage-in-tibet/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/editoria-e-media/interventi-contro-il-caro-carburanti-la-minaccia-a-venezia-la-strage-in-tibet/</guid>
-<description>Editoria e Media Interventi contro il caro-carburanti, la minaccia a Venezia, la strage in Tibet</description>
-</item>
-<item>
-<title>L'acqua fangosa travolge gli insediamenti nei distretti himalayani | Il video</title>
-<link>https://www.ilgiornale.it/video/cronaca-internazionale/lacqua-fangosa-travolge-gli-insediamenti-nei-distretti-himalayani-il-video/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/cronaca-internazionale/lacqua-fangosa-travolge-gli-insediamenti-nei-distretti-himalayani-il-video/</guid>
-<description>Cronaca internazionale L'acqua fangosa travolge gli insediamenti nei distretti himalayani | Il video</description>
-</item>
-<item>
-<title>Woke, migranti, Ranucci. La sinistra si riposiziona: troppo comodo</title>
-<link>https://www.ilgiornale.it/video/interni/woke-migranti-ranucci-la-sinistra-si-riposiziona-troppo-comodo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/interni/woke-migranti-ranucci-la-sinistra-si-riposiziona-troppo-comodo/</guid>
-<description>Interni Woke, migranti, Ranucci. La sinistra si riposiziona: troppo comodo</description>
-</item>
-<item>
-<title>Il generale rosso e quel programma che sembra scritto dall’Islam</title>
-<link>https://www.ilgiornale.it/video/interni/il-generale-rosso-e-quel-programma-che-sembra-scritto-dallislam/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/interni/il-generale-rosso-e-quel-programma-che-sembra-scritto-dallislam/</guid>
-<description>Interni Il generale rosso e quel programma che sembra scritto dall’Islam Tommaso Cerno</description>
-</item>
-<item>
-<title>Rimpiangeremo la sinistra woke. Lo rinnegano solo per ordine dell'islamismo</title>
-<link>https://www.ilgiornale.it/video/editoria-e-media/rimpiangeremo-la-sinistra-woke-lo-rinnegano-solo-per-ordine-dellislamismo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/editoria-e-media/rimpiangeremo-la-sinistra-woke-lo-rinnegano-solo-per-ordine-dellislamismo/</guid>
-<description>Editoria e Media Rimpiangeremo la sinistra woke. Lo rinnegano solo per ordine dell'islamismo Tommaso Cerno</description>
-</item>
-<item>
-<title>Banking war has never been this hot in Italy</title>
-<link>https://www.ilgiornale.it/video/economia/banking-war-has-never-been-this-hot-in-italy/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/economia/banking-war-has-never-been-this-hot-in-italy/</guid>
-<description>Economia Banking war has never been this hot in Italy Matilde Sperlinga</description>
-</item>
-<item>
-<title>La sinistra accogliente e femminista tace sul cane impuro: ancora silenzio sulla violenza islamica</title>
-<link>https://www.ilgiornale.it/video/politica/la-sinistra-accogliente-e-femminista-tace-sul-cane-impuro-ancora-silenzio-sulla-violenza-islamica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/politica/la-sinistra-accogliente-e-femminista-tace-sul-cane-impuro-ancora-silenzio-sulla-violenza-islamica/</guid>
-<description>Politica La sinistra accogliente e femminista tace sul cane impuro: ancora silenzio sulla violenza islamica Tommaso Cerno</description>
-</item>
-<item>
-<title>Il modello Meloni smaschera le bugie dell'Europa. Se vuole il Trattato di Dublino chiuda i confini</title>
-<link>https://www.ilgiornale.it/video/interni/il-modello-meloni-smaschera-le-bugie-delleuropa-se-vuole-il-trattato-di-dublino-chiuda-i-confini/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/video/interni/il-modello-meloni-smaschera-le-bugie-delleuropa-se-vuole-il-trattato-di-dublino-chiuda-i-confini/</guid>
-<description>Interni Il modello Meloni smaschera le bugie dell'Europa. Se vuole il Trattato di Dublino chiuda i confini Tommaso Cerno</description>
-</item>
-<item>
-<title>Report, implode la chat del programma tra accuse incrociate e veleni</title>
-<link>https://www.ilgiornale.it/news/nazionale/report-implode-la-chat-del-programma-tra-accuse-incrociate-e-veleni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/report-implode-la-chat-del-programma-tra-accuse-incrociate-e-veleni/</guid>
-<description>Report, implode la chat del programma tra accuse incrociate e veleni Ranucci fa la vittima: “Mi vogliono mandare al Cairo per fare la fine di Regeni”. E attacca i successori: “Mortificano le professionalità di Report” La prossima settimana dovrebbe essere convocata la conferenza stampa della redazione di Report tra sospetti e soffiate Alessandra Corradi Ranucci fuori da Report, ecco le tre proposte della Rai La Rai ha deciso: “Presutti e Piervincenzi alla conduzione&quot;</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2X6VCPSXHVGRXIFIRAVOJPGHXM.jpg?smart=true&amp;auth=e2967e695e569fafb62a67955d368f9a72a11f07ee92a8e7d4796fb8c2b80369&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Ranucci fuori da Report, ecco le tre proposte della Rai</title>
-<link>https://www.ilgiornale.it/news/nazionale/ranucci-fuori-da-report-ecco-le-tre-proposte-della-rai/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/ranucci-fuori-da-report-ecco-le-tre-proposte-della-rai/</guid>
-<description>Report, implode la chat del programma tra accuse incrociate e veleni Ranucci fa la vittima: “Mi vogliono mandare al Cairo per fare la fine di Regeni”. E attacca i successori: “Mortificano le professionalità di Report” La prossima settimana dovrebbe essere convocata la conferenza stampa della redazione di Report tra sospetti e soffiate Alessandra Corradi Ranucci fuori da Report, ecco le tre proposte della Rai La Rai ha deciso: “Presutti e Piervincenzi alla conduzione&quot;</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2X6VCPSXHVGRXIFIRAVOJPGHXM.jpg?smart=true&amp;auth=e2967e695e569fafb62a67955d368f9a72a11f07ee92a8e7d4796fb8c2b80369&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>La Rai ha deciso: “Presutti e Piervincenzi alla conduzione&quot;</title>
-<link>https://www.ilgiornale.it/news/interni/la-rai-ha-deciso-presutti-e-piervincenzi-alla-conduzione-di-report-per-ranucci-tre-proposte-di-ricollocazionie/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-rai-ha-deciso-presutti-e-piervincenzi-alla-conduzione-di-report-per-ranucci-tre-proposte-di-ricollocazionie/</guid>
-<description>Report, implode la chat del programma tra accuse incrociate e veleni Ranucci fa la vittima: “Mi vogliono mandare al Cairo per fare la fine di Regeni”. E attacca i successori: “Mortificano le professionalità di Report” La prossima settimana dovrebbe essere convocata la conferenza stampa della redazione di Report tra sospetti e soffiate Alessandra Corradi Ranucci fuori da Report, ecco le tre proposte della Rai La Rai ha deciso: “Presutti e Piervincenzi alla conduzione&quot;</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2X6VCPSXHVGRXIFIRAVOJPGHXM.jpg?smart=true&amp;auth=e2967e695e569fafb62a67955d368f9a72a11f07ee92a8e7d4796fb8c2b80369&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>&quot;È l'editto Meloni&quot;: le opposizioni sono già all'attacco</title>
-<link>https://www.ilgiornale.it/news/interni/e-leditto-meloni-operazione-brutale-autoritaria-e-fascista-opposizioni-allattacco-dopo-luscita-di-ranucci-da-report/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/e-leditto-meloni-operazione-brutale-autoritaria-e-fascista-opposizioni-allattacco-dopo-luscita-di-ranucci-da-report/</guid>
-<description>&quot;È l'editto Meloni&quot;: le opposizioni sono già all'attacco Francesca Galici</description>
-</item>
-<item>
-<title>Chi è la giornalista scelta per il dopo Ranucci</title>
-<link>https://www.ilgiornale.it/news/cronache/giulia-presutti-alla-guida-di-report-chi-e-la-giornalista-scelta-per-il-dopo-ranucci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/giulia-presutti-alla-guida-di-report-chi-e-la-giornalista-scelta-per-il-dopo-ranucci/</guid>
-<description>Chi è la giornalista scelta per il dopo Ranucci Giulia Bernardini</description>
-</item>
-<item>
-<title>Dalla “testata” da Roberto Spada alle inchieste in Rai, chi è il nuovo volto di Report</title>
-<link>https://www.ilgiornale.it/news/tv/dalla-testata-da-roberto-spada-alle-inchieste-in-rai-chi-e-daniele-piervincenzi-nuovo-volto-di-report/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/tv/dalla-testata-da-roberto-spada-alle-inchieste-in-rai-chi-e-daniele-piervincenzi-nuovo-volto-di-report/</guid>
-<description>Dalla “testata” da Roberto Spada alle inchieste in Rai, chi è il nuovo volto di Report Massimo Balsamo</description>
-</item>
-<item>
-<title>Il safari per super ricchi di Lavitola pochi giorni dopo l’attentato a Ranucci</title>
-<link>https://www.ilgiornale.it/news/magistratura/il-safari-per-super-ricchi-del-faccendiere-pochi-giorni-dopo-lattentato-a-ranucci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/il-safari-per-super-ricchi-del-faccendiere-pochi-giorni-dopo-lattentato-a-ranucci/</guid>
-<description>Il safari per super ricchi di Lavitola pochi giorni dopo l’attentato a Ranucci “È stato Tavares a darci l’ordine della bomba”. E lui: forza Valter Un filone delle indagini è dedicato ai movimenti finanziari del presunto mandante. Sotto osservazione pure gli investimenti in Tanzania e Zimbabwe per gestire riserve di caccia: uno dei settori più difficili dove investire per via delle licenze e degli alti costi iniziali Pasquale Napolitano , Giulia Sorrentino Anche De Luca scarica Ranucci: “Il giorn</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/WCJIHVM6TFAT7KQL2HKLULVXOU.jpg?focal=1661%2C184&amp;auth=850e9e62309c56424f0ae231193411deee629be07d504c0bd37236888fb390b3&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“È stato Tavares a darci l’ordine della bomba”. E lui: forza Valter</title>
-<link>https://www.ilgiornale.it/news/magistratura/e-stato-tavares-a-darci-lordine-della-bomba-e-lui-forza-valter/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/e-stato-tavares-a-darci-lordine-della-bomba-e-lui-forza-valter/</guid>
-<description>Il safari per super ricchi di Lavitola pochi giorni dopo l’attentato a Ranucci “È stato Tavares a darci l’ordine della bomba”. E lui: forza Valter Un filone delle indagini è dedicato ai movimenti finanziari del presunto mandante. Sotto osservazione pure gli investimenti in Tanzania e Zimbabwe per gestire riserve di caccia: uno dei settori più difficili dove investire per via delle licenze e degli alti costi iniziali Pasquale Napolitano , Giulia Sorrentino Anche De Luca scarica Ranucci: “Il giorn</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/WCJIHVM6TFAT7KQL2HKLULVXOU.jpg?focal=1661%2C184&amp;auth=850e9e62309c56424f0ae231193411deee629be07d504c0bd37236888fb390b3&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Anche De Luca scarica Ranucci: “Il giornalismo d’inchiesta? Malato di narcisismo”</title>
-<link>https://www.ilgiornale.it/news/nazionale/anche-de-luca-scarica-ranucci-il-giornalismo-dinchiesta-malato-di-narcisismo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/anche-de-luca-scarica-ranucci-il-giornalismo-dinchiesta-malato-di-narcisismo/</guid>
-<description>Il safari per super ricchi di Lavitola pochi giorni dopo l’attentato a Ranucci “È stato Tavares a darci l’ordine della bomba”. E lui: forza Valter Un filone delle indagini è dedicato ai movimenti finanziari del presunto mandante. Sotto osservazione pure gli investimenti in Tanzania e Zimbabwe per gestire riserve di caccia: uno dei settori più difficili dove investire per via delle licenze e degli alti costi iniziali Pasquale Napolitano , Giulia Sorrentino Anche De Luca scarica Ranucci: “Il giorn</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/WCJIHVM6TFAT7KQL2HKLULVXOU.jpg?focal=1661%2C184&amp;auth=850e9e62309c56424f0ae231193411deee629be07d504c0bd37236888fb390b3&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Lo scivolone: “Chi vota Meloni e Vannacci ha studiato poco”</title>
-<link>https://www.ilgiornale.it/news/interni/lo-scivolone-di-bonaccini-che-punta-agli-operai-chi-vota-meloni-e-vannacci-ha-studiato-poco/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lo-scivolone-di-bonaccini-che-punta-agli-operai-chi-vota-meloni-e-vannacci-ha-studiato-poco/</guid>
-<description>Bonaccini attacca gli elettori di destra, ma sui social è un boomerang: pochi follower e pioggia di critiche Lo scivolone: “Chi vota Meloni e Vannacci ha studiato poco” Domenico Giordano Da “cogl....” a ignoranti. Tutte le volte che la sinistra ha insultato chi vota a destra “È un’arma di distrazione”. Ma per difendere Bonaccini il Pd va in cortocircuito</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/4HPSWRXGIVCHZK5PUJFC6RPY5I.jpg?smart=true&amp;auth=ab2f48ad24ffb033851593efdf88ccd3f5a93b3e2022e514f55267d68b3728cb&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Da “cogl....” a ignoranti. Tutte le volte che la sinistra ha insultato chi vota a destra</title>
-<link>https://www.ilgiornale.it/news/parlamento/da-cogl-a-ignoranti-tutte-le-volte-che-la-sinistra-ha-insultato-chi-vota-a-destra/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/da-cogl-a-ignoranti-tutte-le-volte-che-la-sinistra-ha-insultato-chi-vota-a-destra/</guid>
-<description>Bonaccini attacca gli elettori di destra, ma sui social è un boomerang: pochi follower e pioggia di critiche Lo scivolone: “Chi vota Meloni e Vannacci ha studiato poco” Domenico Giordano Da “cogl....” a ignoranti. Tutte le volte che la sinistra ha insultato chi vota a destra “È un’arma di distrazione”. Ma per difendere Bonaccini il Pd va in cortocircuito</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/4HPSWRXGIVCHZK5PUJFC6RPY5I.jpg?smart=true&amp;auth=ab2f48ad24ffb033851593efdf88ccd3f5a93b3e2022e514f55267d68b3728cb&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“È un’arma di distrazione”. Ma per difendere Bonaccini il Pd va in cortocircuito</title>
-<link>https://www.ilgiornale.it/news/politica/e-unarma-di-distrazione-ma-per-difendere-bonaccini-il-pd-va-in-cortocircuito/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/e-unarma-di-distrazione-ma-per-difendere-bonaccini-il-pd-va-in-cortocircuito/</guid>
-<description>Bonaccini attacca gli elettori di destra, ma sui social è un boomerang: pochi follower e pioggia di critiche Lo scivolone: “Chi vota Meloni e Vannacci ha studiato poco” Domenico Giordano Da “cogl....” a ignoranti. Tutte le volte che la sinistra ha insultato chi vota a destra “È un’arma di distrazione”. Ma per difendere Bonaccini il Pd va in cortocircuito</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/4HPSWRXGIVCHZK5PUJFC6RPY5I.jpg?smart=true&amp;auth=ab2f48ad24ffb033851593efdf88ccd3f5a93b3e2022e514f55267d68b3728cb&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Sánchez salva la faccia: niente vacanze nel resort a 5 stelle</title>
-<link>https://www.ilgiornale.it/news/politica-estera/sanchez-salva-la-faccia-niente-vacanze-nel-resort-a-5-stelle/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/sanchez-salva-la-faccia-niente-vacanze-nel-resort-a-5-stelle/</guid>
-<description>“Era tutto sotto controllo”. Ma ora Madrid chiede aiuto all’Ue per la crisi di Ceuta Sánchez salva la faccia: niente vacanze nel resort a 5 stelle Dopo settimane di rassicurazioni, la Spagna chiama in causa Frontex, Europol e l’Agenzia Ue per l’asilo per gestire migliaia di migranti ancora presenti nell’exclave Alessandra Corradi “Ridono di noi, siamo dei fessi”. Ceuta sull’orlo della rivolta sociale</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/DC3UJGNXXVFPHOK3H4FSCF3BYI.jpg?smart=true&amp;auth=1db1742a34821447c69e7e5c9699abb279111d572061ce4d5f56bfd9675395e0&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“Ridono di noi, siamo dei fessi”. Ceuta sull’orlo della rivolta sociale</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/ridono-di-noi-siamo-dei-fessi-ceuta-sullorlo-della-rivolta-sociale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/ridono-di-noi-siamo-dei-fessi-ceuta-sullorlo-della-rivolta-sociale/</guid>
-<description>“Era tutto sotto controllo”. Ma ora Madrid chiede aiuto all’Ue per la crisi di Ceuta Sánchez salva la faccia: niente vacanze nel resort a 5 stelle Dopo settimane di rassicurazioni, la Spagna chiama in causa Frontex, Europol e l’Agenzia Ue per l’asilo per gestire migliaia di migranti ancora presenti nell’exclave Alessandra Corradi “Ridono di noi, siamo dei fessi”. Ceuta sull’orlo della rivolta sociale</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/DC3UJGNXXVFPHOK3H4FSCF3BYI.jpg?smart=true&amp;auth=1db1742a34821447c69e7e5c9699abb279111d572061ce4d5f56bfd9675395e0&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“Libertà delle donne non può essere condizione per la libertà religiosa”. Il delirio della candidata bengalese</title>
-<link>https://www.ilgiornale.it/news/interni/liberta-delle-donne-non-puo-essere-condizione-per-la-liberta-religiosa-il-delirio-della-candidata-bengalese-a-venezia-per-il-no-alla-moschea/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/liberta-delle-donne-non-puo-essere-condizione-per-la-liberta-religiosa-il-delirio-della-candidata-bengalese-a-venezia-per-il-no-alla-moschea/</guid>
-<description>“Libertà delle donne non può essere condizione per la libertà religiosa”. Il delirio della candidata bengalese Non solo Venezia, quei 150 covi con 500 fanatici pronti ad agire Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LAEQK35UMRJ7TGZAJOBFFF3ONM.png?focal=695%2C263&amp;auth=c839c19b3556a752988f15b7317e1ecaad8b1c86b91fe23de13c1cc4aad765db&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Non solo Venezia, quei 150 covi con 500 fanatici pronti ad agire</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/non-solo-venezia-quei-150-covi-con-500-fanatici-pronti-ad-agire/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/non-solo-venezia-quei-150-covi-con-500-fanatici-pronti-ad-agire/</guid>
-<description>“Libertà delle donne non può essere condizione per la libertà religiosa”. Il delirio della candidata bengalese Non solo Venezia, quei 150 covi con 500 fanatici pronti ad agire Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LAEQK35UMRJ7TGZAJOBFFF3ONM.png?focal=695%2C263&amp;auth=c839c19b3556a752988f15b7317e1ecaad8b1c86b91fe23de13c1cc4aad765db&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Troppo svestite, è sessismo”. E le storiche marionette dell’Oktoberfest vengono ridipinte in nome del woke</title>
-<link>https://www.ilgiornale.it/news/cultura-e-societa/troppo-svestite-e-sessismo-e-le-storiche-marionette-delloktoberfest-vengono-ridipinte-in-nome-del-woke/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cultura-e-societa/troppo-svestite-e-sessismo-e-le-storiche-marionette-delloktoberfest-vengono-ridipinte-in-nome-del-woke/</guid>
-<description>“Troppo svestite, è sessismo”. E le storiche marionette dell’Oktoberfest vengono ridipinte in nome del woke Il Comune di Monaco di Baviera ha fatto “vestire” le figure di 4 donne in cartapesta che da 80 anni accolgono i visitatori dell’Oktoberfest: “Per il Comune erano troppo svelate” Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ESIQKSJQHJGFJMJUIMBNWY2MPY.jpg?focal=1472%2C745&amp;auth=c417269897e420e7908bb61d2bf28d8b04ac2c93c33a8a6c86a994606e9269e4&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Putin può usare gli “omini verdi” per attaccare la Nato: chi sono e cosa possono fare</title>
-<link>https://www.ilgiornale.it/news/guerra/putin-puo-usare-gli-omini-verdi-per-attaccare-la-nato-chi-sono-e-cosa-possono-fare/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/putin-puo-usare-gli-omini-verdi-per-attaccare-la-nato-chi-sono-e-cosa-possono-fare/</guid>
-<description>Putin può usare gli “omini verdi” per attaccare la Nato: chi sono e cosa possono fare Il “patto dei droni” tra Italia e Ucraina: Fedorov consulente della Difesa per rivoluziare le forze armate Mosca potrebbe rispolverare il modello usato in Crimea: propaganda, operazioni coperte e “negazione plausibile” per mettere alla prova la tenuta dell’Alleanza Paolo Mauri Donald-Vladimir e lo “scambio” su Ucraina e Iran Cautela a Bruxelles. “Rischio lontano”. La corsa alla Difesa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HPNMPR5VE5GE7GPXKYCBYV3FAY.jpg?smart=true&amp;auth=16aacbaae37b1c4a066f7cd42e45c1739faafde1caf3254675c3031bbc404a6b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Il “patto dei droni” tra Italia e Ucraina: Fedorov consulente della Difesa per rivoluziare le forze armate</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-tra-italia-e-ucraina-fedorov-consulente-della-difesa-per-rivoluziare-le-forze-armate/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-tra-italia-e-ucraina-fedorov-consulente-della-difesa-per-rivoluziare-le-forze-armate/</guid>
-<description>Putin può usare gli “omini verdi” per attaccare la Nato: chi sono e cosa possono fare Il “patto dei droni” tra Italia e Ucraina: Fedorov consulente della Difesa per rivoluziare le forze armate Mosca potrebbe rispolverare il modello usato in Crimea: propaganda, operazioni coperte e “negazione plausibile” per mettere alla prova la tenuta dell’Alleanza Paolo Mauri Donald-Vladimir e lo “scambio” su Ucraina e Iran Cautela a Bruxelles. “Rischio lontano”. La corsa alla Difesa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HPNMPR5VE5GE7GPXKYCBYV3FAY.jpg?smart=true&amp;auth=16aacbaae37b1c4a066f7cd42e45c1739faafde1caf3254675c3031bbc404a6b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Donald-Vladimir e lo “scambio” su Ucraina e Iran</title>
-<link>https://www.ilgiornale.it/news/guerra/donald-vladimir-e-lo-scambio-su-ucraina-e-iran/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/donald-vladimir-e-lo-scambio-su-ucraina-e-iran/</guid>
-<description>Putin può usare gli “omini verdi” per attaccare la Nato: chi sono e cosa possono fare Il “patto dei droni” tra Italia e Ucraina: Fedorov consulente della Difesa per rivoluziare le forze armate Mosca potrebbe rispolverare il modello usato in Crimea: propaganda, operazioni coperte e “negazione plausibile” per mettere alla prova la tenuta dell’Alleanza Paolo Mauri Donald-Vladimir e lo “scambio” su Ucraina e Iran Cautela a Bruxelles. “Rischio lontano”. La corsa alla Difesa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HPNMPR5VE5GE7GPXKYCBYV3FAY.jpg?smart=true&amp;auth=16aacbaae37b1c4a066f7cd42e45c1739faafde1caf3254675c3031bbc404a6b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Cautela a Bruxelles. “Rischio lontano”. La corsa alla Difesa</title>
-<link>https://www.ilgiornale.it/news/difesa/cautela-a-bruxelles-rischio-lontano-la-corsa-alla-difesa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/cautela-a-bruxelles-rischio-lontano-la-corsa-alla-difesa/</guid>
-<description>Putin può usare gli “omini verdi” per attaccare la Nato: chi sono e cosa possono fare Il “patto dei droni” tra Italia e Ucraina: Fedorov consulente della Difesa per rivoluziare le forze armate Mosca potrebbe rispolverare il modello usato in Crimea: propaganda, operazioni coperte e “negazione plausibile” per mettere alla prova la tenuta dell’Alleanza Paolo Mauri Donald-Vladimir e lo “scambio” su Ucraina e Iran Cautela a Bruxelles. “Rischio lontano”. La corsa alla Difesa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HPNMPR5VE5GE7GPXKYCBYV3FAY.jpg?smart=true&amp;auth=16aacbaae37b1c4a066f7cd42e45c1739faafde1caf3254675c3031bbc404a6b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Migranti, rimpatriati 23 egiziani irregolari. Espulso anche l’algerino che molestò una 13enne a Cagliari</title>
-<link>https://www.ilgiornale.it/news/nazionale/migranti-rimpatriati-23-egiziani-irregolari-espulso-anche-lalgerino-che-molesto-una-13enne-a-cagliari/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/migranti-rimpatriati-23-egiziani-irregolari-espulso-anche-lalgerino-che-molesto-una-13enne-a-cagliari/</guid>
-<description>Migranti, rimpatriati 23 egiziani irregolari. Espulso anche l’algerino che molestò una 13enne a Cagliari E la Ong di Casarini raddoppia e porta in mare altri due velieri Il volo verso Il Cairo è stata resa possibile dalla collaborazione con Frontex: sono 381 i clandestini riportati in Egitto nel 2026 Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HGQLMPMIGBCHLFESBRRMYGW4WY.png?smart=true&amp;auth=805146a66e78f423b5145cf1c9a82e6e0070abb0f93b38829a41cda69736e297&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>E la Ong di Casarini raddoppia e porta in mare altri due velieri</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/migranti-la-ong-mediterranea-raddoppia-e-porta-in-mare-altri-due-velieri-ora-ha-cinque-barche-per-sfidare-il-governo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/migranti-la-ong-mediterranea-raddoppia-e-porta-in-mare-altri-due-velieri-ora-ha-cinque-barche-per-sfidare-il-governo/</guid>
-<description>Migranti, rimpatriati 23 egiziani irregolari. Espulso anche l’algerino che molestò una 13enne a Cagliari E la Ong di Casarini raddoppia e porta in mare altri due velieri Il volo verso Il Cairo è stata resa possibile dalla collaborazione con Frontex: sono 381 i clandestini riportati in Egitto nel 2026 Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HGQLMPMIGBCHLFESBRRMYGW4WY.png?smart=true&amp;auth=805146a66e78f423b5145cf1c9a82e6e0070abb0f93b38829a41cda69736e297&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Cosa rischiano le Alpi</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/la-roccia-ha-ceduto-prima-del-ghiacciaio-il-disastro-in-nepal-e-cosa-rischiano-le-alpi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/la-roccia-ha-ceduto-prima-del-ghiacciaio-il-disastro-in-nepal-e-cosa-rischiano-le-alpi/</guid>
-<description>DIRETTA Alluvione in Nepal, il bilancio sale a 626 morti e 2.300 feriti. Nessuna notizia dei tre italiani dispersi Cosa rischiano le Alpi Il Paese devastato ha chiesto aiuto internazionale per il salvataggio di persone intrappolate in un tunnel e per la gestione delle salme Redazione web “GLOF”, sisma e temperature cosa è successo in Nepal Chi è Marco Ratto, il 50enne di Rapallo di cui non si hanno notizie</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GEPBAYOTS5CHXAHJVF5J6DGK2U.jpg?smart=true&amp;auth=a510c55d3c6e9beac8916c6a0d7c591a294e571b84094e5697e3cd932ba5b185&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“GLOF”, sisma e temperature cosa è successo in Nepal</title>
-<link>https://www.ilgiornale.it/news/meteo-e-clima/glof-sisma-e-temperature-cosa-e-successo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/meteo-e-clima/glof-sisma-e-temperature-cosa-e-successo/</guid>
-<description>DIRETTA Alluvione in Nepal, il bilancio sale a 626 morti e 2.300 feriti. Nessuna notizia dei tre italiani dispersi Cosa rischiano le Alpi Il Paese devastato ha chiesto aiuto internazionale per il salvataggio di persone intrappolate in un tunnel e per la gestione delle salme Redazione web “GLOF”, sisma e temperature cosa è successo in Nepal Chi è Marco Ratto, il 50enne di Rapallo di cui non si hanno notizie</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GEPBAYOTS5CHXAHJVF5J6DGK2U.jpg?smart=true&amp;auth=a510c55d3c6e9beac8916c6a0d7c591a294e571b84094e5697e3cd932ba5b185&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Chi è Marco Ratto, il 50enne di Rapallo di cui non si hanno notizie</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/marco-ratto-scomparso-in-nepal-chi-e-il-50enne-di-rapallo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/marco-ratto-scomparso-in-nepal-chi-e-il-50enne-di-rapallo/</guid>
-<description>DIRETTA Alluvione in Nepal, il bilancio sale a 626 morti e 2.300 feriti. Nessuna notizia dei tre italiani dispersi Cosa rischiano le Alpi Il Paese devastato ha chiesto aiuto internazionale per il salvataggio di persone intrappolate in un tunnel e per la gestione delle salme Redazione web “GLOF”, sisma e temperature cosa è successo in Nepal Chi è Marco Ratto, il 50enne di Rapallo di cui non si hanno notizie</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GEPBAYOTS5CHXAHJVF5J6DGK2U.jpg?smart=true&amp;auth=a510c55d3c6e9beac8916c6a0d7c591a294e571b84094e5697e3cd932ba5b185&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>I democratici hanno “nostalgia” del primo Trump: cosa c’è dietro al sondaggio che sorprende l’America</title>
-<link>https://www.ilgiornale.it/news/politica-estera/i-democratici-hanno-nostalgia-del-primo-trump-cosa-ce-dietro-al-sondaggio-che-sorprende-lamerica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/i-democratici-hanno-nostalgia-del-primo-trump-cosa-ce-dietro-al-sondaggio-che-sorprende-lamerica/</guid>
-<description>I democratici hanno “nostalgia” del primo Trump: cosa c’è dietro al sondaggio che sorprende l’America A sei anni di distanza, gli elettori dem giudicano più solida la democrazia del primo mandato e mostrano ancora fiducia nella tenuta del sistema elettorale. Alberto Bellotto</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/C3RJPJSI6NKNBDOAUM4AEQCA54.jpg?smart=true&amp;auth=913804a613717f6edfee2b4aeccc6fc51d703c7a5db73ee14a701406b42b28b8&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Attentati dell’11 settembre, terremoto al processo: inutilizzabili le confessioni della mente degli attentati</title>
-<link>https://www.ilgiornale.it/news/terrorismo/attentati-dell11-settembre-terremoto-al-processo-inutilizzabili-le-confessioni-della-mente-degli-attentati/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/terrorismo/attentati-dell11-settembre-terremoto-al-processo-inutilizzabili-le-confessioni-della-mente-degli-attentati/</guid>
-<description>Attentati dell’11 settembre, terremoto al processo: inutilizzabili le confessioni della mente degli attentati “Non chiamatelo attacco terroristico”. Memo choc della tv sull’11 settembre Il giudice esclude le dichiarazioni rese da Khalid Shaikh Mohammed all’Fbi perché viziate dalle torture subite durante la detenzione Alberto Bellotto</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3BWIUVNCXBCDVLK3KAKWVBS4W4.png?smart=true&amp;auth=fbdd808ccf6561403f522f38a1ad15caff689b3dbf181f79c903e28dbc6d032d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Non chiamatelo attacco terroristico”. Memo choc della tv sull’11 settembre</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/non-chiamatelo-attacco-terroristico-memo-choc-della-tv-sull11-settembre/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/non-chiamatelo-attacco-terroristico-memo-choc-della-tv-sull11-settembre/</guid>
-<description>Attentati dell’11 settembre, terremoto al processo: inutilizzabili le confessioni della mente degli attentati “Non chiamatelo attacco terroristico”. Memo choc della tv sull’11 settembre Il giudice esclude le dichiarazioni rese da Khalid Shaikh Mohammed all’Fbi perché viziate dalle torture subite durante la detenzione Alberto Bellotto</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3BWIUVNCXBCDVLK3KAKWVBS4W4.png?smart=true&amp;auth=fbdd808ccf6561403f522f38a1ad15caff689b3dbf181f79c903e28dbc6d032d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Patriot, scorte al limite: così la guerra all’Iran indebolisce lo scudo della Nato contro la Russia</title>
-<link>https://www.ilgiornale.it/news/guerra/patriot-scorte-al-limite-cosi-la-guerra-alliran-indebolisce-lo-scudo-della-nato-contro-la-russia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/patriot-scorte-al-limite-cosi-la-guerra-alliran-indebolisce-lo-scudo-della-nato-contro-la-russia/</guid>
-<description>Patriot, scorte al limite: così la guerra all’Iran indebolisce lo scudo della Nato contro la Russia Davide Bartoccini</description>
-</item>
-<item>
-<title>Ecco come gli Usa vogliono ridurre le truppe americane in Europa</title>
-<link>https://www.ilgiornale.it/news/difesa/ecco-come-gli-usa-vogliono-ridurre-le-truppe-americane-in-europa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/ecco-come-gli-usa-vogliono-ridurre-le-truppe-americane-in-europa/</guid>
-<description>Ecco come gli Usa vogliono ridurre le truppe americane in Europa Marco Pizzorno</description>
-</item>
-<item>
-<title>Xi svuota i vertici dell’esercito cinese: restano solo in due, cosa c’è dietro la maxi purga</title>
-<link>https://www.ilgiornale.it/news/politica-estera/xi-svuota-i-vertici-dellesercito-cinese-restano-solo-in-due-cosa-ce-dietro-la-maxi-purga/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/xi-svuota-i-vertici-dellesercito-cinese-restano-solo-in-due-cosa-ce-dietro-la-maxi-purga/</guid>
-<description>Xi svuota i vertici dell’esercito cinese: restano solo in due, cosa c’è dietro la maxi purga Federico Giuliani</description>
-</item>
-<item>
-<title>“Italia modello del G7″. Adesso è la Francia “l’anello debole” per gli investitori</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/italia-modello-del-g7-adesso-e-la-francia-lanello-debole-per-gli-investitori/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/italia-modello-del-g7-adesso-e-la-francia-lanello-debole-per-gli-investitori/</guid>
-<description>“Italia modello del G7″. Adesso è la Francia “l’anello debole” per gli investitori Meloni: “Ora il Paese è più forte e coeso”. Sconti sul carburante, arriva la fase due Marcello Astorri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/XUXLNSHATFPUVH4ASYBSK67VOY.jpg?focal=1779%2C604&amp;auth=6259cec80e4f11df841b8fbd01e398ccbd55fa932aa19fdd9f83d4582d7b8b2a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Meloni: “Ora il Paese è più forte e coeso”. Sconti sul carburante, arriva la fase due</title>
-<link>https://www.ilgiornale.it/news/governo/meloni-ora-il-paese-e-piu-forte-e-coeso-sconti-sul-carburante-arriva-la-fase-due/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-ora-il-paese-e-piu-forte-e-coeso-sconti-sul-carburante-arriva-la-fase-due/</guid>
-<description>“Italia modello del G7″. Adesso è la Francia “l’anello debole” per gli investitori Meloni: “Ora il Paese è più forte e coeso”. Sconti sul carburante, arriva la fase due Marcello Astorri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/XUXLNSHATFPUVH4ASYBSK67VOY.jpg?focal=1779%2C604&amp;auth=6259cec80e4f11df841b8fbd01e398ccbd55fa932aa19fdd9f83d4582d7b8b2a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Le mie aziende pagano le tasse in Italia, cosa c’entra la residenza a Montecarlo?”, la lezione di Briatore a Bonelli</title>
-<link>https://www.ilgiornale.it/news/personaggi/le-mie-aziende-pagano-le-tasse-in-italia-cosa-centra-la-residenza-a-montecarlo-la-lezione-di-briatore-a-bonelli/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/le-mie-aziende-pagano-le-tasse-in-italia-cosa-centra-la-residenza-a-montecarlo-la-lezione-di-briatore-a-bonelli/</guid>
-<description>“Le mie aziende pagano le tasse in Italia, cosa c’entra la residenza a Montecarlo?”, la lezione di Briatore a Bonelli L’imprenditore difende il suo operato e punta il dito contro gli enormi costi della politica: “Questo qui lo paghiamo noi” Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/Z4LAVPB42FLN7NEVWVYK6S2ENI.jpg?focal=398%2C278&amp;auth=6d54c900ed82a09985f23b14b0fd9c2fbda59e2b52fedee1d8c29d6ca983d64d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Mladic sarà sepolto in Serbia con gli onori militari e di Stato. È polemica</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/ratko-mladic-il-generale-sara-sepolto-in-serbia-con-gli-onori-militari-e-di-stato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/ratko-mladic-il-generale-sara-sepolto-in-serbia-con-gli-onori-militari-e-di-stato/</guid>
-<description>Mladic sarà sepolto in Serbia con gli onori militari e di Stato. È polemica Il diavolo di Srebrenica. “Ho protetto l’Europa dall’islam” Belgrado annuncia gli onori militari e statali per l’ex comandante serbo-bosniaco morto all’Aja Francesca Salvatore La vergogna di Ana e il suicidio con l’arma del padre</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7OORUZDWPVBEBAWNKX4YAWRYNI.jpg?smart=true&amp;auth=ba230cfc6bd33b8846c0a05dd24f9d417988ad2f9c594b4fd2723afdefb329b1&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il diavolo di Srebrenica. “Ho protetto l’Europa dall’islam”</title>
-<link>https://www.ilgiornale.it/news/politica-estera/mladic-il-diavolo-di-srebrenica-ho-protetto-leuropa-dallislam/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/mladic-il-diavolo-di-srebrenica-ho-protetto-leuropa-dallislam/</guid>
-<description>Mladic sarà sepolto in Serbia con gli onori militari e di Stato. È polemica Il diavolo di Srebrenica. “Ho protetto l’Europa dall’islam” Belgrado annuncia gli onori militari e statali per l’ex comandante serbo-bosniaco morto all’Aja Francesca Salvatore La vergogna di Ana e il suicidio con l’arma del padre</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7OORUZDWPVBEBAWNKX4YAWRYNI.jpg?smart=true&amp;auth=ba230cfc6bd33b8846c0a05dd24f9d417988ad2f9c594b4fd2723afdefb329b1&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>La vergogna di Ana e il suicidio con l’arma del padre</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/la-vergogna-di-ana-e-il-suicidio-con-larma-del-padre/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/la-vergogna-di-ana-e-il-suicidio-con-larma-del-padre/</guid>
-<description>Mladic sarà sepolto in Serbia con gli onori militari e di Stato. È polemica Il diavolo di Srebrenica. “Ho protetto l’Europa dall’islam” Belgrado annuncia gli onori militari e statali per l’ex comandante serbo-bosniaco morto all’Aja Francesca Salvatore La vergogna di Ana e il suicidio con l’arma del padre</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7OORUZDWPVBEBAWNKX4YAWRYNI.jpg?smart=true&amp;auth=ba230cfc6bd33b8846c0a05dd24f9d417988ad2f9c594b4fd2723afdefb329b1&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Tragedia a Palermo, bimba di due anni muore annegata in piscina</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/tragedia-a-palermo-bimba-di-due-anni-muore-annegata-in-piscina/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/tragedia-a-palermo-bimba-di-due-anni-muore-annegata-in-piscina/</guid>
-<description>Tragedia a Palermo, bimba di due anni muore annegata in piscina La piccola era in casa con i genitori e un’altra famiglia, quando si sono accorti che era in acqua e non si muoveva più. La Procura dispone ora l’autopsia Giulia Bernardini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/N4HNV2CUYBJIVEL2TJARLQP46I.jpg?focal=1391%2C927&amp;auth=d5baeac28de62858e8306a8ac707982f1c76fc42912558587e468c52790f7872&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Parma, donna trovata morta in casa. S’indaga per omicidio</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/parma-donna-trovata-morta-in-casa-sindaga-per-omicidio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/parma-donna-trovata-morta-in-casa-sindaga-per-omicidio/</guid>
-<description>Parma, donna trovata morta in casa. S’indaga per omicidio Rosa Scognamiglio</description>
-</item>
-<item>
-<title>Arrestato un italiano con accusa di femminicidio a Huelva, in Andalusia</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/arrestato-un-italiano-con-accusa-di-femminicidio-a-huelva-in-andalusia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/arrestato-un-italiano-con-accusa-di-femminicidio-a-huelva-in-andalusia/</guid>
-<description>Arrestato un italiano con accusa di femminicidio a Huelva, in Andalusia Redazione web</description>
-</item>
-<item>
-<title>Morto re Harald V di Norvegia. Il monarca più anziano d’Europa aveva 89 anni. Meloni: “Ha rafforzato il legame tra i nostri Paesi”</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/morto-re-harald-v-di-norvegia-il-sovrano-piu-anziano-deuropa-aveva-89-anni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/morto-re-harald-v-di-norvegia-il-sovrano-piu-anziano-deuropa-aveva-89-anni/</guid>
-<description>Morto re Harald V di Norvegia. Il monarca più anziano d’Europa aveva 89 anni. Meloni: “Ha rafforzato il legame tra i nostri Paesi” Chi è il nuovo sovrano Haakon VIII Il suo regno è durato oltre 35 anni. Il principe Haakon e la moglie Mette-Marin saranno i nuovi rengnanti a Oslo Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/G4NEASTWJBDWDBBBTJNH7N7PTM.jpg?focal=1481%2C776&amp;auth=7483c803bfaac66f613c12a61e7016a2aa2a4df6a46c7c99f9711e322553ec6b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Chi è il nuovo sovrano Haakon VIII</title>
-<link>https://www.ilgiornale.it/news/personaggi/gli-studi-allestero-e-il-matrimonio-con-una-ragazza-madre-ora-regina-chi-e-il-re-haakon-viii-di-norvegia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/gli-studi-allestero-e-il-matrimonio-con-una-ragazza-madre-ora-regina-chi-e-il-re-haakon-viii-di-norvegia/</guid>
-<description>Morto re Harald V di Norvegia. Il monarca più anziano d’Europa aveva 89 anni. Meloni: “Ha rafforzato il legame tra i nostri Paesi” Chi è il nuovo sovrano Haakon VIII Il suo regno è durato oltre 35 anni. Il principe Haakon e la moglie Mette-Marin saranno i nuovi rengnanti a Oslo Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/G4NEASTWJBDWDBBBTJNH7N7PTM.jpg?focal=1481%2C776&amp;auth=7483c803bfaac66f613c12a61e7016a2aa2a4df6a46c7c99f9711e322553ec6b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Auto nuova col finanziamento. Il “trucchetto” dei costi nascosti</title>
-<link>https://www.ilgiornale.it/news/politica/auto-nuova-col-finanziamento-il-trucchetto-dei-costi-nascosti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/auto-nuova-col-finanziamento-il-trucchetto-dei-costi-nascosti/</guid>
-<description>Auto nuova col finanziamento. Il “trucchetto” dei costi nascosti Il caso segnalato da un lettore che si è trovato con un conto salatissimo da saldare. Così le concessionarie spingono a richiedere prestiti onerosi. E Adusbef: “Gli interessi spesso superano lo sconto” Emanuela Meucci</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GUESXIDJ7JOZ7FGSHTAOQCLXAE.jpg?focal=607%2C290&amp;auth=1699e3bd3331faffb7686b5a15d1b17a0556b12150dbb7a245d47e8bcb834bf0&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>La piscina, la proposta a Venezia, i quattro bulldog: la storia d’amore tra Federica Pellegrini e Matteo Giunta</title>
-<link>https://www.ilgiornale.it/news/gossip/la-piscina-la-proposta-a-venezia-i-quattro-bulldog-la-storia-damore-tra-federica-pellegrini-e-matteo-giunta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/gossip/la-piscina-la-proposta-a-venezia-i-quattro-bulldog-la-storia-damore-tra-federica-pellegrini-e-matteo-giunta/</guid>
-<description>La piscina, la proposta a Venezia, i quattro bulldog: la storia d’amore tra Federica Pellegrini e Matteo Giunta La coppia ha festeggiato il quarto anniversario di matrimonio: dall’amore nato in vasca alla nascita delle due figlie Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/66KWL6AOVFBXZCMUGPBU2TIES4.jpg?smart=true&amp;auth=4d917333bf40475aa30292b6c37f976fbe70b15a704ae6065e6203ce94736e8e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Sicurezza su WhatsApp: un’allerta automatica ci difenderà dai messaggi ingannevoli</title>
-<link>https://www.ilgiornale.it/news/mobile/sicurezza-su-whatsapp-unallerta-automatica-ci-difendera-dai-messaggi-ingannevoli/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/sicurezza-su-whatsapp-unallerta-automatica-ci-difendera-dai-messaggi-ingannevoli/</guid>
-<description>Sicurezza su WhatsApp: un’allerta automatica ci difenderà dai messaggi ingannevoli Sicurezza su WhatsApp: un’allerta automatica ci difenderà dai messaggi ingannevoli Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VRO2I23FJJKAPGYT2KD3722OTI.jpg?smart=true&amp;auth=abd4e36c2c641daf6667a85ea1d5743401666251e706bbd6a709ac86f43000b5&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Spie, falsari e attentati. La pace inquieta del franchismo</title>
-<link>https://www.ilgiornale.it/news/letteratura/spie-falsari-e-attentati-la-pace-inquieta-del-franchismo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/letteratura/spie-falsari-e-attentati-la-pace-inquieta-del-franchismo/</guid>
-<description>Spie, falsari e attentati. La pace inquieta del franchismo Andrés Trapiello si ispira alla figura di un esiliato spagnolo, diventato agente segreto negli Usa per raccontare il regime del ‘45 Stenio Solinas</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/T27YRRWDHBPWDDPDBLGZXALMQE.jpg?focal=285%2C81&amp;auth=066f559d8541733d746641d4857fc5cc526b29735a48b24e096b5ea16aab46e9&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“I miei 60 anni di musica dal beat alla Vanoni”</title>
-<link>https://www.ilgiornale.it/news/musica/i-miei-60-anni-di-musica-dal-beat-alla-vanoni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/i-miei-60-anni-di-musica-dal-beat-alla-vanoni/</guid>
-<description>“I miei 60 anni di musica dal beat alla Vanoni” L’esordio nei Camaleonti, poi una carriera da solista e produttore. Piena di successi. E di avventure... Paolo Giordano</description>
-</item>
-<item>
-<title>“Morselli, costruttore di infiniti mondi possibili”</title>
-<link>https://www.ilgiornale.it/news/personaggi/morselli-costruttore-di-infiniti-mondi-possibili/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/morselli-costruttore-di-infiniti-mondi-possibili/</guid>
-<description>“Morselli, costruttore di infiniti mondi possibili” La più attenta studiosa e curatrice del suo “Diario”, ci spiega la dimensione europea di un grande “escluso” Luigi Mascheroni</description>
-</item>
-<item>
-<title>Milan vince e onora Baresi. Ramos fa subito gol a S. Siro</title>
-<link>https://www.ilgiornale.it/news/calcio/milan-vince-e-onora-baresi-ramos-fa-subito-gol-a-s-siro/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/milan-vince-e-onora-baresi-ramos-fa-subito-gol-a-s-siro/</guid>
-<description>Milan vince e onora Baresi. Ramos fa subito gol a S. Siro Il portoghese sblocca una gara difficile contro il Venezia mai rinunciatario, l’autogol di Halhal la chiude nel finale Franco Ordine</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/JMM5B5FPUNG6LLVQJ76XZRPDDU.jpg?focal=1948%2C993&amp;auth=4d7cf85c1181e6c5d7eb3ca25b6f26276acf89d82e90ff6380fe0c58c7086447&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La Juve baciata dall’Europa rimette alla prova Kolo</title>
-<link>https://www.ilgiornale.it/news/calcio/la-juve-baciata-dalleuropa-rimette-alla-prova-kolo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-juve-baciata-dalleuropa-rimette-alla-prova-kolo/</guid>
-<description>La Juve baciata dall’Europa rimette alla prova Kolo Domenico Latagliata</description>
-</item>
-<item>
-<title>Malen e i suoi “fratelli”, la carica dei nomi impossibili</title>
-<link>https://www.ilgiornale.it/news/calcio/malen-e-i-suoi-fratelli-la-carica-dei-nomi-impossibili/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/malen-e-i-suoi-fratelli-la-carica-dei-nomi-impossibili/</guid>
-<description>Malen e i suoi “fratelli”, la carica dei nomi impossibili Roberto Dupplicato</description>
-</item>
-<item>
-<title>Salta la vendita. PayPal cola a picco</title>
-<link>https://www.ilgiornale.it/news/aziende/salta-la-vendita-paypal-cola-a-picco/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/salta-la-vendita-paypal-cola-a-picco/</guid>
-<description>Salta la vendita. PayPal cola a picco Marcello Astorri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CQMX7IFYZJPVXHUVOGQQZ744CU.jpg?focal=385%2C233&amp;auth=c70a9e37e27934004543b7456fc6196319ff5b7e6a76cbbb0492d974d4d4a46b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Inflazione troppo alta. La Fed pronta ad agire</title>
-<link>https://www.ilgiornale.it/news/politica-economica/inflazione-troppo-alta-la-fed-pronta-ad-agire/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/inflazione-troppo-alta-la-fed-pronta-ad-agire/</guid>
-<description>Inflazione troppo alta. La Fed pronta ad agire Camilla Conti</description>
-</item>
-<item>
-<title>Da Unipol mano tesa a Mps. “Garanzie su sede e marchio”</title>
-<link>https://www.ilgiornale.it/news/banche/da-unipol-mano-tesa-a-mps-garanzie-su-sede-e-marchio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/banche/da-unipol-mano-tesa-a-mps-garanzie-su-sede-e-marchio/</guid>
-<description>Da Unipol mano tesa a Mps. “Garanzie su sede e marchio” Camilla Conti</description>
-</item>
-<item>
-<title>Nvidia vola in Borsa dopo i conti Entro il 2028 +70% per i ricavi</title>
-<link>https://www.ilgiornale.it/news/aziende/nvidia-vola-in-borsa-dopo-i-conti-entro-il-2028-70-per-i-ricavi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/nvidia-vola-in-borsa-dopo-i-conti-entro-il-2028-70-per-i-ricavi/</guid>
-<description>Nvidia vola in Borsa dopo i conti Entro il 2028 +70% per i ricavi Matilde Sperlinga</description>
-</item>
-<item>
-<title>Fragile sì, ma più che vitale (eppure chiedono le perizie)</title>
-<link>https://www.ilgiornale.it/news/alta-portineria/fragile-si-ma-piu-che-vitale-eppure-chiedono-le-perizie/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/alta-portineria/fragile-si-ma-piu-che-vitale-eppure-chiedono-le-perizie/</guid>
-<description>Fragile sì, ma più che vitale (eppure chiedono le perizie) Tra mostre, libri, musei e tv continua la lotta di carte in Tribunale per stabilire se in grado di decidere per se stesso. Sarebbe lo stesso se fosse povero? Roberto Alessi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2TPZIBP5SZNSLBAA2YY7IXUSYU.jpg?focal=1179%2C1249&amp;auth=f39f17caf9d53315796c61d7f147f7f2ac28e166d12fbe2b807e7902d6fb18a6&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Eva Henger è una regista pazzesca”</title>
-<link>https://www.ilgiornale.it/news/alta-portineria/eva-henger-e-una-regista-pazzesca/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/alta-portineria/eva-henger-e-una-regista-pazzesca/</guid>
-<description>“Eva Henger è una regista pazzesca” Roberto Alessi</description>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Oltre 100 lavoratori intrappolati nel tunnel di una centrale idroelettrica in Nepal Le operazioni di soccorso proseguono per raggiungere oltre 100 persone ancora bloccate all'interno avoratori e residenti rimasti intrappolati del tunnel dell'Upper Trishuli Hydropower. L'operazione all'interno del tunnel è particolarmente complessa per le condizioni meteorologiche avverse e l'elevata portata del fiume, due persone sono state da poco tratte in salvo.</description>
 </item>
 <item>
 <title>Il podio di Roberto Alessi: CR7, Stoppa, i Reali del Belgio</title>
 <link>https://www.ilgiornale.it/news/alta-portineria/il-podio-di-roberto-alessi-cr7-stoppa-i-reali-del-belgio/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/alta-portineria/il-podio-di-roberto-alessi-cr7-stoppa-i-reali-del-belgio/</guid>
-<description>Il podio di Roberto Alessi: CR7, Stoppa, i Reali del Belgio Roberto Alessi</description>
-</item>
-<item>
-<title>Seat Ibiza FR 1.5: si aggiorna ma rimane coerente con la sua indole</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/seat-ibiza-fr-15-si-aggiorna-ma-rimane-coerente-con-la-sua-indole/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/seat-ibiza-fr-15-si-aggiorna-ma-rimane-coerente-con-la-sua-indole/</guid>
-<description>Seat Ibiza FR 1.5: si aggiorna ma rimane coerente con la sua indole Quarantadue anni, cinque generazioni e un secondo restyling che affina senza stravolgere. La Ibiza FR con il 1.5 da 150 CV è ancora tra le utilitarie più divertenti da guidare. Il prezzo sale, ma rimane molto convincente rispetto al mercato Daniele Villa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/EDZCAYLLWJEZLMWSXEDBSEJPSA.jpg?smart=true&amp;auth=68a804ccef128557c6c932838d061e3656e1ea91ec6119f7f123596498ff4fcb&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Alfa Romeo Tonale: DNA del biscione e allestimento speciale, anche ibrido</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/alfa-romeo-tonale-dna-del-biscione-e-allestimento-speciale-anche-ibrido/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/alfa-romeo-tonale-dna-del-biscione-e-allestimento-speciale-anche-ibrido/</guid>
-<description>Alfa Romeo Tonale: DNA del biscione e allestimento speciale, anche ibrido Daniele Villa</description>
-</item>
-<item>
-<title>Cupra Terramar e-Hybrid: come va il SUV spagnolo alla spina dall’animo grintoso</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/cupra-terramar-e-hybrid-come-va-il-suv-spagnolo-alla-spina-dallanimo-grintoso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/cupra-terramar-e-hybrid-come-va-il-suv-spagnolo-alla-spina-dallanimo-grintoso/</guid>
-<description>Cupra Terramar e-Hybrid: come va il SUV spagnolo alla spina dall’animo grintoso Daniele Villa</description>
-</item>
-<item>
-<title>Abbiamo provato due dashcam di 70mai con vero 4K per tutte le tasche: A810S e A810 Lite</title>
-<link>https://www.ilgiornale.it/news/hardware-e-software/abbiamo-provato-due-dashcam-di-70mai-con-vero-4k-per-tutte-le-tasche-a810s-e-a810-lite/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/hardware-e-software/abbiamo-provato-due-dashcam-di-70mai-con-vero-4k-per-tutte-le-tasche-a810s-e-a810-lite/</guid>
-<description>Abbiamo provato due dashcam di 70mai con vero 4K per tutte le tasche: A810S e A810 Lite Abbiamo quindi messo alla prova sia l’ammiraglia della gamma, sia la versione entry level così da poter accontentare tutte le tasche Luigi Melita</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OCHATC5TDFHVDMODGS47HQIUCY.jpg?smart=true&amp;auth=ba4e7aed4fd7cdc398006ceba21670d105b89902b29902ea4de09ea0a56e1a97&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Svelate le possibili date: quando arriva iPhone 18 Pro Max</title>
-<link>https://www.ilgiornale.it/news/mobile/iphone-18-pro-max-svelate-le-possibili-date-del-debutto-apple/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/iphone-18-pro-max-svelate-le-possibili-date-del-debutto-apple/</guid>
-<description>Svelate le possibili date: quando arriva iPhone 18 Pro Max Federico Garau</description>
-</item>
-<item>
-<title>Asus Zenbook Duo: l’ufficio portatile senza le limitazioni del lavoro in mobilità</title>
-<link>https://www.ilgiornale.it/news/hardware-e-software/asus-zenbook-duo-lufficio-portatile-senza-le-limitazioni-del-lavoro-in-mobilita/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/hardware-e-software/asus-zenbook-duo-lufficio-portatile-senza-le-limitazioni-del-lavoro-in-mobilita/</guid>
-<description>Asus Zenbook Duo: l’ufficio portatile senza le limitazioni del lavoro in mobilità Luigi Melita</description>
-</item>
-<item>
-<title>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo</title>
-<link>https://www.ilgiornale.it/news/viaggi/folgore-el-alamein-viaggio-nella-storia-fausto-biloslavo-2644076.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/viaggi/folgore-el-alamein-viaggio-nella-storia-fausto-biloslavo-2644076.html</guid>
-<description>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo Dal 16 al 19 ottobre 2026: tra memoria, deserto e il racconto del nostro inviato Fausto Biloslavo Redazione Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MCGIU3HAHNOVVL6VWVEBNNQJ3Y.jpg?smart=true&amp;auth=af4b9e852044cfd7c912896c5eaffc8fd41f11ac7630de76ea5e29f9e894c0e0&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale</title>
-<link>https://www.ilgiornale.it/news/viaggi/ischia-procida-e-napoli-25-28-settembre-giornale-2654107.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/viaggi/ischia-procida-e-napoli-25-28-settembre-giornale-2654107.html</guid>
-<description>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo Dal 16 al 19 ottobre 2026: tra memoria, deserto e il racconto del nostro inviato Fausto Biloslavo Redazione Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MCGIU3HAHNOVVL6VWVEBNNQJ3Y.jpg?smart=true&amp;auth=af4b9e852044cfd7c912896c5eaffc8fd41f11ac7630de76ea5e29f9e894c0e0&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</title>
-<link>https://www.ilgiornale.it/news/viaggi/i-viaggi-giornale-el-alamein-e-cairo-fausto-biloslavo-2673672.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/viaggi/i-viaggi-giornale-el-alamein-e-cairo-fausto-biloslavo-2673672.html</guid>
-<description>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo Dal 16 al 19 ottobre 2026: tra memoria, deserto e il racconto del nostro inviato Fausto Biloslavo Redazione Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MCGIU3HAHNOVVL6VWVEBNNQJ3Y.jpg?smart=true&amp;auth=af4b9e852044cfd7c912896c5eaffc8fd41f11ac7630de76ea5e29f9e894c0e0&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Proteine: i segnali che indicano che se ne assumono troppe</title>
-<link>https://www.ilgiornale.it/news/dieta-e-alimentazione/proteine-i-segnali-che-indicano-che-se-ne-assumono-troppe/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/dieta-e-alimentazione/proteine-i-segnali-che-indicano-che-se-ne-assumono-troppe/</guid>
-<description>Proteine: i segnali che indicano che se ne assumono troppe Mariangela Cutrone</description>
-</item>
-<item>
-<title>Fuga dalle città al fresco sui monti. Ma fate attenzione agli sbalzi di quota</title>
-<link>https://www.ilgiornale.it/news/benessere/fuga-dalle-citta-al-fresco-sui-monti-ma-fate-attenzione-agli-sbalzi-di-quota/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/fuga-dalle-citta-al-fresco-sui-monti-ma-fate-attenzione-agli-sbalzi-di-quota/</guid>
-<description>Fuga dalle città al fresco sui monti. Ma fate attenzione agli sbalzi di quota Roberta Damiata</description>
-</item>
-<item>
-<title>Giacche autunnali, 5 modelli imperdibili</title>
-<link>https://www.ilgiornale.it/news/over/giacche-autunnali-5-modelli-imperdibili/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/over/giacche-autunnali-5-modelli-imperdibili/</guid>
-<description>Giacche autunnali, 5 modelli imperdibili Mariangela Cutrone</description>
-</item>
-<item>
-<title>Colazione, consumarla presto allunga la vita. Lo dice la scienza</title>
-<link>https://www.ilgiornale.it/news/over/colazione-consumarla-presto-allunga-la-vita-lo-dice-la-scienza/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/over/colazione-consumarla-presto-allunga-la-vita-lo-dice-la-scienza/</guid>
-<description>Colazione, consumarla presto allunga la vita. Lo dice la scienza Mariangela Cutrone</description>
-</item>
-<item>
-<title>Sottomessi ma ricchi</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/sottomessi-ma-ricchi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/sottomessi-ma-ricchi/</guid>
-<description>Sottomessi ma ricchi A cura di Tommaso Cerno</description>
-</item>
-<item>
-<title>Quei tolleranti intolleranti con i libertari</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/quei-tolleranti-intolleranti-con-i-libertari/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/quei-tolleranti-intolleranti-con-i-libertari/</guid>
-<description>commento Cronaca internazionale Quei tolleranti intolleranti con i libertari Carlo Lottieri</description>
-</item>
-<item>
-<title>Il “motivatore” Toninelli ha la soluzione: mandare Ranucci sul lettino dello psicologo</title>
-<link>https://www.ilgiornale.it/news/interni/lex-grillino-che-consiglia-lo-psicologo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lex-grillino-che-consiglia-lo-psicologo/</guid>
-<description>commento Interni Il “motivatore” Toninelli ha la soluzione: mandare Ranucci sul lettino dello psicologo Francesco Maria Del Vigo</description>
-</item>
-<item>
-<title>Il grande equivoco della rappresentatività</title>
-<link>https://www.ilgiornale.it/news/interni/il-grande-equivoco-della-rappresentativita/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-grande-equivoco-della-rappresentativita/</guid>
-<description>commento Interni Il grande equivoco della rappresentatività Riccardo Chiari</description>
-</item>
-<item>
-<title>Poco elegante giudicare l'eleganza di un Papa</title>
-<link>https://www.ilgiornale.it/news/attualita/poco-elegante-giudicare-leleganza-di-un-papa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/poco-elegante-giudicare-leleganza-di-un-papa/</guid>
-<description>commento Attualità Poco elegante giudicare l'eleganza di un Papa Francesca Albergotti</description>
-</item>
-<item>
-<title>Dopo il woke alla sinistra resta... il nulla</title>
-<link>https://www.ilgiornale.it/news/interni/dopo-il-woke-alla-sinistra-resta-il-nulla/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/dopo-il-woke-alla-sinistra-resta-il-nulla/</guid>
-<description>commento Interni Dopo il woke alla sinistra resta... il nulla Alessandro Gnocchi</description>
-</item>
-<item>
-<title>Trattoria Tina, le promesse mantenute</title>
-<link>https://www.ilgiornale.it/scheda/cucina/trattoria-tina-le-promesse-mantenute/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/scheda/cucina/trattoria-tina-le-promesse-mantenute/</guid>
-<description>Retrogusto Trattoria Tina, le promesse mantenute Andrea Cuomo</description>
-</item>
-<item>
-<title>Debole lo Stato che cede alle minacce sulla moschea</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/debole-lo-stato-che-cede-alle-minacce-sulla-moschea/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/debole-lo-stato-che-cede-alle-minacce-sulla-moschea/</guid>
-<description>La stanza di Feltri Debole lo Stato che cede alle minacce sulla moschea Vittorio Feltri</description>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Alta Portineria Il podio di Roberto Alessi: CR7, Stoppa, i Reali del Belgio CR7 sa che i veri amici sono quelli che ti hanno conosciuto al peggio e gioiscono per le tue fortune</description>
 </item>
 <item>
 <title>Gondole e borseggiatori</title>
 <link>https://www.ilgiornale.it/news/giu-la-maschera/gondole-e-borseggiatori/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/gondole-e-borseggiatori/</guid>
-<description>Giù la maschera Gondole e borseggiatori Luigi Mascheroni</description>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Giù la maschera Gondole e borseggiatori Abbiamo letto con curiosità tutti i giornali che titolavano sulla morte dello storico borseggiatore romeno Sorin Marian Postolache</description>
+</item>
+<item>
+<title>Debole lo Stato che cede alle minacce sulla moschea</title>
+<link>https://www.ilgiornale.it/news/stanza-di-feltri/debole-lo-stato-che-cede-alle-minacce-sulla-moschea/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/debole-lo-stato-che-cede-alle-minacce-sulla-moschea/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>La stanza di Feltri Debole lo Stato che cede alle minacce sulla moschea Ciò che non si può pretendere è che il diritto coincida con il proprio desiderio e che un no provvisorio venga rovesciato facendo intendere</description>
+</item>
+<item>
+<title>Trattoria Tina, le promesse mantenute</title>
+<link>https://www.ilgiornale.it/scheda/cucina/trattoria-tina-le-promesse-mantenute/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/scheda/cucina/trattoria-tina-le-promesse-mantenute/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Retrogusto Trattoria Tina, le promesse mantenute Il locale della giovane “cheffe” siciliana Arianna Consiglio, aperto a fine luglio con notevole grancassa anche a causa dei celebri soci Matias Perdomo e Simon Press, si conferma di assoluto valore: piatti puliti, saporiti, eleganti, nessuna furberia, prezzi assolutamente onesti per la scena milanese, carta dei vini ben disegnata e un servizio sorridente. Un indirizzo da tenere d’occhio</description>
+</item>
+<item>
+<title>Apprezziamo davvero il fatto che Chiara Valerio ieri su Repubblica abbia ammesso che “Il woke ha esagerato ma da quella cultura ho imparato tanto”</title>
+<link>https://www.ilgiornale.it/news/giu-la-maschera/te-lo-diciamo-chiaro-chiara/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/te-lo-diciamo-chiaro-chiara/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Giù la maschera Te lo diciamo chiaro, Chiara Apprezziamo davvero il fatto che Chiara Valerio ieri su Repubblica abbia ammesso che “Il woke ha esagerato ma da quella cultura ho imparato tanto” Luigi Mascheroni</description>
+</item>
+<item>
+<title>Il Viminale contesta alla Sea-Watch 5, nave battente bandiera tedesca, il mancato rispetto degli obblighi di legge durante un soccorso</title>
+<link>https://www.ilgiornale.it/news/stanza-di-feltri/soccorrere-non-significa-abolire-le-regole/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/soccorrere-non-significa-abolire-le-regole/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>La stanza di Feltri Soccorrere non significa abolire le regole Il Viminale contesta alla Sea-Watch 5, nave battente bandiera tedesca, il mancato rispetto degli obblighi di legge durante un soccorso Vittorio Feltri</description>
+</item>
+<item>
+<title>Sigfrido o Siffredi?</title>
+<link>https://www.ilgiornale.it/news/giu-la-maschera/sigfrido-o-siffredi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/sigfrido-o-siffredi/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Giù la maschera Sigfrido o Siffredi? Sei al centro della bufera per avere fatto inchieste oltre il limite della opacità, avere stretto con le fonti un rapporto oltre il limite della ambiguità e avere avuto comportamenti con le stagiste oltre il limite dell’appropriato? Bene: ti danno una scuola di giornalismo Luigi Mascheroni</description>
+</item>
+<item>
+<title>Se davvero, come emerge dalla ricostruzione, dietro questo gesto non vi era altro che la ricerca di uno svago, e non riesco a ravvisare un altro motivo, siamo davanti a qualcosa di desolante: la sofferenza di un altro essere umano trasformata in passatempo</title>
+<link>https://www.ilgiornale.it/news/stanza-di-feltri/se-la-sofferenza-di-un-uomo-diventa-un-passatempo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/se-la-sofferenza-di-un-uomo-diventa-un-passatempo/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>La stanza di Feltri Se la sofferenza di un uomo diventa un passatempo Se davvero, come emerge dalla ricostruzione, dietro questo gesto non vi era altro che la ricerca di uno svago, e non riesco a ravvisare un altro motivo, siamo davanti a qualcosa di desolante: la sofferenza di un altro essere umano trasformata in passatempo Vittorio Feltri</description>
+</item>
+<item>
+<title>Ecco il menu della Cena dei Mille di Parma</title>
+<link>https://www.ilgiornale.it/news/retrogusto/ecco-il-menu-della-cena-dei-mille-di-parma/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/ecco-il-menu-della-cena-dei-mille-di-parma/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Retrogusto Ecco il menu della Cena dei Mille di Parma Svelati i piatti della settima edizione dell’evento che si terrà l’8 settembre nel centro della città emiliana, i cui biglietti disponibili sono stati venduti a luglio in pochi minuti. Un viaggio gastronomico tra il territorio e la Campania del guest chef di questa edizione, Gennaro Esposito, che porterà la Minestra di pasta mista con pesce di scoglio. Prima un aperitivo con 18 postazioni Andrea Cuomo</description>
+</item>
+<item>
+<title>Se possiede qualità, idee e competenze particolari, ci vengano illustrate</title>
+<link>https://www.ilgiornale.it/news/stanza-di-feltri/candidare-yossra-fakir-solo-marketing-del-dolore/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/candidare-yossra-fakir-solo-marketing-del-dolore/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>La stanza di Feltri Candidare Yossra Fakir? Solo marketing (del dolore) Se possiede qualità, idee e competenze particolari, ci vengano illustrate Vittorio Feltri</description>
+</item>
+<item>
+<title>Esther González Rodríguez, orgogliosamente lesbica, sposata con una donna e mamma ha firmato il suo ultimo contratto da professionista con l’Al-Qadsiah Saudi Women’s Football Club</title>
+<link>https://www.ilgiornale.it/news/giu-la-maschera/stendiamo-un-velo-pietoso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/stendiamo-un-velo-pietoso/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Giù la maschera Stendiamo un velo. Pietoso Esther González Rodríguez, orgogliosamente lesbica, sposata con una donna e mamma ha firmato il suo ultimo contratto da professionista con l’Al-Qadsiah Saudi Women’s Football Club Luigi Mascheroni</description>
+</item>
+<item>
+<title>Valle Aurina, i giorni del Graukäse</title>
+<link>https://www.ilgiornale.it/news/retrogusto/valle-aurina-i-giorni-del-graukase/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/valle-aurina-i-giorni-del-graukase/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Retrogusto Valle Aurina, i giorni del Graukäse Dal 5 al 20 settembre nell’area altoatesina verrà celebrato il “formaggio grigio” tra assaggi, incontri con i produttori, cene e visite alla scoperta di un prodotto nato nei masi e nelle malghe dalla necessità contadina di non sprecare nulla. Un modo per raccontare non soltanto un prodotto unico ma anche il modello turistico scelto dalla valle, all’insegna della sostenibilità Andrea Cuomo</description>
+</item>
+<item>
+<title>Leopoldo Mastelloni assicura: “È bravissima”. Il circolino insorge</title>
+<link>https://www.ilgiornale.it/news/alta-portineria/eva-henger-e-una-regista-pazzesca/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/alta-portineria/eva-henger-e-una-regista-pazzesca/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Alta Portineria “Eva Henger è una regista pazzesca” Leopoldo Mastelloni assicura: “È bravissima”. Il circolino insorge Roberto Alessi</description>
+</item>
+<item>
+<title>Tra mostre, libri, musei e tv continua la lotta di carte in Tribunale per stabilire se in grado di decidere per se stesso. Sarebbe lo stesso se fosse povero?</title>
+<link>https://www.ilgiornale.it/news/alta-portineria/fragile-si-ma-piu-che-vitale-eppure-chiedono-le-perizie/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/alta-portineria/fragile-si-ma-piu-che-vitale-eppure-chiedono-le-perizie/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Alta Portineria Fragile sì, ma più che vitale (eppure chiedono le perizie) Tra mostre, libri, musei e tv continua la lotta di carte in Tribunale per stabilire se in grado di decidere per se stesso. Sarebbe lo stesso se fosse povero? Roberto Alessi</description>
+</item>
+<item>
+<title>Ferzan ha voluto Mara Venier tra gli interpreti di Nella gioia e nel dolore</title>
+<link>https://www.ilgiornale.it/news/alta-portineria/ozpetek-un-regalo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/alta-portineria/ozpetek-un-regalo/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>Alta Portineria Ozpetek, un regalo Ferzan ha voluto Mara Venier tra gli interpreti di Nella gioia e nel dolore Roberto Alessi</description>
+</item>
+<item>
+<title>Islam e politica Opens in new window</title>
+<link>https://www.ilgiornale.it/news/interni/inaccettabili-minacce-il-centrodestra-fa-quadrato-contro-lo-sciopero-etnico-dei-bengalesi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/inaccettabili-minacce-il-centrodestra-fa-quadrato-contro-lo-sciopero-etnico-dei-bengalesi/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>In evidenza Sigfrido Ranucci Opens in new window Ceuta Opens in new window Bonaccini Opens in new window Alluvione in Nepal Opens in new window Islam e politica Opens in new window Aggiornato alle ore 08:34</description>
+</item>
+<item>
+<title>Alluvione in Nepal Opens in new window</title>
+<link>https://www.ilgiornale.it/diretta/cronaca-internazionale/alluvione-in-nepal-il-bilancio-sale-a-616-morti-e-2300-feriti-nessuna-notizia-dei-tre-italiani-dispersi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/cronaca-internazionale/alluvione-in-nepal-il-bilancio-sale-a-616-morti-e-2300-feriti-nessuna-notizia-dei-tre-italiani-dispersi/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>In evidenza Sigfrido Ranucci Opens in new window Ceuta Opens in new window Bonaccini Opens in new window Alluvione in Nepal Opens in new window Islam e politica Opens in new window Aggiornato alle ore 08:34</description>
+</item>
+<item>
+<title>Bonaccini Opens in new window</title>
+<link>https://www.ilgiornale.it/news/esteri/bonaccini-attacca-gli-elettori-di-destra-ma-sui-social-e-un-boomerang-pochi-follower-e-pioggia-di-critiche/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/esteri/bonaccini-attacca-gli-elettori-di-destra-ma-sui-social-e-un-boomerang-pochi-follower-e-pioggia-di-critiche/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>In evidenza Sigfrido Ranucci Opens in new window Ceuta Opens in new window Bonaccini Opens in new window Alluvione in Nepal Opens in new window Islam e politica Opens in new window Aggiornato alle ore 08:34</description>
+</item>
+<item>
+<title>Ceuta Opens in new window</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/era-tutto-sotto-controllo-ma-ora-madrid-chiede-aiuto-allue-per-la-crisi-di-ceuta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/era-tutto-sotto-controllo-ma-ora-madrid-chiede-aiuto-allue-per-la-crisi-di-ceuta/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>In evidenza Sigfrido Ranucci Opens in new window Ceuta Opens in new window Bonaccini Opens in new window Alluvione in Nepal Opens in new window Islam e politica Opens in new window Aggiornato alle ore 08:34</description>
+</item>
+<item>
+<title>Sigfrido Ranucci Opens in new window</title>
+<link>https://www.ilgiornale.it/news/interni/ranucci-fuori-da-report-il-legale-annuncia-battaglia-difenderemo-il-giornalismo-dinchiesta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ranucci-fuori-da-report-il-legale-annuncia-battaglia-difenderemo-il-giornalismo-dinchiesta/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:30 +0000</pubDate>
+<description>In evidenza Sigfrido Ranucci Opens in new window Ceuta Opens in new window Bonaccini Opens in new window Alluvione in Nepal Opens in new window Islam e politica Opens in new window Aggiornato alle ore 08:34</description>
+</item>
+<item>
+<title>L’attaccante azzurro spinge per il Como, Rafa vicino al Gala e la Juve pressa Kessie</title>
+<link>https://www.ilgiornale.it/news/calcio/kean-rompe-leao-tratta-e-dimarco-si-prepara-al-rinnovo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/kean-rompe-leao-tratta-e-dimarco-si-prepara-al-rinnovo/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Kean rompe, Leao tratta e Dimarco si prepara al rinnovo L’attaccante azzurro spinge per il Como, Rafa vicino al Gala e la Juve pressa Kessie Nicolò Schira</description>
+</item>
+<item>
+<title>Le grandi federazioni si schierano contro l’organismo mondiale. La resa dei conti è appena cominciata</title>
+<link>https://www.ilgiornale.it/news/calcio/fifa-il-potere-e-sotto-assedio-leuropa-si-rivolta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/fifa-il-potere-e-sotto-assedio-leuropa-si-rivolta/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Fifa, il potere è sotto assedio: l'Europa si rivolta Le grandi federazioni si schierano contro l’organismo mondiale. La resa dei conti è appena cominciata Tony Damascelli</description>
+</item>
+<item>
+<title>L’Italia sceglie l’Uefa, il presidente della Lega A va controcorrente: un altro dissenso sulla linea della Figc</title>
+<link>https://www.ilgiornale.it/news/calcio/malago-scarica-infantino-simonelli-no/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/malago-scarica-infantino-simonelli-no/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Malagò scarica Infantino. Simonelli no L’Italia sceglie l’Uefa, il presidente della Lega A va controcorrente: un altro dissenso sulla linea della Figc Franco Ordine</description>
+</item>
+<item>
+<title>Sorteggio ricco di incroci pesanti per le italiane. I nerazzurri sfidano due big, mentre Fabregas tornerà al Camp Nou da avversario</title>
+<link>https://www.ilgiornale.it/news/calcio/champions-linter-pesca-liverpool-e-real-anche-la-roma-ritorva-mou-psg-e-city-per-il-napoli-barca-per-il-como/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/champions-linter-pesca-liverpool-e-real-anche-la-roma-ritorva-mou-psg-e-city-per-il-napoli-barca-per-il-como/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Champions, l’Inter pesca Liverpool e Real. Anche la Roma ritrova Mou, Psg e City per il Napoli. Barça per il Como Sorteggio ricco di incroci pesanti per le italiane. I nerazzurri sfidano due big, mentre Fabregas tornerà al Camp Nou da avversario Luca Bocci</description>
+</item>
+<item>
+<title>Tre parole d’ordine del tecnico lusitano in vista del debutto a San Siro contro il Venezia. Intanto si avvicina una nuova rivoluzione: “Rinnoveremo Rabiot. Rafa? Momento di andare altrove”</title>
+<link>https://www.ilgiornale.it/news/calcio/amorim-indica-la-via-al-milan-e-anche-a-leao/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/amorim-indica-la-via-al-milan-e-anche-a-leao/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Amorim indica la via al Milan e anche a Leao Tre parole d’ordine del tecnico lusitano in vista del debutto a San Siro contro il Venezia. Intanto si avvicina una nuova rivoluzione: “Rinnoveremo Rabiot. Rafa? Momento di andare altrove” Franco Ordine</description>
+</item>
+<item>
+<title>Nonostante il mondiale mancato, sono scesi da 99 a 95. Più giovani: da 4 a 14</title>
+<link>https://www.ilgiornale.it/news/calcio/serie-a-meno-italiani-in-campo-ma-piu-under/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/serie-a-meno-italiani-in-campo-ma-piu-under/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Serie A, meno italiani in campo ma più under Nonostante il mondiale mancato, sono scesi da 99 a 95. Più giovani: da 4 a 14 Domenico Latagliata</description>
+</item>
+<item>
+<title>I Lakers hanno recentemente riscritto la storia con la vendita della franchigia, la seconda in due anni, a Bob Iger e Joshua Kushner</title>
+<link>https://www.ilgiornale.it/news/basket/vendita-lakers-la-patron-buss-stoppa-il-genero-di-trump/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/basket/vendita-lakers-la-patron-buss-stoppa-il-genero-di-trump/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Basket Vendita Lakers. La patron Buss stoppa il genero di Trump I Lakers hanno recentemente riscritto la storia con la vendita della franchigia, la seconda in due anni, a Bob Iger e Joshua Kushner Francescomatteo Bertoli</description>
+</item>
+<item>
+<title>Real e Mou per nerazzurri e giallorossi, Fabregas col Barça. L’Uefa prepara l’impeachment di Infantino: “Azioni criminali”</title>
+<link>https://www.ilgiornale.it/news/calcio/inter-roma-como-contro-il-passato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/inter-roma-como-contro-il-passato/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Inter, Roma, Como contro il passato Real e Mou per nerazzurri e giallorossi, Fabregas col Barça. L’Uefa prepara l’impeachment di Infantino: “Azioni criminali” Tony Damascelli</description>
+</item>
+<item>
+<title>Spalletti incassa il sì dell’ex Milan e aspetta la punta. Il Como si regala anche Ricci</title>
+<link>https://www.ilgiornale.it/news/calcio/kessie-vota-juve-idea-zirkzee-per-la-fiorentina/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/kessie-vota-juve-idea-zirkzee-per-la-fiorentina/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Kessie vota Juve. Idea Zirkzee per la Fiorentina Spalletti incassa il sì dell’ex Milan e aspetta la punta. Il Como si regala anche Ricci Nicolò Schira</description>
+</item>
+<item>
+<title>Verdetti diversi dall’urna di Montecarlo per le grandi della Serie A: cammino più semplice per i bianconeri mentre l’undici di Amorim dovrà vedersela coi portoghesi. Sfida affascinante per i bergamaschi</title>
+<link>https://www.ilgiornale.it/news/calcio/europa-league-real-sociedad-per-la-juventus-benfica-al-milan-e-ajax-per-latalanta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/europa-league-real-sociedad-per-la-juventus-benfica-al-milan-e-ajax-per-latalanta/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Europa e Conference League: Real Sociedad per la Juventus, Benfica al Milan e Ajax per l’Atalanta Verdetti diversi dall’urna di Montecarlo per le grandi della Serie A: cammino più semplice per i bianconeri mentre l’undici di Amorim dovrà vedersela coi portoghesi. Sfida affascinante per i bergamaschi Luca Bocci</description>
+</item>
+<item>
+<title>Seconda vittoria consecutiva per i rossoneri che restano a punteggio pieno. Succede tutto nella ripresa Sblocca il match Gonçalo Ramos poi l’autogol di Halhal fissa il risultato sul 2-0</title>
+<link>https://www.ilgiornale.it/news/calcio/il-milan-stende-2-0-il-venezia-a-san-siro-i-rossoneri-salgono-a-sei-punti-in-classifica/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-milan-stende-2-0-il-venezia-a-san-siro-i-rossoneri-salgono-a-sei-punti-in-classifica/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Il Milan stende 2-0 il Venezia a San Siro: i rossoneri salgono a sei punti in classifica Seconda vittoria consecutiva per i rossoneri che restano a punteggio pieno. Succede tutto nella ripresa Sblocca il match Gonçalo Ramos poi l’autogol di Halhal fissa il risultato sul 2-0 Antonio Prisco</description>
+</item>
+<item>
+<title>Ma la testa è altrove, divisa tra mercato, il ko di Yildiz e il bomber inceppato a Frosinone</title>
+<link>https://www.ilgiornale.it/news/calcio/la-juve-baciata-dalleuropa-rimette-alla-prova-kolo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-juve-baciata-dalleuropa-rimette-alla-prova-kolo/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio La Juve baciata dall’Europa rimette alla prova Kolo Ma la testa è altrove, divisa tra mercato, il ko di Yildiz e il bomber inceppato a Frosinone Domenico Latagliata</description>
+</item>
+<item>
+<title>Da Marx Lenin a Stalin, viaggio nel lato più divertente dell’anagrafe calcistica</title>
+<link>https://www.ilgiornale.it/news/calcio/malen-e-i-suoi-fratelli-la-carica-dei-nomi-impossibili/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/malen-e-i-suoi-fratelli-la-carica-dei-nomi-impossibili/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Malen e i suoi “fratelli”, la carica dei nomi impossibili Da Marx Lenin a Stalin, viaggio nel lato più divertente dell’anagrafe calcistica Roberto Dupplicato</description>
+</item>
+<item>
+<title>Il portoghese sblocca una gara difficile contro il Venezia mai rinunciatario, l’autogol di Halhal la chiude nel finale</title>
+<link>https://www.ilgiornale.it/news/calcio/milan-vince-e-onora-baresi-ramos-fa-subito-gol-a-s-siro/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/milan-vince-e-onora-baresi-ramos-fa-subito-gol-a-s-siro/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio Milan vince e onora Baresi. Ramos fa subito gol a S. Siro Il portoghese sblocca una gara difficile contro il Venezia mai rinunciatario, l’autogol di Halhal la chiude nel finale Franco Ordine</description>
+</item>
+<item>
+<title>Bruciata la concorrenza all’Aston Villa: stipendio di 12 milioni l’anno</title>
+<link>https://www.ilgiornale.it/news/calcio/e-leao-saluta-i-rossoneri-dopo-7-stagioni-va-al-galatasaray/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/e-leao-saluta-i-rossoneri-dopo-7-stagioni-va-al-galatasaray/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:29 +0000</pubDate>
+<description>Calcio E Leao saluta i rossoneri dopo 7 stagioni: va al Galatasaray Bruciata la concorrenza all’Aston Villa: stipendio di 12 milioni l’anno Nicolò Schira</description>
+</item>
+<item>
+<title>Oltre 6 miliardi di dollari per i creator e maxi dividendo da 700 milioni al proprietario Leonid Radvinsky</title>
+<link>https://www.ilgiornale.it/news/attualita/onlyfans-quando-il-business-del-desiderio-diventa-un-affare/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/onlyfans-quando-il-business-del-desiderio-diventa-un-affare/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità OnlyFans, quando il business del desiderio diventa un affare Oltre 6 miliardi di dollari per i creator e maxi dividendo da 700 milioni al proprietario Leonid Radvinsky Matilde Sperlinga</description>
+</item>
+<item>
+<title>Oggi si festeggia il miglior amico dell’uomo. È sufficiente osservarlo per capire perché “animale” deriva da “anima”, alito divino</title>
+<link>https://www.ilgiornale.it/news/attualita/il-giorno-del-cane/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/il-giorno-del-cane/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Amici fedeli, smettiamola di trattare i cani da cani Oggi si festeggia il miglior amico dell’uomo. È sufficiente osservarlo per capire perché “animale” deriva da “anima”, alito divino Vittorio Feltri</description>
+</item>
+<item>
+<title>Anche il rispetto dei limiti e cambiare la marcia in anticipo possono aiutare</title>
+<link>https://www.ilgiornale.it/news/attualita/guida-le-frenate-brusche-e-i-pesi-extra-aumentano-i-consumi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/guida-le-frenate-brusche-e-i-pesi-extra-aumentano-i-consumi/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Guida, le frenate brusche e i pesi extra aumentano i consumi Anche il rispetto dei limiti e cambiare la marcia in anticipo possono aiutare Chiara Ricciolini</description>
+</item>
+<item>
+<title>I kit più grandi trainano i conti dell’azienda danese: la Morte Nera di Star Wars costa 999,99 euro</title>
+<link>https://www.ilgiornale.it/news/attualita/e-il-mattoncino-il-vero-bene-rifugio-la-lego-fa-boom-non-solo-coi-bimbi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/e-il-mattoncino-il-vero-bene-rifugio-la-lego-fa-boom-non-solo-coi-bimbi/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità È il mattoncino il vero bene rifugio. La Lego fa boom. Non solo coi bimbi I kit più grandi trainano i conti dell’azienda danese: la Morte Nera di Star Wars costa 999,99 euro Andrea Cuomo</description>
+</item>
+<item>
+<title>L’uomo, a fine maggio, tramite la propria legale aveva fatto richiesta di accorciare i tempi di attesa per evitare il progredire della malattia</title>
+<link>https://www.ilgiornale.it/news/attualita/lombardia-primo-caso-di-suicidio-assistito-gestito-totalmente-dal-servizio-sanitario-regionale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/lombardia-primo-caso-di-suicidio-assistito-gestito-totalmente-dal-servizio-sanitario-regionale/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Lombardia, primo caso di suicidio assistito gestito totalmente dal servizio sanitario regionale L’uomo, a fine maggio, tramite la propria legale aveva fatto richiesta di accorciare i tempi di attesa per evitare il progredire della malattia Alessandro Ferro</description>
+</item>
+<item>
+<title>Zaino, piccozza e macchina fotografica sono riemersi dal Sulztalferner. A identificarne il proprietario è stato un nome quasi illeggibile</title>
+<link>https://www.ilgiornale.it/news/attualita/a-86-anni-ritrova-sul-ghiacciaio-lattrezzatura-persa-nel-1963-era-rimasta-sepolta-per-63-anni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/a-86-anni-ritrova-sul-ghiacciaio-lattrezzatura-persa-nel-1963-era-rimasta-sepolta-per-63-anni/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità A 86 anni ritrova sul ghiacciaio l’attrezzatura persa nel 1963: era rimasta sepolta per 63 anni Zaino, piccozza e macchina fotografica sono riemersi dal Sulztalferner. A identificarne il proprietario è stato un nome quasi illeggibile Roberta Damiata</description>
+</item>
+<item>
+<title>Nato nel 2001 dall’area antagonista, il collettivo offre servizi digitali gratuiti e sostiene software libero, anonimato e autogestione</title>
+<link>https://www.ilgiornale.it/news/attualita/dal-g8-di-genova-a-gazaweb-chi-sono-gli-hacker-italiani-di-autisticiinventati-colpiti-dagli-usa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/dal-g8-di-genova-a-gazaweb-chi-sono-gli-hacker-italiani-di-autisticiinventati-colpiti-dagli-usa/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Dal G8 di Genova a Gazaweb: chi sono gli hacker italiani di Autistici/Inventati colpiti dagli Usa Nato nel 2001 dall’area antagonista, il collettivo offre servizi digitali gratuiti e sostiene software libero, anonimato e autogestione Redazione web</description>
+</item>
+<item>
+<title>La portavoce degli Studenti Palestinesi difende il “modello” Spin Time. FdI attacca il Comune sull’ipotesi di acquisto dell’immobile con risorse pubbliche</title>
+<link>https://www.ilgiornale.it/news/attualita/maya-issa-corre-in-soccorso-di-spin-time-la-causa-propal-arruolata-per-difendere-loccupazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/maya-issa-corre-in-soccorso-di-spin-time-la-causa-propal-arruolata-per-difendere-loccupazione/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Maya Issa corre in soccorso di Spin Time: la causa ProPal arruolata per difendere l’occupazione La portavoce degli Studenti Palestinesi difende il “modello” Spin Time. FdI attacca il Comune sull’ipotesi di acquisto dell’immobile con risorse pubbliche Francesca Galici e Giulia Sorrentino</description>
+</item>
+<item>
+<title>Per Confcommercio il dato è in crescita al 41,7%. Pesano le spese energetiche</title>
+<link>https://www.ilgiornale.it/news/attualita/le-spese-obbligate-si-mangiano-quasi-la-meta-dei-consumi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/le-spese-obbligate-si-mangiano-quasi-la-meta-dei-consumi/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Le spese obbligate si mangiano quasi la metà dei consumi Per Confcommercio il dato è in crescita al 41,7%. Pesano le spese energetiche Marcello Zacché</description>
+</item>
+<item>
+<title>Il progetto Octo-Blu punta sul predatore naturale del crostaceo invasivo. Nei test in laboratorio i polpi adulti hanno raggiunto il 100% di successo</title>
+<link>https://www.ilgiornale.it/news/attualita/arrivano-i-polpi-killer-contro-il-granchio-blu-160mila-esemplari-pronti-a-invadere-ladriatico/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/arrivano-i-polpi-killer-contro-il-granchio-blu-160mila-esemplari-pronti-a-invadere-ladriatico/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Arrivano i “polpi killer” contro il granchio blu: 160mila esemplari pronti a invadere l’Adriatico Il progetto Octo-Blu punta sul predatore naturale del crostaceo invasivo. Nei test in laboratorio i polpi adulti hanno raggiunto il 100% di successo Roberta Damiata</description>
+</item>
+<item>
+<title>Zaghini: promuoviamo la letteratura e il saper fare di chi crea un’eccellenza. Stand in piazza Sordello, cuore della città leader di cultura e di produzione</title>
+<link>https://www.ilgiornale.it/news/attualita/grana-padano-celebra-i-30-anni-di-festivaletteratura-insieme-a-mantova-e-uniti-da-valori-universali/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/grana-padano-celebra-i-30-anni-di-festivaletteratura-insieme-a-mantova-e-uniti-da-valori-universali/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Grana Padano celebra i 30 anni di Festivaletteratura. Insieme a Mantova e uniti da valori universali Zaghini: promuoviamo la letteratura e il saper fare di chi crea un’eccellenza. Stand in piazza Sordello, cuore della città leader di cultura e di produzione Luca Romano</description>
+</item>
+<item>
+<title>Il caso segnalato da un lettore che si è trovato con un conto salatissimo da saldare. Così le concessionarie spingono a richiedere prestiti onerosi. E Adusbef: “Gli interessi spesso superano lo sconto”</title>
+<link>https://www.ilgiornale.it/news/politica/auto-nuova-col-finanziamento-il-trucchetto-dei-costi-nascosti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/auto-nuova-col-finanziamento-il-trucchetto-dei-costi-nascosti/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Auto nuova col finanziamento. Il “trucchetto” dei costi nascosti Il caso segnalato da un lettore che si è trovato con un conto salatissimo da saldare. Così le concessionarie spingono a richiedere prestiti onerosi. E Adusbef: “Gli interessi spesso superano lo sconto” Emanuela Meucci</description>
+</item>
+<item>
+<title>“Vanity Fair” lo ha inserito fra i meglio vestiti al mondo: una caduta di stile</title>
+<link>https://www.ilgiornale.it/news/attualita/poco-elegante-giudicare-leleganza-di-un-papa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/poco-elegante-giudicare-leleganza-di-un-papa/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Poco elegante giudicare l'eleganza di un Papa “Vanity Fair” lo ha inserito fra i meglio vestiti al mondo: una caduta di stile Francesca Albergotti</description>
+</item>
+<item>
+<title>Il “6” super premio da sogno continua a nascondersi ma tre giocatori hanno vinto oltre 63mila euro centrando un “5”</title>
+<link>https://www.ilgiornale.it/news/attualita/superenalotto-continua-la-caccia-al-jackpot-che-vale-2159-milioni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/superenalotto-continua-la-caccia-al-jackpot-che-vale-2159-milioni/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità SuperEnalotto, continua la caccia al Jackpot che vale 215,9 milioni Il “6” super premio da sogno continua a nascondersi ma tre giocatori hanno vinto oltre 63mila euro centrando un “5” Alberto Taliani</description>
+</item>
+<item>
+<title>Genitori già sotto inchiesta per la morte della bimba. Boom delle vaccinazioni</title>
+<link>https://www.ilgiornale.it/news/attualita/difterite-indagati-8-medici-lautopsia-conferma-linfezione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/difterite-indagati-8-medici-lautopsia-conferma-linfezione/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:28 +0000</pubDate>
+<description>Attualità Difterite, indagati 8 medici. L'autopsia conferma l'infezione Genitori già sotto inchiesta per la morte della bimba. Boom delle vaccinazioni Valentina Raffa</description>
+</item>
+<item>
+<title>Lucia Morselli accusata di bancarotta fraudolenta per favorire ArcelorMittal. Ma i legali: “Lei è una persona integra”</title>
+<link>https://www.ilgiornale.it/news/aziende/ilva-sotto-indagine-lex-presidente/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/ilva-sotto-indagine-lex-presidente/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Aziende Ilva, sotto indagine l'ex presidente Lucia Morselli accusata di bancarotta fraudolenta per favorire ArcelorMittal. Ma i legali: “Lei è una persona integra” Sofia Fraschini</description>
+</item>
+<item>
+<title>Il cda del Leone: “Avviato processo di valutazione per l’Ops su Banca Generali”. Dubbi di Fitch sulle 2 offerte di Siena: “Tanti ostacoli e rischi”</title>
+<link>https://www.ilgiornale.it/news/banche/generali-prende-tempo-sulla-proposta-di-mps/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/banche/generali-prende-tempo-sulla-proposta-di-mps/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Banche Generali prende tempo sulla proposta di Mps Il cda del Leone: “Avviato processo di valutazione per l’Ops su Banca Generali”. Dubbi di Fitch sulle 2 offerte di Siena: “Tanti ostacoli e rischi” Camilla Conti</description>
+</item>
+<item>
+<title>La presidente von der Leyen: “Muoverà 470 miliardi”. E l’Italia può essere il polo per le pmi e la crescita</title>
+<link>https://www.ilgiornale.it/news/politica-economica/unione-dei-risparmi-entro-lanno-e-con-chi-ce/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/unione-dei-risparmi-entro-lanno-e-con-chi-ce/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Politica economica “Unione dei risparmi? Entro l’anno e con chi c’è” La presidente von der Leyen: “Muoverà 470 miliardi”. E l’Italia può essere il polo per le pmi e la crescita Marcello Astorri</description>
+</item>
+<item>
+<title>L’inflazione a luglio ha segnato il +3,7%, un dato superiore alle attese che allarma i vertici dell’istituto</title>
+<link>https://www.ilgiornale.it/news/politica-economica/bce-e-fed-focus-sui-tassi-oggi-parla-warsh/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/bce-e-fed-focus-sui-tassi-oggi-parla-warsh/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Politica economica Bce e Fed, focus sui tassi. Oggi parla Warsh L’inflazione a luglio ha segnato il +3,7%, un dato superiore alle attese che allarma i vertici dell’istituto Matilde Sperlinga</description>
+</item>
+<item>
+<title>L’ad Levi: “L’Italia resta centrale”. E Reynaud: “Ma ora serve un riequilibrio delle frequenze”</title>
+<link>https://www.ilgiornale.it/news/aziende/iliad-vede-lutile-operativo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/iliad-vede-lutile-operativo/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Aziende Iliad vede l’utile operativo L’ad Levi: “L’Italia resta centrale”. E Reynaud: “Ma ora serve un riequilibrio delle frequenze” Marcello Astorri</description>
+</item>
+<item>
+<title>Il bonus benzina offrirebbe un aiuto direttamente nello stipendio. Ecco una guida semplice per capire a chi spetta e come viene calcolato</title>
+<link>https://www.ilgiornale.it/news/cittadini/bonus-benzina-in-arrivo-i-requisiti-le-regole-e-le-cifre-previste/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bonus-benzina-in-arrivo-i-requisiti-le-regole-e-le-cifre-previste/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Cittadini Bonus benzina in arrivo: i requisiti, le regole e le cifre previste Il bonus benzina offrirebbe un aiuto direttamente nello stipendio. Ecco una guida semplice per capire a chi spetta e come viene calcolato Federico Garau</description>
+</item>
+<item>
+<title>Ulgiati promuove il taglio delle accise sul gasolio, ma avverte: senza reti integrate, interconnessioni e fonti diversificate la competitività resta a rischio</title>
+<link>https://www.ilgiornale.it/news/economia/energia-luigi-ulgiati-ugl-urgono-interventi-strutturali-per-ridurre-vulnerabilita-del-sistema/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/economia/energia-luigi-ulgiati-ugl-urgono-interventi-strutturali-per-ridurre-vulnerabilita-del-sistema/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Economia Energia, Luigi Ulgiati, UGL: “Urgono interventi strutturali per ridurre vulnerabilità del sistema” Ulgiati promuove il taglio delle accise sul gasolio, ma avverte: senza reti integrate, interconnessioni e fonti diversificate la competitività resta a rischio Luca Romano</description>
+</item>
+<item>
+<title>In Borsa ieri Unipol ha guadagnato l’1,2% e Bper il 2,2% mentre Mps ha segnato un +0,26% a 11,40 euro, Banca Generali un +0,53% a 66,35 euro e Banco Bpm un +0,35% a 15,98 euro.</title>
+<link>https://www.ilgiornale.it/news/banche/da-unipol-mano-tesa-a-mps-garanzie-su-sede-e-marchio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/banche/da-unipol-mano-tesa-a-mps-garanzie-su-sede-e-marchio/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Banche Da Unipol mano tesa a Mps. “Garanzie su sede e marchio” In Borsa ieri Unipol ha guadagnato l’1,2% e Bper il 2,2% mentre Mps ha segnato un +0,26% a 11,40 euro, Banca Generali un +0,53% a 66,35 euro e Banco Bpm un +0,35% a 15,98 euro. Camilla Conti</description>
+</item>
+<item>
+<title>Stripe e Advent ritirano l’offerta da 53 miliardi e la piattaforma cede fino al 14%. La concorrenza di ApplePay &amp; Co</title>
+<link>https://www.ilgiornale.it/news/aziende/salta-la-vendita-paypal-cola-a-picco/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/salta-la-vendita-paypal-cola-a-picco/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Aziende Salta la vendita. PayPal cola a picco Stripe e Advent ritirano l’offerta da 53 miliardi e la piattaforma cede fino al 14%. La concorrenza di ApplePay &amp; Co Marcello Astorri</description>
+</item>
+<item>
+<title>Warsh a Jackson Hole: “L’obiettivo del 2% per la corsa dei prezzi resta fermo e fisso”. Balza il rendimento dei Treasury Usa</title>
+<link>https://www.ilgiornale.it/news/politica-economica/inflazione-troppo-alta-la-fed-pronta-ad-agire/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/inflazione-troppo-alta-la-fed-pronta-ad-agire/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Politica economica Inflazione troppo alta. La Fed pronta ad agire Warsh a Jackson Hole: “L’obiettivo del 2% per la corsa dei prezzi resta fermo e fisso”. Balza il rendimento dei Treasury Usa Camilla Conti</description>
+</item>
+<item>
+<title>Parigi paga dazio sui titoli di Stato e in Spagna il caro vita sale al 4,3%</title>
+<link>https://www.ilgiornale.it/news/economia/nuova-gelata-sul-pil-francese-crescita-a-zero/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/economia/nuova-gelata-sul-pil-francese-crescita-a-zero/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Economia Nuova gelata sul Pil francese: crescita a zero Parigi paga dazio sui titoli di Stato e in Spagna il caro vita sale al 4,3% Marcello Astorri</description>
+</item>
+<item>
+<title>La speranza di Milleri è che il programma di riacquisto azioni contribuisca a rilanciare il titolo, che a partire dallo scorso novembre ha accusato ribassi importanti</title>
+<link>https://www.ilgiornale.it/news/aziende/essilux-vara-il-buyback-e-il-titolo-rialza-la-testa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/essilux-vara-il-buyback-e-il-titolo-rialza-la-testa/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Aziende Essilux vara il buyback. E il titolo rialza la testa La speranza di Milleri è che il programma di riacquisto azioni contribuisca a rilanciare il titolo, che a partire dallo scorso novembre ha accusato ribassi importanti Marco Negri</description>
+</item>
+<item>
+<title>Previdenza e pensioni</title>
+<link>https://www.ilgiornale.it/economia/previdenza-e-pensioni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/economia/previdenza-e-pensioni/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:27 +0000</pubDate>
+<description>Economia Economia › Aziende Banche Borsa e mercati Cittadini Editoria e Media Lavoro Politica economica Previdenza e pensioni Truffe</description>
+</item>
+<item>
+<title>È il mondo al contrario: la stabilità, virtù noiosa che la sinistra detesta perché impedisce i sogni di rivoluzioni da salotto, sta pagando</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/sottomessi-ma-ricchi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/sottomessi-ma-ricchi/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Politica internazionale Sottomessi ma ricchi È il mondo al contrario: la stabilità, virtù noiosa che la sinistra detesta perché impedisce i sogni di rivoluzioni da salotto, sta pagando Tommaso Cerno</description>
+</item>
+<item>
+<title>Politica internazionale</title>
+<link>https://www.ilgiornale.it/politica/politica-internazionale</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/politica/politica-internazionale</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Sottomessi ma ricchi È il mondo al contrario: la stabilità, virtù noiosa che la sinistra detesta perché impedisce i sogni di rivoluzioni da salotto, sta pagando Tommaso Cerno</description>
+</item>
+<item>
+<title>La presidente del Consiglio Giorgia Meloni, nello specifico, ha ribadito nel corso dell’ estate come le posizioni espresse in Parlamento da Futuro nazionale facciano “il gioco della sinistra”</title>
+<link>https://www.ilgiornale.it/news/interni/cirielli-apre-a-vannacci-fdi-parla-solo-per-se/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/cirielli-apre-a-vannacci-fdi-parla-solo-per-se/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Interni Cirielli apre a Vannacci. Fdi: “Parla solo per sé” La presidente del Consiglio Giorgia Meloni, nello specifico, ha ribadito nel corso dell’ estate come le posizioni espresse in Parlamento da Futuro nazionale facciano “il gioco della sinistra” Francesco Boezi</description>
+</item>
+<item>
+<title>La premier: “Dalla Zes giro di affari di 60 miliardi per il Sud”. Il ministro Pichetto sul caro benzina: “Al lavoro su misure più selettive”</title>
+<link>https://www.ilgiornale.it/news/governo/meloni-ora-il-paese-e-piu-forte-e-coeso-sconti-sul-carburante-arriva-la-fase-due/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-ora-il-paese-e-piu-forte-e-coeso-sconti-sul-carburante-arriva-la-fase-due/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Governo Meloni: “Ora il Paese è più forte e coeso”. Sconti sul carburante, arriva la fase due La premier: “Dalla Zes giro di affari di 60 miliardi per il Sud”. Il ministro Pichetto sul caro benzina: “Al lavoro su misure più selettive” Fabrizio de Feo</description>
+</item>
+<item>
+<title>Il safari per super ricchi di Lavitola pochi giorni dopo l’attentato a Ranucci</title>
+<link>https://www.ilgiornale.it/news/magistratura/il-safari-per-super-ricchi-del-faccendiere-pochi-giorni-dopo-lattentato-a-ranucci/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/il-safari-per-super-ricchi-del-faccendiere-pochi-giorni-dopo-lattentato-a-ranucci/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Magistratura Il safari per super ricchi di Lavitola pochi giorni dopo l’attentato a Ranucci Un filone delle indagini è dedicato ai movimenti finanziari del presunto mandante. Sotto osservazione pure gli investimenti in Tanzania e Zimbabwe per gestire riserve di caccia: uno dei settori più difficili dove investire per via delle licenze e degli alti costi iniziali Pasquale Napolitano e Giulia Sorrentino</description>
+</item>
+<item>
+<title>Il sindaco di Riace bocciato dal Consiglio. L’ex magistrato indica la scorciatoia</title>
+<link>https://www.ilgiornale.it/news/magistratura/lucano-ko-sul-gemellaggio-pro-pal-laiutino-di-de-magistris/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/lucano-ko-sul-gemellaggio-pro-pal-laiutino-di-de-magistris/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Magistratura Lucano ko sul gemellaggio pro Pal. L'aiutino di de Magistris Il sindaco di Riace bocciato dal Consiglio. L’ex magistrato indica la scorciatoia Francesca Galici</description>
+</item>
+<item>
+<title>Da Bonaccini a Bettini, soluzioni in ordine sparso. I grillini tentano il colpo anti Elly: “Votino tutti, online e non iscritti”</title>
+<link>https://www.ilgiornale.it/news/interni/marasma-primarie-con-trappola-m5s-intervenga-schlein/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/marasma-primarie-con-trappola-m5s-intervenga-schlein/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Interni Marasma primarie con trappola M5s. “Intervenga Schlein” Da Bonaccini a Bettini, soluzioni in ordine sparso. I grillini tentano il colpo anti Elly: “Votino tutti, online e non iscritti” Stefano Zurlo</description>
+</item>
+<item>
+<title>Il Financial Times dedica un articolo sullo storico sorpasso sui costi del debito. Stabilità e disciplina di bilancio premiano Roma sui mercati</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/italia-modello-del-g7-adesso-e-la-francia-lanello-debole-per-gli-investitori/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/italia-modello-del-g7-adesso-e-la-francia-lanello-debole-per-gli-investitori/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Politica internazionale “Italia modello del G7″. Adesso è la Francia “l’anello debole” per gli investitori Il Financial Times dedica un articolo sullo storico sorpasso sui costi del debito. Stabilità e disciplina di bilancio premiano Roma sui mercati Marcello Astorri</description>
+</item>
+<item>
+<title>Toninelli, dopo aver confermato la sua stima professionale a Sigfrido Ranucci, gli ha recapitato un consiglio</title>
+<link>https://www.ilgiornale.it/news/interni/lex-grillino-che-consiglia-lo-psicologo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lex-grillino-che-consiglia-lo-psicologo/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Interni Il “motivatore” Toninelli ha la soluzione: mandare Ranucci sul lettino dello psicologo Toninelli, dopo aver confermato la sua stima professionale a Sigfrido Ranucci, gli ha recapitato un consiglio Francesco Maria Del Vigo</description>
+</item>
+<item>
+<title>Secondo gli esponenti dem la replica di Meloni sarebbe “una polemica” inventata. Ma se gli italiani fossero stati davvero “strumentalizzati” non continuerebbero a votare a destra</title>
+<link>https://www.ilgiornale.it/news/politica/e-unarma-di-distrazione-ma-per-difendere-bonaccini-il-pd-va-in-cortocircuito/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/e-unarma-di-distrazione-ma-per-difendere-bonaccini-il-pd-va-in-cortocircuito/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Politica “È un’arma di distrazione”. Ma per difendere Bonaccini il Pd va in cortocircuito Secondo gli esponenti dem la replica di Meloni sarebbe “una polemica” inventata. Ma se gli italiani fossero stati davvero “strumentalizzati” non continuerebbero a votare a destra Francesca Galici</description>
+</item>
+<item>
+<title>Dai tempi di Silvio Berlusconi fino ad oggi la sinistra radical-chic ha sempre preso di mira gli elettori di centrodestra</title>
+<link>https://www.ilgiornale.it/news/parlamento/da-cogl-a-ignoranti-tutte-le-volte-che-la-sinistra-ha-insultato-chi-vota-a-destra/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/da-cogl-a-ignoranti-tutte-le-volte-che-la-sinistra-ha-insultato-chi-vota-a-destra/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Parlamento Da “cogl....” a ignoranti. Tutte le volte che la sinistra ha insultato chi vota a destra Dai tempi di Silvio Berlusconi fino ad oggi la sinistra radical-chic ha sempre preso di mira gli elettori di centrodestra Francesco Curridori</description>
+</item>
+<item>
+<title>Come anticipato dal Giornale, ufficializzata la rimozione di Ranucci dalla conduzione del programma: "L’Azienda investe su nuove generazioni di giornalisti d’inchiesta e sul valore informativo di un vero Servizio Pubblico"</title>
+<link>https://www.ilgiornale.it/news/interni/la-rai-ha-deciso-presutti-e-piervincenzi-alla-conduzione-di-report-per-ranucci-tre-proposte-di-ricollocazionie/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-rai-ha-deciso-presutti-e-piervincenzi-alla-conduzione-di-report-per-ranucci-tre-proposte-di-ricollocazionie/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Interni La Rai ha deciso: “Presutti e Piervincenzi alla conduzione di Report. Per Ranucci tre proposte di ricollocazionie” Come anticipato dal Giornale, ufficializzata la rimozione di Ranucci dalla conduzione del programma: "L’Azienda investe su nuove generazioni di giornalisti d’inchiesta e sul valore informativo di un vero Servizio Pubblico" Pasquale Napolitano e Giulia Sorrentino</description>
+</item>
+<item>
+<title>Dal M5s l’attacco più feroce: la senatrice Floridia parla di “vero e proprio golpe” per sollevare il conduttore</title>
+<link>https://www.ilgiornale.it/news/interni/e-leditto-meloni-operazione-brutale-autoritaria-e-fascista-opposizioni-allattacco-dopo-luscita-di-ranucci-da-report/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/e-leditto-meloni-operazione-brutale-autoritaria-e-fascista-opposizioni-allattacco-dopo-luscita-di-ranucci-da-report/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Interni “È l’editto Meloni: operazione brutale, autoritaria e fascista”. Opposizioni all’attacco dopo l’uscita di Ranucci da Report Dal M5s l’attacco più feroce: la senatrice Floridia parla di “vero e proprio golpe” per sollevare il conduttore Francesca Galici</description>
+</item>
+<item>
+<title>La segretaria del Pd definisce il dibattito sulle primarie come sfumature: il Campo Largo non riesce a mettersi d’accordo nemmeno sul leader</title>
+<link>https://www.ilgiornale.it/news/interni/schlein-ora-schiva-le-primarie-dibattito-inutile-e-dannoso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/schlein-ora-schiva-le-primarie-dibattito-inutile-e-dannoso/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Interni Schlein ora schiva le primarie: “Dibattito inutile e dannoso” La segretaria del Pd definisce il dibattito sulle primarie come sfumature: il Campo Largo non riesce a mettersi d’accordo nemmeno sul leader Alessandra Corradi</description>
+</item>
+<item>
+<title>L’ex ministro ucraino affiancherà Crosetto su droni, sistemi autonomi e intelligenza artificiale, portando in Italia l’esperienza maturata sul campo</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-tra-italia-e-ucraina-fedorov-consulente-della-difesa-per-rivoluziare-le-forze-armate/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-tra-italia-e-ucraina-fedorov-consulente-della-difesa-per-rivoluziare-le-forze-armate/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Politica internazionale Il “patto dei droni” tra Italia e Ucraina: Fedorov consulente della Difesa per rivoluziare le forze armate L’ex ministro ucraino affiancherà Crosetto su droni, sistemi autonomi e intelligenza artificiale, portando in Italia l’esperienza maturata sul campo Francesca Salvatore</description>
+</item>
+<item>
+<title>Politica internazionale</title>
+<link>https://www.ilgiornale.it/politica/politica-internazionale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/politica/politica-internazionale/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Politica Politica › Europa Governo Interni Magistratura Parlamento Politica internazionale Quirinale</description>
+</item>
+<item>
+<title>Dopo il woke alla sinistra resta... il nulla</title>
+<link>https://www.ilgiornale.it/news/interni/dopo-il-woke-alla-sinistra-resta-il-nulla/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/dopo-il-woke-alla-sinistra-resta-il-nulla/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>commento Interni Dopo il woke alla sinistra resta... il nulla Alessandro Gnocchi</description>
+</item>
+<item>
+<title>Il grande equivoco della rappresentatività</title>
+<link>https://www.ilgiornale.it/news/interni/il-grande-equivoco-della-rappresentativita/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-grande-equivoco-della-rappresentativita/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>commento Interni Il grande equivoco della rappresentatività Riccardo Chiari</description>
+</item>
+<item>
+<title>Quei tolleranti intolleranti con i libertari</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/quei-tolleranti-intolleranti-con-i-libertari/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/quei-tolleranti-intolleranti-con-i-libertari/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>commento Cronaca internazionale Quei tolleranti intolleranti con i libertari Carlo Lottieri</description>
+</item>
+<item>
+<title>Colazione, consumarla presto allunga la vita. Lo dice la scienza</title>
+<link>https://www.ilgiornale.it/news/over/colazione-consumarla-presto-allunga-la-vita-lo-dice-la-scienza/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/over/colazione-consumarla-presto-allunga-la-vita-lo-dice-la-scienza/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Colazione, consumarla presto allunga la vita. Lo dice la scienza</description>
+</item>
+<item>
+<title>Giacche autunnali, 5 modelli imperdibili</title>
+<link>https://www.ilgiornale.it/news/over/giacche-autunnali-5-modelli-imperdibili/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/over/giacche-autunnali-5-modelli-imperdibili/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Mariangela Cutrone</description>
+</item>
+<item>
+<title>Fuga dalle città al fresco sui monti. Ma fate attenzione agli sbalzi di quota</title>
+<link>https://www.ilgiornale.it/news/benessere/fuga-dalle-citta-al-fresco-sui-monti-ma-fate-attenzione-agli-sbalzi-di-quota/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/fuga-dalle-citta-al-fresco-sui-monti-ma-fate-attenzione-agli-sbalzi-di-quota/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Fuga dalle città al fresco sui monti. Ma fate attenzione agli sbalzi di quota</description>
+</item>
+<item>
+<title>Proteine: i segnali che indicano che se ne assumono troppe</title>
+<link>https://www.ilgiornale.it/news/dieta-e-alimentazione/proteine-i-segnali-che-indicano-che-se-ne-assumono-troppe/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/dieta-e-alimentazione/proteine-i-segnali-che-indicano-che-se-ne-assumono-troppe/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Proteine: i segnali che indicano che se ne assumono troppe</description>
+</item>
+<item>
+<title>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</title>
+<link>https://www.ilgiornale.it/news/viaggi/i-viaggi-giornale-el-alamein-e-cairo-fausto-biloslavo-2673672.html</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/viaggi/i-viaggi-giornale-el-alamein-e-cairo-fausto-biloslavo-2673672.html</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</description>
+</item>
+<item>
+<title>Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale</title>
+<link>https://www.ilgiornale.it/news/viaggi/ischia-procida-e-napoli-25-28-settembre-giornale-2654107.html</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/viaggi/ischia-procida-e-napoli-25-28-settembre-giornale-2654107.html</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</description>
+</item>
+<item>
+<title>Asus Zenbook Duo: l’ufficio portatile senza le limitazioni del lavoro in mobilità</title>
+<link>https://www.ilgiornale.it/news/hardware-e-software/asus-zenbook-duo-lufficio-portatile-senza-le-limitazioni-del-lavoro-in-mobilita/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/hardware-e-software/asus-zenbook-duo-lufficio-portatile-senza-le-limitazioni-del-lavoro-in-mobilita/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Asus Zenbook Duo: l’ufficio portatile senza le limitazioni del lavoro in mobilità</description>
+</item>
+<item>
+<title>Svelate le possibili date: quando arriva iPhone 18 Pro Max</title>
+<link>https://www.ilgiornale.it/news/mobile/iphone-18-pro-max-svelate-le-possibili-date-del-debutto-apple/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/iphone-18-pro-max-svelate-le-possibili-date-del-debutto-apple/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Svelate le possibili date: quando arriva iPhone 18 Pro Max</description>
+</item>
+<item>
+<title>Abbiamo provato due dashcam di 70mai con vero 4K per tutte le tasche: A810S e A810 Lite</title>
+<link>https://www.ilgiornale.it/news/hardware-e-software/abbiamo-provato-due-dashcam-di-70mai-con-vero-4k-per-tutte-le-tasche-a810s-e-a810-lite/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/hardware-e-software/abbiamo-provato-due-dashcam-di-70mai-con-vero-4k-per-tutte-le-tasche-a810s-e-a810-lite/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Abbiamo quindi messo alla prova sia l’ammiraglia della gamma, sia la versione entry level così da poter accontentare tutte le tasche Luigi Melita</description>
+</item>
+<item>
+<title>Cupra Terramar e-Hybrid: come va il SUV spagnolo alla spina dall’animo grintoso</title>
+<link>https://www.ilgiornale.it/news/auto-moto-motori/cupra-terramar-e-hybrid-come-va-il-suv-spagnolo-alla-spina-dallanimo-grintoso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/cupra-terramar-e-hybrid-come-va-il-suv-spagnolo-alla-spina-dallanimo-grintoso/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Cupra Terramar e-Hybrid: come va il SUV spagnolo alla spina dall’animo grintoso</description>
+</item>
+<item>
+<title>Alfa Romeo Tonale: DNA del biscione e allestimento speciale, anche ibrido</title>
+<link>https://www.ilgiornale.it/news/auto-moto-motori/alfa-romeo-tonale-dna-del-biscione-e-allestimento-speciale-anche-ibrido/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/alfa-romeo-tonale-dna-del-biscione-e-allestimento-speciale-anche-ibrido/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Alfa Romeo Tonale: DNA del biscione e allestimento speciale, anche ibrido</description>
+</item>
+<item>
+<title>Seat Ibiza FR 1.5: si aggiorna ma rimane coerente con la sua indole</title>
+<link>https://www.ilgiornale.it/news/auto-moto-motori/seat-ibiza-fr-15-si-aggiorna-ma-rimane-coerente-con-la-sua-indole/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/seat-ibiza-fr-15-si-aggiorna-ma-rimane-coerente-con-la-sua-indole/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Quarantadue anni, cinque generazioni e un secondo restyling che affina senza stravolgere. La Ibiza FR con il 1.5 da 150 CV è ancora tra le utilitarie più divertenti da guidare. Il prezzo sale, ma rimane molto convincente rispetto al mercato Daniele Villa</description>
+</item>
+<item>
+<title>Nvidia vola in Borsa dopo i conti Entro il 2028 +70% per i ricavi</title>
+<link>https://www.ilgiornale.it/news/aziende/nvidia-vola-in-borsa-dopo-i-conti-entro-il-2028-70-per-i-ricavi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/nvidia-vola-in-borsa-dopo-i-conti-entro-il-2028-70-per-i-ricavi/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Nvidia vola in Borsa dopo i conti Entro il 2028 +70% per i ricavi</description>
+</item>
+<item>
+<title>“Morselli, costruttore di infiniti mondi possibili”</title>
+<link>https://www.ilgiornale.it/news/personaggi/morselli-costruttore-di-infiniti-mondi-possibili/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/morselli-costruttore-di-infiniti-mondi-possibili/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>La più attenta studiosa e curatrice del suo “Diario”, ci spiega la dimensione europea di un grande “escluso”</description>
+</item>
+<item>
+<title>“I miei 60 anni di musica dal beat alla Vanoni”</title>
+<link>https://www.ilgiornale.it/news/musica/i-miei-60-anni-di-musica-dal-beat-alla-vanoni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/i-miei-60-anni-di-musica-dal-beat-alla-vanoni/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>L’esordio nei Camaleonti, poi una carriera da solista e produttore. Piena di successi. E di avventure...</description>
+</item>
+<item>
+<title>Spie, falsari e attentati. La pace inquieta del franchismo</title>
+<link>https://www.ilgiornale.it/news/letteratura/spie-falsari-e-attentati-la-pace-inquieta-del-franchismo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/letteratura/spie-falsari-e-attentati-la-pace-inquieta-del-franchismo/</guid>
+<pubDate>Sat, 29 Aug 2026 08:40:26 +0000</pubDate>
+<description>Andrés Trapiello si ispira alla figura di un esiliato spagnolo, diventato agente segreto negli Usa per raccontare il regime del ‘45 Stenio Solinas</description>
 </item>
 </channel>
 </rss>
