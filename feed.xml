@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 29 Aug 2026 17:19:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 17:30:39 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Chi sono Luca Barachini e Patrizia Marziale, la coppia dispersa in Nepal</title>
+<link>https://www.ilgiornale.it/news/attualita/chi-sono-luca-barachini-e-patrizia-marziale-la-coppia-dispersa-in-nepal/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/chi-sono-luca-barachini-e-patrizia-marziale-la-coppia-dispersa-in-nepal/</guid>
+<pubDate>Sat, 29 Aug 2026 17:19:07 +0000</pubDate>
+<description>DIRETTA Alluvione in Nepal, il bilancio sale a 682 morti e oltre 3mila dispersi. Nessuna notizia dei tre italiani scomparsi Cosa rischiano le Alpi Il Paese devastato ha chiesto aiuto internazionale per il salvataggio di persone intrappolate in un tunnel e per la gestione delle salme Redazione web Chi sono Luca Barachini e Patrizia Marziale, la coppia dispersa in Nepal Chi è Marco Ratto, il 50enne di Rapallo di cui non si hanno notizie</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GEPBAYOTS5CHXAHJVF5J6DGK2U.jpg?smart=true&amp;auth=a510c55d3c6e9beac8916c6a0d7c591a294e571b84094e5697e3cd932ba5b185&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>“Scelta mediocre”. Ma Presutti e Piervincenzi fanno il boom di follower</title>
 <link>https://www.ilgiornale.it/news/tv/scelta-mediocre-ma-presutti-e-piervincenzi-fanno-il-boom-di-follower/</link>
@@ -704,13 +712,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/hardware-e-software/abbiamo-provato-due-dashcam-di-70mai-con-vero-4k-per-tutte-le-tasche-a810s-e-a810-lite/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>Abbiamo quindi messo alla prova sia l’ammiraglia della gamma, sia la versione entry level così da poter accontentare tutte le tasche Luigi Melita</description>
-</item>
-<item>
-<title>Cupra Terramar e-Hybrid: come va il SUV spagnolo alla spina dall’animo grintoso</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/cupra-terramar-e-hybrid-come-va-il-suv-spagnolo-alla-spina-dallanimo-grintoso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/cupra-terramar-e-hybrid-come-va-il-suv-spagnolo-alla-spina-dallanimo-grintoso/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>Cupra Terramar e-Hybrid: come va il SUV spagnolo alla spina dall’animo grintoso</description>
 </item>
 </channel>
 </rss>
