@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 29 Aug 2026 20:30:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 20:41:10 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ranucci non si arrende e contesta la rimozione da Report: “Illegittima e discriminatoria”. E chiede pure il risarcimento</title>
+<link>https://www.ilgiornale.it/news/interni/ranucci-non-si-arrende-e-contesta-la-rimozione-da-report-illegittima-e-discriminatoria-e-chiede-pure-il-risarcimento/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ranucci-non-si-arrende-e-contesta-la-rimozione-da-report-illegittima-e-discriminatoria-e-chiede-pure-il-risarcimento/</guid>
+<pubDate>Sat, 29 Aug 2026 20:33:17 +0000</pubDate>
+<description>Sigfrido via da Report, l’offerta di tre ruoli. E insulta i successori: “Scelta mediocre” I legali del conduttore alla Rai: “Decisione e valutazioni senza fatti e circostanze dichiarate, pronti a opporci nelle sedi giudiziarie”. E chiedono il reintegro Redazione web Ranucci fuori da Report, ecco le tre proposte della Rai Due conduttori: Piervincenzi e Presutti. Rivolta alla Rai</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LLVEVEHCARHQLLBCK6IOXG6LPQ.jpg?smart=true&amp;auth=e75a7e04fedecd7fa4fb6c45b1c1a6d3a364b02265880d8118ad541ea3003087&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Leone in barca per la processione per la Madonna del lago a Castel Gandolfo. È la prima volta per un pontefice</title>
 <link>https://www.ilgiornale.it/news/vaticano/leone-in-barca-per-la-processione-per-la-madonna-del-lago-a-castel-gandolfo-e-la-prima-volta-per-un-pontefice/</link>
@@ -708,13 +716,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/viaggi/i-viaggi-giornale-el-alamein-e-cairo-fausto-biloslavo-2673672.html</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</description>
-</item>
-<item>
-<title>Ischia, Procida e Napoli dal 25 al 28 settembre con il Giornale</title>
-<link>https://www.ilgiornale.it/news/viaggi/ischia-procida-e-napoli-25-28-settembre-giornale-2654107.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/viaggi/ischia-procida-e-napoli-25-28-settembre-giornale-2654107.html</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>I viaggi del Giornale a El Alamein e il Cairo con Fausto Biloslavo - seconda partenza</description>
 </item>
 </channel>
 </rss>
