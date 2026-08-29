@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 29 Aug 2026 14:57:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 15:08:29 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Come Falcone, Moro o Regeni”. Ranucci fa il martire, ma è bufera: “Accostamento improprio e difficile da sostenere”</title>
+<link>https://www.ilgiornale.it/news/attualita/accostamento-improprio-e-difficile-da-sostenere-la-strigliata-a-ranucci-dallosservatorio-nazionale-anni-di-piombo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/accostamento-improprio-e-difficile-da-sostenere-la-strigliata-a-ranucci-dallosservatorio-nazionale-anni-di-piombo/</guid>
+<pubDate>Sat, 29 Aug 2026 15:03:37 +0000</pubDate>
+<description>Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/WVFERW36KVCAZNQ3KZXML6SAEU.jpg?focal=1305%2C1010&amp;auth=033c757834ec88729e68d660186fca49bc19ff637e33697f5a7dfcd97ec5e18e&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Cuba, Alessandro Di Battista ricoverato in gravi condizioni: “Forti mal di testa e malore”</title>
 <link>https://www.ilgiornale.it/news/nazionale/cuba-alessandro-di-battista-ricoverato-in-gravi-condizioni/</link>
@@ -700,13 +708,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/nvidia-vola-in-borsa-dopo-i-conti-entro-il-2028-70-per-i-ricavi/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>Nvidia vola in Borsa dopo i conti Entro il 2028 +70% per i ricavi</description>
-</item>
-<item>
-<title>“Morselli, costruttore di infiniti mondi possibili”</title>
-<link>https://www.ilgiornale.it/news/personaggi/morselli-costruttore-di-infiniti-mondi-possibili/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/morselli-costruttore-di-infiniti-mondi-possibili/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>La più attenta studiosa e curatrice del suo “Diario”, ci spiega la dimensione europea di un grande “escluso”</description>
 </item>
 </channel>
 </rss>
