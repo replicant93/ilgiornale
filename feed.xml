@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 29 Aug 2026 15:57:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 16:08:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Scelta mediocre”. Ma Presutti e Piervincenzi fanno il boom di follower</title>
+<link>https://www.ilgiornale.it/news/tv/scelta-mediocre-ma-presutti-e-piervincenzi-fanno-il-boom-di-follower/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tv/scelta-mediocre-ma-presutti-e-piervincenzi-fanno-il-boom-di-follower/</guid>
+<pubDate>Sat, 29 Aug 2026 16:04:05 +0000</pubDate>
+<description>Domenico Giordano</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/4T5S5GF7DJCU7K7IE2YT7ZFSSY.jpg?smart=true&amp;auth=42996f1d9a9ff73d0ceff9f032ad6b4d66bd8e64d49dca0b94cfdc3ebc53354e&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>“Dibba”, il grillino ortodosso che ha lasciato i 5Stelle per i reportage</title>
 <link>https://www.ilgiornale.it/news/personaggi/dalla-politica-ai-reportage-chi-e-alessandro-di-battista-lex-volto-ribelle-dei-5-stelle/</link>
@@ -703,13 +711,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/cupra-terramar-e-hybrid-come-va-il-suv-spagnolo-alla-spina-dallanimo-grintoso/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>Cupra Terramar e-Hybrid: come va il SUV spagnolo alla spina dall’animo grintoso</description>
-</item>
-<item>
-<title>Alfa Romeo Tonale: DNA del biscione e allestimento speciale, anche ibrido</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/alfa-romeo-tonale-dna-del-biscione-e-allestimento-speciale-anche-ibrido/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/alfa-romeo-tonale-dna-del-biscione-e-allestimento-speciale-anche-ibrido/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>Alfa Romeo Tonale: DNA del biscione e allestimento speciale, anche ibrido</description>
 </item>
 </channel>
 </rss>
