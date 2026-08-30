@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 09:56:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 10:07:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Tragedia in Piemonte, monossido di carbonio in una baita: un morto e 5 intossicati</title>
@@ -285,6 +285,14 @@
 <pubDate>Sat, 29 Aug 2026 14:43:49 +0000</pubDate>
 <description>La politica si stringe attorno all'ex parlamentare del M5s L’ex deputato si trova sull’isola per una serie di reportage. I pentastellati: “Grande apprensione, ci stringiamo attorno ai familiari” Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ALXZLT7OWJBTTFV5EQBSV6GBPU.jpg?smart=true&amp;auth=5366c9d6f3e7a7143522a0437796f735b1cd9c816a4b970b3453b961bcc035b9&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Il “patto dei droni”. Crosetto-Fedorov. L’anti-Zelensky consulente italiano</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-crosetto-fedorov-lanti-zelensky-consulente-italiano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-crosetto-fedorov-lanti-zelensky-consulente-italiano/</guid>
+<pubDate>Sat, 29 Aug 2026 14:39:03 +0000</pubDate>
+<description>Francesco De Remigis</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MKFIB43BMNEVFAZ6XB2KJ7CVC4.jpg?focal=675%2C666&amp;auth=981480ae04f3e6d7c88d5e54d7e3c8d681bbd400b2e92c9c8851ba5a7237b3fa&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
 <title>Cronaca internazionale</title>
@@ -733,13 +741,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/riscossione-debiti-ritorna-laggio-ecco-quanto-dovranno-pagare-in-piu-i-contribuenti-e-da-quando/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:19 +0000</pubDate>
 <description>Cittadini Riscossione debiti, ritorna l’aggio: ecco quanto dovranno pagare in più i contribuenti e da quando Il Fisco ripristina la percentuale sulle cartelle esattoriali. Dai costi aggiuntivi per i cittadini al calendario della misura Federico Garau</description>
-</item>
-<item>
-<title>Previdenza e pensioni</title>
-<link>https://www.ilgiornale.it/economia/previdenza-e-pensioni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/economia/previdenza-e-pensioni/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:19 +0000</pubDate>
-<description>Economia Economia › Aziende Banche Borsa e mercati Cittadini Editoria e Media Lavoro Politica economica Previdenza e pensioni Truffe</description>
 </item>
 </channel>
 </rss>
