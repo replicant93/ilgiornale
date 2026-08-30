@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 08:56:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 09:07:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ecstasy con il volto di Trump, è allarme rosso: “Potenzialmente mortali”</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/ecstasy-con-il-volto-di-trump-e-allarme-rosso-potenzialmente-mortali/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/ecstasy-con-il-volto-di-trump-e-allarme-rosso-potenzialmente-mortali/</guid>
+<pubDate>Sun, 30 Aug 2026 08:39:14 +0000</pubDate>
+<description>Massima allerta per la circolazione di pillole contenenti quantità molto elevate di PPMA: di cosa si tratta e quali sono i rischi Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FAH3Z4QR2BDC3DGR4553BNPV5Y.jpg?smart=true&amp;auth=79c2930d9ce80c91c2b5335077bfb6fc632740291f7f20736db5598c6dd9e0a0&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Di Battista ricoverato all’Avana: “Lucido, ha parlato con i medici”. Il post sui social: “Ce la metterò tutta per tornare presto”</title>
 <link>https://www.ilgiornale.it/news/nazionale/di-battista-ricoverato-allavana-lucido-ha-parlato-con-i-medici-il-post-sui-social-ce-la-mettero-tutta-per-tornare-presto/</link>
@@ -731,13 +739,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-crosetto-fedorov-lanti-zelensky-consulente-italiano/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
 <description>Politica internazionale Il “patto dei droni”. Crosetto-Fedorov. L’anti-Zelensky consulente italiano L’ex ministro ucraino “aiuterà il Paese sulle tecnologie belliche”. Aveva ricevuto offerte anche da altri Paesi Francesco De Remigis</description>
-</item>
-<item>
-<title>Politica internazionale</title>
-<link>https://www.ilgiornale.it/politica/politica-internazionale</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/politica/politica-internazionale</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
-<description>Il “patto dei droni”. Crosetto-Fedorov. L’anti-Zelensky consulente italiano L’ex ministro ucraino “aiuterà il Paese sulle tecnologie belliche”. Aveva ricevuto offerte anche da altri Paesi Francesco De Remigis</description>
 </item>
 </channel>
 </rss>
