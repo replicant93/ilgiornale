@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 16:08:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 16:19:23 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’aereo per Dibba? Nessuna procedura straordinaria: come funziona il rimpatrio sanitario</title>
+<link>https://www.ilgiornale.it/news/governo/laereo-per-dibba-nessuna-procedura-straordinaria-come-funziona-il-rimpatrio-sanitario/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/laereo-per-dibba-nessuna-procedura-straordinaria-come-funziona-il-rimpatrio-sanitario/</guid>
+<pubDate>Sun, 30 Aug 2026 15:58:47 +0000</pubDate>
+<description>Di Battista resta ricoverato a Cuba: “Ce la metterò tutta”, poi la foto del pasto con pollo e riso. Tajani lo sente: “È combattivo, lo aspetto in Italia” E i dietrologi si scatenano: Il vaccino, la Cia, Israele... L’ex deputato dei 5 Stelle, seppur vigile, è ancora in condizioni gravi. Secondo alcune indiscrezioni, avrebbe perso conoscenza dopo essere stato colpito da un ictus e non sarebbe ancora in condizioni di tornare in Italia. Intanto Tajani lo sente al telefono e lo rassicura Redazione web Francese di nascita e laureata alla sorbona, chi è Sahra Lahouasnia: la compagna di Di Battista L’</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/B2JHXRHAFJCZVCCNOWDCGK5HXU.jpg?smart=true&amp;auth=bd9044744133675218eb8d06da62c25ac2be777c5854ec71bf8da8cb667bfe44&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Google Pixel 11 Pro, questione di software</title>
 <link>https://www.ilgiornale.it/news/hardware-e-software/google-pixel-11-pro-questione-di-software/</link>
@@ -765,13 +773,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/europa-league-real-sociedad-per-la-juventus-benfica-al-milan-e-ajax-per-latalanta/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
 <description>Calcio Europa e Conference League: Real Sociedad per la Juventus, Benfica al Milan e Ajax per l’Atalanta Verdetti diversi dall’urna di Montecarlo per le grandi della Serie A: cammino più semplice per i bianconeri mentre l’undici di Amorim dovrà vedersela coi portoghesi. Sfida affascinante per i bergamaschi Luca Bocci</description>
-</item>
-<item>
-<title>Seconda vittoria consecutiva per i rossoneri che restano a punteggio pieno. Succede tutto nella ripresa Sblocca il match Gonçalo Ramos poi l’autogol di Halhal fissa il risultato sul 2-0</title>
-<link>https://www.ilgiornale.it/news/calcio/il-milan-stende-2-0-il-venezia-a-san-siro-i-rossoneri-salgono-a-sei-punti-in-classifica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-milan-stende-2-0-il-venezia-a-san-siro-i-rossoneri-salgono-a-sei-punti-in-classifica/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
-<description>Calcio Il Milan stende 2-0 il Venezia a San Siro: i rossoneri salgono a sei punti in classifica Seconda vittoria consecutiva per i rossoneri che restano a punteggio pieno. Succede tutto nella ripresa Sblocca il match Gonçalo Ramos poi l’autogol di Halhal fissa il risultato sul 2-0 Antonio Prisco</description>
 </item>
 </channel>
 </rss>
