@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 14:08:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 14:19:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Chiara Ferragni, malore in Perù dopo la Montagna Arcobaleno: “Il corpo non rispondeva più”</title>
+<link>https://www.ilgiornale.it/news/personaggi/chiara-ferragni-malore-in-peru-dopo-la-montagna-arcobaleno-il-corpo-non-rispondeva-piu/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/chiara-ferragni-malore-in-peru-dopo-la-montagna-arcobaleno-il-corpo-non-rispondeva-piu/</guid>
+<pubDate>Sun, 30 Aug 2026 13:45:52 +0000</pubDate>
+<description>L’imprenditrice ha accusato i sintomi del mal d’altitudine dopo l’escursione a oltre 5mila metri. La paura al rientro a Cuzco, poi il trattamento con l’ossigeno e l’ironia sui social Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/6OQGNLZYV5ABHIXIL5SMHEAWKY.png?focal=577%2C312&amp;auth=5c9cbf6670b04b0ab4cddcd94a33f8f98e907fd7a481eb24c9c7a652e2ef2123&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Dalla Sorbona a Cuba, chi è la compagna di Di Battista Sahra Lahouasnia</title>
 <link>https://www.ilgiornale.it/news/personaggi/dalla-sorbona-a-cuba-chi-e-la-compagna-di-di-battista-sahra-lahouasnia/</link>
@@ -763,13 +771,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-juve-baciata-dalleuropa-rimette-alla-prova-kolo/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
 <description>Calcio La Juve baciata dall’Europa rimette alla prova Kolo Ma la testa è altrove, divisa tra mercato, il ko di Yildiz e il bomber inceppato a Frosinone Domenico Latagliata</description>
-</item>
-<item>
-<title>Da Marx Lenin a Stalin, viaggio nel lato più divertente dell’anagrafe calcistica</title>
-<link>https://www.ilgiornale.it/news/calcio/malen-e-i-suoi-fratelli-la-carica-dei-nomi-impossibili/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/malen-e-i-suoi-fratelli-la-carica-dei-nomi-impossibili/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
-<description>Calcio Malen e i suoi “fratelli”, la carica dei nomi impossibili Da Marx Lenin a Stalin, viaggio nel lato più divertente dell’anagrafe calcistica Roberto Dupplicato</description>
 </item>
 </channel>
 </rss>
