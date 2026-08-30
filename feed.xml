@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 09:40:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 09:56:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tragedia in Piemonte, monossido di carbonio in una baita: un morto e 5 intossicati</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/tragedia-in-piemonte-monossido-di-carbonio-in-una-baita-un-morto-e-5-intossicati/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/tragedia-in-piemonte-monossido-di-carbonio-in-una-baita-un-morto-e-5-intossicati/</guid>
+<pubDate>Sun, 30 Aug 2026 09:46:26 +0000</pubDate>
+<description>La telefonata prima dei soccorsi: “Aiutateci”. La vittima era un volontario che aiutava i pastori. Ecco cosa è successo Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5ZOQ2MAYUZARVE7ENRKO7FTNS4.jpg?smart=true&amp;auth=779e9fa0b6ce99db6a40ae506a25214b28e322a4f816fcfec634f37fdacae79d&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Ecstasy con il volto di Trump, è allarme rosso: “Potenzialmente mortali”</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/ecstasy-con-il-volto-di-trump-e-allarme-rosso-potenzialmente-mortali/</link>
@@ -732,13 +740,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/economia/previdenza-e-pensioni/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:19 +0000</pubDate>
 <description>Economia Economia › Aziende Banche Borsa e mercati Cittadini Editoria e Media Lavoro Politica economica Previdenza e pensioni Truffe</description>
-</item>
-<item>
-<title>L’ex ministro ucraino “aiuterà il Paese sulle tecnologie belliche”. Aveva ricevuto offerte anche da altri Paesi</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-crosetto-fedorov-lanti-zelensky-consulente-italiano/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/il-patto-dei-droni-crosetto-fedorov-lanti-zelensky-consulente-italiano/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
-<description>Politica internazionale Il “patto dei droni”. Crosetto-Fedorov. L’anti-Zelensky consulente italiano L’ex ministro ucraino “aiuterà il Paese sulle tecnologie belliche”. Aveva ricevuto offerte anche da altri Paesi Francesco De Remigis</description>
 </item>
 </channel>
 </rss>
