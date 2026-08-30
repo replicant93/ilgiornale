@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 07:56:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 08:07:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Di Battista ricoverato all’Avana: “Lucido, ha parlato con i medici”. Il post sui social: “Ce la metterò tutta per tornare presto”</title>
+<link>https://www.ilgiornale.it/news/nazionale/di-battista-ricoverato-allavana-lucido-ha-parlato-con-i-medici-il-post-sui-social-ce-la-mettero-tutta-per-tornare-presto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/di-battista-ricoverato-allavana-lucido-ha-parlato-con-i-medici-il-post-sui-social-ce-la-mettero-tutta-per-tornare-presto/</guid>
+<pubDate>Sun, 30 Aug 2026 08:02:15 +0000</pubDate>
+<description>Il mal di testa, poi il malore: Alessandro Di Battista ricoverato a L’Avana. Pronto l’aereo per l’Italia: “È grave ma lucido, risponde ai medici” L’ex deputato dei 5 Stelle, seppur vigile, è ancora in condizioni gravissime. Secondo alcune indiscrezioni, avrebbe perso conoscenza dopo essere stato colpito da un ictus Redazione web La politica si stringe attorno all'ex parlamentare del M5s “Dibba”, il grillino ortodosso che ha lasciato i 5Stelle per i reportage</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/KRMFZZAKYFBLPPZENBWFP24KOQ.jpg?focal=2210%2C429&amp;auth=00deb798170df8c9b9dcf103bdec0024f9f373d2468e5b9d0d75a48631c1bba5&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Ranucci smentisce Rep ma non il Giornale sul ruolo di Laura Cianfoni: cosa c’è dietro lo scatto di Presutti da Lavitola</title>
 <link>https://www.ilgiornale.it/news/interni/ranucci-smentisce-rep-ma-non-il-giornale-sul-ruolo-di-laura-cianfoni-cosa-ce-dietro-lo-scatto-tra-presutti-e-lavitola/</link>
@@ -730,13 +738,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/politica/politica-internazionale</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
 <description>Il “patto dei droni”. Crosetto-Fedorov. L’anti-Zelensky consulente italiano L’ex ministro ucraino “aiuterà il Paese sulle tecnologie belliche”. Aveva ricevuto offerte anche da altri Paesi Francesco De Remigis</description>
-</item>
-<item>
-<title>Il ministro: “Oltre alla filiera dell’autotrasporto, la priorità è aiutare chi si sposta per lavoro e i ceti meno abbienti</title>
-<link>https://www.ilgiornale.it/intervista/governo/una-social-card-per-la-benzina-allo-studio-misure-selettive/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/intervista/governo/una-social-card-per-la-benzina-allo-studio-misure-selettive/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
-<description>Governo “Una social card per la benzina? Allo studio misure selettive” Il ministro: “Oltre alla filiera dell’autotrasporto, la priorità è aiutare chi si sposta per lavoro e i ceti meno abbienti Marcello Zacché</description>
 </item>
 </channel>
 </rss>
