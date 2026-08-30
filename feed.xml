@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 05:28:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 05:39:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nepal, si aggrava ancora il bilancio: 750 vittime. Nuova frana in Tibet, evacuati i soccorritori</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/nepal-si-aggrava-ancora-il-bilancio-750-vittime-nuova-frana-in-tibet-evacuati-i-soccorritori/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/nepal-si-aggrava-ancora-il-bilancio-750-vittime-nuova-frana-in-tibet-evacuati-i-soccorritori/</guid>
+<pubDate>Sun, 30 Aug 2026 05:29:23 +0000</pubDate>
+<description>DIRETTA Nepal, si aggrava ancora il bilancio: 750 vittime. Nuova frana in Tibet, evacuati i soccorritori Cosa rischiano le Alpi Alluvioni devastanti tra Nepal e Tibet: il bilancio sale a 750 morti e oltre 3mila dispersi. In Tibet una nuova frana costringe i soccorritori a lasciare l’area e crea un nuovo lago barriera naturale Redazione web Chi sono Luca Barachini e Patrizia Marziale, la coppia dispersa in Nepal Chi è Marco Ratto, il 50enne di Rapallo di cui non si hanno notizie</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VLROHFPEHJHZVPUX2OX5ZWKYNI.jpg?smart=true&amp;auth=e474a71ba62d431c4e458ce0ae7857d3edfca5e8fe894dca022f0143f407ea30&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Il direttore Cia ha proposto un vertice Trump-Putin-Zelensky. Timori per nuove offensive russe</title>
 <link>https://www.ilgiornale.it/diretta/guerra/il-direttore-cia-ha-proposto-un-vertice-trump-putin-zelensky-timori-per-nuove-offensive-russe/</link>
@@ -38,6 +46,14 @@
 <pubDate>Sat, 29 Aug 2026 20:33:17 +0000</pubDate>
 <description>Sigfrido via da Report, l’offerta di tre ruoli. E insulta i successori: “Scelta mediocre” I legali del conduttore alla Rai: “Decisione e valutazioni senza fatti e circostanze dichiarate, pronti a opporci nelle sedi giudiziarie”. E chiedono il reintegro Redazione web Ranucci fuori da Report, ecco le tre proposte della Rai Due conduttori: Piervincenzi e Presutti. Rivolta alla Rai</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/LLVEVEHCARHQLLBCK6IOXG6LPQ.jpg?smart=true&amp;auth=e75a7e04fedecd7fa4fb6c45b1c1a6d3a364b02265880d8118ad541ea3003087&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Morto Franco Fontana, il fotografo che trasformò il colore in un linguaggio</title>
+<link>https://www.ilgiornale.it/news/arte-e-storia/morto-franco-fontana-il-fotografo-che-trasformo-il-colore-in-un-linguaggio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/arte-e-storia/morto-franco-fontana-il-fotografo-che-trasformo-il-colore-in-un-linguaggio/</guid>
+<pubDate>Sat, 29 Aug 2026 19:26:02 +0000</pubDate>
+<description>È stato tra i più importanti fotografi italiani del secondo Novecento. Una carriera lunga quasi sessant’anni che ha portato le sue immagini nei musei e sulle più importanti riviste internazionali Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3JAB2V7HU5GI5BHFN3PZ2EN7ZY.jpg?smart=true&amp;auth=903d4a0edab04d1a6678a7814260c35dcca41d322007a103b0e690e40ac8c459&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Leone in barca per la processione per la Madonna del lago a Castel Gandolfo. È la prima volta per un pontefice</title>
@@ -705,20 +721,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/troppe-lezioni-e-una-domanda-senza-risposta/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
 <description>A cura di Tommaso Cerno</description>
-</item>
-<item>
-<title>Colazione, consumarla presto allunga la vita. Lo dice la scienza</title>
-<link>https://www.ilgiornale.it/news/over/colazione-consumarla-presto-allunga-la-vita-lo-dice-la-scienza/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/over/colazione-consumarla-presto-allunga-la-vita-lo-dice-la-scienza/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>Colazione, consumarla presto allunga la vita. Lo dice la scienza</description>
-</item>
-<item>
-<title>Giacche autunnali, 5 modelli imperdibili</title>
-<link>https://www.ilgiornale.it/news/over/giacche-autunnali-5-modelli-imperdibili/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/over/giacche-autunnali-5-modelli-imperdibili/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>Mariangela Cutrone</description>
 </item>
 </channel>
 </rss>
