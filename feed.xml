@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 06:40:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 06:56:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Presutti, foto da Lavitola. Portata lì dall’amica di Ranucci</title>
+<link>https://www.ilgiornale.it/news/politica/sigfrido-ricorso-formale-e-pressing-su-piervincenzi-presutti-foto-da-lavitola/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/sigfrido-ricorso-formale-e-pressing-su-piervincenzi-presutti-foto-da-lavitola/</guid>
+<pubDate>Sun, 30 Aug 2026 06:47:42 +0000</pubDate>
+<description>Dopo aver denigrato il sostituto, gli ha “consigliato” di rifiutare l’incarico. La redazione di “Report” dilaniata. E ora spunta lo scatto della nuova conduttrice Pasquale Napolitano Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YEWQLOYSF5HDXCMEE7BRYA3MZ4.png?smart=true&amp;auth=36fdb91c0768756e4018d10a8d9f73936416f553726197bacf9d0d162803265d&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Staff, viaggi e attivismo: tutte le manovre di Alexandria Ocasio-Cortez in vista del 2028</title>
 <link>https://www.ilgiornale.it/news/politica-estera/staff-viaggi-e-attivismo-tutte-le-manovre-di-alexandria-ocasio-cortez-in-vista-del-2028/</link>
@@ -727,13 +735,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/chi-vota-a-destra-studia-poco-e-meloni-bacchetta-bonaccini/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
 <description>Interni “Chi vota a destra studia poco”. E Meloni bacchetta Bonaccini Il presidente del Pd in un video mostra disprezzo per l’elettorato della maggioranza. La premier replica: “Gli italiani hanno studiato sulla loro pelle le conseguenze della politica della sinistra” Michel Dessì</description>
-</item>
-<item>
-<title>Appassionato di vela, guidò il Paese malgrado la salute e le burrasche familiari</title>
-<link>https://www.ilgiornale.it/news/politica/oslo-piange-harald-v-il-re-marinaio-e-degli-scandali/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/oslo-piange-harald-v-il-re-marinaio-e-degli-scandali/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
-<description>Politica Oslo piange Harald V, il re “marinaio” (e degli scandali) Appassionato di vela, guidò il Paese malgrado la salute e le burrasche familiari Giacomo Cozzaglio</description>
 </item>
 </channel>
 </rss>
