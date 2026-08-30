@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 12:57:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 13:08:42 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>MotoGp, a Marquez la battaglia di Aragon. Bezzecchi 3° dietro Acosta</title>
+<link>https://www.ilgiornale.it/news/motori/motogp-a-marquez-la-battaglia-di-aragon-bezzecchi-3-dietro-acosta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/motogp-a-marquez-la-battaglia-di-aragon-bezzecchi-3-dietro-acosta/</guid>
+<pubDate>Sun, 30 Aug 2026 13:04:56 +0000</pubDate>
+<description>Il campione del mondo in carica la spunta nel duello a tre con gli alfieri della Ktm e dell’Aprilia, portandosi in seconda posizione nel mondiale piloti. Martin solo quinto, male Bagnaia, finito a terra Luca Bocci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ISPFC5MR2VD25MIET2I7URVBJA.jpg?focal=1410%2C919&amp;auth=d859dfa5a512a840b06b778506f2a5ae444e2553e85d492f204dd183fbd1ad07&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Cipro Nord, affonda un traghetto con oltre 260 passeggeri: almeno sei vittime</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/cipro-nord-affonda-un-traghetto-con-oltre-260-passeggeri-almeno-sei-vittime/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/cipro-nord-affonda-un-traghetto-con-oltre-260-passeggeri-almeno-sei-vittime/</guid>
+<pubDate>Sun, 30 Aug 2026 13:02:37 +0000</pubDate>
+<description>L’ambasciatore turco ha confermato la presenza di vittime in seguito all’affondamento dell’imbarcazione. In corso verifiche su presenza di italiani a bordo Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GJQN5BGZU5HO3BRFL7AHT5FB2I.jpg?smart=true&amp;auth=30f9dbdcc8507560cf7188af5a88aa2ba5a06145e00ce2f6bd51bd4ad5d8ad85&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Le mani di Trump sul petrolio del Venezuela</title>
 <link>https://www.ilgiornale.it/news/politica-estera/le-mani-di-trump-sul-petrolio-del-venezuela/</link>
@@ -752,20 +768,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/e-leao-saluta-i-rossoneri-dopo-7-stagioni-va-al-galatasaray/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
 <description>Calcio E Leao saluta i rossoneri dopo 7 stagioni: va al Galatasaray Bruciata la concorrenza all’Aston Villa: stipendio di 12 milioni l’anno Nicolò Schira</description>
-</item>
-<item>
-<title>La Roma di Gasperini debutterà in trasferta contro il Fenerbahce, la prima volta del Como in Champions sarà in casa contro il Lipsia</title>
-<link>https://www.ilgiornale.it/news/calcio/il-calendario-della-champions-league-linter-debutta-contro-il-real-madrid-napoli-contro-larsenal/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-calendario-della-champions-league-linter-debutta-contro-il-real-madrid-napoli-contro-larsenal/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
-<description>Calcio Il calendario della Champions League: l’Inter debutta contro il Real Madrid, Napoli contro l’Arsenal La Roma di Gasperini debutterà in trasferta contro il Fenerbahce, la prima volta del Como in Champions sarà in casa contro il Lipsia Alessandro Ferro</description>
-</item>
-<item>
-<title>Il centauro romagnolo non ripete l’exploit delle qualifiche, con pole e record del tracciato, nella sprint race. Il campione spagnolo passa alla prima curva e vince davanti al fratello e al pilota Aprilia</title>
-<link>https://www.ilgiornale.it/news/motori/motogp-battaglia-ad-aragon-la-pole-a-bezzecchi-la-sprint-a-marquez/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/motogp-battaglia-ad-aragon-la-pole-a-bezzecchi-la-sprint-a-marquez/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
-<description>Motori MotoGP, battaglia ad Aragon: la pole a Bezzecchi, la sprint a Marquez Il centauro romagnolo non ripete l’exploit delle qualifiche, con pole e record del tracciato, nella sprint race. Il campione spagnolo passa alla prima curva e vince davanti al fratello e al pilota Aprilia Luca Bocci</description>
 </item>
 </channel>
 </rss>
