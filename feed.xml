@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 06:07:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 06:18:06 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Staff, viaggi e attivismo: tutte le manovre di Alexandria Ocasio-Cortez in vista del 2028</title>
+<link>https://www.ilgiornale.it/news/politica-estera/staff-viaggi-e-attivismo-tutte-le-manovre-di-alexandria-ocasio-cortez-in-vista-del-2028/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/staff-viaggi-e-attivismo-tutte-le-manovre-di-alexandria-ocasio-cortez-in-vista-del-2028/</guid>
+<pubDate>Sun, 30 Aug 2026 06:07:31 +0000</pubDate>
+<description>La deputata socialista allarga la sua presenza nazionale e costruisce una coalizione progressista tra working class, afroamericani e nuovi attivisti Alberto Bellotto</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Q3WU5ADIQRFBPKPH3DZD2KC63U.jpg?smart=true&amp;auth=10de82e05fd653d9042ad7026900c7fa6bcf43daa8f3a6ce3df925243a280138&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Sparatoria nella notte a un rave party in Svizzera: “Diverse vittime”, è caccia al responsabile</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/sparatoria-nella-notte-a-un-rave-party-in-svizzera-diverse-vittime-e-caccia-al-responsabile/</link>
@@ -46,6 +54,14 @@
 <pubDate>Sun, 30 Aug 2026 05:07:22 +0000</pubDate>
 <description>L’isola artica vota per decidere se avviare i negoziati per l’ingresso nell’Unione europea. È battaglia fino all’ultimo voto Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/DT2LDTBIRFCQVD347X7IDRBSCU.jpg?smart=true&amp;auth=7d5071950585a5399f8770e09ae8ab57e6a0007357bad98a438432be45a7b50f&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>La guerra della Cina contro i comici: cosa c’è dietro l’ultima crociata di Xi</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/la-guerra-della-cina-contro-i-comici-cosa-ce-dietro-lultima-crociata-di-xi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/la-guerra-della-cina-contro-i-comici-cosa-ce-dietro-lultima-crociata-di-xi/</guid>
+<pubDate>Sun, 30 Aug 2026 04:00:01 +0000</pubDate>
+<description>l caso Guo Degang riaccende il dibattito sul controllo di Xi Jinping sulla comicità cinese. Dietro l’ultima stretta di Pechino c’è la battaglia per governare cultura, memoria e narrazione Federico Giuliani</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QFYO3RJCYFJE3LB2Y44WUI2EJA.jpg?smart=true&amp;auth=67ffbcf2d3822c66b1c2d0575424740344d3da1a27d8ecabacdff718c2b74ebe&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Spunta una foto di Giulia Presutti nel ristorante di Lavitola</title>
@@ -709,20 +725,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/di-battista-la-politica-si-stringe-attorno-allex-parlamentare-del-m5s/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
 <description>Parlamento Di Battista, la politica si stringe attorno all’ex parlamentare del M5s Da destra a sinistra, la politica tutta fa il tifo affinché si riprenda dal grave malore patito a Cuba Francesca Galici</description>
-</item>
-<item>
-<title>Politica internazionale</title>
-<link>https://www.ilgiornale.it/politica/politica-internazionale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/politica/politica-internazionale/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
-<description>Politica Politica › Europa Governo Interni Magistratura Parlamento Politica internazionale Quirinale</description>
-</item>
-<item>
-<title>Dopo il woke alla sinistra resta... il nulla</title>
-<link>https://www.ilgiornale.it/news/interni/dopo-il-woke-alla-sinistra-resta-il-nulla/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/dopo-il-woke-alla-sinistra-resta-il-nulla/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:17 +0000</pubDate>
-<description>commento Interni Dopo il woke alla sinistra resta... il nulla Alessandro Gnocchi</description>
 </item>
 </channel>
 </rss>
