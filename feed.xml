@@ -5,12 +5,20 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 07:18:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 07:29:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Presutti, foto da Lavitola. Portata lì dall’amica di Ranucci</title>
 <link>https://www.ilgiornale.it/news/politica/sigfrido-ricorso-formale-e-pressing-su-piervincenzi-presutti-foto-da-lavitola/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica/sigfrido-ricorso-formale-e-pressing-su-piervincenzi-presutti-foto-da-lavitola/</guid>
+<pubDate>Sun, 30 Aug 2026 06:47:42 +0000</pubDate>
+<description>Dopo aver denigrato il sostituto, gli ha “consigliato” di rifiutare l’incarico. La redazione di “Report” dilaniata. E ora spunta lo scatto della nuova conduttrice Pasquale Napolitano Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YEWQLOYSF5HDXCMEE7BRYA3MZ4.png?smart=true&amp;auth=36fdb91c0768756e4018d10a8d9f73936416f553726197bacf9d0d162803265d&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Presutti, foto da Lavitola. Portata lì dall’amica di Ranucci</title>
+<link>https://www.ilgiornale.it/news/interni/presutti-foto-da-lavitola-portata-li-dallamica-di-ranucci/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/presutti-foto-da-lavitola-portata-li-dallamica-di-ranucci/</guid>
 <pubDate>Sun, 30 Aug 2026 06:47:42 +0000</pubDate>
 <description>Dopo aver denigrato il sostituto, gli ha “consigliato” di rifiutare l’incarico. La redazione di “Report” dilaniata. E ora spunta lo scatto della nuova conduttrice Pasquale Napolitano Giulia Sorrentino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YEWQLOYSF5HDXCMEE7BRYA3MZ4.png?smart=true&amp;auth=36fdb91c0768756e4018d10a8d9f73936416f553726197bacf9d0d162803265d&amp;width=800&amp;height=290" medium="image" />
@@ -728,13 +736,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/schlein-avvisa-i-suoi-dibattiti-dannosi/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
 <description>Interni Schlein avvisa i suoi: “Dibattiti dannosi” La segretaria del Pd stronca il balletto sulle primarie: “Abbiamo perso tempo mentre Salvini mi dà ragione sugli extraprofitti” Pasquale Napolitano</description>
-</item>
-<item>
-<title>Il presidente del Pd in un video mostra disprezzo per l’elettorato della maggioranza. La premier replica: “Gli italiani hanno studiato sulla loro pelle le conseguenze della politica della sinistra”</title>
-<link>https://www.ilgiornale.it/news/interni/chi-vota-a-destra-studia-poco-e-meloni-bacchetta-bonaccini/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/chi-vota-a-destra-studia-poco-e-meloni-bacchetta-bonaccini/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:18 +0000</pubDate>
-<description>Interni “Chi vota a destra studia poco”. E Meloni bacchetta Bonaccini Il presidente del Pd in un video mostra disprezzo per l’elettorato della maggioranza. La premier replica: “Gli italiani hanno studiato sulla loro pelle le conseguenze della politica della sinistra” Michel Dessì</description>
 </item>
 </channel>
 </rss>
