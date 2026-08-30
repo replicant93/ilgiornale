@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 14:40:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 14:56:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Google Pixel 11 Pro, questione di software</title>
+<link>https://www.ilgiornale.it/news/hardware-e-software/google-pixel-11-pro-questione-di-software/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/hardware-e-software/google-pixel-11-pro-questione-di-software/</guid>
+<pubDate>Sun, 30 Aug 2026 14:48:37 +0000</pubDate>
+<description>Marco Lombardo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/PJRK5MQYJBGUTC6OSU4NQC422A.jfif?focal=323%2C170&amp;auth=c13c113756a6ebb29d2727f2bb86429804dab6501a37a25be387807091d9beab&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Chiara Ferragni, malore in Perù dopo la Montagna Arcobaleno: “Il corpo non rispondeva più”</title>
 <link>https://www.ilgiornale.it/news/personaggi/chiara-ferragni-malore-in-peru-dopo-la-montagna-arcobaleno-il-corpo-non-rispondeva-piu/</link>
@@ -764,13 +772,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-milan-stende-2-0-il-venezia-a-san-siro-i-rossoneri-salgono-a-sei-punti-in-classifica/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
 <description>Calcio Il Milan stende 2-0 il Venezia a San Siro: i rossoneri salgono a sei punti in classifica Seconda vittoria consecutiva per i rossoneri che restano a punteggio pieno. Succede tutto nella ripresa Sblocca il match Gonçalo Ramos poi l’autogol di Halhal fissa il risultato sul 2-0 Antonio Prisco</description>
-</item>
-<item>
-<title>Ma la testa è altrove, divisa tra mercato, il ko di Yildiz e il bomber inceppato a Frosinone</title>
-<link>https://www.ilgiornale.it/news/calcio/la-juve-baciata-dalleuropa-rimette-alla-prova-kolo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-juve-baciata-dalleuropa-rimette-alla-prova-kolo/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
-<description>Calcio La Juve baciata dall’Europa rimette alla prova Kolo Ma la testa è altrove, divisa tra mercato, il ko di Yildiz e il bomber inceppato a Frosinone Domenico Latagliata</description>
 </item>
 </channel>
 </rss>
