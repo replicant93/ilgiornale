@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 30 Aug 2026 10:07:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 10:18:20 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Morto annegato Silvano Loia, compagno dell’attrice Francesca Neri</title>
+<link>https://www.ilgiornale.it/news/personaggi/morto-annegato-silvano-loia-compagno-dellattrice-francesca-neri/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/morto-annegato-silvano-loia-compagno-dellattrice-francesca-neri/</guid>
+<pubDate>Sun, 30 Aug 2026 10:14:14 +0000</pubDate>
+<description>L’allarme è stato dato dal gruppo di amici con il quale si trovava nel litorale Viterbese: un malore potrebbe essere stata la causa del decesso per annegamento Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CQKFUIUHM5FGVLYPUZ2TR3H4OA.jpg?focal=446%2C198&amp;auth=a7cd00f5b8a4631464ba574a1c69b23e722572688948eaebf27db1aafddba3ef&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Tragedia in Piemonte, monossido di carbonio in una baita: un morto e 5 intossicati</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/tragedia-in-piemonte-monossido-di-carbonio-in-una-baita-un-morto-e-5-intossicati/</link>
@@ -734,13 +742,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/essilux-vara-il-buyback-e-il-titolo-rialza-la-testa/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:19 +0000</pubDate>
 <description>Aziende Essilux vara il buyback. E il titolo rialza la testa La speranza di Milleri è che il programma di riacquisto azioni contribuisca a rilanciare il titolo, che a partire dallo scorso novembre ha accusato ribassi importanti Marco Negri</description>
-</item>
-<item>
-<title>Il Fisco ripristina la percentuale sulle cartelle esattoriali. Dai costi aggiuntivi per i cittadini al calendario della misura</title>
-<link>https://www.ilgiornale.it/news/cittadini/riscossione-debiti-ritorna-laggio-ecco-quanto-dovranno-pagare-in-piu-i-contribuenti-e-da-quando/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/riscossione-debiti-ritorna-laggio-ecco-quanto-dovranno-pagare-in-piu-i-contribuenti-e-da-quando/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:19 +0000</pubDate>
-<description>Cittadini Riscossione debiti, ritorna l’aggio: ecco quanto dovranno pagare in più i contribuenti e da quando Il Fisco ripristina la percentuale sulle cartelle esattoriali. Dai costi aggiuntivi per i cittadini al calendario della misura Federico Garau</description>
 </item>
 </channel>
 </rss>
