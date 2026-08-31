@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 16:38:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 16:49:14 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“È commemorazione”. In 18 archiviati per il saluto romano a Ramelli</title>
+<link>https://www.ilgiornale.it/news/attualita/e-commemorazione-in-18-archiviati-per-il-saluto-romano-a-ramelli/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/e-commemorazione-in-18-archiviati-per-il-saluto-romano-a-ramelli/</guid>
+<pubDate>Mon, 31 Aug 2026 16:31:55 +0000</pubDate>
+<description>Nelle manifestazioni in suo ricordo, il saluto è “riconducibile piuttosto all’intento di ricordare” un ragazzo ucciso per le sue idee Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/XBJVMEUTKZOTFH4JCK4XMZRM5M.jpg?focal=1264%2C1172&amp;auth=67f2a386c05d6024f817648234ea4c5a7e5133b74b19808d379e3fad95ea3954&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>“Non ho più niente da dare”. Messi annuncia il ritiro dall’Argentina</title>
+<link>https://www.ilgiornale.it/news/calcio/non-ho-piu-niente-da-dare-messi-annuncia-il-ritiro-dallargentina/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/non-ho-piu-niente-da-dare-messi-annuncia-il-ritiro-dallargentina/</guid>
+<pubDate>Mon, 31 Aug 2026 16:31:49 +0000</pubDate>
+<description>La Pulce non indosserà più la maglia dell’Albiceleste: l’addio pronunciato sui social con una lettera scritta il 20 luglio Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QDBTAJQPNNH6JP4PORX4REDZWE.jpg?smart=true&amp;auth=f8f0f09c3085ebe70f295b2de325577f9ea705b4e33f903c79f3680320653f21&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Bambini salvati a Merano, Meloni: “Grazie a coraggio e prontezza degli uomini in divisa”</title>
 <link>https://www.ilgiornale.it/news/interni/bambini-salvati-a-merano-meloni-grazie-a-coraggio-e-prontezza-degli-uomini-in-divisa/</link>
@@ -783,22 +799,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/dal-martirio-alla-soglia-del-ridicolo/</guid>
 <pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
 <description>commento Interni Dal martirio alla soglia del ridicolo Marco Zucchetti</description>
-</item>
-<item>
-<title>Droni e super missili: cambio di passo russo e spettri ucraini</title>
-<link>https://www.ilgiornale.it/news/guerra/droni-e-super-missili-cambio-di-passo-russo-e-spettri-ucraini/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/droni-e-super-missili-cambio-di-passo-russo-e-spettri-ucraini/</guid>
-<pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
-<description>DIRETTA Il direttore Cia ha proposto un vertice Trump-Putin-Zelensky. Mosca: “Prepariamo raid massicci contro il settore energetico” Droni e super missili: cambio di passo russo e spettri ucraini Notte di nuovi attacchi tra Russia e Ucraina: Kiev colpita da droni e incendi, mentre le forze ucraine centrano una raffineria e una base aerea russe. La Cia propone un vertice tra i tre presidenti Redazione web Patriot, scorte al limite: così la guerra all’Iran indebolisce lo scudo della Nato contro la Russia Ecco come gli Usa vogliono ridurre le truppe americane in Europa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/KKEZFVY6IZCBZCYLXTDJOQGXXQ.jpg?smart=true&amp;auth=7c9b0f64e8ab583afba22d6e48315e28ff8e5fd9c59add25543799a3f57af8f1&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>La “supercella” su Cremona: crolla una guglia del Duomo</title>
-<link>https://www.ilgiornale.it/news/attualita/la-supercella-su-cremona-crolla-una-guglia-del-duomo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/la-supercella-su-cremona-crolla-una-guglia-del-duomo/</guid>
-<pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
-<description>Vento e grandine: in 10 minuti danneggiate 10mila auto e 43 feriti Antonio Borrelli</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VSYOFOUHBJBBNAIKY7QDOOHGUY.jpg?focal=1281%2C863&amp;auth=ad1300a2c248f16d182a377274d46c9c8c8314c4ec1ccf2a6c1e3230c4c9c0ed&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
