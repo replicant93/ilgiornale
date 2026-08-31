@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 09:37:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 09:48:49 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Rai, Fagnani pronta a lasciare. “A giugno una lettera all’azienda”</title>
@@ -53,6 +53,14 @@
 <pubDate>Mon, 31 Aug 2026 09:00:57 +0000</pubDate>
 <description>L’episodio avvenuto a Firenze scatena il dibattito sullo sfregio ai nostri simboli e sulla gestione della sicurezza. Ecco cosa è successo Federico Garau Dal martirio alla soglia del ridicolo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MYJP3XFZLZH5PPD5O7BJ3WKJMM.jpg?focal=501%2C222&amp;auth=4cbc197c029d0c683e282857dc50bfe4f9e7f8c4465947b6fba3585932db5e9f&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Cronaca internazionale</title>
+<link>https://www.ilgiornale.it/esteri/cronaca-internazionale</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/esteri/cronaca-internazionale</guid>
+<pubDate>Mon, 31 Aug 2026 08:56:24 +0000</pubDate>
+<description>Il video racconto dell'intervento della polizia e la caccia all'uomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F08-30-2026%2Ft_b4b602be2df14a66ab0e7b365d830ee8_name_file_640x360_600_v4_.jpg?smart=true&amp;auth=184546c2220fac164d153e7d28ebe36e77c2a33c3989295b2f1caa7454ead6fb&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
 <title>Rivoluzione Zelig: lasciano Bisio e Incontrada, arrivano Hunziker e Ale &amp; Franz</title>
@@ -793,14 +801,6 @@
 <pubDate>Sat, 29 Aug 2026 15:03:37 +0000</pubDate>
 <description>Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/WVFERW36KVCAZNQ3KZXML6SAEU.jpg?focal=1305%2C1010&amp;auth=033c757834ec88729e68d660186fca49bc19ff637e33697f5a7dfcd97ec5e18e&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Cuba, Alessandro Di Battista ricoverato in gravi condizioni: “Forti mal di testa e malore”</title>
-<link>https://www.ilgiornale.it/news/nazionale/cuba-alessandro-di-battista-ricoverato-in-gravi-condizioni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/cuba-alessandro-di-battista-ricoverato-in-gravi-condizioni/</guid>
-<pubDate>Sat, 29 Aug 2026 14:43:49 +0000</pubDate>
-<description>La politica si stringe attorno all'ex parlamentare del M5s L’ex deputato si trova sull’isola per una serie di reportage. I pentastellati: “Grande apprensione, ci stringiamo attorno ai familiari” Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ALXZLT7OWJBTTFV5EQBSV6GBPU.jpg?smart=true&amp;auth=5366c9d6f3e7a7143522a0437796f735b1cd9c816a4b970b3453b961bcc035b9&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
