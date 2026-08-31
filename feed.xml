@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 18:48:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 18:59:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Giornale riapre il caso Autogrill. E ora le domande si moltiplicano</title>
+<link>https://www.ilgiornale.it/news/interni/il-giornale-riapre-il-caso-autogrill-e-ora-le-domande-si-moltiplicano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-giornale-riapre-il-caso-autogrill-e-ora-le-domande-si-moltiplicano/</guid>
+<pubDate>Mon, 31 Aug 2026 18:53:35 +0000</pubDate>
+<description>In principio fu l’Autogrill - L'editoriale di Cerno Secondo Michele Anzaldi, intervistato sull’editoriale del direttore Tommaso Cerno, lo scandalo inesistente venne costruito ad arte. Ma rimane il dubbio se sia stata solo Report o se ci fossero altri attori in gioco Francesco Boezi Le foto e i documenti che riscrivono il caso</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/BL7XZZUNBFFNBCXTUIPQMIWQBQ.jpg?focal=1568%2C185&amp;auth=a8ab2a2c8c36ae1ddf4c311d5975c2369bcbf73a75e0721cf88442adad5725ee&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Una Roma devastante asfalta 4-0 il Lecce: decisiva la doppietta di Malen</title>
 <link>https://www.ilgiornale.it/news/calcio/una-roma-devastante-asfalta-4-0-il-lecce-decisiva-la-doppietta-di-malen/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 10:15:51 +0000</pubDate>
 <description>Ranucci senza freni: “Smerdare perchè ti vogliono ammazzare, io strutturato per difendermi da solo” Il conduttore scrive alla Rai: "Rimozione illegittima e discriminatoria”. E chiede pure il risarcimento Dal palco di Agrigento l’ex conduttore di Report denuncia attacchi e accuse contro di lui e ironizza sull’appoggio della deputata grillina Ida Carmina Redazione web Ora Ranucci pensa alle elezioni: “Non escludo niente”. E la Rai avvisa: “Su Report possibili opacità e interferenze” Dal martirio alla soglia del ridicolo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NVMSLSYTPJHQTOJW4J55DABVGA.jpg?smart=true&amp;auth=1011b213a88b7e3bd3499e3dc4a3f6ee87cc5496dac13df9416fe14e08c1af8a&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Morto annegato Silvano Loia, compagno dell’attrice Francesca Neri</title>
-<link>https://www.ilgiornale.it/news/personaggi/morto-annegato-silvano-loia-compagno-dellattrice-francesca-neri/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/morto-annegato-silvano-loia-compagno-dellattrice-francesca-neri/</guid>
-<pubDate>Sun, 30 Aug 2026 10:14:14 +0000</pubDate>
-<description>L’allarme è stato dato dal gruppo di amici con il quale si trovava nel litorale Viterbese: un malore potrebbe essere stata la causa del decesso per annegamento Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CQKFUIUHM5FGVLYPUZ2TR3H4OA.jpg?focal=446%2C198&amp;auth=a7cd00f5b8a4631464ba574a1c69b23e722572688948eaebf27db1aafddba3ef&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
