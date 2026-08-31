@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 10:48:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 10:59:15 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Report, lo scatto a Renzi e Mancini e i legami con i servizi. Le foto e i documenti che riscrivono il caso</title>
+<link>https://www.ilgiornale.it/news/interni/report-lautogrill-e-i-legami-con-i-servizi-le-foto-e-i-documenti-che-riscrivono-il-caso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/report-lautogrill-e-i-legami-con-i-servizi-le-foto-e-i-documenti-che-riscrivono-il-caso/</guid>
+<pubDate>Mon, 31 Aug 2026 10:54:04 +0000</pubDate>
+<description>In principio fu l’Autogrill Tolto il segreto di Stato, la Belloni potrebbe chiarire i rapporti tra Sigfrido e gli 007. Spunta una foto inedita: controlli all’auto di Mancini Francesco Boezi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GCFLCYX3RVEQTK4VA4JEDMQWCM.jpg?smart=true&amp;auth=b31b4cced9307bff4aed46aedf20a80d14172f24da501ad19be6dfba41ef08b0&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Una cena a base di orzo riduce il colesterolo. Lo dice la scienza</title>
 <link>https://www.ilgiornale.it/news/dieta-e-alimentazione/una-cena-a-base-di-orzo-riduce-il-colesterolo-lo-dice-la-scienza/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 29 Aug 2026 18:42:11 +0000</pubDate>
 <description>Il Papa in battello sul lago Albano - VIDEO Giornata storica sul lago Albano. Paolo VI e Giovanni Paolo II parteciparono alla processione ma non percorsero il tratto del lago Nico Spuntoni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VOJSXORVXNHRJFHFP2T2WCBV4M.jpg?smart=true&amp;auth=5c3432129e8b99d771c8bd279e7a5a461c873f91a582597654a1185e8ca2194b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Va a vivere col fidanzato non musulmano, 20enne minacciata dai genitori: “Se non torni avrai una vita infernale”</title>
-<link>https://www.ilgiornale.it/news/nazionale/va-a-vivere-col-fidanzato-non-musulmano-20enne-minacciata-dai-genitori-se-non-torni-avrai-una-vita-infernale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/va-a-vivere-col-fidanzato-non-musulmano-20enne-minacciata-dai-genitori-se-non-torni-avrai-una-vita-infernale/</guid>
-<pubDate>Sat, 29 Aug 2026 17:52:57 +0000</pubDate>
-<description>Il caso a Rimini, dove ci sarebbe stato anche un tentativo di aggressione con calci e pugni Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7L4D5ZN3HJNQRBEUONVZLUT6XA.jpg?focal=1813%2C1010&amp;auth=844cd47f82fce8800f67abb6f1fe350e19239464b546f336b4a314069441a58f&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
