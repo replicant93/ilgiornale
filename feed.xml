@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 17:48:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 17:59:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>G20, proteste europee per la presenza del ministro russo</title>
+<link>https://www.ilgiornale.it/news/politica-estera/g20-proteste-europee-per-la-presenza-del-ministro-russo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/g20-proteste-europee-per-la-presenza-del-ministro-russo/</guid>
+<pubDate>Mon, 31 Aug 2026 17:54:53 +0000</pubDate>
+<description>Gli europei sono riusciti a evitare che Anton Siluanov fosse presente nella foto di gruppo del vertice Francesco Curridori</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/BOK4WSSRUNCDHIWGGYRC6XMEYM.jpg?focal=4501%2C3027&amp;auth=e4322eb37f7a99431f885c1f448171e105e30d65ce81eab4ab6c31809e598f0c&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“Se ne resti in vacanza…”. Adesso anche i socialisti di Ceuta scaricano Sanchez</title>
 <link>https://www.ilgiornale.it/news/politica-estera/se-ne-resti-in-vacanza-adesso-anche-i-socialisti-di-ceuta-scaricano-sanchez/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
 <description>Lodovica Bulian</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/KSYP2CJ7YBF5DMXHEL4QGHTA2Q.jpg?focal=1622%2C794&amp;auth=0c3ac81407a10d2e02150959035c4987e323b138f3f78e572b8303e3f259e685&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>“Report è falso. Negli Usa dicono che Ranucci sapeva dell’attentato”</title>
-<link>https://www.ilgiornale.it/intervista/politica-internazionale/report-e-falso-negli-usa-dicono-che-ranucci-sapeva-dellattentato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/intervista/politica-internazionale/report-e-falso-negli-usa-dicono-che-ranucci-sapeva-dellattentato/</guid>
-<pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
-<description>Hoara Borselli</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/QNLJXUV2GRHBBLOLZD5YMEJHPM.jpg?focal=365%2C287&amp;auth=749e83cd869748ab6e62fc23af2aee5c8703558ee613dbfeb84b10390274e325&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
