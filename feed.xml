@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 08:37:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 08:49:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ceuta costa il 20% sul Pil locale. E Sanchez crolla nei consensi</title>
+<link>https://www.ilgiornale.it/news/politica-estera/ceuta-costa-il-20-sul-pil-locale-e-sanchez-crolla-nei-consensi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/ceuta-costa-il-20-sul-pil-locale-e-sanchez-crolla-nei-consensi/</guid>
+<pubDate>Mon, 31 Aug 2026 08:40:02 +0000</pubDate>
+<description>“Le Ong tedesche danno ai migranti acido e stagnola per le bottiglie-bomba contro la polizia” Quasi il 63% degli spagnoli boccia la gestione dell’emergenza del governo di Sanchez: la sua coalizione ha perso oltre 2,2 milioni di voti in 3 anni e, secondo i sondaggi, perderebbe 20 deputati al voto Francesca Galici “La Lega non dice, fa”. E Alessandro Morelli vola a Ceuta per mostrare la vera faccia della crisi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/V7MAIBISBBFDPJODVZ3NO44DWM.jpg?smart=true&amp;auth=38c404ff2252f6d01636a3be515c9f805d0a9d3e7707d1d49518defe9acb2c2a&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Federer nella Hall of Fame: le lacrime per la moglie durante la cerimonia. Chi è Mirka Vavrinec</title>
 <link>https://www.ilgiornale.it/news/tennis/federer-nella-hall-of-fame-le-lacrime-per-la-moglie-durante-la-cerimonia-chi-e-mirka-vavrinec/</link>
@@ -787,13 +795,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/se-la-sofferenza-di-un-uomo-diventa-un-passatempo/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:21 +0000</pubDate>
 <description>La stanza di Feltri Se la sofferenza di un uomo diventa un passatempo Se davvero, come emerge dalla ricostruzione, dietro questo gesto non vi era altro che la ricerca di uno svago, e non riesco a ravvisare un altro motivo, siamo davanti a qualcosa di desolante: la sofferenza di un altro essere umano trasformata in passatempo Vittorio Feltri</description>
-</item>
-<item>
-<title>Ecco il menu della Cena dei Mille di Parma</title>
-<link>https://www.ilgiornale.it/news/retrogusto/ecco-il-menu-della-cena-dei-mille-di-parma/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/ecco-il-menu-della-cena-dei-mille-di-parma/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:21 +0000</pubDate>
-<description>Retrogusto Ecco il menu della Cena dei Mille di Parma Svelati i piatti della settima edizione dell’evento che si terrà l’8 settembre nel centro della città emiliana, i cui biglietti disponibili sono stati venduti a luglio in pochi minuti. Un viaggio gastronomico tra il territorio e la Campania del guest chef di questa edizione, Gennaro Esposito, che porterà la Minestra di pasta mista con pesce di scoglio. Prima un aperitivo con 18 postazioni Andrea Cuomo</description>
 </item>
 </channel>
 </rss>
