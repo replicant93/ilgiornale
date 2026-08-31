@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 17:59:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 18:10:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tragedia a Piacenza, corriere muore durante una consegna. Era il suo ultimo giorno di lavoro</title>
+<link>https://www.ilgiornale.it/news/cronache/corriere-muore-durante-una-consegna-allultimo-giorno-di-lavoro-pasquale-andriotta-temeva-di-non-avere-il-contratto-rinnovato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/corriere-muore-durante-una-consegna-allultimo-giorno-di-lavoro-pasquale-andriotta-temeva-di-non-avere-il-contratto-rinnovato/</guid>
+<pubDate>Mon, 31 Aug 2026 18:03:01 +0000</pubDate>
+<description>Il 42enne, corriere in appalto per BRT e padre di tre figli, si è sentito male mentre effettuava una consegna a Piacenza. Proprio quel giorno scadeva il suo contratto a termine. I colleghi erano in sciopero per denunciare carichi di lavoro e turni troppo pesanti Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/S6LMHAUDS5A5DDMG5SD6WQAA7U.png?focal=789%2C312&amp;auth=147b121ad5ffe565681de320e06a0d95e58cc4bac0cb121892d294f902800522&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>G20, proteste europee per la presenza del ministro russo</title>
 <link>https://www.ilgiornale.it/news/politica-estera/g20-proteste-europee-per-la-presenza-del-ministro-russo/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
 <description>Pasquale Napolitano , Giulia Sorrentino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TPXFCNNV7ZAKBC246YJGAWM3PU.jpg?focal=349%2C491&amp;auth=6269856982383b7d03c0048745e84d2223850494a364cedda16971858ff8f3ec&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Macché altro mandante misterioso: il “Corrado” è un refuso</title>
-<link>https://www.ilgiornale.it/news/interni/macche-altro-mandante-misterioso-il-corrado-e-un-refuso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/macche-altro-mandante-misterioso-il-corrado-e-un-refuso/</guid>
-<pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
-<description>Lodovica Bulian</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/KSYP2CJ7YBF5DMXHEL4QGHTA2Q.jpg?focal=1622%2C794&amp;auth=0c3ac81407a10d2e02150959035c4987e323b138f3f78e572b8303e3f259e685&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
