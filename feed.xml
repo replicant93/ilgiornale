@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 19:37:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 19:48:24 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Situazione insostenibile”. In centiania protestano a Ceuta per l’emergenza migranti</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/situazione-insostenibile-in-centiania-protestano-a-ceuta-per-lemergenza-migranti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/situazione-insostenibile-in-centiania-protestano-a-ceuta-per-lemergenza-migranti/</guid>
+<pubDate>Mon, 31 Aug 2026 19:39:04 +0000</pubDate>
+<description>“Se ne resti in vacanza…”. Adesso anche i socialisti di Ceuta scaricano Sanchez Migranti, Viminale: altri 15 giorni di stop a Schengen con la Spagna. Arresti e repingimenti, ecco tutti i numeri Il premier spagnolo è sotto attacco da parte dei membri del suo stesso partito presenti nell’exclave fin dall’inizio dell’invasione Francesca Galici Ceuta, Sanchez tira fuori il complotto: “Fake news da Russia, Israele ed estrema destra” “Situazione insostenibile”. In centiania protestano a Ceuta per l’emergenza migranti</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/XXM6OR5CXND47JD5YU7UKGP2FU.jpg?focal=1800%2C437&amp;auth=f212f82925ae633be5bc746b142f5cc19268c8a0b252394619f5b3591b7b6837&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Riforma elettorale, presentato l’emendamento del centrodestra sulle preferenze</title>
 <link>https://www.ilgiornale.it/news/governo/riforma-elettorale-presentato-lemendamento-del-centrodestra-sulle-preferenze/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 10:28:45 +0000</pubDate>
 <description>Di Battista ricoverato all’Avana: “Lucido, ha parlato con i medici”. Il post sui social: “Ce la metterò tutta per tornare presto” E i dietrologi si scatenano: Il vaccino, la Cia, Israele... L’ex deputato dei 5 Stelle, seppur vigile, è ancora in condizioni gravissime. Secondo alcune indiscrezioni, avrebbe perso conoscenza dopo essere stato colpito da un ictus Redazione web La politica si stringe attorno all'ex parlamentare del M5s “Dibba”, il grillino ortodosso che ha lasciato i 5Stelle per i reportage</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/KRMFZZAKYFBLPPZENBWFP24KOQ.jpg?focal=2210%2C429&amp;auth=00deb798170df8c9b9dcf103bdec0024f9f373d2468e5b9d0d75a48631c1bba5&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Carrai in pasto ai Pro pal</title>
-<link>https://www.ilgiornale.it/news/interni/carrai-in-pasto-ai-pro-pal/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/carrai-in-pasto-ai-pro-pal/</guid>
-<pubDate>Sun, 30 Aug 2026 10:26:10 +0000</pubDate>
-<description>commento Interni Carrai in pasto ai Pro pal Fiamma Nirenstein</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FO6YZVJT2MZJDPOMKEMAEBTS7CM.jpg?smart=true&amp;auth=37560674d803c2427e95d51caeb7fe4dfef174cb8c170dcc96cb1d157f301847&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
