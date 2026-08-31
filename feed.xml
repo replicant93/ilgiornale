@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 19:10:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 19:26:16 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Riforma elettorale, presentato l’emendamento del centrodestra sulle preferenze</title>
+<link>https://www.ilgiornale.it/news/governo/riforma-elettorale-presentato-lemendamento-del-centrodestra-sulle-preferenze/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/riforma-elettorale-presentato-lemendamento-del-centrodestra-sulle-preferenze/</guid>
+<pubDate>Mon, 31 Aug 2026 19:24:27 +0000</pubDate>
+<description>Fino a tre indicazioni sulla stessa scheda, alternanza di uomo-donna nelle liste e massimo sette candidati Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TLAHDZABCVJMJKFBJX4UEBSEJU.jpg?focal=2588%2C653&amp;auth=d0b65793e8c7e2e1f5f772f3724604282e5fa886eb5401db00e17bb7d81e55c5&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Il Giornale riapre il caso Autogrill. E ora le domande si moltiplicano</title>
 <link>https://www.ilgiornale.it/news/interni/il-giornale-riapre-il-caso-autogrill-e-ora-le-domande-si-moltiplicano/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 10:26:10 +0000</pubDate>
 <description>commento Interni Carrai in pasto ai Pro pal Fiamma Nirenstein</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FO6YZVJT2MZJDPOMKEMAEBTS7CM.jpg?smart=true&amp;auth=37560674d803c2427e95d51caeb7fe4dfef174cb8c170dcc96cb1d157f301847&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Ora Ranucci pensa alle elezioni: “Non escludo niente”. E la Rai avvisa: “Su Report possibili opacità e interferenze”</title>
-<link>https://www.ilgiornale.it/news/interni/ora-ranucci-pensa-alle-elezioni-non-escludo-niente-e-la-rai-avvisa-su-report-possibili-opacita-e-interferenze/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ora-ranucci-pensa-alle-elezioni-non-escludo-niente-e-la-rai-avvisa-su-report-possibili-opacita-e-interferenze/</guid>
-<pubDate>Sun, 30 Aug 2026 10:15:51 +0000</pubDate>
-<description>Ranucci senza freni: “Smerdare perchè ti vogliono ammazzare, io strutturato per difendermi da solo” Il conduttore scrive alla Rai: "Rimozione illegittima e discriminatoria”. E chiede pure il risarcimento Dal palco di Agrigento l’ex conduttore di Report denuncia attacchi e accuse contro di lui e ironizza sull’appoggio della deputata grillina Ida Carmina Redazione web Ora Ranucci pensa alle elezioni: “Non escludo niente”. E la Rai avvisa: “Su Report possibili opacità e interferenze” Dal martirio alla soglia del ridicolo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NVMSLSYTPJHQTOJW4J55DABVGA.jpg?smart=true&amp;auth=1011b213a88b7e3bd3499e3dc4a3f6ee87cc5496dac13df9416fe14e08c1af8a&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
