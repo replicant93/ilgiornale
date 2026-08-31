@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 08:11:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 08:26:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’uomo che vendette se stesso</title>
+<link>https://www.ilgiornale.it/news/calcio/luomo-che-vendette-se-stesso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/luomo-che-vendette-se-stesso/</guid>
+<pubDate>Mon, 31 Aug 2026 08:17:32 +0000</pubDate>
+<description>Calcio L’uomo che vendette se stesso Marco Lombardo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/EERJI3LB7ZAGLAZ57F6KFJ64FM.JPG?smart=true&amp;auth=982e0baa7a82567f39c300abfcd4d86995340e09c052273d30c26cb91a41336e&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>“Vi racconto il delitto inspiegabile del piccolo Cristiano e quella lettera nelle carte del massacro di Carnevale”</title>
 <link>https://www.ilgiornale.it/intervista/cronaca-nera/vi-racconto-il-delitto-inspiegabile-del-piccolo-cristiano-e-quella-lettera-nelle-carte-del-massacro-di-carnevale/</link>
@@ -785,13 +793,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/candidare-yossra-fakir-solo-marketing-del-dolore/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:21 +0000</pubDate>
 <description>La stanza di Feltri Candidare Yossra Fakir? Solo marketing (del dolore) Se possiede qualità, idee e competenze particolari, ci vengano illustrate Vittorio Feltri</description>
-</item>
-<item>
-<title>Valle Aurina, i giorni del Graukäse</title>
-<link>https://www.ilgiornale.it/news/retrogusto/valle-aurina-i-giorni-del-graukase/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/valle-aurina-i-giorni-del-graukase/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:21 +0000</pubDate>
-<description>Retrogusto Valle Aurina, i giorni del Graukäse Dal 5 al 20 settembre nell’area altoatesina verrà celebrato il “formaggio grigio” tra assaggi, incontri con i produttori, cene e visite alla scoperta di un prodotto nato nei masi e nelle malghe dalla necessità contadina di non sprecare nulla. Un modo per raccontare non soltanto un prodotto unico ma anche il modello turistico scelto dalla valle, all’insegna della sostenibilità Andrea Cuomo</description>
 </item>
 </channel>
 </rss>
