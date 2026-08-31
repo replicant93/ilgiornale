@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 16:49:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 17:00:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Perché gli Stati Uniti hanno attaccato l'isola di Larak</title>
+<link>https://www.ilgiornale.it/news/guerra/un-avamposto-cruciale-nello-stretto-di-hormuz-ecco-perche-gli-usa-hanno-attaccato-lisola-di-larak/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/un-avamposto-cruciale-nello-stretto-di-hormuz-ecco-perche-gli-usa-hanno-attaccato-lisola-di-larak/</guid>
+<pubDate>Mon, 31 Aug 2026 16:54:31 +0000</pubDate>
+<description>DIRETTA Guerra Bessent al G20: “Porremo fine a 47 anni di regime terribile”. Trump minaccia una rappresaglia dopo gli attacchi contro le basi Usa in Giordania: “Li colpiremo duramente” Perché gli Stati Uniti hanno attaccato l'isola di Larak Gli Stati Uniti hanno bombardato l’isola di Larak. Il presidente Usa: “Stato fallito”. Teheran: “Esercito americano è un’armata hollywoodiana, sarà sconfitto” Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/M2F4I6AMHFDV5LBDH7R24WDIHQ.jpg?smart=true&amp;auth=3568d88de9c395094195e169014d52fb90cc24c732a2197e3546ac070066f1f1&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>“È commemorazione”. In 18 archiviati per il saluto romano a Ramelli</title>
 <link>https://www.ilgiornale.it/news/attualita/e-commemorazione-in-18-archiviati-per-il-saluto-romano-a-ramelli/</link>
@@ -792,13 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
 <description>Paolo Manzo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/PGZD7CHUTNFZNO2XI4YQYTFZGE.jpg?focal=1036%2C1229&amp;auth=9b881f70aed0b31b86b15b0e50b1a01add34405315ea4ee2d2d859d90e91cf20&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Dal martirio alla soglia del ridicolo</title>
-<link>https://www.ilgiornale.it/news/interni/dal-martirio-alla-soglia-del-ridicolo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/dal-martirio-alla-soglia-del-ridicolo/</guid>
-<pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
-<description>commento Interni Dal martirio alla soglia del ridicolo Marco Zucchetti</description>
 </item>
 </channel>
 </rss>
