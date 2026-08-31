@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 03:11:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 03:26:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Gli errori difensivi figli di scarsa attenzione</title>
+<link>https://www.ilgiornale.it/news/calcio/gli-errori-difensivi-figli-di-scarsa-attenzione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/gli-errori-difensivi-figli-di-scarsa-attenzione/</guid>
+<pubDate>Mon, 31 Aug 2026 03:16:46 +0000</pubDate>
+<description>commento Calcio Gli errori difensivi figli di scarsa attenzione Tony Damascelli</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FBMBKS24BURILLIA2NWA2M6JJF4.png?smart=true&amp;auth=350d7bf71fde71ed635a596675930a58bc764773eada92ba38c667f237b390f7&amp;width=100&amp;height=100" medium="image" />
+</item>
 <item>
 <title>All’Inter basta il gol di Calhanoglu per battere il Cagliari e tornare in testa</title>
 <link>https://www.ilgiornale.it/news/calcio/allinter-basta-il-gol-di-calhanoglu-per-battere-il-cagliari-e-tornare-in-testa/</link>
@@ -772,13 +780,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/malago-scarica-infantino-simonelli-no/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
 <description>Calcio Malagò scarica Infantino. Simonelli no L’Italia sceglie l’Uefa, il presidente della Lega A va controcorrente: un altro dissenso sulla linea della Figc Franco Ordine</description>
-</item>
-<item>
-<title>Sorteggio ricco di incroci pesanti per le italiane. I nerazzurri sfidano due big, mentre Fabregas tornerà al Camp Nou da avversario</title>
-<link>https://www.ilgiornale.it/news/calcio/champions-linter-pesca-liverpool-e-real-anche-la-roma-ritorva-mou-psg-e-city-per-il-napoli-barca-per-il-como/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/champions-linter-pesca-liverpool-e-real-anche-la-roma-ritorva-mou-psg-e-city-per-il-napoli-barca-per-il-como/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:20 +0000</pubDate>
-<description>Calcio Champions, l’Inter pesca Liverpool e Real. Anche la Roma ritrova Mou, Psg e City per il Napoli. Barça per il Como Sorteggio ricco di incroci pesanti per le italiane. I nerazzurri sfidano due big, mentre Fabregas tornerà al Camp Nou da avversario Luca Bocci</description>
 </item>
 </channel>
 </rss>
