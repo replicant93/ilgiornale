@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 06:59:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 07:11:16 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Franceschini choc: “Ho il Parkinson, è stata una botta tremenda”</title>
+<link>https://www.ilgiornale.it/news/interni/franceschini-choc-ho-il-parkinson-e-stata-una-botta-tremenda/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/franceschini-choc-ho-il-parkinson-e-stata-una-botta-tremenda/</guid>
+<pubDate>Mon, 31 Aug 2026 07:09:39 +0000</pubDate>
+<description>L’ex ministro rivela la diagnosi ricevuta nel 2020 e la scelta di rendere pubblica la malattia: “Non isolatevi, continuate a vivere”. Poi l’appello per cure e assistenza accessibili a tutti Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/65D5EGFL35KWDPWF7FSALD4NP4.jpg?focal=232%2C90&amp;auth=52f9eb99c42d6c9a0f842962c9093729ed8c8b4dd852c5d0d544b32a79dd05f0&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>È quasi sempre così: Di Battista e la dinamica social</title>
 <link>https://www.ilgiornale.it/news/attualita/e-quasi-sempre-cosi-di-battista-e-la-dinamica-social/</link>
@@ -773,13 +781,6 @@
 <title>Bonaccini Opens in new window</title>
 <link>https://www.ilgiornale.it/news/esteri/bonaccini-attacca-gli-elettori-di-destra-ma-sui-social-e-un-boomerang-pochi-follower-e-pioggia-di-critiche/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/esteri/bonaccini-attacca-gli-elettori-di-destra-ma-sui-social-e-un-boomerang-pochi-follower-e-pioggia-di-critiche/</guid>
-<pubDate>Sat, 29 Aug 2026 14:31:21 +0000</pubDate>
-<description>In evidenza Sigfrido Ranucci Opens in new window Ceuta Opens in new window Bonaccini Opens in new window Alluvione in Nepal Opens in new window Islam e politica Opens in new window Aggiornato alle ore 14:20</description>
-</item>
-<item>
-<title>Ceuta Opens in new window</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/era-tutto-sotto-controllo-ma-ora-madrid-chiede-aiuto-allue-per-la-crisi-di-ceuta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/era-tutto-sotto-controllo-ma-ora-madrid-chiede-aiuto-allue-per-la-crisi-di-ceuta/</guid>
 <pubDate>Sat, 29 Aug 2026 14:31:21 +0000</pubDate>
 <description>In evidenza Sigfrido Ranucci Opens in new window Ceuta Opens in new window Bonaccini Opens in new window Alluvione in Nepal Opens in new window Islam e politica Opens in new window Aggiornato alle ore 14:20</description>
 </item>
