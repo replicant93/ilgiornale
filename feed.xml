@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 18:37:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 18:48:28 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Una Roma devastante asfalta 4-0 il Lecce: decisiva la doppietta di Malen</title>
+<link>https://www.ilgiornale.it/news/calcio/una-roma-devastante-asfalta-4-0-il-lecce-decisiva-la-doppietta-di-malen/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/una-roma-devastante-asfalta-4-0-il-lecce-decisiva-la-doppietta-di-malen/</guid>
+<pubDate>Mon, 31 Aug 2026 18:39:24 +0000</pubDate>
+<description>All’undici di Gasperini bastano 25 minuti per distruggere i salentini: all’uno-due dell’inarrestabile olandese si aggiungono le reti di Soulé e Rodrigo Mora. La Roma torna prima in classifica Luca Bocci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ANVWDGSH6BBYTJU74SHS3ACNBA.jpg?focal=1624%2C743&amp;auth=81c95238246025c65ef235555e78f7e925840ff66d28937a581012e50cec4917&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Tragedia a Piacenza, corriere muore durante una consegna. Era il suo ultimo giorno di lavoro</title>
 <link>https://www.ilgiornale.it/news/cronache/corriere-muore-durante-una-consegna-allultimo-giorno-di-lavoro-pasquale-andriotta-temeva-di-non-avere-il-contratto-rinnovato/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 10:14:14 +0000</pubDate>
 <description>L’allarme è stato dato dal gruppo di amici con il quale si trovava nel litorale Viterbese: un malore potrebbe essere stata la causa del decesso per annegamento Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/CQKFUIUHM5FGVLYPUZ2TR3H4OA.jpg?focal=446%2C198&amp;auth=a7cd00f5b8a4631464ba574a1c69b23e722572688948eaebf27db1aafddba3ef&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Tutto in otto giorni. L’sms di Sigfrido e il blitz di Tavares. È giallo sulle auto</title>
-<link>https://www.ilgiornale.it/news/interni/tutto-in-otto-giorni-lsms-di-sigfrido-e-il-blitz-di-tavares-e-giallo-sulle-auto/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/tutto-in-otto-giorni-lsms-di-sigfrido-e-il-blitz-di-tavares-e-giallo-sulle-auto/</guid>
-<pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
-<description>Pasquale Napolitano , Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TPXFCNNV7ZAKBC246YJGAWM3PU.jpg?focal=349%2C491&amp;auth=6269856982383b7d03c0048745e84d2223850494a364cedda16971858ff8f3ec&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
