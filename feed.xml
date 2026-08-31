@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 12:38:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 12:49:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Padre, madre e figlia trovati senza vita in un appartamento di Roma</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/padre-madre-e-figlia-trovati-senza-vita-in-un-appartamento-di-roma/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/padre-madre-e-figlia-trovati-senza-vita-in-un-appartamento-di-roma/</guid>
+<pubDate>Mon, 31 Aug 2026 12:48:09 +0000</pubDate>
+<description>Tragedia familiare nel quartiere Pietralata della Capitale. Cosa è accaduto Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TOLFNN47QNMY7BMP3AYFA3XHVU.jpg?smart=true&amp;auth=fba11c965c03fcf969da1938561797c0757ebdc45143c120406ab64b9d10aba5&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>I bombaroli non convincono gli inquirenti</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/i-bombaroli-non-convincono-gli-inquirenti/</link>
@@ -791,14 +799,6 @@
 <pubDate>Sun, 30 Aug 2026 06:07:31 +0000</pubDate>
 <description>La deputata socialista allarga la sua presenza nazionale e costruisce una coalizione progressista tra working class, afroamericani e nuovi attivisti Alberto Bellotto</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/Q3WU5ADIQRFBPKPH3DZD2KC63U.jpg?smart=true&amp;auth=10de82e05fd653d9042ad7026900c7fa6bcf43daa8f3a6ce3df925243a280138&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Sparatoria nella notte a un rave party in Svizzera: “Diverse vittime”, è caccia al responsabile</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/sparatoria-nella-notte-a-un-rave-party-in-svizzera-diverse-vittime-e-caccia-al-responsabile/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/sparatoria-nella-notte-a-un-rave-party-in-svizzera-diverse-vittime-e-caccia-al-responsabile/</guid>
-<pubDate>Sun, 30 Aug 2026 06:00:46 +0000</pubDate>
-<description>Ultim'ora Sparatoria nella notte a un rave party in Svizzera: “Diverse vittime”, è caccia al responsabile L’area dell’ippodromo di Aarau è stata isolata. La polizia cerca foto e video dei presenti mentre proseguono le operazioni Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7HSSL3AQUJERTFJWY4J4DK3Y6Y.jpg?smart=true&amp;auth=58db26efe66e71be774895c5f9836804e08f22df8ca3fe9c317cf4b6036892f5&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
