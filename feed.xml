@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 11:10:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 11:26:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Report, dopo gli inviati anche la redazione minaccia lo sciopero</title>
+<link>https://www.ilgiornale.it/news/interni/report-dopo-gli-inviati-anche-la-redazione-minaccia-lo-sciopero/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/report-dopo-gli-inviati-anche-la-redazione-minaccia-lo-sciopero/</guid>
+<pubDate>Mon, 31 Aug 2026 11:10:17 +0000</pubDate>
+<description>Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/2X6VCPSXHVGRXIFIRAVOJPGHXM.jpg?smart=true&amp;auth=e2967e695e569fafb62a67955d368f9a72a11f07ee92a8e7d4796fb8c2b80369&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>L’ira di Ranucci scaricato. Caccia alle streghe su Presutti</title>
 <link>https://www.ilgiornale.it/news/interni/lira-di-ranucci-scaricato-caccia-alle-streghe-su-presutti/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 03:42:23 +0000</pubDate>
 <description>Esule russa, si rifugiò a Parigi. Ma fu l’Italia a lanciarla e a lasciare un segno nella sua pittura, memore della lezione dei grandi del Quattrocento Vittorio Sgarbi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/4JRJHQHJ2ZI3XAAJOTWORIW334.jpg?focal=346%2C235&amp;auth=eb07e9f2752aa95c59c6279403ddfa81cf14d8c94ee5eee920dca746c818439b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Spunta una foto di Giulia Presutti nel ristorante di Lavitola</title>
-<link>https://www.ilgiornale.it/news/interni/spunta-una-foto-di-giulia-presutti-nel-ristorante-di-lavitola/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/spunta-una-foto-di-giulia-presutti-nel-ristorante-di-lavitola/</guid>
-<pubDate>Sat, 29 Aug 2026 20:51:56 +0000</pubDate>
-<description>Ranucci non si arrende e contesta la rimozione da Report: “Illegittima e discriminatoria”. E chiede pure il risarcimento Spunta una foto di Giulia Presutti nel ristorante di Lavitola I legali del conduttore alla Rai: “Decisione e valutazioni senza fatti e circostanze dichiarate, pronti a opporci nelle sedi giudiziarie”. E chiedono il reintegro Redazione web Ranucci fuori da Report, ecco le tre proposte della Rai Due conduttori: Piervincenzi e Presutti. Rivolta alla Rai</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LLVEVEHCARHQLLBCK6IOXG6LPQ.jpg?smart=true&amp;auth=e75a7e04fedecd7fa4fb6c45b1c1a6d3a364b02265880d8118ad541ea3003087&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
