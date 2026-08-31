@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 31 Aug 2026 15:37:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 15:48:41 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bambini salvati a Merano, Meloni: “Grazie a coraggio e prontezza degli uomini in divisa”</title>
+<link>https://www.ilgiornale.it/news/interni/bambini-salvati-a-merano-meloni-grazie-a-coraggio-e-prontezza-degli-uomini-in-divisa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/bambini-salvati-a-merano-meloni-grazie-a-coraggio-e-prontezza-degli-uomini-in-divisa/</guid>
+<pubDate>Mon, 31 Aug 2026 15:29:18 +0000</pubDate>
+<description>Tre bambini tedeschi sono stati salvati ieri sera dai vigili del fuoco dopo essere rimasti bloccati su un sasso in mezzo alle acque del fiume Passirio Francesco Curridori</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NUOUCAOQNVJ2NISIVX3V4SKY7Q.jpg?smart=true&amp;auth=7e47053c9d97da67fb3a85c5a7aa3fbef381cf4775eafc5e519ae89030f0de35&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Putin vede Xi al vertice di Bishkek: qual è il “gioco” dei due leader uniti dalla “partnership senza limiti”</title>
+<link>https://www.ilgiornale.it/news/politica-estera/putin-vede-xi-al-vertice-di-bishkek-qual-e-il-gioco-dei-due-leader-uniti-dalla-partnership-senza-limiti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/putin-vede-xi-al-vertice-di-bishkek-qual-e-il-gioco-dei-due-leader-uniti-dalla-partnership-senza-limiti/</guid>
+<pubDate>Mon, 31 Aug 2026 15:14:47 +0000</pubDate>
+<description>Droni e super missili: cambio di passo russo e spettri ucraini Francesca Salvatore</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/SFKS5VMRQ5DIJDU5OLCTVHJRDY.jpg?focal=1587%2C534&amp;auth=30b0b66308480bda2bfe71a53cf06f7985bc77d303297f8245ca6b9e68b049b4&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Max Laudadio aggredito nella notte in casa: intruso nella proprietà, l’ex inviato di Striscia finisce in ospedale</title>
 <link>https://www.ilgiornale.it/news/attualita/max-laudadio-aggredito-nella-notte-in-casa-intruso-nella-proprieta-lex-inviato-di-striscia-finisce-in-ospedale/</link>
@@ -783,22 +799,6 @@
 <pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
 <description>Vento e grandine: in 10 minuti danneggiate 10mila auto e 43 feriti Antonio Borrelli</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VSYOFOUHBJBBNAIKY7QDOOHGUY.jpg?focal=1281%2C863&amp;auth=ad1300a2c248f16d182a377274d46c9c8c8314c4ec1ccf2a6c1e3230c4c9c0ed&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Come ridurre lo stress con la coerenza cardiaca</title>
-<link>https://www.ilgiornale.it/news/benessere/come-ridurre-lo-stress-con-la-coerenza-cardiaca/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/come-ridurre-lo-stress-con-la-coerenza-cardiaca/</guid>
-<pubDate>Sun, 30 Aug 2026 09:59:19 +0000</pubDate>
-<description>Francesca Bocchi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TGSMX4H3WFF3POIVKRZCCEM6UA.jpg?smart=true&amp;auth=c33ff30d847246d224628a2d0b1bde5f6b0b342340b4673258b180d2c3a6794b&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Tragedia in Piemonte, monossido di carbonio in una baita: un morto e 5 intossicati</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/tragedia-in-piemonte-monossido-di-carbonio-in-una-baita-un-morto-e-5-intossicati/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/tragedia-in-piemonte-monossido-di-carbonio-in-una-baita-un-morto-e-5-intossicati/</guid>
-<pubDate>Sun, 30 Aug 2026 09:46:26 +0000</pubDate>
-<description>La telefonata prima dei soccorsi: “Aiutateci”. La vittima era un volontario che aiutava i pastori. Ecco cosa è successo Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/5ZOQ2MAYUZARVE7ENRKO7FTNS4.jpg?smart=true&amp;auth=779e9fa0b6ce99db6a40ae506a25214b28e322a4f816fcfec634f37fdacae79d&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
