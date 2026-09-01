@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 19:28:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 19:40:41 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Zelensky avverte le compagnie aeree: “Finiti i giorni sicuri nei cieli russi”</title>
+<link>https://www.ilgiornale.it/news/guerra/zelensky-avverte-le-compagnie-aeree-finiti-i-giorni-sicuri-nei-cieli-russi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/zelensky-avverte-le-compagnie-aeree-finiti-i-giorni-sicuri-nei-cieli-russi/</guid>
+<pubDate>Tue, 01 Sep 2026 19:34:05 +0000</pubDate>
+<description>“Attacco ibrido a Lipsia, dietro c’è Mosca”. E Berlino chiude il consolato russo a Bonn. Meloni: “Rimanere saldi e risposta unita” Germania, ordigni esplosivi vicino alla centrale di Jänschwalde Redazione web Zelensky avverte le compagnie aeree: “Finiti i giorni sicuri nei cieli russi”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YQ3XH42C65DUVFYYOZUMSL3ORU.jpg?focal=1395%2C900&amp;auth=57f64108a54d5713964ac0aa87c2f7366b50746a24af34b49462fffa0ff957b9&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Report, dopo due ore di faccia a faccia con Corsini il silenzio di Presutti e Piervincenzi: “Non possiamo parlare”</title>
 <link>https://www.ilgiornale.it/news/nazionale/report-dopo-due-ore-di-faccia-a-faccia-con-corsini-il-silenzio-di-presutti-e-piervincenzi-non-possiamo-parlare/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 31 Aug 2026 14:12:14 +0000</pubDate>
 <description>DIRETTA Guerra Bessent al G20: “Porremo fine a 47 anni di regime terribile”. Trump minaccia una rappresaglia dopo gli attacchi contro le basi Usa in Giordania: “Li colpiremo duramente” Gli Stati Uniti hanno bombardato l’isola di Larak. Il presidente Usa: “Stato fallito”. Teheran: “Esercito americano è un’armata hollywoodiana, sarà sconfitto” Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/M2F4I6AMHFDV5LBDH7R24WDIHQ.jpg?smart=true&amp;auth=3568d88de9c395094195e169014d52fb90cc24c732a2197e3546ac070066f1f1&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Freddie Mercury, esce il libro inedito scritto dall’ex fidanzata: chi è Mary Austin</title>
-<link>https://www.ilgiornale.it/news/musica/freddie-mercury-esce-il-libro-inedito-scritto-dallex-fidanzata-chi-e-mary-austin/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/freddie-mercury-esce-il-libro-inedito-scritto-dallex-fidanzata-chi-e-mary-austin/</guid>
-<pubDate>Mon, 31 Aug 2026 13:57:17 +0000</pubDate>
-<description>A pochi giorni dall’80esimo compleanno e a 35 anni dalla scomparsa esce l’ultimo libro su Freddie Mercury scritto dall’ex compagna sulla base di lettere, testi e appunti ritrovati in un baule Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BJ4JCWHIANKFRHO7BN32G77DDE.jpg?focal=2245%2C445&amp;auth=bb902d387b433223dc0aa2e608312bf4de1d0260212438d4253314dd2dc16751&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
