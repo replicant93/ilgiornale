@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 05:58:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 06:23:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nuovo affondo di Ranucci contro Piervincenzi: “Mediocre chi ce l’ha fatta senza esserselo guadagnato”</title>
+<link>https://www.ilgiornale.it/news/interni/nuovo-affondo-di-ranucci-contro-piervincenzi-mediocre-chi-ce-lha-fatta-senza-esserselo-guadagnato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/nuovo-affondo-di-ranucci-contro-piervincenzi-mediocre-chi-ce-lha-fatta-senza-esserselo-guadagnato/</guid>
+<pubDate>Tue, 01 Sep 2026 06:20:45 +0000</pubDate>
+<description>Il Giornale riapre il caso Autogrill. E ora le domande si moltiplicano L’ex conduttore di Report torna contro il nuovo volto del programma dopo il caso degli affidamenti alla società Outcast: “È disumano pensare di farlo senza averlo meritato” Giulia Sorrentino In principio fu l’Autogrill - L'editoriale di Cerno</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VXLPZSGEZVBZNAONBPB4YOTBKI.png?smart=true&amp;auth=05e4598919ce5ff9bb14c9cdf2fdf46f60a3d8baa955ef24bbb5f7ebe22e188a&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Nepal si aggrava ancora il bilancio delle innondazioni: oltre mille vittime</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/nepal-si-aggrava-ancora-il-bilancio-delle-innondazioni-oltre-mille-vittime/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/nepal-si-aggrava-ancora-il-bilancio-delle-innondazioni-oltre-mille-vittime/</guid>
+<pubDate>Tue, 01 Sep 2026 06:13:59 +0000</pubDate>
+<description>Le autorità locali contano 987 vittime in Nepal. Almeno 16 i morti registrati anche in Tibet Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CMIT434MTRB6LLSZF2CT3IF4NE.jpg?smart=true&amp;auth=6920b90b8fdac2ac01a6fc61488e900472de4a436544775be1c3b0a81c006284&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Terrore a Times Square: accoltella due passanti, una vittima. Poi la polizia le spara</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/terrore-a-times-square-accoltella-due-passanti-una-vittima-poi-la-polizia-le-spara/</link>
@@ -786,20 +802,6 @@
 <pubDate>Sun, 30 Aug 2026 10:36:30 +0000</pubDate>
 <description>Michel Dessì</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/Q52SJ53TIRBMBBSTRC75CKMDHI.jpg?focal=206%2C181&amp;auth=b682e90d96c9d256cd5e49f64466755df150ac3919d73b95f766f11eae8f28b4&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Islanda Opens in new window</title>
-<link>https://www.ilgiornale.it/news/politica-estera/islanda-referendum-ue-spoglio-ancora-in-corso-lo-spoglio-no-avanti-di-pochissimo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/islanda-referendum-ue-spoglio-ancora-in-corso-lo-spoglio-no-avanti-di-pochissimo/</guid>
-<pubDate>Sun, 30 Aug 2026 10:32:58 +0000</pubDate>
-<description>Islanda Opens in new window</description>
-</item>
-<item>
-<title>Rinnegarsi non significa annullarsi ma essere liberi</title>
-<link>https://www.ilgiornale.it/news/attualita/rinnegarsi-non-significa-annullarsi-ma-essere-liberi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/rinnegarsi-non-significa-annullarsi-ma-essere-liberi/</guid>
-<pubDate>Sun, 30 Aug 2026 10:31:06 +0000</pubDate>
-<description>commento Attualità Rinnegarsi non significa annullarsi ma essere liberi Don Luigi Maria Epicoco</description>
 </item>
 </channel>
 </rss>
