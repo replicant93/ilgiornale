@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 10:26:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 10:43:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Rientro di Di Battista in Italia previsto per giovedì: si studia il volo sanitario</title>
@@ -14,6 +14,14 @@
 <pubDate>Tue, 01 Sep 2026 10:19:18 +0000</pubDate>
 <description>L’ex deputato resta ricoverato all’Avana ma è vigile. Il trasferimento dovrebbe avvenire con un’aeroambulanza coperta dalla sua assicurazione Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MTUOX7OGKRHCHPV7AGJMMG2L7E.jpg?smart=true&amp;auth=fdd0178e2173237e091c0dbd0e02b26f2351c45922349873c5764de43a7a481f&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>L’autogol di Antognoni: ecco perché ha passato il segno con la Fiorentina</title>
+<link>https://www.ilgiornale.it/news/calcio/lautogol-di-antognoni-ecco-perche-ha-passato-il-segno-con-la-fiorentina/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/lautogol-di-antognoni-ecco-perche-ha-passato-il-segno-con-la-fiorentina/</guid>
+<pubDate>Tue, 01 Sep 2026 10:18:36 +0000</pubDate>
+<description>Paolo Lazzari</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RTLNGDLFOFKGXLCGF3JBZ7T2Q4.jpg?smart=true&amp;auth=537fddb0182d9b7a3f5d94f66e3419798ca416ccc4f45a150b8374fe934d19f7&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
 <title>Violenta una 13enne e un’altra donna a Torino, ma il giudice lo libera: “È dispiaciuto”</title>
@@ -791,14 +799,6 @@
 <pubDate>Mon, 31 Aug 2026 03:16:46 +0000</pubDate>
 <description>commento Calcio Gli errori difensivi figli di scarsa attenzione Tony Damascelli</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FBMBKS24BURILLIA2NWA2M6JJF4.png?smart=true&amp;auth=350d7bf71fde71ed635a596675930a58bc764773eada92ba38c667f237b390f7&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Inter, basta Calha nell’isola felice</title>
-<link>https://www.ilgiornale.it/news/calcio/inter-basta-calha-nellisola-felice/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/inter-basta-calha-nellisola-felice/</guid>
-<pubDate>Mon, 31 Aug 2026 03:15:33 +0000</pubDate>
-<description>Gianni Visnadi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VWFBRVLQ2RA3PEL7NI36LKYBLM.jpg?focal=3153%2C977&amp;auth=193081d9f983d37768753f82528b06b3dda53fc757eb0434b8b1d4c026088898&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
