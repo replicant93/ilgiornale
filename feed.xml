@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 15:11:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 15:50:41 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Germania, ordigni esplosivi vicino alla centrale di Jänschwalde</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/germania-ordigni-esplosivi-vicino-alla-centrale-di-janschwalde/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/germania-ordigni-esplosivi-vicino-alla-centrale-di-janschwalde/</guid>
+<pubDate>Tue, 01 Sep 2026 15:13:40 +0000</pubDate>
+<description>La Russia attacca l'Italia: "Nomina di Fedorov ridicola". Crosetto: "Penso solo a Roma, non a Mosca, Kiev o Washington" Germania, ordigni esplosivi vicino alla centrale di Jänschwalde Zakharova: “ I manager del regime di Kiev stanno convertendo le sconfitte militari in contratti internazionali personali, e non se ne vergognano” Redazione web Xi sfida Trump sull’Iran: ecco come la Cina può colpire gli Usa Terremoto al Pentagono, Driscoll si dimette: mesi di scontri con Hegseth dietro l’addio</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/7BHEEZKRPJHDDKEMB2ICN4CWEY.jpg?focal=1408%2C605&amp;auth=998c5ca4f4f2d19b18b6c66e95c8ece6223bf9201ff94e9d1f7718714db86815&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Tumore alla prostata: i cibi ultra processati aumentano il rischio del 30%</title>
 <link>https://www.ilgiornale.it/news/dieta-e-alimentazione/tumore-alla-prostata-i-cibi-ultra-processati-aumentano-il-rischio-del-30/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 31 Aug 2026 11:27:37 +0000</pubDate>
 <description>Ceuta nel caos, rimpatri paralizzati: i funzionari non firmano per paura di essere indagati Viminale: altri 15 giorni di stop a Schengen con la Spagna. Tajani: “Blocco frontiere necessario, rimane pericolo jihadista” Il Marocco è pronto a riaccogliere i migranti, ma una sentenza del 2025 ha irrigidito la macchina amministrativa spagnola e rallentato le espulsioni Francesca Galici Ceuta, Sanchez tira fuori il complotto: “Fake news da Russia, Israele ed estrema destra” “Situazione insostenibile”. In centiania protestano a Ceuta per l’emergenza migranti</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/Z66GTRLQ3JEPZPPOUPB3EO6YQA.jpg?smart=true&amp;auth=b7b23361b63aa0d695a3505e1b7eb176c48cf08ad3d5e5adaea8dd7f53be9e5f&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Report, dopo gli inviati anche la redazione minaccia lo sciopero</title>
-<link>https://www.ilgiornale.it/news/interni/report-dopo-gli-inviati-anche-la-redazione-minaccia-lo-sciopero/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/report-dopo-gli-inviati-anche-la-redazione-minaccia-lo-sciopero/</guid>
-<pubDate>Mon, 31 Aug 2026 11:10:17 +0000</pubDate>
-<description>Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2X6VCPSXHVGRXIFIRAVOJPGHXM.jpg?smart=true&amp;auth=e2967e695e569fafb62a67955d368f9a72a11f07ee92a8e7d4796fb8c2b80369&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
