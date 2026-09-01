@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 13:12:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 13:31:11 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Infezioni ospedaliere: la strategia efficace è multimodale, il ruolo importante dei nuovi DPI tessili</title>
+<link>https://www.ilgiornale.it/news/benessere/infezioni-ospedaliere-la-strategia-efficace-e-multimodale-il-ruolo-importante-dei-nuovi-dpi-tessili/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/infezioni-ospedaliere-la-strategia-efficace-e-multimodale-il-ruolo-importante-dei-nuovi-dpi-tessili/</guid>
+<pubDate>Tue, 01 Sep 2026 13:15:42 +0000</pubDate>
+<description>Luca Romano</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/R52DTCEMSVBNBNAO6R4DEHDVTU.png?smart=true&amp;auth=717a39e030b5a1b050d7b2c8dfac83af94d03211636758c82e442fa146566075&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Pirelli P Zero Trofeo RS, la Bentley Supersports arriva a 1,3 g di accelerazione laterale</title>
 <link>https://www.ilgiornale.it/news/auto-moto-motori/pirelli-p-zero-trofeo-rs-la-bentley-supersports-arriva-a-13-g-di-accelerazione-laterale/</link>
@@ -701,6 +709,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/TOLFNN47QNMY7BMP3AYFA3XHVU.jpg?smart=true&amp;auth=fba11c965c03fcf969da1938561797c0757ebdc45143c120406ab64b9d10aba5&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Se solo il dolore rende rispettosi i nostri dibattiti politici</title>
+<link>https://www.ilgiornale.it/news/stanza-di-feltri/se-solo-il-dolore-rende-rispettosi-i-nostri-dibattiti-politici/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/se-solo-il-dolore-rende-rispettosi-i-nostri-dibattiti-politici/</guid>
+<pubDate>Mon, 31 Aug 2026 12:01:52 +0000</pubDate>
+<description>La stanza di Feltri Se solo il dolore rende rispettosi i nostri dibattiti politici Vittorio Feltri</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/A363M3ANXNAPZNPXCLBRBR3PMQ.jpg?focal=1701%2C347&amp;auth=415d6829b2114491f40566b884948fb17ab02c59c3b4eafc8ac317569b044a89&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
 <title>I bombaroli non convincono gli inquirenti</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/i-bombaroli-non-convincono-gli-inquirenti/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/i-bombaroli-non-convincono-gli-inquirenti/</guid>
@@ -786,22 +802,6 @@
 <pubDate>Mon, 31 Aug 2026 10:29:47 +0000</pubDate>
 <description>Mariangela Cutrone</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/SWAFJHA4VFHFXCBB3734JCGZPQ.jpg?focal=1083%2C654&amp;auth=c5f66621ce8260ddcf077437ddb02070dc3fdcbb0cebba2c84bf851a3226fc26&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>In principio fu l’Autogrill</title>
-<link>https://www.ilgiornale.it/news/interni/in-principio-fu-lautogrill/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/in-principio-fu-lautogrill/</guid>
-<pubDate>Mon, 31 Aug 2026 10:00:00 +0000</pubDate>
-<description>A cura di Tommaso Cerno</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>Il falso mito del Paese modello</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/il-falso-mito-del-paese-modello/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/il-falso-mito-del-paese-modello/</guid>
-<pubDate>Mon, 31 Aug 2026 10:00:00 +0000</pubDate>
-<description>commento Cronaca internazionale Il falso mito del Paese modello Valeria Braghieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FLLNK2UD6R5MZDDWXZLGE4EOWE4.jpg?smart=true&amp;auth=bb9f202b276088b79ed8fb3835e76bf0945601bb8911aee165b2be8ee4c0873a&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
