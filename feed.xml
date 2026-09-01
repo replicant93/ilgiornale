@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 18:17:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 18:35:33 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sui social Ranucci strumentalizza le parole di Crosetto</title>
+<link>https://www.ilgiornale.it/news/nazionale/sui-social-ranucci-strumentalizza-le-parole-di-crosetto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sui-social-ranucci-strumentalizza-le-parole-di-crosetto/</guid>
+<pubDate>Tue, 01 Sep 2026 18:29:40 +0000</pubDate>
+<description>Domenico Giordano</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/OWAQVI5P3RAEBGNSL7MQMSB7LI.jpg?focal=1163%2C654&amp;auth=6804e3101a8afa36438cb6e2bb7db35c2e68d547086b13fdc629c0c1fea418bf&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Garlasco, la lettera della mamma di Stasi: “La verità trova sempre la sua strada”</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-la-lettera-della-mamma-di-stasi-la-verita-trova-sempre-la-sua-strada/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 31 Aug 2026 13:12:53 +0000</pubDate>
 <description>Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OE7RFZNVQRISHEOAMSQCEGPIKQ.jpg?focal=358%2C224&amp;auth=98c8af37c24f9d320ebdd821d19b62317668aa78b865183983fe5979f7de3b6f&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Padre, madre e figlia trovati senza vita in un appartamento di Roma</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/padre-madre-e-figlia-trovati-senza-vita-in-un-appartamento-di-roma/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/padre-madre-e-figlia-trovati-senza-vita-in-un-appartamento-di-roma/</guid>
-<pubDate>Mon, 31 Aug 2026 12:48:09 +0000</pubDate>
-<description>Tragedia familiare nel quartiere Pietralata della Capitale. Cosa è accaduto Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TOLFNN47QNMY7BMP3AYFA3XHVU.jpg?smart=true&amp;auth=fba11c965c03fcf969da1938561797c0757ebdc45143c120406ab64b9d10aba5&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
