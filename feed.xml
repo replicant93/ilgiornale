@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 17:56:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 18:17:23 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Garlasco, la lettera della mamma di Stasi: “La verità trova sempre la sua strada”</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-la-lettera-della-mamma-di-stasi-la-verita-trova-sempre-la-sua-strada/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-la-lettera-della-mamma-di-stasi-la-verita-trova-sempre-la-sua-strada/</guid>
+<pubDate>Tue, 01 Sep 2026 18:11:19 +0000</pubDate>
+<description>Elisabetta Ligabò ha scritto alla trasmissione “Verità Nascoste” di Milo Infante: “Ho sempre saputo che Alberto era innocente” Alessandra Corradi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/OJZOT7AAMRN4JLIFWYDX4MEKFM.jpg?focal=734%2C338&amp;auth=5de5e2c925d0ceac6fdaf9a72756741bbbae365e02f3f427dca0d31d4ae1daef&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Cgil e prof: “Col caldo riaprire le scuole a ottobre”. Ma Valditara: “Investiti 20 milioni di euro per raffreddamento”</title>
 <link>https://www.ilgiornale.it/news/interni/cgil-e-prof-col-caldo-riaprire-le-scuole-a-ottobre-ma-valditara-investiti-20-milioni-di-euro-per-raffreddamento/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 31 Aug 2026 12:48:09 +0000</pubDate>
 <description>Tragedia familiare nel quartiere Pietralata della Capitale. Cosa è accaduto Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TOLFNN47QNMY7BMP3AYFA3XHVU.jpg?smart=true&amp;auth=fba11c965c03fcf969da1938561797c0757ebdc45143c120406ab64b9d10aba5&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Se solo il dolore rende rispettosi i nostri dibattiti politici</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/se-solo-il-dolore-rende-rispettosi-i-nostri-dibattiti-politici/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/se-solo-il-dolore-rende-rispettosi-i-nostri-dibattiti-politici/</guid>
-<pubDate>Mon, 31 Aug 2026 12:01:52 +0000</pubDate>
-<description>La stanza di Feltri Se solo il dolore rende rispettosi i nostri dibattiti politici Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/A363M3ANXNAPZNPXCLBRBR3PMQ.jpg?focal=1701%2C347&amp;auth=415d6829b2114491f40566b884948fb17ab02c59c3b4eafc8ac317569b044a89&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
