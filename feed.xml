@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 05:48:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 05:58:39 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Terrore a Times Square: accoltella due passanti, una vittima. Poi la polizia le spara</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/terrore-a-times-square-accoltella-due-passanti-una-vittima-poi-la-polizia-le-spara/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/terrore-a-times-square-accoltella-due-passanti-una-vittima-poi-la-polizia-le-spara/</guid>
+<pubDate>Tue, 01 Sep 2026 05:37:29 +0000</pubDate>
+<description>La 49enne ha sfidato gli agenti con due coltelli dopo che il taser non era riuscito a fermarla. La polizia esclude al momento la pista terroristica Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/J2TBOWJPN5GDNBSR3XSKNNYFY4.jpg?smart=true&amp;auth=de1ac10e7094baccaa07ea457f03d8fc05355c6e1fcfd02bf2c6f6bc66dc5113&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Un dolce Gentile per i cento anni di Appiano</title>
 <link>https://www.ilgiornale.it/news/retrogusto/un-dolce-gentile-per-i-cento-anni-di-appiano/</link>
@@ -792,14 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/rinnegarsi-non-significa-annullarsi-ma-essere-liberi/</guid>
 <pubDate>Sun, 30 Aug 2026 10:31:06 +0000</pubDate>
 <description>commento Attualità Rinnegarsi non significa annullarsi ma essere liberi Don Luigi Maria Epicoco</description>
-</item>
-<item>
-<title>Patrizia e Luca dispersi, l’ultimo post dal Nepal: “Felici”</title>
-<link>https://www.ilgiornale.it/news/attualita/patrizia-e-luca-dispersi-lultimo-post-dal-nepal-felici/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/patrizia-e-luca-dispersi-lultimo-post-dal-nepal-felici/</guid>
-<pubDate>Sun, 30 Aug 2026 10:30:00 +0000</pubDate>
-<description>DIRETTA Nepal, si aggrava ancora il bilancio: 752 vittime. Nuova frana in Tibet, evacuati i soccorritori Patrizia e Luca dispersi, l’ultimo post dal Nepal: “Felici” Alluvioni devastanti tra Nepal e Tibet: il bilancio sale a 752 morti e oltre 2.500 dispersi. In Tibet una nuova frana costringe i soccorritori a lasciare l’area e crea un nuovo lago barriera naturale Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VLROHFPEHJHZVPUX2OX5ZWKYNI.jpg?smart=true&amp;auth=e474a71ba62d431c4e458ce0ae7857d3edfca5e8fe894dca022f0143f407ea30&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
