@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 09:50:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 10:01:46 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meloni batte i pregiudizi e non smetterà di stupire</title>
+<link>https://www.ilgiornale.it/news/stanza-di-feltri/meloni-batte-i-pregiudizi-e-non-smettera-di-stupire/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/meloni-batte-i-pregiudizi-e-non-smettera-di-stupire/</guid>
+<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
+<description>La stanza di Feltri Meloni batte i pregiudizi e non smetterà di stupire Vittorio Feltri</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3AGN2V35LNHSNDYBIHTXCZP5LI.jpg?focal=984%2C914&amp;auth=c7083181da5c7058e45b65d0fd6428f13ac94bef56e7a4cf628d719201e0ae11&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Terremoto al Pentagono, Driscoll si dimette: mesi di scontri con Hegseth dietro l’addio</title>
 <link>https://www.ilgiornale.it/news/politica-estera/terremoto-al-pentagono-driscoll-si-dimette-mesi-di-scontri-con-hegseth-dietro-laddio/</link>
@@ -791,14 +799,6 @@
 <pubDate>Sun, 30 Aug 2026 21:32:41 +0000</pubDate>
 <description>Fucilate al rave di Aarau, arrestato un 43enne svizzero Chi era Maria Spinelli, la giovane abruzzese uccisa Nell’attacco è morta una 22enne italiana e altri due connazionali sono stati feriti. Sarebbe l’unico autore della sparatoria, ancora ignoto il movente Redazione web Gli spari nella notte al rave dei ragazzi. Morta un’italiana. “Ipotesi terrorismo”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/U65S4AOWP5AMZJYWDVTQP5ZKRI.jpg?smart=true&amp;auth=fce1f8b6db4c6a2be494f686e0c008f616d61bead9521109d994ba66afee5bb8&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>All’Inter basta il gol di Calhanoglu per battere il Cagliari e tornare in testa</title>
-<link>https://www.ilgiornale.it/news/calcio/allinter-basta-il-gol-di-calhanoglu-per-battere-il-cagliari-e-tornare-in-testa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/allinter-basta-il-gol-di-calhanoglu-per-battere-il-cagliari-e-tornare-in-testa/</guid>
-<pubDate>Sun, 30 Aug 2026 21:26:09 +0000</pubDate>
-<description>Luca Bocci</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/W6YIHONTF5BKJF6EZNQPFMK74E.jpg?smart=true&amp;auth=f1bfed5b61c1043d178b3ccf12b479c7ac72987c020a35204f3aa81032a44da5&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
