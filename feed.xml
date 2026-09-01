@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 01 Sep 2026 04:59:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 05:17:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Un dolce Gentile per i cento anni di Appiano</title>
+<link>https://www.ilgiornale.it/news/retrogusto/un-dolce-gentile-per-i-cento-anni-di-appiano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/un-dolce-gentile-per-i-cento-anni-di-appiano/</guid>
+<pubDate>Tue, 01 Sep 2026 05:00:00 +0000</pubDate>
+<description>Retrogusto Un dolce Gentile per i cento anni di Appiano Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5MCXB2D4MFBCVKXXQ3S4CTRTFU.jpg?smart=true&amp;auth=5753bb2a0b6ae54a88edcd8d7a40a3d350c237f9a89f1b859d06f113d523d376&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>“Situazione insostenibile”. In centiania protestano a Ceuta per l’emergenza migranti</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/situazione-insostenibile-in-centiania-protestano-a-ceuta-per-lemergenza-migranti/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 30 Aug 2026 10:30:00 +0000</pubDate>
 <description>DIRETTA Nepal, si aggrava ancora il bilancio: 752 vittime. Nuova frana in Tibet, evacuati i soccorritori Patrizia e Luca dispersi, l’ultimo post dal Nepal: “Felici” Alluvioni devastanti tra Nepal e Tibet: il bilancio sale a 752 morti e oltre 2.500 dispersi. In Tibet una nuova frana costringe i soccorritori a lasciare l’area e crea un nuovo lago barriera naturale Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VLROHFPEHJHZVPUX2OX5ZWKYNI.jpg?smart=true&amp;auth=e474a71ba62d431c4e458ce0ae7857d3edfca5e8fe894dca022f0143f407ea30&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>E i dietrologi si scatenano: Il vaccino, la Cia, Israele...</title>
-<link>https://www.ilgiornale.it/news/interni/e-i-dietrologi-si-scatenano-il-vaccino-la-cia-israele/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/e-i-dietrologi-si-scatenano-il-vaccino-la-cia-israele/</guid>
-<pubDate>Sun, 30 Aug 2026 10:28:45 +0000</pubDate>
-<description>Di Battista ricoverato all’Avana: “Lucido, ha parlato con i medici”. Il post sui social: “Ce la metterò tutta per tornare presto” E i dietrologi si scatenano: Il vaccino, la Cia, Israele... L’ex deputato dei 5 Stelle, seppur vigile, è ancora in condizioni gravissime. Secondo alcune indiscrezioni, avrebbe perso conoscenza dopo essere stato colpito da un ictus Redazione web La politica si stringe attorno all'ex parlamentare del M5s “Dibba”, il grillino ortodosso che ha lasciato i 5Stelle per i reportage</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/KRMFZZAKYFBLPPZENBWFP24KOQ.jpg?focal=2210%2C429&amp;auth=00deb798170df8c9b9dcf103bdec0024f9f373d2468e5b9d0d75a48631c1bba5&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
