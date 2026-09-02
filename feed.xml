@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 14:42:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 15:02:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Us Open, grande rimonta di Cobolli, buon rientro di Musetti. Sonego si arrende a Zverev</title>
@@ -692,6 +692,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/4YYDYIGSC5FG3BAYV2KRO7EBAQ.jpg?smart=true&amp;auth=0aa1ec89fe93746522ac46c0b843124296cbfb0d5e6c6fd009706408086d0750&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Se il disagio viene lasciato solo</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/se-il-disagio-viene-lasciato-solo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/se-il-disagio-viene-lasciato-solo/</guid>
+<pubDate>Tue, 01 Sep 2026 11:55:21 +0000</pubDate>
+<description>commento Cronaca nera Se il disagio viene lasciato solo Valeria Braghieri</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FLLNK2UD6R5MZDDWXZLGE4EOWE4.jpg?smart=true&amp;auth=bb9f202b276088b79ed8fb3835e76bf0945601bb8911aee165b2be8ee4c0873a&amp;width=100&amp;height=100" medium="image" />
+</item>
+<item>
 <title>I nordisti preparano la sfida a Salvini: ecco il comitato per il ritorno della Lega Nord</title>
 <link>https://www.ilgiornale.it/news/interni/i-nordisti-preparano-la-sfida-a-salvini-ecco-il-comitato-per-il-ritorno-della-lega-nord/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/i-nordisti-preparano-la-sfida-a-salvini-ecco-il-comitato-per-il-ritorno-della-lega-nord/</guid>
@@ -794,14 +802,6 @@
 <pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
 <description>A cura di Tommaso Cerno</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>Quello che la sinistra non ha visto</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/quello-che-la-sinistra-non-ha-visto/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/quello-che-la-sinistra-non-ha-visto/</guid>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Politica internazionale Quello che la sinistra non ha visto Francesco Maria Del Vigo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FWWFOIN5YVZIT7LBOWSPW5YGTP4.jpg?smart=true&amp;auth=ded598ad789150760e4e703703a10876227e6217e9efcb7b5aec9586ef26b413&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
