@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 05:35:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 05:48:29 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il programma segreto C430L: così la Russia aiuta l’Iran a sviluppare missili contro le navi Usa</title>
+<link>https://www.ilgiornale.it/news/guerra/il-programma-segreto-c430l-cosi-la-russia-aiuta-liran-a-sviluppare-missili-contro-le-navi-usa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/il-programma-segreto-c430l-cosi-la-russia-aiuta-liran-a-sviluppare-missili-contro-le-navi-usa/</guid>
+<pubDate>Wed, 02 Sep 2026 05:24:37 +0000</pubDate>
+<description>DIRETTA Raid Usa contro due petroliere iraniane. Teheran: “Colpite basi americane in Iraq. Conseguenze disastrose per chi collabora con Trump” Il programma segreto C430L: così la Russia aiuta l’Iran a sviluppare missili contro le navi Usa Nuova escalation tra Usa e Iran: Washington colpisce due petroliere e circa 100 obiettivi militari, mentre Teheran risponde con missili e droni contro basi Usa. I negoziati non fanno passi avanti Redazione web Israele, catturato il capo della sicurezza interna di Hamas Le armi, i campi di addestramento e il ruolo di Jibril “il Monco”: l’alleanza del terrore t</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CL7Z43HVABAHVAANOCX2FXYD6Y.jpg?smart=true&amp;auth=ec40d33c9ff7bf492e80eda63d673140b8f531a9efc39bdac2d6f8c72e04b5d3&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Annuncio social Di Battista dopo il ricovero a Cuba: “Mi sento molto meglio. Riparto venerdì”</title>
 <link>https://www.ilgiornale.it/news/nazionale/annuncio-social-di-battista-dopo-il-ricovero-a-cuba-mi-sento-molto-meglio-riparto-venerdi/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 31 Aug 2026 15:14:47 +0000</pubDate>
 <description>Droni e super missili: cambio di passo russo e spettri ucraini Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/SFKS5VMRQ5DIJDU5OLCTVHJRDY.jpg?focal=1587%2C534&amp;auth=30b0b66308480bda2bfe71a53cf06f7985bc77d303297f8245ca6b9e68b049b4&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Max Laudadio aggredito nella notte in casa: intruso nella proprietà, l’ex inviato di Striscia finisce in ospedale</title>
-<link>https://www.ilgiornale.it/news/attualita/max-laudadio-aggredito-nella-notte-in-casa-intruso-nella-proprieta-lex-inviato-di-striscia-finisce-in-ospedale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/max-laudadio-aggredito-nella-notte-in-casa-intruso-nella-proprieta-lex-inviato-di-striscia-finisce-in-ospedale/</guid>
-<pubDate>Mon, 31 Aug 2026 14:34:16 +0000</pubDate>
-<description>Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/DLGP63BG65AVDIIRQZQERFLSIQ.png?focal=706%2C314&amp;auth=dd29155fbfceda003a757afacb7e4f5c77cb6b9f9b782c98bc72cb99235b57e5&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
