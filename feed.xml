@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 07:01:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 07:22:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Agguato col machete tra bande a Crema: 16enne colpito alla gola, arrestati due egiziani per tentato omicidio</title>
+<link>https://www.ilgiornale.it/news/nazionale/agguato-col-machete-tra-bande-a-crema-16enne-colpito-alla-gola-arrestati-due-egiziani-per-tentato-omicidio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/agguato-col-machete-tra-bande-a-crema-16enne-colpito-alla-gola-arrestati-due-egiziani-per-tentato-omicidio/</guid>
+<pubDate>Wed, 02 Sep 2026 07:03:42 +0000</pubDate>
+<description>Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DU6TKDGAEFGYVIK43HCIMHIHHE.jpg?smart=true&amp;auth=01c15163ee093a8cd44336fddfbd200a66ddca1d2673632896002248c8b5bf76&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>I manuali per le stragi, la “Piroguida” e il materiale jihadista e neonazista: fermato un 16enne radicalizzato online</title>
 <link>https://www.ilgiornale.it/news/nazionale/i-manuali-per-le-stragi-la-piroguida-e-il-materiale-jihadista-e-neonazista-fermato-un-16enne-radicalizzato-online/</link>
@@ -792,13 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/stellantis-affida-fiat-alle-mani-di-belloni/</guid>
 <pubDate>Tue, 01 Sep 2026 04:53:39 +0000</pubDate>
 <description>Pierluigi Bonora</description>
-</item>
-<item>
-<title>Pnrr, Italia al traguardo con 166 miliardi in cassa</title>
-<link>https://www.ilgiornale.it/news/politica-economica/pnrr-italia-al-traguardo-con-166-miliardi-in-cassa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/pnrr-italia-al-traguardo-con-166-miliardi-in-cassa/</guid>
-<pubDate>Tue, 01 Sep 2026 04:51:20 +0000</pubDate>
-<description>Gian Maria De Francesco</description>
 </item>
 </channel>
 </rss>
