@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 19:01:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 19:20:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Report, il Cdr dice no al rinvio: “La Rai faccia chiarezza su Ranucci”</title>
+<link>https://www.ilgiornale.it/news/nazionale/report-il-cdr-dice-no-al-rinvio-la-rai-faccia-chiarezza-su-ranucci/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/report-il-cdr-dice-no-al-rinvio-la-rai-faccia-chiarezza-su-ranucci/</guid>
+<pubDate>Wed, 02 Sep 2026 19:13:32 +0000</pubDate>
+<description>Giulia Bernardini</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3FBELXO4EJCCXNCASZS2AVZAOA.jpg?focal=1509%2C387&amp;auth=096e290140d8462f40513708fa254186c748e029e835d9d3ae2328da5c80ed00&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Novara, il corteo islamico “gonfiato” sui social: Futuro Nazionale cavalca la fake news</title>
 <link>https://www.ilgiornale.it/news/interni/novara-il-corteo-islamico-gonfiato-sui-social-futuro-nazionale-cavalca-la-fake-news/</link>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 01 Sep 2026 12:01:26 +0000</pubDate>
 <description>L’uomo è stato identificato e trasferito in un Cpr in attesa del rimpatrio. Piantedosi: “In Italia vanno rispettati leggi e simboli” Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/4YYDYIGSC5FG3BAYV2KRO7EBAQ.jpg?smart=true&amp;auth=0aa1ec89fe93746522ac46c0b843124296cbfb0d5e6c6fd009706408086d0750&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Se il disagio viene lasciato solo</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/se-il-disagio-viene-lasciato-solo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/se-il-disagio-viene-lasciato-solo/</guid>
-<pubDate>Tue, 01 Sep 2026 11:55:21 +0000</pubDate>
-<description>commento Cronaca nera Se il disagio viene lasciato solo Valeria Braghieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FLLNK2UD6R5MZDDWXZLGE4EOWE4.jpg?smart=true&amp;auth=bb9f202b276088b79ed8fb3835e76bf0945601bb8911aee165b2be8ee4c0873a&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
