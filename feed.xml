@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 07:56:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 08:15:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meloni, il governo dei record: più lavoro, meno tasse e spread ai minimi</title>
+<link>https://www.ilgiornale.it/news/governo/meloni-il-governo-dei-record-piu-lavoro-meno-tasse-e-spread-ai-minimi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-il-governo-dei-record-piu-lavoro-meno-tasse-e-spread-ai-minimi/</guid>
+<pubDate>Wed, 02 Sep 2026 07:51:24 +0000</pubDate>
+<description>+1,3 milioni di occupati in 4 anni: i dati Istat Quasi quattro anni a Palazzo Chigi: oltre un milione di occupati in più, disoccupazione al 5,8%, deficit ridotto al 3,1% e sbarchi crollati. Così la stabilità dell’esecutivo rafforza il Paese Massimo Balsamo Il Fisco cambia passo: il governo ha completato la riforma</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MSA6LJREFRKZRHWFHX6JM5PKNM.jpg?focal=802%2C359&amp;auth=ef4d76add7889f224bf45493ee941b67644429b3261fe4da2951522070ec9cf1&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Ci sono i servizi segreti dietro la foto di Report. I contatti con la prof che scattò l’immagine</title>
 <link>https://www.ilgiornale.it/news/magistratura/ci-sono-i-servizi-segreti-dietro-la-foto-di-report-i-contatti-con-la-prof-che-scatto-limmagine/</link>
@@ -794,14 +802,6 @@
 <pubDate>Tue, 01 Sep 2026 05:37:29 +0000</pubDate>
 <description>La 49enne ha sfidato gli agenti con due coltelli dopo che il taser non era riuscito a fermarla. La polizia esclude al momento la pista terroristica Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/J2TBOWJPN5GDNBSR3XSKNNYFY4.jpg?smart=true&amp;auth=de1ac10e7094baccaa07ea457f03d8fc05355c6e1fcfd02bf2c6f6bc66dc5113&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Un dolce Gentile per i cento anni di Appiano</title>
-<link>https://www.ilgiornale.it/news/retrogusto/un-dolce-gentile-per-i-cento-anni-di-appiano/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/un-dolce-gentile-per-i-cento-anni-di-appiano/</guid>
-<pubDate>Tue, 01 Sep 2026 05:00:00 +0000</pubDate>
-<description>Retrogusto Un dolce Gentile per i cento anni di Appiano Andrea Cuomo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/5MCXB2D4MFBCVKXXQ3S4CTRTFU.jpg?smart=true&amp;auth=5753bb2a0b6ae54a88edcd8d7a40a3d350c237f9a89f1b859d06f113d523d376&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
