@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 09:23:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 09:40:44 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>4 outfit per il rientro in ufficio a Settembre</title>
+<link>https://www.ilgiornale.it/news/over/4-outfit-per-il-rientro-in-ufficio-a-settembre/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/over/4-outfit-per-il-rientro-in-ufficio-a-settembre/</guid>
+<pubDate>Wed, 02 Sep 2026 09:30:26 +0000</pubDate>
+<description>Mariangela Cutrone</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NLSMPVFGJBGIZESXNGRWQJRTFU.jpg?focal=1261%2C467&amp;auth=98bc7175a6c3be1935f900ebbe510bca342eac5de9368eeb10ae8979d0387c34&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Fermata un’altra Ong tedesca a Lampedusa. Ma gli attivisti non ci stanno: faremo ricorso</title>
+<link>https://www.ilgiornale.it/news/nazionale/fermata-unaltra-ong-tedesca-a-lampedusa-ma-gli-attivisti-non-ci-stanno-faremo-ricorso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/fermata-unaltra-ong-tedesca-a-lampedusa-ma-gli-attivisti-non-ci-stanno-faremo-ricorso/</guid>
+<pubDate>Wed, 02 Sep 2026 09:26:29 +0000</pubDate>
+<description>La Humanity 2 non ha dato comunicazione immediata del secondo intervento, come prescritto dal decreto Piantedosi Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CJKX5ZTRLJINZH7VVMIZV4DQ4U.png?smart=true&amp;auth=03f74d45e88b56e90e17db8eac7893009f2ecc291393a79a40ebc6ee13d58731&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“Possibili tentativi d’influenze russe sul voto in Italia”. L’avviso di Tajani in vista delle elezioni del 2027</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/possibili-tentativi-dinfluenze-russe-sul-voto-in-italia-lavviso-di-tajani-in-vista-delle-elezioni-del-2027/</link>
@@ -786,22 +802,6 @@
 <pubDate>Tue, 01 Sep 2026 05:59:12 +0000</pubDate>
 <description>Stefano Giani</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NRE6PMV6V5OAJGOUOPH25CAG6A.jpg?focal=460%2C223&amp;auth=faa71c503aefdbe32f6485073fb4d39d98d0623f4fd5b73665f04e7c4dd84839&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>“Il cinema italiano è talentuoso ma fragile”</title>
-<link>https://www.ilgiornale.it/news/cinema/il-cinema-italiano-e-talentuoso-ma-fragile/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/il-cinema-italiano-e-talentuoso-ma-fragile/</guid>
-<pubDate>Tue, 01 Sep 2026 05:58:13 +0000</pubDate>
-<description>Pedro Armocida</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/YA37M5GFXREWZG2EQCABVVS64I.jpeg?focal=1692%2C1028&amp;auth=eef20a0ee6d80dc9a95521301514548ad9b2c328d7722abae4649ddd26a879ab&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>I Maneskin a Sanremo (forse con il disco nuovo)</title>
-<link>https://www.ilgiornale.it/news/musica/i-maneskin-a-sanremo-forse-con-il-disco-nuovo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/i-maneskin-a-sanremo-forse-con-il-disco-nuovo/</guid>
-<pubDate>Tue, 01 Sep 2026 05:57:12 +0000</pubDate>
-<description>Paolo Giordano</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TGQD56FPWZNKNOEKNNIXCJEZJE.png?focal=684%2C339&amp;auth=ec0acc25ffb227d1c117f9da132412874cb7a02b903219b791303fb377469a8d&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
