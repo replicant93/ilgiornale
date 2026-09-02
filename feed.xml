@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 15:46:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 15:58:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cronaca internazionale</title>
+<link>https://www.ilgiornale.it/esteri/cronaca-internazionale</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/esteri/cronaca-internazionale</guid>
+<pubDate>Wed, 02 Sep 2026 15:56:39 +0000</pubDate>
+<description>L'acqua fangosa travolge gli insediamenti nei distretti himalayani | Il video</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F08-27-2026%2Ft_a52c62b9edc6482089ba651c2a75f3e4_name_file_640x360_600_v4_.jpg?smart=true&amp;auth=cf408db114573f25f1344b7d351a32eb43c868d6d50715ea3fa35b14222e0c43&amp;width=640&amp;height=360" medium="image" />
+</item>
 <item>
 <title>Fine vita, il Veneto dice sì: è la prima Regione di centrodestra</title>
 <link>https://www.ilgiornale.it/news/interni/fine-vita-il-veneto-dice-si-e-la-prima-regione-di-centrodestra/</link>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 01 Sep 2026 11:12:41 +0000</pubDate>
 <description>Andrea Indini</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/XDUNNXXJNZHCNDEBSDM24RQEWU.jpg?focal=322%2C103&amp;auth=dfe668aec815b93a02a62681051cd9b9841f85e9b27df71ac6739f8f485ed6d5&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Mario Calabresi pronto a lasciare Chora Media per candidarsi a sindaco di Milano</title>
-<link>https://www.ilgiornale.it/news/interni/mario-calabresi-pronto-a-lasciare-chora-media-per-candidarsi-a-sindaco-di-milano/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/mario-calabresi-pronto-a-lasciare-chora-media-per-candidarsi-a-sindaco-di-milano/</guid>
-<pubDate>Tue, 01 Sep 2026 10:51:39 +0000</pubDate>
-<description>Il giornalista, figlio del commissario Luigi Calabresi, annuncerà la sua discesa in campo il 12 settembre alla festa dell’Unità Francesco Curridori</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/6FLUSU3KUNFXBLHJYUPKK4IOYY.jpg?focal=1939%2C462&amp;auth=c8f955947589dd6fe4b6017687be3486ce6944e72e6ed209bac23a225851464b&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
