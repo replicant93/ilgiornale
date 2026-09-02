@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 14:23:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 14:42:13 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Us Open, grande rimonta di Cobolli, buon rientro di Musetti. Sonego si arrende a Zverev</title>
+<link>https://www.ilgiornale.it/news/tennis/us-open-sorrisi-azzurri-straordinaria-rimonta-di-cobolli-ottimo-il-rientro-di-musetti-vince-bellucci-sonego-si-arrende-a-zverev/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/us-open-sorrisi-azzurri-straordinaria-rimonta-di-cobolli-ottimo-il-rientro-di-musetti-vince-bellucci-sonego-si-arrende-a-zverev/</guid>
+<pubDate>Wed, 02 Sep 2026 14:24:29 +0000</pubDate>
+<description>Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/EQ6FSCGEYJFPHOO2JCREKFBMHA.jpg?focal=1067%2C505&amp;auth=bda0544068a54f5adf49f5725ceab372f88a7a42a74a98a8baa5a5b9b8f58b9c&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>A Padova un gambiano ferisce un agente al grido "Allah Akbar"</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/paura-alla-stazione-di-padova-gambiano-con-un-coltello-da-cucina-urla-allah-akbar-e-ferisce-un-poliziotto-sara-espulso/</link>
@@ -794,14 +802,6 @@
 <pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Politica internazionale Quello che la sinistra non ha visto Francesco Maria Del Vigo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FWWFOIN5YVZIT7LBOWSPW5YGTP4.jpg?smart=true&amp;auth=ded598ad789150760e4e703703a10876227e6217e9efcb7b5aec9586ef26b413&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Se il disagio viene lasciato solo</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/se-il-disagio-viene-lasciato-solo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/se-il-disagio-viene-lasciato-solo/</guid>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Cronaca nera Se il disagio viene lasciato solo Valeria Braghieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FLLNK2UD6R5MZDDWXZLGE4EOWE4.jpg?smart=true&amp;auth=bb9f202b276088b79ed8fb3835e76bf0945601bb8911aee165b2be8ee4c0873a&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
