@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 19:37:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 19:48:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Giulia Presutti scrive a Corsini: “Faccio un passo indietro dall’incarico di co-conduttrice di Report”</title>
+<link>https://www.ilgiornale.it/news/nazionale/giulia-presutti-scrive-a-corsini-faccio-un-passo-indietro-dallincarico-di-co-conduttrice-di-report/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/giulia-presutti-scrive-a-corsini-faccio-un-passo-indietro-dallincarico-di-co-conduttrice-di-report/</guid>
+<pubDate>Wed, 02 Sep 2026 19:45:25 +0000</pubDate>
+<description>La giornalista: “Spero che Report continui a fare lo splendido lavoro di servizio pubblico che ha sempre fatto” Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/4XZXNT7O7VDWLBMNP6XGXPVEI4.jpg?focal=2845%2C660&amp;auth=50c95d50edc5b4dd96d0e2da379b5428c7b08db4700f97818a1f82bdec0423ed&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Report, il Cdr dice no al rinvio: “La Rai faccia chiarezza su Ranucci”</title>
 <link>https://www.ilgiornale.it/news/nazionale/report-il-cdr-dice-no-al-rinvio-la-rai-faccia-chiarezza-su-ranucci/</link>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 01 Sep 2026 12:08:41 +0000</pubDate>
 <description>Luigi Melita</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/K4NEDNDEXVCKPLIIVJP7QXDIUA.png?smart=true&amp;auth=4579ae351e9a7c4465ffb81626247169a0c47eec1b4d1476598b5ab96131a026&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Nuovo amore per Maddalena Corvaglia, chi è il fidanzato Matteo Gracis</title>
-<link>https://www.ilgiornale.it/news/personaggi/nuovo-amore-per-maddalena-corvaglia-chi-e-il-fidanzato-matteo-gracis/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/nuovo-amore-per-maddalena-corvaglia-chi-e-il-fidanzato-matteo-gracis/</guid>
-<pubDate>Tue, 01 Sep 2026 12:06:19 +0000</pubDate>
-<description>L’ex velina di Striscia ha ufficializzato la relazione con il giornalista e scrittore Gracias Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ONQ6LSCI4VEGPFIH2MTTETPN74.jpg?smart=true&amp;auth=806c3abae51485d47d8566605027de5b35bfea042633cea66a82765aa7799900&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
