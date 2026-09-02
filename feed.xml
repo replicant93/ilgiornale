@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 05:17:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 05:35:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Annuncio social Di Battista dopo il ricovero a Cuba: “Mi sento molto meglio. Riparto venerdì”</title>
+<link>https://www.ilgiornale.it/news/nazionale/annuncio-social-di-battista-dopo-il-ricovero-a-cuba-mi-sento-molto-meglio-riparto-venerdi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/annuncio-social-di-battista-dopo-il-ricovero-a-cuba-mi-sento-molto-meglio-riparto-venerdi/</guid>
+<pubDate>Wed, 02 Sep 2026 05:20:44 +0000</pubDate>
+<description>L’ex M5s ringrazia i medici cubani per diagnosi e cure tempestive. Poi torna a parlare di Gaza e del personale sanitario palestinese Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/EWZJHSZYXVETHKIO2WZX6WHFO4.jpg?smart=true&amp;auth=bc593d0cdaa28aeed2ba49627b5c8deb9c2a860c700fd527f8c6d6d63647f870&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Raid Usa contro due petroliere iraniane, poi lo stop ai bombardamenti. Teheran: “Colpite basi americane in Iraq”</title>
+<link>https://www.ilgiornale.it/diretta/guerra/gli-usa-colpiscono-due-petroliere-iraniane-poi-lo-stop-ai-raid-teheran-colpite-basi-americane-in-iraq/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/gli-usa-colpiscono-due-petroliere-iraniane-poi-lo-stop-ai-raid-teheran-colpite-basi-americane-in-iraq/</guid>
+<pubDate>Wed, 02 Sep 2026 05:14:41 +0000</pubDate>
+<description>DIRETTA Raid Usa contro due petroliere iraniane, poi lo stop ai bombardamenti. Teheran: “Colpite basi americane in Iraq” Nuova escalation tra Usa e Iran: Washington colpisce due petroliere e circa 100 obiettivi militari, mentre Teheran risponde con missili e droni contro basi Usa. I negoziati non fanno passi avanti Redazione web Israele, catturato il capo della sicurezza interna di Hamas Le armi, i campi di addestramento e il ruolo di Jibril “il Monco”: l’alleanza del terrore tra Al Qaeda e Houthi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CL7Z43HVABAHVAANOCX2FXYD6Y.jpg?smart=true&amp;auth=ec40d33c9ff7bf492e80eda63d673140b8f531a9efc39bdac2d6f8c72e04b5d3&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Ba e Ciacco, due eccellenze in un gelato</title>
 <link>https://www.ilgiornale.it/news/retrogusto/ba-e-ciacco-due-eccellenze-in-un-gelato/</link>
@@ -786,22 +802,6 @@
 <pubDate>Mon, 31 Aug 2026 14:34:16 +0000</pubDate>
 <description>Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/DLGP63BG65AVDIIRQZQERFLSIQ.png?focal=706%2C314&amp;auth=dd29155fbfceda003a757afacb7e4f5c77cb6b9f9b782c98bc72cb99235b57e5&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Allah Akbar”, sassaiola degli immigrati musulmani contro la polizia</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/allah-akbar-sassaiola-degli-immigrati-musulmani-contro-la-polizia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/allah-akbar-sassaiola-degli-immigrati-musulmani-contro-la-polizia/</guid>
-<pubDate>Mon, 31 Aug 2026 14:33:33 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/64JPFWDZINHAVMQG2BFOMFWSRY.jpg?smart=true&amp;auth=5c31201bd6a8e8a1613833f8a48e719b9ecdd3f3cf61d63a6dfa1ae831d77a01&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Milano, il racconto del terrore: “Accerchiato e ferito alla testa dalla baby gang di 14enni nordafricani”</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/milano-il-racconto-del-terrore-accerchiato-e-ferito-alla-testa-dalla-baby-gang-di-14enni-nordafricani/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/milano-il-racconto-del-terrore-accerchiato-e-ferito-alla-testa-dalla-baby-gang-di-14enni-nordafricani/</guid>
-<pubDate>Mon, 31 Aug 2026 14:30:04 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2U7VJ5P7VRK65JD4NX5NQSLGZY.jpg?focal=590%2C610&amp;auth=29c903976bf0e17030efd3caf15b5ff93c58d50609d5b181b7be20d1f0d18eb3&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
