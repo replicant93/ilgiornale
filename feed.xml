@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 20:19:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 20:34:34 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Centinaia di migliaia di spagnoli scendono nelle piazze: “Ceuta non si vende, Ceuta si difende”. Insulti a Sanchez e cariche della polizia</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/centinaia-di-migliaia-di-spagnoli-scendono-nelle-piazze-ceuta-non-si-vende-ceuta-si-difende-insulti-a-sanchez-e-cariche-della-polizia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/centinaia-di-migliaia-di-spagnoli-scendono-nelle-piazze-ceuta-non-si-vende-ceuta-si-difende-insulti-a-sanchez-e-cariche-della-polizia/</guid>
+<pubDate>Wed, 02 Sep 2026 20:32:48 +0000</pubDate>
+<description>Finalmente Sanchez fa autocritica. E un dossier incastra il Marocco Sono state 300 le piazze convocate in tutta la Spagna per protestare contro la gestione della crisi: tra i Comuni che hanno aderito ci sono anche quelli espressione del partito socialista di Sanchez Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/6OJ6HWXPNRE2ZPA3N57WQ57OKI.jpg?smart=true&amp;auth=f2cdee05f1ed2f3e4410895853691a3b2c9457d1a36bdd6d5f02ea9ae5741395&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Ausilio e l’Inter, il valore perduto della continuità</title>
 <link>https://www.ilgiornale.it/news/calcio/ausilio-e-linter-il-valore-perduto-della-continuita/</link>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 01 Sep 2026 12:42:10 +0000</pubDate>
 <description>L’ex premier britannico ha annunciato oggi che lascerà anche la Camera dei Comuni, dopo avere già abbandonato la guida del governo e del Labour Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/QHP4QCQIIVIJTIIZ5QJER6YTIU.jpg?smart=true&amp;auth=a2457846467525d8e329b09cc9be1d8cf0992f756a02f4420810fba71972e37d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Schengen, l’Ue: “Valuteremo la proroga dell’Italia”</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/schengen-lue-valuteremo-la-proroga-dellitalia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/schengen-lue-valuteremo-la-proroga-dellitalia/</guid>
-<pubDate>Tue, 01 Sep 2026 12:20:28 +0000</pubDate>
-<description>Ceuta nel caos, rimpatri paralizzati: i funzionari non firmano per paura di essere indagati Schengen, l’Ue: “Valuteremo la proroga dell’Italia” Il Marocco è pronto a riaccogliere i migranti, ma una sentenza del 2025 ha irrigidito la macchina amministrativa spagnola e rallentato le espulsioni Francesca Galici Ceuta, Sanchez tira fuori il complotto: “Fake news da Russia, Israele ed estrema destra” “Situazione insostenibile”. In centiania protestano a Ceuta per l’emergenza migranti</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/Z66GTRLQ3JEPZPPOUPB3EO6YQA.jpg?smart=true&amp;auth=b7b23361b63aa0d695a3505e1b7eb176c48cf08ad3d5e5adaea8dd7f53be9e5f&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
