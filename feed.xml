@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 12:59:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 13:19:13 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Terremoto Inter: niente accordo per il rinnovo, Piero Ausilio lascia dopo 29 anni</title>
+<link>https://www.ilgiornale.it/news/calcio/terremoto-inter-niente-accordo-per-il-rinnovo-piero-ausilio-lascia-dopo-29-anni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/terremoto-inter-niente-accordo-per-il-rinnovo-piero-ausilio-lascia-dopo-29-anni/</guid>
+<pubDate>Wed, 02 Sep 2026 13:16:08 +0000</pubDate>
+<description>Luca Bocci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/G3Y27O4V7BGLRNQYXIDRCDECOE.jpg?focal=873%2C568&amp;auth=467652592e3f51db6842da38323183e283b65548452f20690853a70476602668&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Giallo a Vigevano, trovato morto il 24enne aggredito e gettato nel Naviglio: dieci giorni fa aveva detto “Ho avuto paura”</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/giallo-a-vigevano-trovato-morto-il-24enne-aggredito-e-gettato-nel-naviglio-dieci-giorni-fa-aveva-detto-ho-avuto-paura/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/giallo-a-vigevano-trovato-morto-il-24enne-aggredito-e-gettato-nel-naviglio-dieci-giorni-fa-aveva-detto-ho-avuto-paura/</guid>
+<pubDate>Wed, 02 Sep 2026 13:07:56 +0000</pubDate>
+<description>Il giovane, originario di El Salvador, il 21 agosto era stato vittima di un’aggressione omofoba che non aveva voluto denunciare. Il suo corpo è stato trovato in un edificio abbandonato: sul viso tracce di sangue Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ZITSPRYWTNDM7EKMD6WT4A5DHA.png?focal=664%2C440&amp;auth=4d444e9792ff7bb83f53653d56cd3e389327228a656143fcc0ff44fcdfc685bf&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Finalmente Sanchez fa autocritica. E un dossier incastra il Marocco</title>
 <link>https://www.ilgiornale.it/news/politica-estera/ceuta-finalmente-sanchez-fa-autocritica-e-un-dossier-incastra-il-marocco/</link>
@@ -786,22 +802,6 @@
 <pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
 <description>Augusto Minzolini</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TBY45ID6IFBAJMFEKB5LV5NWBY.jpg?focal=1814%2C1190&amp;auth=5bd010c63435257b6c0abaa84e611f0c780010b10ec272754a4de89ce11813a9&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>La Festa dell’Unità di Elly: solo sinistra e niente Calenda</title>
-<link>https://www.ilgiornale.it/news/interni/la-festa-dellunita-di-elly-solo-sinistra-e-niente-calenda/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-festa-dellunita-di-elly-solo-sinistra-e-niente-calenda/</guid>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<description>Giuseppe Alberto Falci</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OTYAZD7QYZPXFELQYQGM63RUUE.jpg?focal=1721%2C600&amp;auth=eac86d0960a54a0953a568c4be8d1a3047cfeeb66a104db51e2572c82497abd5&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Giorgetti: “Il debito italiano è ok”. Allo studio soluzioni per le accise</title>
-<link>https://www.ilgiornale.it/news/governo/giorgetti-il-debito-italiano-e-ok-allo-studio-soluzioni-per-le-accise/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/giorgetti-il-debito-italiano-e-ok-allo-studio-soluzioni-per-le-accise/</guid>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<description>Il Fisco cambia passo: il governo ha completato la riforma Il ministro rassicura sulla tenuta dei conti: il rifinanziamento delle esposizioni è assicurato. Rimane il nodo caro-carburanti, dagli aiuti selettivi alla social card potenziata ecco le opzioni al vaglio Gian Maria De Francesco</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OZJSTZ6ATZLK3OXMMK2YBEHWXY.jpg?focal=389%2C160&amp;auth=51f5b89efffacbe90a99aeefe36e54259485cd2bf92f64a8d5377e0ca1ada9bc&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
