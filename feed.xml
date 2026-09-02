@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 17:00:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 17:21:43 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Il Pd riscopre l’antisemitismo solo per colpire Signorelli</title>
@@ -117,6 +117,14 @@
 <pubDate>Wed, 02 Sep 2026 14:03:14 +0000</pubDate>
 <description>Maria Girardi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JLKLZHQDSFFBDHDAGZNKJXWROQ.jpg?focal=2886%2C2094&amp;auth=e8caef37be349c559bae077ffa307cd6032b803938014f87ca17befbfa0f5999&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Parlamento Ue, Ppe-destre bloccano missione su Stato di diritto in Italia</title>
+<link>https://www.ilgiornale.it/news/europa/parlamento-ue-ppe-destre-bloccano-missione-su-stato-di-diritto-in-italia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/parlamento-ue-ppe-destre-bloccano-missione-su-stato-di-diritto-in-italia/</guid>
+<pubDate>Wed, 02 Sep 2026 13:55:44 +0000</pubDate>
+<description>Il blocco formato da Ppe, Ecr, Patrioti e Esn ha bocciato la mozione delle sinistre e messo in fibrillazione la maggioranza che sostiene Von Der Leyen Francesco Curridori</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/BARPFYMFQBJU5IVC6VCHMPAVQ4.jpg?focal=1572%2C948&amp;auth=61e0ad6ec58f923cffb50c5f46bea195e6782ebc5913c4ec3d306b6b269cdd70&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Il legale di Ranucci attacca la Rai: “Non esplicita ragioni della rimozione, grave per un’azienda pubblica”</title>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 01 Sep 2026 11:36:54 +0000</pubDate>
 <description>La fronda interna punta alla convocazione del congresso dopo nove anni. Pressing su Iezzi e confronto aperto in vista di Pontida Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NJXXIR2JTJGJ3IW6D725EWIZ5A.jpg?smart=true&amp;auth=c66f797921dfc4d9e443216445c36f4e737654825dab1ca8e37691417bd4ab8a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Le armi, i campi di addestramento e il ruolo di Jibril “il Monco”: così prende forma l’alleanza del terrore tra Al Qaeda e Houthi</title>
-<link>https://www.ilgiornale.it/news/terrorismo/le-armi-i-campi-di-addestramento-e-il-ruolo-di-jibril-il-monco-cosi-prende-forma-lalleanza-del-terrore-tra-al-qaeda-e-houthi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/terrorismo/le-armi-i-campi-di-addestramento-e-il-ruolo-di-jibril-il-monco-cosi-prende-forma-lalleanza-del-terrore-tra-al-qaeda-e-houthi/</guid>
-<pubDate>Tue, 01 Sep 2026 11:19:58 +0000</pubDate>
-<description>Al Shabaab, alleato dell’organizzazione terroristica, e ribelli yemeniti collaborano su droni, traffici e formazione militare. Un asse che può minacciare le rotte strategiche del Mar Rosso Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/N3HBTKFO55GADACR5H2V2V24BE.jpg?smart=true&amp;auth=7bdd9efc0e627f61613322af11d6e205a42fc96e280a0aad89bd24e630e90d88&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
