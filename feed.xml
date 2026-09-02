@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 19:20:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 19:37:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Report, il Cdr dice no al rinvio: “La Rai faccia chiarezza su Ranucci”</title>
@@ -14,6 +14,14 @@
 <pubDate>Wed, 02 Sep 2026 19:13:32 +0000</pubDate>
 <description>Giulia Bernardini</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/3FBELXO4EJCCXNCASZS2AVZAOA.jpg?focal=1509%2C387&amp;auth=096e290140d8462f40513708fa254186c748e029e835d9d3ae2328da5c80ed00&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Svolta a Malta: cade l’accusa contro il presunto mandante del delitto Caruana Galizia</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/svolta-a-malta-cade-laccusa-contro-il-presunto-mandante-del-delitto-caruana-galizia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/svolta-a-malta-cade-laccusa-contro-il-presunto-mandante-del-delitto-caruana-galizia/</guid>
+<pubDate>Wed, 02 Sep 2026 18:35:40 +0000</pubDate>
+<description>Il magnate Yorgen Fenech è stato assolto dall’accusa di essere il mandante dell’attentato dinamitardo che nel 2017 uccise la reporter Daphne Caruana Galizia Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QA5ZSTZXUZHUTERZVEFDBQ5S7E.jpg?smart=true&amp;auth=5fa55660a61edc2aadfb80ae43b8783679cb37317e75fe3fd8519447bcec0f5f&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Novara, il corteo islamico “gonfiato” sui social: Futuro Nazionale cavalca la fake news</title>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 01 Sep 2026 12:06:19 +0000</pubDate>
 <description>L’ex velina di Striscia ha ufficializzato la relazione con il giornalista e scrittore Gracias Novella Toloni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ONQ6LSCI4VEGPFIH2MTTETPN74.jpg?smart=true&amp;auth=806c3abae51485d47d8566605027de5b35bfea042633cea66a82765aa7799900&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Stacca il Tricolore, lo calpesta e ci sputa sopra: espulso l’irregolare che ha indignato Firenze</title>
-<link>https://www.ilgiornale.it/news/nazionale/stacca-il-tricolore-lo-calpesta-e-ci-sputa-sopra-espulso-lirregolare-che-ha-indignato-firenze/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/stacca-il-tricolore-lo-calpesta-e-ci-sputa-sopra-espulso-lirregolare-che-ha-indignato-firenze/</guid>
-<pubDate>Tue, 01 Sep 2026 12:01:26 +0000</pubDate>
-<description>L’uomo è stato identificato e trasferito in un Cpr in attesa del rimpatrio. Piantedosi: “In Italia vanno rispettati leggi e simboli” Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/4YYDYIGSC5FG3BAYV2KRO7EBAQ.jpg?smart=true&amp;auth=0aa1ec89fe93746522ac46c0b843124296cbfb0d5e6c6fd009706408086d0750&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
