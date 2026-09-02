@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 04:59:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 05:17:35 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ba e Ciacco, due eccellenze in un gelato</title>
+<link>https://www.ilgiornale.it/news/retrogusto/ba-e-ciacco-due-eccellenze-in-un-gelato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/ba-e-ciacco-due-eccellenze-in-un-gelato/</guid>
+<pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
+<description>Retrogusto Ba e Ciacco, due eccellenze in un gelato Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/BR4CRWPT7BGEDJTZWWRDLBLAFQ.jfif?smart=true&amp;auth=38221de745d743d0fc84711a9d60d14ea3e436d192f57417f630ec04b713ea50&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Se pure la polizia deve avere paura</title>
 <link>https://www.ilgiornale.it/news/attualita/se-pure-la-polizia-deve-avere-paura/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 31 Aug 2026 14:30:04 +0000</pubDate>
 <description>Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/2U7VJ5P7VRK65JD4NX5NQSLGZY.jpg?focal=590%2C610&amp;auth=29c903976bf0e17030efd3caf15b5ff93c58d50609d5b181b7be20d1f0d18eb3&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Nuova Nissan Micra: la piccola giapponese che si reinventa e convince anche da elettrica</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/nuova-nissan-micra-la-piccola-giapponese-che-si-reinventa-e-convince-anche-da-elettrica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/nuova-nissan-micra-la-piccola-giapponese-che-si-reinventa-e-convince-anche-da-elettrica/</guid>
-<pubDate>Mon, 31 Aug 2026 14:14:48 +0000</pubDate>
-<description>Il video del test drive Sei generazioni, quarant’anni di storia e ora un salto netto: la nuova Micra è solo elettrica, con 416 km di autonomia dichiarata e uno stile che guarda avanti senza dimenticare le origini Daniele Villa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/XIKS4JVQJRGT7NBW6HVIXLU4NA.jfif?focal=854%2C722&amp;auth=3faedbdaaaa9a1c631fdf4db765ed907915a64a7120cd0906ca64b56c2b12e98&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
