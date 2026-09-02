@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 02 Sep 2026 10:32:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 10:48:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Avevo bevuto due tequila…”. L'aggressore si difende dopo la violenza sessuale alla 13enne</title>
+<link>https://www.ilgiornale.it/news/nazionale/avevo-bevuto-due-tequila-cosi-il-bengalese-si-difende-dopo-laggressione-sessuale-alla-13enne/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/avevo-bevuto-due-tequila-cosi-il-bengalese-si-difende-dopo-laggressione-sessuale-alla-13enne/</guid>
+<pubDate>Wed, 02 Sep 2026 10:33:20 +0000</pubDate>
+<description>Violenta una 13enne ma il giudice libera il bengalese perché “dispiaciuto”. Nordio invia gli ispettori. Il disappunto di Meloni “Avevo bevuto due tequila…”. L'aggressore si difende dopo la violenza sessuale alla 13enne Per il 42enne commesso del minimarket dove si è verificata la violenza solo l’obbligo di firma perché si è mostrato “collaborativo” ed era incensurato. La premier: “Avanti su sicurezza ma con sentenze come questa è difficile” Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3B6SD5WVV5AVDJOP7KNLCSENWQ.jpg?smart=true&amp;auth=2491cedca761d058e548c47595ff2bbecb95a56e1b227777055de5f8d71c9f98&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Tornare in forma dopo le ferie estive (senza cadere nella malinconia)</title>
 <link>https://www.ilgiornale.it/news/benessere/tornare-in-forma-dopo-le-ferie-estive-senza-cadere-nella-malinconia/</link>
@@ -794,14 +802,6 @@
 <pubDate>Tue, 01 Sep 2026 06:20:19 +0000</pubDate>
 <description>Droni violano lo spazio Nato sul Baltico: caccia in volo. Massicci raid russi in Ucraina: 7 morti Xi sfida Trump sull’Iran: ecco come la Cina può colpire gli Usa Notte di raid tra Russia e Ucraina: attacchi su Kiev e Odessa causano vittime e danni, mentre droni ucraini colpiscono Ust-Luga. In Estonia scatta l’allarme e decollano i caccia Nato dalla base Amari Redazione web Perché gli Stati Uniti hanno attaccato l'isola di Larak</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/T3RZPBEKWFJ6FI2GNB37VOAOVM.jpg?smart=true&amp;auth=82efbbe2fd1494259243148228aa8fed966937b32df346feffc02e97d9eeed62&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Nepal si aggrava ancora il bilancio delle innondazioni: oltre mille vittime</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/nepal-si-aggrava-ancora-il-bilancio-delle-innondazioni-oltre-mille-vittime/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/nepal-si-aggrava-ancora-il-bilancio-delle-innondazioni-oltre-mille-vittime/</guid>
-<pubDate>Tue, 01 Sep 2026 06:13:59 +0000</pubDate>
-<description>Le autorità locali contano 987 vittime in Nepal. Almeno 16 i morti registrati anche in Tibet Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CMIT434MTRB6LLSZF2CT3IF4NE.jpg?smart=true&amp;auth=6920b90b8fdac2ac01a6fc61488e900472de4a436544775be1c3b0a81c006284&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
