@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 07:57:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 08:17:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Dalla Chiesa, Meloni ricorda il Generale ucciso dalla mafia 44 anni fa: “Il suo esempio continua a parlarci”. Mattarella: “Da lui lascito prezioso”</title>
+<link>https://www.ilgiornale.it/news/interni/dalla-chiesa-meloni-ricorda-il-generale-ucciso-dalla-mafia-44-anni-fa-il-suo-esempio-continua-a-parlarci-mattarella-da-lui-lascito-prezioso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/dalla-chiesa-meloni-ricorda-il-generale-ucciso-dalla-mafia-44-anni-fa-il-suo-esempio-continua-a-parlarci-mattarella-da-lui-lascito-prezioso/</guid>
+<pubDate>Thu, 03 Sep 2026 08:02:29 +0000</pubDate>
+<description>A 44 anni dalla strage di via Carini, la premier e il Capo dello Stato ricordano il generale assassinato dalla mafia insieme alla moglie Emanuela Setti Carraro e all’agente Domenico Russo, sottolineandone il coraggio, il senso del dovere e la difesa della legalità Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/XXTW4PAMDZOF7HCDY3VXG5WOA4.jpg?focal=595%2C218&amp;auth=93bd9a8cc55118a0f75a4d4ffdddfe9f8d149b4ae30478b8268e569156cba253&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Pronti per lo sci (e non solo)? Abbiamo provato Huawei Watch GT 7 Pro</title>
+<link>https://www.ilgiornale.it/news/wearable/pronti-per-lo-sci-e-non-solo-abbiamo-provato-huawei-watch-gt-7-pro/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/wearable/pronti-per-lo-sci-e-non-solo-abbiamo-provato-huawei-watch-gt-7-pro/</guid>
+<pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
+<description>Dalla neve alla città: Huawei Watch GT 7, lo smartwatch sportivo che non rinuncia all’eleganza Pronti per lo sci (e non solo)? Abbiamo provato Huawei Watch GT 7 Pro La nuova serie Huawei Watch GT 7 è pensata per le sfide sportive più intense grazie alle sue funzioni avanzate per sci e ciclismo. Ma il design elegante e raffinato lo rende perfetto per tutte le occasioni Luca Romano</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ID3FEKEVAJCOPLFQMMZME2R4NA.jpg?smart=true&amp;auth=148c700656a43597a790f05dcb21e0b0719c0280c93bd016edb14b4fc7a3bc5d&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“Sono pentito di quelle chat. Mai stato un antisemita”</title>
 <link>https://www.ilgiornale.it/news/interni/sono-pentito-di-quelle-chat-mai-stato-un-antisemita/</link>
@@ -785,21 +801,6 @@
 <pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
 <description>Retrogusto Ba e Ciacco, due eccellenze in un gelato Andrea Cuomo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BR4CRWPT7BGEDJTZWWRDLBLAFQ.jfif?smart=true&amp;auth=38221de745d743d0fc84711a9d60d14ea3e436d192f57417f630ec04b713ea50&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Piero Meldini, il più inattuale (e magnifico) dei nostri scrittori</title>
-<link>https://www.ilgiornale.it/news/letteratura/piero-meldini-il-piu-inattuale-e-magnifico-dei-nostri-scrittori/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/letteratura/piero-meldini-il-piu-inattuale-e-magnifico-dei-nostri-scrittori/</guid>
-<pubDate>Wed, 02 Sep 2026 04:56:44 +0000</pubDate>
-<description>Ha esordito tardi, è uno dei pochi italiani viventi editi da Adelphi e non pubblica da 15 anni. Ma oggi torna in libreria con il suo ultimo romanzo Davide Brullo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/EG6LBPU7MRAO5DLMYLSVWYYTME.jpg?focal=685%2C1260&amp;auth=1eab91cee7546ac7601c95edc43f365c13a494ba11dbf7b725f360c7cf074a8a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Unicredit al tavolo del risiko. “Potrebbe comprare in Italia”</title>
-<link>https://www.ilgiornale.it/news/banche/unicredit-al-tavolo-del-risiko-potrebbe-comprare-in-italia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/banche/unicredit-al-tavolo-del-risiko-potrebbe-comprare-in-italia/</guid>
-<pubDate>Wed, 02 Sep 2026 04:53:16 +0000</pubDate>
-<description>Marcello Astorri</description>
 </item>
 </channel>
 </rss>
