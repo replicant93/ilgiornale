@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 09:12:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 09:32:02 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ferritina, 5 segnali che indicano che il valore è basso</title>
+<link>https://www.ilgiornale.it/news/benessere/ferritina-5-segnali-che-indicano-che-il-valore-e-basso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/ferritina-5-segnali-che-indicano-che-il-valore-e-basso/</guid>
+<pubDate>Thu, 03 Sep 2026 09:23:18 +0000</pubDate>
+<description>Mariangela Cutrone</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/7AHFFTR3YFE7JAOBKOJPNXSVME.jpg?smart=true&amp;auth=4c2e8fc5fa9da31714c3c6ae960b0cb04c0cbf2a0d8ab391480e16d9d72a451f&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Il delirio di Piccardo che insulta il giornalista: “Musulmani perseguitati come cristiani nella Roma antica”</title>
 <link>https://www.ilgiornale.it/news/interni/siamo-perseguitati-laccusa-di-piccardo-agli-italiani-gli-islamici-come-i-cristiani-nella-roma-antica/</link>
@@ -793,14 +801,6 @@
 <pubDate>Wed, 02 Sep 2026 05:14:41 +0000</pubDate>
 <description>DIRETTA Raid Usa contro due petroliere iraniane, poi lo stop ai bombardamenti. Teheran: “Colpite basi americane in Iraq” Nuova escalation tra Usa e Iran: Washington colpisce due petroliere e circa 100 obiettivi militari, mentre Teheran risponde con missili e droni contro basi Usa. I negoziati non fanno passi avanti Redazione web Israele, catturato il capo della sicurezza interna di Hamas Le armi, i campi di addestramento e il ruolo di Jibril “il Monco”: l’alleanza del terrore tra Al Qaeda e Houthi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/CL7Z43HVABAHVAANOCX2FXYD6Y.jpg?smart=true&amp;auth=ec40d33c9ff7bf492e80eda63d673140b8f531a9efc39bdac2d6f8c72e04b5d3&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Antonelli sfida la Ferrari e Monza ha il cuore diviso</title>
-<link>https://www.ilgiornale.it/news/calcio/antonelli-sfida-la-ferrari-e-monza-ha-il-cuore-diviso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/antonelli-sfida-la-ferrari-e-monza-ha-il-cuore-diviso/</guid>
-<pubDate>Wed, 02 Sep 2026 05:13:59 +0000</pubDate>
-<description>Umberto Zapelloni</description>
-<media:content url="https://cloudfront-eu-central-1.images.arcpublishing.com/ilgiornale/T4I2R6RODBGZZHMCBVN2AHIDR4.png" medium="image" />
 </item>
 </channel>
 </rss>
