@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 14:58:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 15:20:13 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Uomo e donna giù da un cavalcavia dell’A1, ipotesi femminicidio-suicidio</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/uomo-e-donna-giu-da-un-cavalcavia-della1-ipotesi-omicidio-suicidio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/uomo-e-donna-giu-da-un-cavalcavia-della1-ipotesi-omicidio-suicidio/</guid>
+<pubDate>Thu, 03 Sep 2026 14:54:42 +0000</pubDate>
+<description>Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ZM2JSSI62NPTJBC43K2FP6XSRI.jpg?smart=true&amp;auth=dae16601580f2579f23cc3a94437a211eba1ac9fbd933c5d016041716b5ddbb2&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Il Canale di Suez, il Mediterraneo, il Nord Africa: così la Cina si insidia nel cortile di casa dell’Europa</title>
 <link>https://www.ilgiornale.it/news/politica-estera/il-canale-di-suez-il-mediterraneo-il-nord-africa-cosi-la-cina-si-insidia-nel-cortile-di-casa-delleuropa/</link>
@@ -792,14 +800,6 @@
 <pubDate>Wed, 02 Sep 2026 13:16:08 +0000</pubDate>
 <description>Luca Bocci</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/G3Y27O4V7BGLRNQYXIDRCDECOE.jpg?focal=873%2C568&amp;auth=467652592e3f51db6842da38323183e283b65548452f20690853a70476602668&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Giallo a Vigevano, trovato morto il 24enne aggredito e gettato nel Naviglio: dieci giorni fa aveva detto “Ho avuto paura”</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/giallo-a-vigevano-trovato-morto-il-24enne-aggredito-e-gettato-nel-naviglio-dieci-giorni-fa-aveva-detto-ho-avuto-paura/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/giallo-a-vigevano-trovato-morto-il-24enne-aggredito-e-gettato-nel-naviglio-dieci-giorni-fa-aveva-detto-ho-avuto-paura/</guid>
-<pubDate>Wed, 02 Sep 2026 13:07:56 +0000</pubDate>
-<description>Il giovane, originario di El Salvador, il 21 agosto era stato vittima di un’aggressione omofoba che non aveva voluto denunciare. Il suo corpo è stato trovato in un edificio abbandonato: sul viso tracce di sangue Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZITSPRYWTNDM7EKMD6WT4A5DHA.png?focal=664%2C440&amp;auth=4d444e9792ff7bb83f53653d56cd3e389327228a656143fcc0ff44fcdfc685bf&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
