@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 08:34:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 08:51:00 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Dopo il dazio da 3 euro ora in Europa arriva la tassa Fast Fashion fino a 12 euro ad abito</title>
+<link>https://www.ilgiornale.it/news/cittadini/dopo-il-dazio-da-3-euro-ora-in-europa-arriva-la-tassa-fast-fashion-fino-a-12-euro-ad-abito/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/dopo-il-dazio-da-3-euro-ora-in-europa-arriva-la-tassa-fast-fashion-fino-a-12-euro-ad-abito/</guid>
+<pubDate>Thu, 03 Sep 2026 08:45:49 +0000</pubDate>
+<description>Un nuovo aggravio fiscale aggiunge fino a 12 euro all’importazione di capi d’abbigliamento asiatici, puntando a contrastare i volumi del fast fashion: ecco come funziona Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/N43YMCI52NH23EMKIPY4GWUJ5E.jpg?focal=1394%2C758&amp;auth=8d995c541b25d7e2b5acb8fdd7ad4680f9710a491afc3c3d8440d8755df60008&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Dalla Chiesa, Meloni ricorda il Generale ucciso dalla mafia 44 anni fa: “Il suo esempio continua a parlarci”. Mattarella: “Da lui lascito prezioso”</title>
 <link>https://www.ilgiornale.it/news/interni/dalla-chiesa-meloni-ricorda-il-generale-ucciso-dalla-mafia-44-anni-fa-il-suo-esempio-continua-a-parlarci-mattarella-da-lui-lascito-prezioso/</link>
@@ -793,14 +801,6 @@
 <pubDate>Wed, 02 Sep 2026 05:05:59 +0000</pubDate>
 <description>Pedro Armocida</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/LXXX6T7TMVFTTLQBIHLD5TTNDE.jpeg?focal=540%2C355&amp;auth=f0fdf8ddf350bdbee9ef11e5f2565264ad994ccfc9c0ca8a59aaf1e5de4a8038&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Tinto, George e i cocktail: al Lido c’è anche il cinema</title>
-<link>https://www.ilgiornale.it/news/cinema/tinto-george-e-i-cocktail-al-lido-ce-anche-il-cinema/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/tinto-george-e-i-cocktail-al-lido-ce-anche-il-cinema/</guid>
-<pubDate>Wed, 02 Sep 2026 05:01:55 +0000</pubDate>
-<description>Alessandro Gnocchi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/IVYL3BFUMZEJDCIAJEDZM3KKRQ.jpg?focal=2995%2C1515&amp;auth=b9385ffb7f5bb777aba64d4b0890929b0d62f05eca94a129c5532c97f986916c&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
