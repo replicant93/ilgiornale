@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 13:12:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 13:31:54 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Padre, madre e figlio trovati morti in casa nel Savonese: ipotesi omicidio-suicidio</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/padre-madre-e-figlio-trovati-morti-in-casa-nel-savonese-ipotesi-omicidio-suicidio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/padre-madre-e-figlio-trovati-morti-in-casa-nel-savonese-ipotesi-omicidio-suicidio/</guid>
+<pubDate>Thu, 03 Sep 2026 13:20:31 +0000</pubDate>
+<description>Sessantenne spara alla moglie e poi uccide il figlio. In un biglietto avrebbe lasciato scritto i motivi del gesto Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DIPRHGNWVFCIHG2LSHPMFLVBGU.jpeg?focal=1142%2C620&amp;auth=2d80d6209f34fc75a1bda1b68d8e6e2a737421164005c4f76a20ffb3f4c31b25&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>“Venduto”, insulti e battutacce: alta tensione in Rai tra Sottile e gli uomini di Report</title>
+<link>https://www.ilgiornale.it/news/tv/venduto-insulti-e-battutacce-alta-tensione-in-rai-tra-sottile-e-gli-uomini-di-report/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tv/venduto-insulti-e-battutacce-alta-tensione-in-rai-tra-sottile-e-gli-uomini-di-report/</guid>
+<pubDate>Thu, 03 Sep 2026 13:16:03 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/SBAS74CQBBGGTBSDL6CJW45H2Y.jpg?smart=true&amp;auth=84fc2318abc9ccecc5c161f8b9e924bf292ea3b97ac78eb2573278a7d618626b&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Dopo lo scoop del Giornale si muove la procura: acquisiti i servizi giornalistici sullo Zimbawe</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/dopo-lo-scoop-del-giornale-si-muove-la-procura-acquisiti-i-servizi-giornalistici-sullo-zimbawe/</link>
@@ -784,22 +800,6 @@
 <pubDate>Wed, 02 Sep 2026 12:23:05 +0000</pubDate>
 <description>Le piattaforme nate per il lavoro stanno diventando nuovi strumenti per le frodi in Cina. Il trucco è semplice: sfruttare la fiducia nei grandi marchi tecnologici per rendere credibile la truffa Federico Giuliani</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/G6643ZLA75P2RE3RWAUQ5HQSYQ.jpg?smart=true&amp;auth=c2510d595cfdb9871d3dfda4e652857c54dcd1aa2985db8deababe1283fb8827&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>La Lega stronca i “nordisti”. “Si rifanno vivi per le poltrone”</title>
-<link>https://www.ilgiornale.it/news/interni/la-lega-stronca-i-nordisti-si-rifanno-vivi-per-le-poltrone/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-lega-stronca-i-nordisti-si-rifanno-vivi-per-le-poltrone/</guid>
-<pubDate>Wed, 02 Sep 2026 12:08:54 +0000</pubDate>
-<description>Michel Dessì</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/JYW74QEA2JE75M5N2PNOKZQQAU.jpg?focal=1305%2C500&amp;auth=ef952a733d6b1782f72021a761b9b7b2c7590d63c0bec38e92c15c45beeeace9&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>“Percorso ancora incompiuto”. Cosa c’è nelle carte dei giudici sulla famiglia nel bosco</title>
-<link>https://www.ilgiornale.it/news/nazionale/percorso-ancora-incompiuto-cosa-ce-nelle-carte-dei-giudici-sulla-famiglia-nel-bosco/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/percorso-ancora-incompiuto-cosa-ce-nelle-carte-dei-giudici-sulla-famiglia-nel-bosco/</guid>
-<pubDate>Wed, 02 Sep 2026 11:52:16 +0000</pubDate>
-<description>Dalla rigidità sul modello educativo alle paure trasmesse ai figli per il mare, le creme solari e persino le bottiglie di plastica: gli elementi che spiegano perché il recupero delle competenze genitoriali non sia ancora concluso Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/V5IH2U2ZORP2FDHJXVFZWZ7NSM.jpg?focal=1563%2C479&amp;auth=a687074ccb69a4b70fd0d3aa8842a445762af340842708712efc51dd7947e492&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
