@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 06:03:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 06:29:36 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Khabarovsk, il sottomarino russo che può lanciare i Poseidon: così Putin rafforza l’arsenale dell’“apocalisse”</title>
+<link>https://www.ilgiornale.it/news/difesa/khabarovsk-il-sottomarino-russo-che-puo-lanciare-i-poseidon-cosi-putin-rafforza-larsenale-dellapocalisse/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/khabarovsk-il-sottomarino-russo-che-puo-lanciare-i-poseidon-cosi-putin-rafforza-larsenale-dellapocalisse/</guid>
+<pubDate>Thu, 03 Sep 2026 06:27:12 +0000</pubDate>
+<description>Davide Bartoccini</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/75INJ7S4PVBQ5PJC2ZNWK67CRU.jpg?smart=true&amp;auth=25a5a9072889fdb5da37fdf4320fa958766d8e0d2313c7f101eb9b2f6c8cd099&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Un’altra notte di raid russi sull’Ucraina. L’allarme degli 007 danesi: “Da Mosca piani per sabotare le nostre industrie”</title>
 <link>https://www.ilgiornale.it/diretta/guerra/unaltra-notte-di-raid-russi-sullucraina-lallarme-degli-007-danesi-da-mosca-piani-per-sabotare-le-nostre-industrie/</link>
@@ -792,14 +800,6 @@
 <pubDate>Tue, 01 Sep 2026 14:29:53 +0000</pubDate>
 <description>Queste nuove disposizioni segnano una trasformazione radicale per il settore dei trasporti e le abitudini di viaggio sul territorio nazionale Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NSSEKX4HG5CXFEYLWH6SLH3ULU.jpg?smart=true&amp;auth=0aaa79d7570499064071d4f23253fa03e5ae4b815d004a0404f81f27e36e4008&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Infezioni ospedaliere: la strategia efficace è multimodale, il ruolo importante dei nuovi DPI tessili</title>
-<link>https://www.ilgiornale.it/news/benessere/infezioni-ospedaliere-la-strategia-efficace-e-multimodale-il-ruolo-importante-dei-nuovi-dpi-tessili/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/infezioni-ospedaliere-la-strategia-efficace-e-multimodale-il-ruolo-importante-dei-nuovi-dpi-tessili/</guid>
-<pubDate>Tue, 01 Sep 2026 13:15:42 +0000</pubDate>
-<description>Luca Romano</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/R52DTCEMSVBNBNAO6R4DEHDVTU.png?smart=true&amp;auth=717a39e030b5a1b050d7b2c8dfac83af94d03211636758c82e442fa146566075&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
