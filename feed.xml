@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 08:17:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 08:34:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Dalla Chiesa, Meloni ricorda il Generale ucciso dalla mafia 44 anni fa: “Il suo esempio continua a parlarci”. Mattarella: “Da lui lascito prezioso”</title>
@@ -22,6 +22,14 @@
 <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
 <description>Dalla neve alla città: Huawei Watch GT 7, lo smartwatch sportivo che non rinuncia all’eleganza Pronti per lo sci (e non solo)? Abbiamo provato Huawei Watch GT 7 Pro La nuova serie Huawei Watch GT 7 è pensata per le sfide sportive più intense grazie alle sue funzioni avanzate per sci e ciclismo. Ma il design elegante e raffinato lo rende perfetto per tutte le occasioni Luca Romano</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ID3FEKEVAJCOPLFQMMZME2R4NA.jpg?smart=true&amp;auth=148c700656a43597a790f05dcb21e0b0719c0280c93bd016edb14b4fc7a3bc5d&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>È morta Carla Jeffery, attrice della saga Disney “Zombies”: aveva 33 anni</title>
+<link>https://www.ilgiornale.it/news/personaggi/e-morta-carla-jeffery-attrice-della-saga-disney-zombies-aveva-33-anni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/e-morta-carla-jeffery-attrice-della-saga-disney-zombies-aveva-33-anni/</guid>
+<pubDate>Thu, 03 Sep 2026 07:52:02 +0000</pubDate>
+<description>Dagli esordi a 12 anni al successo internazionale, l’attrice aveva costruito una lunga carriera tra cinema e tv. Il cordoglio dell’agenzia e di Milo Manheim Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RQJRFIDTYZBTBE5HXB45OTQK7Y.jpg?smart=true&amp;auth=ecd082973dfe56c5a4866f55a5e647b5f5d8384a3d6768c95575effe6e496bbd&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>“Sono pentito di quelle chat. Mai stato un antisemita”</title>
@@ -793,14 +801,6 @@
 <pubDate>Wed, 02 Sep 2026 05:01:55 +0000</pubDate>
 <description>Alessandro Gnocchi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/IVYL3BFUMZEJDCIAJEDZM3KKRQ.jpg?focal=2995%2C1515&amp;auth=b9385ffb7f5bb777aba64d4b0890929b0d62f05eca94a129c5532c97f986916c&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Ba e Ciacco, due eccellenze in un gelato</title>
-<link>https://www.ilgiornale.it/news/retrogusto/ba-e-ciacco-due-eccellenze-in-un-gelato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/ba-e-ciacco-due-eccellenze-in-un-gelato/</guid>
-<pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
-<description>Retrogusto Ba e Ciacco, due eccellenze in un gelato Andrea Cuomo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BR4CRWPT7BGEDJTZWWRDLBLAFQ.jfif?smart=true&amp;auth=38221de745d743d0fc84711a9d60d14ea3e436d192f57417f630ec04b713ea50&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
