@@ -5,8 +5,23 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 02:20:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 05:18:22 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Pantaleone, la modernità della Costiera</title>
+<link>https://www.ilgiornale.it/news/retrogusto/il-pantaleone-la-modernita-della-costiera/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/il-pantaleone-la-modernita-della-costiera/</guid>
+<pubDate>Thu, 03 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Il Pantaleone, la modernità della Costiera Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/STR46KMRXBG5BNX557FPCMVBY4.jfif?focal=514%2C552&amp;auth=10123c6e741cda3b6805ad81e4a7278c619112704e24d65af140326374013199&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Le ricette dei dottori Stranamore e Dulcamara</title>
+<link>https://www.ilgiornale.it/news/interni/le-ricette-dei-dottori-stranamore-e-dulcamara/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/le-ricette-dei-dottori-stranamore-e-dulcamara/</guid>
+<pubDate>Thu, 03 Sep 2026 03:57:35 +0000</pubDate>
+<description>commento Interni Le ricette dei dottori Stranamore e Dulcamara Giannino della Frattina</description>
+</item>
 <item>
 <title>Centinaia di migliaia di spagnoli scendono nelle piazze: “Ceuta non si vende, Ceuta si difende”. Insulti a Sanchez e cariche della polizia</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/centinaia-di-migliaia-di-spagnoli-scendono-nelle-piazze-ceuta-non-si-vende-ceuta-si-difende-insulti-a-sanchez-e-cariche-della-polizia/</link>
@@ -785,22 +800,6 @@
 <pubDate>Tue, 01 Sep 2026 13:08:31 +0000</pubDate>
 <description>Valentina Menassi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VCVTC5Q73NC3VFHGLV2WDBMQG4.jpg?smart=true&amp;auth=8fb4f1e1c60e59ea051980a730b4a991202ab1fe0e88a274af815ca536577d0b&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Cesare Cremonini, a sorpresa arriva “Amateur”: il nuovo album e il tour nei palasport</title>
-<link>https://www.ilgiornale.it/news/musica/cesare-cremonini-a-sorpresa-arriva-amateur-il-nuovo-album-e-il-tour-nei-palasport/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/cesare-cremonini-a-sorpresa-arriva-amateur-il-nuovo-album-e-il-tour-nei-palasport/</guid>
-<pubDate>Tue, 01 Sep 2026 13:00:53 +0000</pubDate>
-<description>Il cantautore bolognese apre una nuova fase del suo percorso musicale con un lavoro nato a Londra e costruito attorno al sax. Un progetto che guarda alla ricerca sonora e alla dimensione più diretta della musica, senza ricorrere all’Intelligenza artificiale Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/L4U6GHUZLVGOLF6F3QFFOSV3OY.JPG?focal=4445%2C1422&amp;auth=922313d453f0c8257adfb8ee1069805ae1a9f97616883d1054adfb219d45c161&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Dopo il governo, Starmer lascia anche Westminster: “Ora mi concentrerò sugli affari internazionali”</title>
-<link>https://www.ilgiornale.it/news/politica-estera/dopo-il-governo-starmer-lascia-anche-westminster-ora-mi-concentrero-sugli-affari-internazionali/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/dopo-il-governo-starmer-lascia-anche-westminster-ora-mi-concentrero-sugli-affari-internazionali/</guid>
-<pubDate>Tue, 01 Sep 2026 12:42:10 +0000</pubDate>
-<description>L’ex premier britannico ha annunciato oggi che lascerà anche la Camera dei Comuni, dopo avere già abbandonato la guida del governo e del Labour Francesca Salvatore</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/QHP4QCQIIVIJTIIZ5QJER6YTIU.jpg?smart=true&amp;auth=a2457846467525d8e329b09cc9be1d8cf0992f756a02f4420810fba71972e37d&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
