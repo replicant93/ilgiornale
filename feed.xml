@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 18:36:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 18:51:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Renzi all’attacco sul caso Striano: “Fittipaldi spieghi da dove arrivavano certe informazioni”</title>
+<link>https://www.ilgiornale.it/news/interni/renzi-allattacco-sul-caso-striano-fittipaldi-spieghi-da-dove-arrivavano-certe-informazioni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/renzi-allattacco-sul-caso-striano-fittipaldi-spieghi-da-dove-arrivavano-certe-informazioni/</guid>
+<pubDate>Thu, 03 Sep 2026 18:44:55 +0000</pubDate>
+<description>Ospite de “L’Estate del Principe” con Augusto Minzolini, l’ex premier accusa una parte del giornalismo di essere “molto vicina a certi apparati” e chiama in causa il direttore del Domani Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/3WLRY2HBXJDDBBY4Q7PJ4SOWZQ.jpg?focal=1892%2C693&amp;auth=1b35682f9d428a8777f8524396cc02cecc8b1d4d1ee5c96eb467ecfc31d76ff1&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Dai sabotaggi in Germania ai voli russi vicino alla Polonia: ecco la mappa degli attacchi ibridi in Europa</title>
 <link>https://www.ilgiornale.it/news/politica-estera/dai-sabotaggi-in-germania-ai-voli-russi-vicino-alla-polonia-ecco-la-mappa-degli-attacchi-ibridi-in-europa/</link>
@@ -792,13 +800,6 @@
 <pubDate>Wed, 02 Sep 2026 15:19:36 +0000</pubDate>
 <description>Alberto Bellotto</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/POL4WVUOVJEUVMPTCO3GAHHBRM.png?smart=true&amp;auth=8df424e532709b155c7b58147fabb95cb4ce83061435a90cc57c3049a9ba27ad&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Lavare l’auto in strada, un’abitudine che può costare molto cara: ecco cosa sapere</title>
-<link>https://www.ilgiornale.it/news/nazionale/lavare-lauto-in-strada-unabitudine-che-puo-costare-molto-cara-ecco-cosa-e-bene-sapere/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/lavare-lauto-in-strada-unabitudine-che-puo-costare-molto-cara-ecco-cosa-e-bene-sapere/</guid>
-<pubDate>Wed, 02 Sep 2026 15:15:14 +0000</pubDate>
-<description>Federico Garau</description>
 </item>
 </channel>
 </rss>
