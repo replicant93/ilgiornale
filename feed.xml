@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 14:24:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 14:41:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Canale di Suez, il Mediterraneo, il Nord Africa: così la Cina si insidia nel cortile di casa dell’Europa</title>
+<link>https://www.ilgiornale.it/news/politica-estera/il-canale-di-suez-il-mediterraneo-il-nord-africa-cosi-la-cina-si-insidia-nel-cortile-di-casa-delleuropa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/il-canale-di-suez-il-mediterraneo-il-nord-africa-cosi-la-cina-si-insidia-nel-cortile-di-casa-delleuropa/</guid>
+<pubDate>Thu, 03 Sep 2026 14:28:00 +0000</pubDate>
+<description>La Cina ha rafforzato la sua presenza in Egitto, costruendo attraverso Mediterraneo e Nord Africa una nuova porta d’accesso al mercato europeo Federico Giuliani</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LHQCDN3FQVBFVBB7ZSVVQ6SHTU.jpg?smart=true&amp;auth=5a3059fe99bc64407de8455f5adc7b40d6e401f740abe1e772db2b45ca1c8151&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Morta Cassandra Wilson, la voce del jazz americano. Aveva 70 anni</title>
 <link>https://www.ilgiornale.it/news/personaggi/morta-cassandra-wilson-la-voce-del-jazz-americano-aveva-70-anni/</link>
@@ -792,14 +800,6 @@
 <pubDate>Wed, 02 Sep 2026 13:07:56 +0000</pubDate>
 <description>Il giovane, originario di El Salvador, il 21 agosto era stato vittima di un’aggressione omofoba che non aveva voluto denunciare. Il suo corpo è stato trovato in un edificio abbandonato: sul viso tracce di sangue Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ZITSPRYWTNDM7EKMD6WT4A5DHA.png?focal=664%2C440&amp;auth=4d444e9792ff7bb83f53653d56cd3e389327228a656143fcc0ff44fcdfc685bf&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Finalmente Sanchez fa autocritica. E un dossier incastra il Marocco</title>
-<link>https://www.ilgiornale.it/news/politica-estera/ceuta-finalmente-sanchez-fa-autocritica-e-un-dossier-incastra-il-marocco/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/ceuta-finalmente-sanchez-fa-autocritica-e-un-dossier-incastra-il-marocco/</guid>
-<pubDate>Wed, 02 Sep 2026 12:47:42 +0000</pubDate>
-<description>A Ceuta abbandonata dilaga la barbarie. “Uno stupro al giorno” La polizia spagnola: gendarmi in divisa e agenti in borghese avrebbero guidato le ondate di migranti per mandare in tilt la frontiera. Il premier finalmente ammette: “Risposta insufficiente” Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GLLP2XMVUFD6LAELG546NCW2BU.jpg?focal=1862%2C1596&amp;auth=02033d4d3aa50b0999d360513d2b125586bfc0e841ca4da1e0abda74dcb8b78b&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
