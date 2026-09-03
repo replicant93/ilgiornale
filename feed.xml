@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 20:30:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 20:47:01 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Caro carburanti, altri cinque giorni di sconto sul diesel: il governo usa l’extragettito Iva e prepara gli aiuti selettivi</title>
+<link>https://www.ilgiornale.it/news/politica-economica/caro-carburanti-altri-cinque-giorni-di-sconto-sul-diesel-il-governo-usa-lextragettito-iva-e-prepara-gli-aiuti-selettivi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/caro-carburanti-altri-cinque-giorni-di-sconto-sul-diesel-il-governo-usa-lextragettito-iva-e-prepara-gli-aiuti-selettivi/</guid>
+<pubDate>Thu, 03 Sep 2026 20:26:32 +0000</pubDate>
+<description>L’esecutivo punta a superare il taglio generalizzato delle accise e a concentrare le risorse su famiglie a basso reddito e categorie più esposte, dall’autotrasporto all’agricoltura Valentina Menassi</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TMZR2GIWXJCCJJRBO6BPYCHFYI.jpg?focal=2865%2C1423&amp;auth=f514e8e3549ea23d70b2a46e098ae5a9d6983b7fd42320c1d187ea0080acb875&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Ranucci ormai è un disco rotto: “Parlano di me anche in Pakistan”</title>
 <link>https://www.ilgiornale.it/news/nazionale/ranucci-ormai-e-un-disco-rotto-parlano-di-me-anche-in-pakistan/</link>
@@ -792,14 +800,6 @@
 <pubDate>Wed, 02 Sep 2026 15:56:39 +0000</pubDate>
 <description>L'acqua fangosa travolge gli insediamenti nei distretti himalayani | Il video</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F08-27-2026%2Ft_a52c62b9edc6482089ba651c2a75f3e4_name_file_640x360_600_v4_.jpg?smart=true&amp;auth=cf408db114573f25f1344b7d351a32eb43c868d6d50715ea3fa35b14222e0c43&amp;width=640&amp;height=360" medium="image" />
-</item>
-<item>
-<title>Dall’omicidio dei tre figli piccoli alla giuria in stallo: il caso Lindsay Clancy spacca gli Usa</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/dallomicidio-dei-tre-figli-piccoli-alla-giuria-in-stallo-il-caso-lindsay-clancy-spacca-gli-usa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/dallomicidio-dei-tre-figli-piccoli-alla-giuria-in-stallo-il-caso-lindsay-clancy-spacca-gli-usa/</guid>
-<pubDate>Wed, 02 Sep 2026 15:56:39 +0000</pubDate>
-<description>La 36enne strangolò i bambini nella casa di famiglia e poi tentò il suicidio. Per la difesa era vittima di una psicosi post-partum, per l’accusa pianificò tutto. Ora i giurati sono in stallo, il dibattito in rete è incandescente Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/KG64MZVVMZCOLBPMJTYN6H6FBY.jpg?focal=1267%2C981&amp;auth=a4eb1e4197851b2a18c2b40bcbc41f87374a8f12403346566e336e3314732e91&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
