@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 03 Sep 2026 15:59:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 16:19:54 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Residenze separate per i coniugi: le regole su tasse, Isee e controlli</title>
+<link>https://www.ilgiornale.it/news/politica-economica/residenze-separate-per-i-coniugi-le-regole-su-tasse-isee-e-controlli/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/residenze-separate-per-i-coniugi-le-regole-su-tasse-isee-e-controlli/</guid>
+<pubDate>Thu, 03 Sep 2026 16:04:44 +0000</pubDate>
+<description>Federico Garau</description>
+</item>
 <item>
 <title>La procura militare indaga sui militari di Futuro Nazionale</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/la-procura-militare-indaga-sui-militari-di-futuro-nazionale/</link>
@@ -792,14 +799,6 @@
 <pubDate>Wed, 02 Sep 2026 14:03:14 +0000</pubDate>
 <description>Maria Girardi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JLKLZHQDSFFBDHDAGZNKJXWROQ.jpg?focal=2886%2C2094&amp;auth=e8caef37be349c559bae077ffa307cd6032b803938014f87ca17befbfa0f5999&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Parlamento Ue, Ppe-destre bloccano missione su Stato di diritto in Italia</title>
-<link>https://www.ilgiornale.it/news/europa/parlamento-ue-ppe-destre-bloccano-missione-su-stato-di-diritto-in-italia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/parlamento-ue-ppe-destre-bloccano-missione-su-stato-di-diritto-in-italia/</guid>
-<pubDate>Wed, 02 Sep 2026 13:55:44 +0000</pubDate>
-<description>Il blocco formato da Ppe, Ecr, Patrioti e Esn ha bocciato la mozione delle sinistre e messo in fibrillazione la maggioranza che sostiene Von Der Leyen Francesco Curridori</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BARPFYMFQBJU5IVC6VCHMPAVQ4.jpg?focal=1572%2C948&amp;auth=61e0ad6ec58f923cffb50c5f46bea195e6782ebc5913c4ec3d306b6b269cdd70&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
