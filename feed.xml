@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 14:18:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 14:33:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Migranti, il modello Italia fa scuola in Ue. A Copenaghen riunione a 5 per gli hub nei Paesi terzi</title>
@@ -22,6 +22,14 @@
 <pubDate>Fri, 04 Sep 2026 13:59:43 +0000</pubDate>
 <description>Sui social donne non musulmane annunciano che indosseranno l’indumento islamico contro il referendum promesso dalla leader del Rassemblement national. Il paradosso mentre in Iran c’è chi rischia la vita per toglierselo Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FKGR35WDAJC35MUIPCDEUTDZ7A.png?focal=832%2C486&amp;auth=d6b5ed9e8f4d4f8b3cdac368f9a202a271a2466f2d1f2cd28daebb57abf6f1d9&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>“Aura Battle”, la nuova sfida virale che porta i ragazzi dai social alle piazze ed ha conquistato anche il Papa</title>
+<link>https://www.ilgiornale.it/news/nazionale/aura-battle-la-nuova-sfida-virale-che-porta-i-ragazzi-dai-social-alle-piazze-ed-ha-conquistato-anche-il-papa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/aura-battle-la-nuova-sfida-virale-che-porta-i-ragazzi-dai-social-alle-piazze-ed-ha-conquistato-anche-il-papa/</guid>
+<pubDate>Fri, 04 Sep 2026 13:57:32 +0000</pubDate>
+<description>Nazionale “Aura Battle”, la nuova sfida virale che porta i ragazzi dai social alle piazze ed ha conquistato anche il Papa Il tormentone trasforma il carisma in una gara: niente scontri fisici, ma gesti, ironia e fantasia. A decretare il vincitore sono gli applausi del pubblico. Ecco di cosa si tratta Roberta Damiata</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5CQGTZXW4ZE3VNU7URDARHSK5E.png?focal=503%2C216&amp;auth=8ec8699abe7eaf46eca65dfa066da7839994868297505d48d00eb2cd7720d15d&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Abisso torna ad arbitrare</title>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
 <description>Luigi Melita</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/QOKO4J37DFA7BB3G5YEYOWHJBY.jpg?smart=true&amp;auth=9ea596fc6649b5e84d8bf4af68b7106eeafb54ec1821ed50f33f3c40c7e64f61&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Dreame sfida GoPro, Insta360 e DJI: ecco la nuova action cam che si indossa</title>
-<link>https://www.ilgiornale.it/news/wearable/dreame-sfida-gopro-insta360-e-dji-ecco-la-nuova-action-cam-che-si-indossa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/wearable/dreame-sfida-gopro-insta360-e-dji-ecco-la-nuova-action-cam-che-si-indossa/</guid>
-<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-<description>Luigi Melita</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/4J64WF7EZFGP5K7E6G6OYIZ6WM.png?smart=true&amp;auth=89689a1bba3bf15a47eabac60282b1ee0a8944090db675a4320df6ed43378073&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
