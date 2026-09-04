@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 04:18:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 04:33:29 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Da Niko, mangiare come a casa di Romito</title>
@@ -22,6 +22,14 @@
 <pubDate>Fri, 04 Sep 2026 03:59:03 +0000</pubDate>
 <description>commento Interni La quota rosa che brucia alla sinistra Gabriele Barberis</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FDCZ3CKFY3BJGVLJRCNFMX5MEA4.png?smart=true&amp;auth=ed9b0b622d48f50b5e662a7c34a5fa1dee733b45f7f544e30a6ae26f8f26ed50&amp;width=100&amp;height=100" medium="image" />
+</item>
+<item>
+<title>Cronaca internazionale</title>
+<link>https://www.ilgiornale.it/esteri/cronaca-internazionale</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/esteri/cronaca-internazionale</guid>
+<pubDate>Thu, 03 Sep 2026 20:55:18 +0000</pubDate>
+<description>Il video racconto dell'intervento della polizia e la caccia all'uomo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F08-30-2026%2Ft_b4b602be2df14a66ab0e7b365d830ee8_name_file_640x360_600_v4_.jpg?smart=true&amp;auth=184546c2220fac164d153e7d28ebe36e77c2a33c3989295b2f1caa7454ead6fb&amp;width=450&amp;height=253" medium="image" />
 </item>
 <item>
 <title>Caro carburanti, altri cinque giorni di sconto sul diesel: il governo usa l’extragettito Iva e prepara gli aiuti selettivi</title>
@@ -792,14 +800,6 @@
 <pubDate>Wed, 02 Sep 2026 17:49:48 +0000</pubDate>
 <description>Federico Garau</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XZTDEIXIEJE5PMJUPNMSN3AWLI.jpg?focal=1093%2C2436&amp;auth=a1df6881454c053ce96defb5725fce7dee1ed0847c8170477c9b4008fb268868&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>“Non ci sono garanzie”. E il tribunale de L’Aia vieta il rientro dei “dublinanti” in Italia</title>
-<link>https://www.ilgiornale.it/news/politica-estera/non-ci-sono-garanzie-e-il-tribunale-de-laia-vieta-il-rientro-dei-dublinanti-in-italia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/non-ci-sono-garanzie-e-il-tribunale-de-laia-vieta-il-rientro-dei-dublinanti-in-italia/</guid>
-<pubDate>Wed, 02 Sep 2026 17:49:01 +0000</pubDate>
-<description>Finalmente Sanchez fa autocritica. E un dossier incastra il Marocco Secondo i giudici olandesi i Paesi Bassi non possono rimandare i richiedenti asilo in Italia perché le strutture di accoglienza non sono adeguate Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CTPAQ6RB4RD7ROHWJDZEJII4NY.jpg?focal=3488%2C1088&amp;auth=77368c7c1b28daf741504e9e706afa3224511e1cd9e6a754e977ebe1d28341e6&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
