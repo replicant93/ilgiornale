@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 04:33:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 04:48:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’eccezione diventi normalità</title>
+<link>https://www.ilgiornale.it/news/governo/leccezione-diventi-normalita/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/leccezione-diventi-normalita/</guid>
+<pubDate>Fri, 04 Sep 2026 04:38:24 +0000</pubDate>
+<description>A cura di Tommaso Cerno</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
+</item>
 <item>
 <title>Da Niko, mangiare come a casa di Romito</title>
 <link>https://www.ilgiornale.it/news/retrogusto/da-niko-mangiare-come-a-casa-di-romito/</link>
@@ -792,14 +800,6 @@
 <pubDate>Wed, 02 Sep 2026 17:59:39 +0000</pubDate>
 <description>Il video, manipolato, moltiplicava i partecipanti alla manifestazione del 16 agosto. Ma il caso è stato smontato: erano circa cento e il corteo era autorizzato Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/PPALGNVOQ5G2FA3DH7A3UAFRRI.png?focal=444%2C262&amp;auth=01da593c4ae642f2a4f9515a8f36fdbe10d3d106ede53b0bfe08788197b0795d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>A Padova un gambiano ferisce un agente al grido "Allah Akbar"</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/paura-alla-stazione-di-padova-gambiano-con-un-coltello-da-cucina-urla-allah-akbar-e-ferisce-un-poliziotto-sara-espulso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/paura-alla-stazione-di-padova-gambiano-con-un-coltello-da-cucina-urla-allah-akbar-e-ferisce-un-poliziotto-sara-espulso/</guid>
-<pubDate>Wed, 02 Sep 2026 17:49:48 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XZTDEIXIEJE5PMJUPNMSN3AWLI.jpg?focal=1093%2C2436&amp;auth=a1df6881454c053ce96defb5725fce7dee1ed0847c8170477c9b4008fb268868&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
