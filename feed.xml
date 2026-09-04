@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 09:32:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 09:49:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Andria, preparavano un ordigno per assaltare i bancomat: due morti nell’esplosione</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/andria-preparavano-un-ordigno-per-assaltare-i-bancomat-due-morti-nellesplosione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/andria-preparavano-un-ordigno-per-assaltare-i-bancomat-due-morti-nellesplosione/</guid>
+<pubDate>Fri, 04 Sep 2026 09:36:22 +0000</pubDate>
+<description>La deflagrazione ha provocato anche il crollo di una parte della struttura. Sul posto sono intervenuti vigili del fuoco, carabinieri e soccorritori: accertamenti in corso sulla dinamica Roberta Damiata</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XH2BVH4Z6ZHW3A2OGQT5DQJQEQ.png?focal=618%2C200&amp;auth=22f4d1f3744dafd6c2f501e1398c044e1141db5ff22d563d557188afa14099a5&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Inverno amaro per i viaggiatori: Ryanair dimezza i voli e annuncia rincari sulle tariffe</title>
 <link>https://www.ilgiornale.it/news/attualita/inverno-amaro-per-i-viaggiatori-ryanair-dimezza-i-voli-e-annuncia-rincari-sulle-tariffe/</link>
@@ -46,6 +54,13 @@
 <pubDate>Fri, 04 Sep 2026 08:46:06 +0000</pubDate>
 <description>Sui social l’ultimo post dell'uomo: “Addio a tutti” Lorena Isceri, 45 anni, è stata gettata da un viadotto sull’A1 nel Fiorentino dall’ex compagno Federico Vella Gabriele Laganà</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FUIV3CBY5ZD3VDWZMUCOEO5K3A.jpg?focal=1465%2C827&amp;auth=3df923fc916e1ff4d23506d588e51ac4612e37995085c431cfde44f9a701100b&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Codice della Strada: come cambiano le multe e i nuovi importi per la guida senza Rca</title>
+<link>https://www.ilgiornale.it/news/societa/codice-della-strada-come-cambiano-le-multe-e-i-nuovi-importi-per-la-guida-senza-rca/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/codice-della-strada-come-cambiano-le-multe-e-i-nuovi-importi-per-la-guida-senza-rca/</guid>
+<pubDate>Fri, 04 Sep 2026 08:41:56 +0000</pubDate>
+<description>Federico Garau</description>
 </item>
 <item>
 <title>Ecovacs Winbot W2S Pro: il robot lavavetri che sta in una valigetta</title>
@@ -785,21 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
 <description>Chi è peggio del pedofilo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>La roulette della storia senza verità</title>
-<link>https://www.ilgiornale.it/news/interni/la-roulette-della-storia-senza-verita/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-roulette-della-storia-senza-verita/</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Interni La roulette della storia senza verità Felice Manti</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FEEV4BNTHUJPMXPEDJIVOBIQOFQ.jpg?smart=true&amp;auth=db8d1ec80e7b9db27f7beb320f45714df4fffc4f3387771581baeecbf33245b7&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Utili ai musei i pass speciali per ricchi</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/utili-ai-musei-i-pass-speciali-per-ricchi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/utili-ai-musei-i-pass-speciali-per-ricchi/</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Cronaca internazionale Utili ai musei i pass speciali per ricchi Francesca Albergotti</description>
 </item>
 </channel>
 </rss>
