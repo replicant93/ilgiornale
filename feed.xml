@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 18:17:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 18:33:00 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Colpo di scena nel caso Lindsay Clancy: nessun verdetto, ora decide la Corte Suprema</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/colpo-di-scena-nel-caso-lindsay-clancy-nessun-verdetto-ora-decide-la-corte-suprema/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/colpo-di-scena-nel-caso-lindsay-clancy-nessun-verdetto-ora-decide-la-corte-suprema/</guid>
+<pubDate>Fri, 04 Sep 2026 18:26:42 +0000</pubDate>
+<description>La madre è accusata di aver ucciso i tre figli nel 2023. La giuria non trova un accordo sulla sua responsabilità e la difesa presenta un appello d’urgenza per bloccare l’annullamento Roberta Damiata</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JFN6IPXVDFGABIWQ67CDDX3OP4.jpg?smart=true&amp;auth=93bdd06412936debe5c31092e0023f40d8a2a463a74d3ab1af08b7e0fb49773e&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Sempio non incontrerà lo psichiatra Catanesi: “Sarebbe inutile”</title>
 <link>https://www.ilgiornale.it/news/nazionale/garlasco-sempio-non-incontrera-lo-psicologo-catanesi-sarebbe-inutile/</link>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 15:34:08 +0000</pubDate>
 <description>L’Autorità ha ritenuto illecito il trattamento di un file audio e di alcuni contenuti di una chat privata, contestando la diffusione di materiale intimo e affettivo in assenza di un effettivo interesse pubblico. “La notorietà di una persona non legittima la divulgazione di dati personali” Roberta Damiata</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/K4F4UCGUWBPHLAMBOXGVS4SPZQ.jpg?smart=true&amp;auth=79958f762f411404e77b06e2aa4062c7be3f60a92686623122ca080bc3c09d57&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Uomo e donna giù da un cavalcavia dell’A1, ipotesi femminicidio-suicidio</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/uomo-e-donna-giu-da-un-cavalcavia-della1-ipotesi-omicidio-suicidio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/uomo-e-donna-giu-da-un-cavalcavia-della1-ipotesi-omicidio-suicidio/</guid>
-<pubDate>Thu, 03 Sep 2026 14:54:42 +0000</pubDate>
-<description>Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZM2JSSI62NPTJBC43K2FP6XSRI.jpg?smart=true&amp;auth=dae16601580f2579f23cc3a94437a211eba1ac9fbd933c5d016041716b5ddbb2&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
