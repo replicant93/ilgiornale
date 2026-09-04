@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 06:44:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 06:58:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Meloni Opens in new window</title>
@@ -37,6 +37,14 @@
 <pubDate>Fri, 04 Sep 2026 05:05:25 +0000</pubDate>
 <description>Il video che racconta la crescita in 1413 giorni Oggi tocca quota 1.413 giorni: è il sorpasso sul secondo esecutivo guidato dal Cavaliere. Una marcia senza rimpasti, ribaltoni e cambi di maggioranza. La festa con Fratelli d’Italia al porto di Bari Fabrizio de Feo Il governo più duraturo della Repubblica. I risultati sul lavoro, sicurezza e migranti Pronto il libro sulla storia di un primato. È di Briguglio</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XUXLNSHATFPUVH4ASYBSK67VOY.jpg?focal=1795%2C524&amp;auth=6259cec80e4f11df841b8fbd01e398ccbd55fa932aa19fdd9f83d4582d7b8b2a&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>“Riduttivo definirci dei ‘No-Lot’. Siamo molto di più”</title>
+<link>https://www.ilgiornale.it/news/calcio/riduttivo-definirci-dei-no-lot-siamo-molto-di-piu/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/riduttivo-definirci-dei-no-lot-siamo-molto-di-piu/</guid>
+<pubDate>Fri, 04 Sep 2026 04:42:09 +0000</pubDate>
+<description>Il "boomerang" denunciato da Tony Damascelli Bisignani, diventato leader della protesta dei tifosi laziali contro il presidente Lotito, risponde al nostro Damascelli che ha sottolineato l’ottimo avvio del club biancoceleste Luigi Bisignani</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/PNMXWMI75RP7ZMODMDM3IZ6DX4.jpg?focal=279%2C156&amp;auth=fa4bb43993ea4753970409efb9ebc8893af19125eead193147dcf0ced2f9309b&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>L’eccezione diventi normalità</title>
@@ -795,14 +803,6 @@
 <pubDate>Thu, 03 Sep 2026 05:29:42 +0000</pubDate>
 <description>Luca Crovi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/QVNZLJXF7ZFRJDJK5D7QOTG3CY.jpg?focal=234%2C132&amp;auth=6c5f859688ece1133d1a1d1acfc2703acac6d0d55c4e7feb58f0e54c52ca011f&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Un’altra notte di raid russi sull’Ucraina. L’allarme degli 007 danesi: “Da Mosca piani per sabotare le nostre industrie”</title>
-<link>https://www.ilgiornale.it/diretta/guerra/unaltra-notte-di-raid-russi-sullucraina-lallarme-degli-007-danesi-da-mosca-piani-per-sabotare-le-nostre-industrie/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/unaltra-notte-di-raid-russi-sullucraina-lallarme-degli-007-danesi-da-mosca-piani-per-sabotare-le-nostre-industrie/</guid>
-<pubDate>Thu, 03 Sep 2026 05:24:20 +0000</pubDate>
-<description>DIRETTA Un’altra notte di raid russi sull’Ucraina. L’allarme degli 007 danesi: “Da Mosca piani per sabotare le nostre industrie” Come funziona la guerra ibrida russa contro l’Europa Attacco con droni sulla capitale ucraina, mentre a Odessa si registrano almeno 17 feriti. Copenaghen denuncia piani di sabotaggio contro aziende della difesa e tentativi di reclutamento da parte dei servizi russi. Parigi convoca l’incaricato d’affari di Mosca e accusa la Russia di un’escalation di attacchi ibridi in Europa Redazione web “Possibili tentativi d’influenze russe sul voto in Italia”. L’avviso di Tajani.</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7XOOTWE5JNCKPJUQGNLNRHEC7E.jpg?focal=4608%2C2532&amp;auth=751235344180b849968c0f7add2aab0f7a74cc4e85e855e1f91c682ba796feb9&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
