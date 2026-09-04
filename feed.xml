@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 10:00:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 10:19:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“È arrugginita”, il nuovo problema della portaerei Usa Lincoln (che tormenta Trump)</title>
+<link>https://www.ilgiornale.it/news/difesa/e-arrugginita-ecco-qual-e-il-nuovo-problema-della-portaerei-usa-lincoln-che-tormenta-trump/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/e-arrugginita-ecco-qual-e-il-nuovo-problema-della-portaerei-usa-lincoln-che-tormenta-trump/</guid>
+<pubDate>Fri, 04 Sep 2026 10:13:54 +0000</pubDate>
+<description>La portaerei USS Abraham Lincoln ha fatto scalo in Thailandia in attesa di proseguire il viaggio di rientro verso la sua base a San Diego Valerio Chiapparino</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JJWY3FTMYFDXRGELCVLWXCA55A.jpg?smart=true&amp;auth=7279a166c3dedecf3168cc06545d2858441ba0a1e2ff30a253faa3e52641afaa&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Andria, preparavano un ordigno per assaltare i bancomat: due morti nell’esplosione</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/andria-preparavano-un-ordigno-per-assaltare-i-bancomat-due-morti-nellesplosione/</link>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 10:17:38 +0000</pubDate>
 <description>Luigi Melita</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OJBHII4UKVF47BTQW62R4DSIKA.png?smart=true&amp;auth=875ae56325a023dbc73db88e21c070f65591573b617e74c2714ab452a8655df9&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Narwal Freo 20: lavaggio da top di gamma e tante funzioni smart</title>
-<link>https://www.ilgiornale.it/news/smart-home/narwal-freo-20-lavaggio-da-top-di-gamma-e-tante-funzioni-smart/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/smart-home/narwal-freo-20-lavaggio-da-top-di-gamma-e-tante-funzioni-smart/</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-<description>Luigi Melita</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/THFH5WJ6HFEKHOMUPFNPJOBVLM.jpg?smart=true&amp;auth=756edb421386b322d3c77179df06e83ecd0439afd0bcf1e7854ae80e800d7eac&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
