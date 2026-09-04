@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 20:43:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 20:56:30 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Omicidio a Udine, 61enne ucciso a colpi di cacciavite al torace: caccia all’aggressore</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/orrore-a-udine-donna-brutalmente-uccisa-con-un-cacciavite-orta-durante-il-trasporto-in-ospedale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/orrore-a-udine-donna-brutalmente-uccisa-con-un-cacciavite-orta-durante-il-trasporto-in-ospedale/</guid>
+<pubDate>Fri, 04 Sep 2026 20:50:20 +0000</pubDate>
+<description>La vittima è morta durante il trasporto in ospedale. I carabinieri indagano e cercano un uomo che, secondo le prime ipotesi, potrebbe essere l’ex compagno della sorella Federico Garau</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DIPRHGNWVFCIHG2LSHPMFLVBGU.jpeg?smart=true&amp;auth=2d80d6209f34fc75a1bda1b68d8e6e2a737421164005c4f76a20ffb3f4c31b25&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“Non farlo”, poi la poliziotta in ginocchio e il salto nel vuoto: il video del suicidio di Vella</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/non-farlo-poi-la-poliziotta-in-ginocchio-e-il-salto-nel-vuoto-il-video-del-suicidio-di-vella-dopo-luccisione-della-sua-ex-compagna/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 03 Sep 2026 17:00:37 +0000</pubDate>
 <description>La conduttrice saluta Rai Radio 1 con un lungo post: “È stato deciso di avere qualcuno disponibile tutto l’anno” Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KDH22GVHVFFQNEPJCV4ZQAJQME.jpg?smart=true&amp;auth=9a2c3d63aa10b091b5476f4871ad5610b83a20af699578f5a039f3a64b49e85f&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Claudia Di Pasquale condurrà Report insieme a Daniele Piervincenzi: chi è l’inviata scelta da Corsini</title>
-<link>https://www.ilgiornale.it/news/tv/claudia-di-pasquale-affianchera-piervincenzi-nella-conduzione-di-report-chi-e-linviata-scelta-da-corsini/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/tv/claudia-di-pasquale-affianchera-piervincenzi-nella-conduzione-di-report-chi-e-linviata-scelta-da-corsini/</guid>
-<pubDate>Thu, 03 Sep 2026 16:53:39 +0000</pubDate>
-<description>Corsini: “I nomi li scelgo io" Dopo il passo indietro di Giulia Presutti, ad accogliere la notizia della nuova co-conduzione di Report sono applausi ed esultanza. Si scoglie forse così il nodo sul futuro del programma Giulia Bernardini</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/T4RLO47M3BHZBBAKCNLH5QBWNU.jpeg?focal=209%2C123&amp;auth=cb6ae5da836d6933d8d1fddd9d6edcdebd93a38f0096797663fef78353063ca1&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
