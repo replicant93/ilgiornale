@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 15:59:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 16:19:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Il senso di Conte per la democrazia: “No alla regola del partito più votato”, così il campo largo si spacca sulla leadership</title>
@@ -762,6 +762,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/ZM2JSSI62NPTJBC43K2FP6XSRI.jpg?smart=true&amp;auth=dae16601580f2579f23cc3a94437a211eba1ac9fbd933c5d016041716b5ddbb2&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
+<title>Dallo scontro con gli uomini di Report in Rai all’affondo di Ranucci. Sottile: “Sorpreso che giustifichi gli insulti”</title>
+<link>https://www.ilgiornale.it/news/tv/venduto-insulti-e-battutacce-alta-tensione-in-rai-tra-sottile-e-gli-uomini-di-report/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tv/venduto-insulti-e-battutacce-alta-tensione-in-rai-tra-sottile-e-gli-uomini-di-report/</guid>
+<pubDate>Thu, 03 Sep 2026 14:44:23 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/SBAS74CQBBGGTBSDL6CJW45H2Y.jpg?smart=true&amp;auth=84fc2318abc9ccecc5c161f8b9e924bf292ea3b97ac78eb2573278a7d618626b&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
 <title>Il delirio di Piccardo che insulta il giornalista: “Musulmani perseguitati come cristiani nella Roma antica”</title>
 <link>https://www.ilgiornale.it/news/interni/siamo-perseguitati-laccusa-di-piccardo-agli-italiani-gli-islamici-come-i-cristiani-nella-roma-antica/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/siamo-perseguitati-laccusa-di-piccardo-agli-italiani-gli-islamici-come-i-cristiani-nella-roma-antica/</guid>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 14:06:19 +0000</pubDate>
 <description>Al via gli accertamenti tossicologici sul 42enne morto durante un intervento della polizia al Pilastro di Bologna. L’avvocato della famiglia: “Serve stabilire quantità, tempi e reale incidenza della sostanza” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/O6ARCC6GHVATTLRWEMNJAZIWJ4.jpg?focal=975%2C1463&amp;auth=6509ca4a3cba8084fd7c98398150cd039a5a513ed899628993c74f73c094402a&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Ceuta, Sanchez era stato avvertito: i dossier che smentiscono il premier</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-sanchez-era-stato-avvertito-i-dossier-che-smentiscono-il-governo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-sanchez-era-stato-avvertito-i-dossier-che-smentiscono-il-governo/</guid>
-<pubDate>Thu, 03 Sep 2026 13:57:54 +0000</pubDate>
-<description>Governo accolto dai fischi. Tutta la Spagna scende in piazza L’intelligence militare aveva segnalato una “entrata massiccia” già tre giorni prima. Poco prima dell’assalto la polizia parlava di “rischio estremo di collasso”. E ora il ministro dell’Interno Marlaska finisce nel mirino Massimo Balsamo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VC7XK2VDKJAMDKMACPFET7XQWY.jpg?focal=2660%2C1498&amp;auth=6e8a6797991573457c5456e6441e34d4e413ff41a72ef0018d9d793b02be3205&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
