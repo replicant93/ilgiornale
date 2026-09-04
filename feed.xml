@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 13:12:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 13:31:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Abisso torna ad arbitrare</title>
+<link>https://www.ilgiornale.it/news/calcio/illegittima-la-delibera-dellaia-abisso-torna-ad-arbitrare/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/illegittima-la-delibera-dellaia-abisso-torna-ad-arbitrare/</guid>
+<pubDate>Fri, 04 Sep 2026 13:25:41 +0000</pubDate>
+<description>Abisso torna ad arbitrare</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ABSXS6JDCZG6RJMRB5UYQGJIVQ.jpg?focal=1667%2C325&amp;auth=8ddc823f122ed9eb23dc0897a345433946ea85094a9ea4a45f1f12f04e3ffe44&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Trump lancia i videogiochi Maga: si costruisce il muro e si “inseguono” i migranti</title>
 <link>https://www.ilgiornale.it/news/politica-estera/trump-lancia-i-videogiochi-maga-si-costruisce-il-muro-e-si-inseguono-i-migranti/</link>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 11:22:55 +0000</pubDate>
 <description>Si muove lo psichiatra. Sempio convocato per la visita Scritto dalla nostra cronista, Rita Cavallaro, e con la prefazione del direttore Tommaso Cerno, ricostruisce gli sviluppi del delitto più discusso del nostro Paese Diana Alfieri</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OJZOT7AAMRN4JLIFWYDX4MEKFM.jpg?focal=732%2C360&amp;auth=5de5e2c925d0ceac6fdaf9a72756741bbbae365e02f3f427dca0d31d4ae1daef&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“I conduttori li scelgo io, Piervincenzi resta”. Corsini detta la linea sul futuro di Report</title>
-<link>https://www.ilgiornale.it/news/editoria-e-media/i-conduttori-li-scelgo-io-piervincenzi-resta-corsini-detta-la-linea-sul-futuro-di-report/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/editoria-e-media/i-conduttori-li-scelgo-io-piervincenzi-resta-corsini-detta-la-linea-sul-futuro-di-report/</guid>
-<pubDate>Thu, 03 Sep 2026 11:22:51 +0000</pubDate>
-<description>ESCLUSIVO - Ranucci, altro giallo: l’intervista in Africa svanita nel nulla e le mail con Lavitola: “Serve per la nostra inchiesta” “I conduttori li scelgo io, Piervincenzi resta”. Corsini detta la linea sul futuro di Report Il Giornale ha potuto visionare lo scambio di mail del 29 giugno: il giornalista chiede all’imprenditore i dati del “corruttore-millantatore” e, alla domanda se servano per un’intervista, precisa: “Non lo metterei nell’intervista, serve per nostra inchiesta” Giulia Sorrentino La trappola contro Renzi e lo 007 Mancini. Un intrigo maturato con Conte premier Ci sono i servizi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/I5OEEF5EX5DZZFJFYIL3KLG2LA.jpg?focal=1376%2C166&amp;auth=20f2ad2fba153e89b128a075cb0695cf62bc4944852fc81979ab6b1a289269c5&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
