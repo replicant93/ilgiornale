@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 07:49:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 08:00:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il pugno duro di Xi fa paura: perché le élite cinesi e i ricchi vogliono lasciare il Paese</title>
+<link>https://www.ilgiornale.it/news/politica-estera/il-pugno-duro-di-xi-fa-paura-perche-le-elite-cinesi-e-i-ricchi-vogliono-lasciare-il-paese/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/il-pugno-duro-di-xi-fa-paura-perche-le-elite-cinesi-e-i-ricchi-vogliono-lasciare-il-paese/</guid>
+<pubDate>Fri, 04 Sep 2026 07:50:18 +0000</pubDate>
+<description>Tra controllo politico, sfiducia sociale e timori per il futuro dei patrimoni, una parte dei cinesi più ricchi guarda sempre più all’estero Federico Giuliani</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DAJOJ4GTCBI57H356PQ5LVFJD4.jpg?smart=true&amp;auth=23254bc9bf706fe7de0a2e153f7fa4ec22314f7ea3c7c30abe5bd20ed58bdd19&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>“Un Re ragionevole”. Chi è Haakon VIII, nuovo sovrano di Norvegia</title>
 <link>https://www.ilgiornale.it/news/personaggi/un-re-ragionevole-chi-e-haakon-viii-nuovo-sovrano-di-norvegia/</link>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 07:44:55 +0000</pubDate>
 <description>Il giornalista Paolo Signorelli reintegrato spiega l’episodio di dieci anni fa: “Conoscevo l’ultra Diabolik, perché ero tifoso, lavoravo per una radio della Lazio ed ero fidanzato con la figlia” Hoara Borselli Il Pd riscopre l’antisemitismo solo per colpire Signorelli</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/R73Q673L6NIRLH7KIMFLOI3T2Q.jpg?focal=822%2C533&amp;auth=91c397d158b3327b29436674f628f7e563882e93efc4e7b354659a512c964b7a&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“Difendiamo Ranucci…”. E ora l’ex conduttore di Report cavalca anche il paragone con Assange</title>
-<link>https://www.ilgiornale.it/news/nazionale/difendiamo-ranucci-e-ora-lex-conduttore-di-report-cavalca-anche-il-paragone-con-assange/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/difendiamo-ranucci-e-ora-lex-conduttore-di-report-cavalca-anche-il-paragone-con-assange/</guid>
-<pubDate>Thu, 03 Sep 2026 07:39:33 +0000</pubDate>
-<description>Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/G43ZLYAOMZB23HXFOVXH5YIFRE.jpg?smart=true&amp;auth=6d4475b881f734a28c54f9093abbd5aa1ec3db2749dbfc17877b2f147f9008b3&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
