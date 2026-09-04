@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 09:49:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 10:00:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Andria, preparavano un ordigno per assaltare i bancomat: due morti nell’esplosione</title>
@@ -706,6 +706,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/I5OEEF5EX5DZZFJFYIL3KLG2LA.jpg?focal=1376%2C166&amp;auth=20f2ad2fba153e89b128a075cb0695cf62bc4944852fc81979ab6b1a289269c5&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
+<title>La roulette della storia senza verità</title>
+<link>https://www.ilgiornale.it/news/interni/la-roulette-della-storia-senza-verita/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-roulette-della-storia-senza-verita/</guid>
+<pubDate>Thu, 03 Sep 2026 11:19:53 +0000</pubDate>
+<description>commento Interni La roulette della storia senza verità Felice Manti</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FEEV4BNTHUJPMXPEDJIVOBIQOFQ.jpg?smart=true&amp;auth=db8d1ec80e7b9db27f7beb320f45714df4fffc4f3387771581baeecbf33245b7&amp;width=100&amp;height=100" medium="image" />
+</item>
+<item>
 <title>“Sono pentito di quelle chat. Mai stato un antisemita”</title>
 <link>https://www.ilgiornale.it/news/interni/sono-pentito-di-quelle-chat-mai-stato-un-antisemita/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/sono-pentito-di-quelle-chat-mai-stato-un-antisemita/</guid>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
 <description>Luigi Melita</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/THFH5WJ6HFEKHOMUPFNPJOBVLM.jpg?smart=true&amp;auth=756edb421386b322d3c77179df06e83ecd0439afd0bcf1e7854ae80e800d7eac&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Chi è peggio del pedofilo</title>
-<link>https://www.ilgiornale.it/news/magistratura/chi-e-peggio-del-pedofilo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/chi-e-peggio-del-pedofilo/</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-<description>Chi è peggio del pedofilo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
 </item>
 </channel>
 </rss>
