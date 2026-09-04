@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 20:11:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 20:30:25 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>I selfie, la battuta sulle foto e la telefonata della figlia: è Meloni-show sul palco di Bari</title>
+<link>https://www.ilgiornale.it/news/governo/i-selfie-la-battuta-sulle-foto-e-la-telefonata-della-figlia-e-meloni-show-sul-palco-di-bari/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/i-selfie-la-battuta-sulle-foto-e-la-telefonata-della-figlia-e-meloni-show-sul-palco-di-bari/</guid>
+<pubDate>Fri, 04 Sep 2026 20:18:04 +0000</pubDate>
+<description>L’esecutivo celebra il record a Bari, boato per la premier sul palco: “Ci hanno chiamato estremisti per anni e poi hanno copiato tutto in Ue” “La storia continua”, il racconto dalla piazza che vuole ancora il centrodestra al governo Tantissime le persone accorse per festeggiare il record dell’esecutivo: in collegamento sono intervenuti anche i due vicepremier Francesca Galici “Femminicidio esiste, eccome se esiste”. La lezione di Meloni a Vannacci dal palco di Bari I selfie, la battuta sulle foto e la telefonata della figlia: è Meloni-show sul palco di Bari</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZV3EKKRYAFBSRJTEC2AL7HO6A4.jpg?smart=true&amp;auth=70f048dfb52196d22d6e2fe7608b916689756a76e8db573e30c75eeb69878f92&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Contro manifestazione degli antagonisti flop a Bari: solo 500 in corteo</title>
 <link>https://www.ilgiornale.it/news/interni/contro-manifestazione-degli-antagonisti-flop-a-bari-solo-500-in-corteo/</link>
@@ -793,13 +801,6 @@
 <pubDate>Thu, 03 Sep 2026 16:46:32 +0000</pubDate>
 <description>Giulia Bernardini</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ADO5ASTKHNDS5MGSBOQQAUEAYA.jpg?focal=1419%2C655&amp;auth=9845132ffb5e95bc988e48943629fef273a46888b77e9afc4c84b02982db5ecd&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Residenze separate per i coniugi: le regole su tasse, Isee e controlli</title>
-<link>https://www.ilgiornale.it/news/politica-economica/residenze-separate-per-i-coniugi-le-regole-su-tasse-isee-e-controlli/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/residenze-separate-per-i-coniugi-le-regole-su-tasse-isee-e-controlli/</guid>
-<pubDate>Thu, 03 Sep 2026 16:04:44 +0000</pubDate>
-<description>Federico Garau</description>
 </item>
 </channel>
 </rss>
