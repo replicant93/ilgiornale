@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 12:55:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 13:12:11 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump lancia i videogiochi Maga: si costruisce il muro e si “inseguono” i migranti</title>
+<link>https://www.ilgiornale.it/news/politica-estera/trump-lancia-i-videogiochi-maga-si-costruisce-il-muro-e-si-inseguono-i-migranti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-lancia-i-videogiochi-maga-si-costruisce-il-muro-e-si-inseguono-i-migranti/</guid>
+<pubDate>Fri, 04 Sep 2026 12:38:27 +0000</pubDate>
+<description>Sul sito ufficiale della Casa Bianca arriva Arcade: cinque giochi in stile retrò dedicati ai temi simbolo della presidenza. Protestano le associazioni per i diritti dei migranti Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WEAUAERGONAXVLKXWF7KJC6C7E.PNG?focal=349%2C194&amp;auth=78d63cb9cd75f84afcf7775fc18ca7270fc7bb6f3c3e61921cd18ad3ed6b640d&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Aggressioni ai residenti, alle forze dell’ordine e agli animali selvatici: Ceuta sprofonda dopo un mese di invasione</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/aggressioni-ai-residenti-alle-forze-dellordine-e-agli-animali-selvatici-ceuta-sprofonda-dopo-un-mese-di-invasione/</link>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 11:22:51 +0000</pubDate>
 <description>ESCLUSIVO - Ranucci, altro giallo: l’intervista in Africa svanita nel nulla e le mail con Lavitola: “Serve per la nostra inchiesta” “I conduttori li scelgo io, Piervincenzi resta”. Corsini detta la linea sul futuro di Report Il Giornale ha potuto visionare lo scambio di mail del 29 giugno: il giornalista chiede all’imprenditore i dati del “corruttore-millantatore” e, alla domanda se servano per un’intervista, precisa: “Non lo metterei nell’intervista, serve per nostra inchiesta” Giulia Sorrentino La trappola contro Renzi e lo 007 Mancini. Un intrigo maturato con Conte premier Ci sono i servizi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/I5OEEF5EX5DZZFJFYIL3KLG2LA.jpg?focal=1376%2C166&amp;auth=20f2ad2fba153e89b128a075cb0695cf62bc4944852fc81979ab6b1a289269c5&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>La roulette della storia senza verità</title>
-<link>https://www.ilgiornale.it/news/interni/la-roulette-della-storia-senza-verita/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-roulette-della-storia-senza-verita/</guid>
-<pubDate>Thu, 03 Sep 2026 11:19:53 +0000</pubDate>
-<description>commento Interni La roulette della storia senza verità Felice Manti</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FEEV4BNTHUJPMXPEDJIVOBIQOFQ.jpg?smart=true&amp;auth=db8d1ec80e7b9db27f7beb320f45714df4fffc4f3387771581baeecbf33245b7&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
