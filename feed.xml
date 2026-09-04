@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 08:57:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 09:16:41 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>La recensione completa</title>
@@ -24,12 +24,52 @@
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FUIV3CBY5ZD3VDWZMUCOEO5K3A.jpg?focal=1465%2C827&amp;auth=3df923fc916e1ff4d23506d588e51ac4612e37995085c431cfde44f9a701100b&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
+<title>Ecovacs Winbot W2S Pro: il robot lavavetri che sta in una valigetta</title>
+<link>https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</guid>
+<pubDate>Fri, 04 Sep 2026 08:37:47 +0000</pubDate>
+<description>Luigi Melita</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/GKHYBLLLI5AOLLDAWC3P5ZXWBM.jfif?focal=1219%2C829&amp;auth=d597703da61518c44be50c9558486b9f30afc470b0d8357451af1c3d6b899fb6&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Il podio di Roberto Alessi: Seredova, Ravagnani, Greggio</title>
+<link>https://www.ilgiornale.it/news/gossip/il-podio-di-roberto-alessi-seredova-ravagnani-greggio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/gossip/il-podio-di-roberto-alessi-seredova-ravagnani-greggio/</guid>
+<pubDate>Fri, 04 Sep 2026 08:28:34 +0000</pubDate>
+<description>Roberto Alessi</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KWMY2SV6YFIVJM6MQJMQV3RTFQ.jpg?focal=894%2C373&amp;auth=89f6657771e1ff24380169e0b2210470f7bad5317174c88816c1f03ebcd8b2ce&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
 <title>Us Open, Cobolli rimonta e vola al terzo turno. Odissea per Musetti, sconfitto. Bene Darderi, esce di scena Bellucci</title>
 <link>https://www.ilgiornale.it/news/tennis/us-open-cobolli-rimonta-e-vola-al-terzo-turno-odissea-per-musetti-sconfitto-bene-darderi-esce-di-scena-bellucci/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/us-open-cobolli-rimonta-e-vola-al-terzo-turno-odissea-per-musetti-sconfitto-bene-darderi-esce-di-scena-bellucci/</guid>
 <pubDate>Fri, 04 Sep 2026 08:23:22 +0000</pubDate>
 <description>Il tennista romano autore di un’altra grande prestazione. Problemi fisici senza fine per il carrarino sconfitto in 4 set. Darderi è solido e vince, Fritz cede solo due game a Bellucci Alessandro Ferro</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/3M7VMUIU3VGA7GQHYECJJUBL74.jpg?focal=1479%2C383&amp;auth=1de6a71c7e7409208468284aceb7af3733ef5fb2a9a8bae9cca1aba242a671de&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Re Carlo “sponsorizza” il ritorno di Harry a Londra</title>
+<link>https://www.ilgiornale.it/news/politica/re-carlo-sponsorizza-il-ritorno-di-harry-a-londra/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/re-carlo-sponsorizza-il-ritorno-di-harry-a-londra/</guid>
+<pubDate>Fri, 04 Sep 2026 08:21:39 +0000</pubDate>
+<description>È stato lo stesso sovrano a fornire la residenza inglese al secondogenito: pare si farà carico anche delle spese della famiglia. L’ostruzionismo di William Roberto Alessi</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QYQY3JZO3FPILF7BB2BHNY2YRM.jpg?focal=758%2C232&amp;auth=8f7482ad7711bfe45b20754e402d1a4cea6d8c4f42ea08d83c7c2498ca5b6cb7&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>La notte di paura di Max Laudadio</title>
+<link>https://www.ilgiornale.it/news/gossip/la-notte-di-paura-di-max-laudadio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/gossip/la-notte-di-paura-di-max-laudadio/</guid>
+<pubDate>Fri, 04 Sep 2026 08:19:00 +0000</pubDate>
+<description>La notte di paura di Max Laudadio</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DLGP63BG65AVDIIRQZQERFLSIQ.png?focal=708%2C348&amp;auth=dd29155fbfceda003a757afacb7e4f5c77cb6b9f9b782c98bc72cb99235b57e5&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Navimow e il robot amante dei ricci che rende il giardino più ordinato</title>
+<link>https://www.ilgiornale.it/news/nuove-frontiere/navimow-e-il-robot-amante-dei-ricci-che-rende-il-giardino-piu-ordinato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/navimow-e-il-robot-amante-dei-ricci-che-rende-il-giardino-piu-ordinato/</guid>
+<pubDate>Fri, 04 Sep 2026 08:13:51 +0000</pubDate>
+<description>Marco Lombardo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/B7OYBP7TE5CUJP7Q6TPQSGZ524.jfif?focal=551%2C578&amp;auth=b682ed7a75ceb14af541477db31dde64c2640190cc6ed8c83776175fdbd7bb8d&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>I messaggi di auguri dai leader di tutto il mondo</title>
@@ -62,6 +102,14 @@
 <pubDate>Fri, 04 Sep 2026 07:50:18 +0000</pubDate>
 <description>Tra controllo politico, sfiducia sociale e timori per il futuro dei patrimoni, una parte dei cinesi più ricchi guarda sempre più all’estero Federico Giuliani</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DAJOJ4GTCBI57H356PQ5LVFJD4.jpg?smart=true&amp;auth=23254bc9bf706fe7de0a2e153f7fa4ec22314f7ea3c7c30abe5bd20ed58bdd19&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Mammotion e i robot da giardino sempre più professionali</title>
+<link>https://www.ilgiornale.it/news/nuove-frontiere/mammotion-e-i-robot-da-giardino-sempre-piu-professionali/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/mammotion-e-i-robot-da-giardino-sempre-piu-professionali/</guid>
+<pubDate>Fri, 04 Sep 2026 07:40:53 +0000</pubDate>
+<description>Marco Lombardo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/IHUV7FLV25FI7OQO5ARYY265UI.jfif?focal=685%2C466&amp;auth=144d078bd606a5e74d77a602a1d8a579733db63dec097e0538ca488c920b1991&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>“Un Re ragionevole”. Chi è Haakon VIII, nuovo sovrano di Norvegia</title>
@@ -443,6 +491,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/ZM2JSSI62NPTJBC43K2FP6XSRI.jpg?smart=true&amp;auth=dae16601580f2579f23cc3a94437a211eba1ac9fbd933c5d016041716b5ddbb2&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
+<title>Il delirio di Piccardo che insulta il giornalista: “Musulmani perseguitati come cristiani nella Roma antica”</title>
+<link>https://www.ilgiornale.it/news/interni/siamo-perseguitati-laccusa-di-piccardo-agli-italiani-gli-islamici-come-i-cristiani-nella-roma-antica/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/siamo-perseguitati-laccusa-di-piccardo-agli-italiani-gli-islamici-come-i-cristiani-nella-roma-antica/</guid>
+<pubDate>Thu, 03 Sep 2026 14:33:16 +0000</pubDate>
+<description>Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QEPBHLW7NJDXZGNP2662KWB54Q.png?smart=true&amp;auth=7daff3476ce7d64d35b41b462c67cd00449cb05f4c5d9d9b5c659b3752171ffe&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
 <title>Il Canale di Suez, il Mediterraneo, il Nord Africa: così la Cina si insidia nel cortile di casa dell’Europa</title>
 <link>https://www.ilgiornale.it/news/politica-estera/il-canale-di-suez-il-mediterraneo-il-nord-africa-cosi-la-cina-si-insidia-nel-cortile-di-casa-delleuropa/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/il-canale-di-suez-il-mediterraneo-il-nord-africa-cosi-la-cina-si-insidia-nel-cortile-di-casa-delleuropa/</guid>
@@ -465,6 +521,14 @@
 <pubDate>Thu, 03 Sep 2026 14:06:19 +0000</pubDate>
 <description>Al via gli accertamenti tossicologici sul 42enne morto durante un intervento della polizia al Pilastro di Bologna. L’avvocato della famiglia: “Serve stabilire quantità, tempi e reale incidenza della sostanza” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/O6ARCC6GHVATTLRWEMNJAZIWJ4.jpg?focal=975%2C1463&amp;auth=6509ca4a3cba8084fd7c98398150cd039a5a513ed899628993c74f73c094402a&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Ceuta, Sanchez era stato avvertito: i dossier che smentiscono il premier</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-sanchez-era-stato-avvertito-i-dossier-che-smentiscono-il-governo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-sanchez-era-stato-avvertito-i-dossier-che-smentiscono-il-governo/</guid>
+<pubDate>Thu, 03 Sep 2026 13:57:54 +0000</pubDate>
+<description>Governo accolto dai fischi. Tutta la Spagna scende in piazza L’intelligence militare aveva segnalato una “entrata massiccia” già tre giorni prima. Poco prima dell’assalto la polizia parlava di “rischio estremo di collasso”. E ora il ministro dell’Interno Marlaska finisce nel mirino Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VC7XK2VDKJAMDKMACPFET7XQWY.jpg?focal=2660%2C1498&amp;auth=6e8a6797991573457c5456e6441e34d4e413ff41a72ef0018d9d793b02be3205&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>Abusi, il giudice scagiona il cardinale: “Fu diffamato”</title>
@@ -736,70 +800,6 @@
 <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
 <description>Viene presentato l’esposto, il caso arriva in procura. Ma la relatrice Onu attacca e accusa il governo Francesco Giubilei</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OVP2LWBUERB7TKHXMGQCTTP4BQ.jpg?focal=903%2C570&amp;auth=899001c519f52c2727dcbbbbed39a029c3fd4c8671ce2f3949c8d920bdc11d5a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Garlasco, guerra per bande dove la vittima è la verità. I depistaggi e gli atti inediti</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/garlasco-guerra-per-bande-dove-la-vittima-e-la-verita-i-depistaggi-e-gli-atti-inediti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/garlasco-guerra-per-bande-dove-la-vittima-e-la-verita-i-depistaggi-e-gli-atti-inediti/</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-<description>Si muove lo psichiatra. Sempio convocato per la visita Scritto dalla nostra cronista, Rita Cavallaro, e con la prefazione del direttore Tommaso Cerno, ricostruisce gli sviluppi del delitto più discusso del nostro Paese Diana Alfieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OJZOT7AAMRN4JLIFWYDX4MEKFM.jpg?focal=732%2C360&amp;auth=5de5e2c925d0ceac6fdaf9a72756741bbbae365e02f3f427dca0d31d4ae1daef&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Si muove lo psichiatra. Sempio convocato per la visita</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/si-muove-lo-psichiatra-sempio-convocato-per-la-visita/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/si-muove-lo-psichiatra-sempio-convocato-per-la-visita/</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-<description>Garlasco, guerra per bande dove la vittima è la verità. I depistaggi e gli atti inediti Si muove lo psichiatra. Sempio convocato per la visita Scritto dalla nostra cronista, Rita Cavallaro, e con la prefazione del direttore Tommaso Cerno, ricostruisce gli sviluppi del delitto più discusso del nostro Paese Diana Alfieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OJZOT7AAMRN4JLIFWYDX4MEKFM.jpg?focal=732%2C360&amp;auth=5de5e2c925d0ceac6fdaf9a72756741bbbae365e02f3f427dca0d31d4ae1daef&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Bianca, le cure “fuffa” e l’illusione nata da un film</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/bianca-le-cure-fuffa-e-lillusione-nata-da-un-film/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/bianca-le-cure-fuffa-e-lillusione-nata-da-un-film/</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-<description>I viaggi in Messico da 300mila euro e la cura screditata dalla comunità scientifica Maria Sorbi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NW2UHUIQMJANPPY6J2PUZ4LQKE.jpg?smart=true&amp;auth=71b12e9ea9d90e1596b757bd329b446856e61379873c0af23c26e6d72fb95c82&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Quel lago sulle Alpi che Hitler non riuscì mai a conquistare (nemmeno sulla tela)</title>
-<link>https://www.ilgiornale.it/news/arte-e-storia/quel-lago-sulle-alpi-che-hitler-non-riusci-mai-a-conquistare-nemmeno-sulla-tela/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/arte-e-storia/quel-lago-sulle-alpi-che-hitler-non-riusci-mai-a-conquistare-nemmeno-sulla-tela/</guid>
-<pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-<description>Un acquerello dei primi del Novecento che riporta la firma del Führer racconta di doti artistiche mediocri e dei suoi tormenti interiori Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/G7EQSXOEV5J6XPSNOAFZGGZQEI.jpg?focal=854%2C498&amp;auth=f19ee33cdcfe1bb3a6486118dbe8430532a9a85ffb97e5abb14306aa10d4229a&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Cosa può indebolire il sistema immunitario?</title>
-<link>https://www.ilgiornale.it/news/benessere/cosa-puo-indebolire-il-sistema-immunitario/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/cosa-puo-indebolire-il-sistema-immunitario/</guid>
-<pubDate>Thu, 03 Sep 2026 09:57:08 +0000</pubDate>
-<description>Francesca Bocchi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/XIS7FU4EU5HNPDFJ7VB3EKKODY.jpg?smart=true&amp;auth=423945552d9acf163a69064f313d20bfe0d5edce08a5ac9b47a3d32cc29aaa33&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Soste sulle strisce blu: la nuova tolleranza del 10% che cancella le multe, come funziona la norma</title>
-<link>https://www.ilgiornale.it/news/cittadini/soste-sulle-strisce-blu-la-nuova-tolleranza-del-10-che-cancella-le-multe-come-funziona-la-norma/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/soste-sulle-strisce-blu-la-nuova-tolleranza-del-10-che-cancella-le-multe-come-funziona-la-norma/</guid>
-<pubDate>Thu, 03 Sep 2026 09:41:21 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/WGBSNUTJ5ZEW7PRGJMNUPTCWWY.jpg?focal=1208%2C333&amp;auth=c84aa54fd062389265ee676462d279dfa115bddecd3feef1605bd16d3d9e1229&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Raunicci e i social usati come “armi”: ecco perché possono essere delle trappole</title>
-<link>https://www.ilgiornale.it/news/nazionale/raunicci-e-i-social-usati-come-armi-ecco-perche-possono-essere-delle-trappole/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/raunicci-e-i-social-usati-come-armi-ecco-perche-possono-essere-delle-trappole/</guid>
-<pubDate>Thu, 03 Sep 2026 09:33:50 +0000</pubDate>
-<description>Domenico Giordano</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/M2TWDB6XFJFBVGVBNSKUEYENSM.jpg?smart=true&amp;auth=aa9062bb6a4e58b19bffd00784470a8babf5c21a1b88f61e6ce2468452a245f6&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Ferritina, 5 segnali che indicano che il valore è basso</title>
-<link>https://www.ilgiornale.it/news/benessere/ferritina-5-segnali-che-indicano-che-il-valore-e-basso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/ferritina-5-segnali-che-indicano-che-il-valore-e-basso/</guid>
-<pubDate>Thu, 03 Sep 2026 09:23:18 +0000</pubDate>
-<description>Mariangela Cutrone</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7AHFFTR3YFE7JAOBKOJPNXSVME.jpg?smart=true&amp;auth=4c2e8fc5fa9da31714c3c6ae960b0cb04c0cbf2a0d8ab391480e16d9d72a451f&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
