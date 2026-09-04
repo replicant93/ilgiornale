@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 05:16:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 05:31:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il giorno della festa a Bari</title>
+<link>https://www.ilgiornale.it/news/governo/il-centrodestra-a-bari-punta-tutto-sul-lavoro-la-longevita-ha-senso-insieme-ai-risultati/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/il-centrodestra-a-bari-punta-tutto-sul-lavoro-la-longevita-ha-senso-insieme-ai-risultati/</guid>
+<pubDate>Fri, 04 Sep 2026 05:29:46 +0000</pubDate>
+<description>Il governo Meloni batte tutti nella storia della Repubblica Il giorno della festa a Bari Oggi tocca quota 1.413 giorni: è il sorpasso sul secondo esecutivo guidato dal Cavaliere. Una marcia senza rimpasti, ribaltoni e cambi di maggioranza. La festa con Fratelli d’Italia al porto di Bari Fabrizio de Feo Dallo spread al referendum: così i “marziani” beffano i profeti La quota rosa che brucia alla sinistra</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XUXLNSHATFPUVH4ASYBSK67VOY.jpg?focal=1795%2C524&amp;auth=6259cec80e4f11df841b8fbd01e398ccbd55fa932aa19fdd9f83d4582d7b8b2a&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Il governo Meloni batte tutti nella storia della Repubblica</title>
 <link>https://www.ilgiornale.it/news/governo/meloni-supera-anche-berlusconi-e-record-il-governo-piu-longevo/</link>
@@ -30,6 +38,14 @@
 <pubDate>Fri, 04 Sep 2026 04:37:22 +0000</pubDate>
 <description>Vittorio Feltri</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/MSA6LJREFRKZRHWFHX6JM5PKNM.jpg?focal=913%2C411&amp;auth=ef4d76add7889f224bf45493ee941b67644429b3261fe4da2951522070ec9cf1&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Dallo spread al referendum: così i “marziani” beffano i profeti</title>
+<link>https://www.ilgiornale.it/news/europa/dallo-spread-al-referendum-cosi-i-marziani-beffano-i-profeti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/dallo-spread-al-referendum-cosi-i-marziani-beffano-i-profeti/</guid>
+<pubDate>Fri, 04 Sep 2026 04:01:49 +0000</pubDate>
+<description>Il governo Meloni batte tutti nella storia della Repubblica Il giorno della festa a Bari Oggi tocca quota 1.413 giorni: è il sorpasso sul secondo esecutivo guidato dal Cavaliere. Una marcia senza rimpasti, ribaltoni e cambi di maggioranza. La festa con Fratelli d’Italia al porto di Bari Fabrizio de Feo Dallo spread al referendum: così i “marziani” beffano i profeti La quota rosa che brucia alla sinistra</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XUXLNSHATFPUVH4ASYBSK67VOY.jpg?focal=1795%2C524&amp;auth=6259cec80e4f11df841b8fbd01e398ccbd55fa932aa19fdd9f83d4582d7b8b2a&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>Da Niko, mangiare come a casa di Romito</title>
@@ -784,22 +800,6 @@
 <pubDate>Wed, 02 Sep 2026 20:14:42 +0000</pubDate>
 <description>Il suo addio va oltre il calcio e racconta la dittatura del breve periodo: consumiamo dirigenti e bandiere dimenticando il valore della storia, della memoria e di chi ha contribuito a costruirle Giulia Sorrentino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/CUJITUO7IRC5RI3AOYSGF6NGTY.jpg?focal=1771%2C562&amp;auth=1d47a8e37b338c525ba4fc1ff55386c322e974b7319f7c8311da71134aa14c6d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Giulia Presutti scrive a Corsini: “Faccio un passo indietro dall’incarico di co-conduttrice di Report”</title>
-<link>https://www.ilgiornale.it/news/nazionale/giulia-presutti-scrive-a-corsini-faccio-un-passo-indietro-dallincarico-di-co-conduttrice-di-report/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/giulia-presutti-scrive-a-corsini-faccio-un-passo-indietro-dallincarico-di-co-conduttrice-di-report/</guid>
-<pubDate>Wed, 02 Sep 2026 19:45:25 +0000</pubDate>
-<description>La giornalista: “Spero che Report continui a fare lo splendido lavoro di servizio pubblico che ha sempre fatto” Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/4XZXNT7O7VDWLBMNP6XGXPVEI4.jpg?focal=2845%2C660&amp;auth=50c95d50edc5b4dd96d0e2da379b5428c7b08db4700f97818a1f82bdec0423ed&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Report, il Cdr dice no al rinvio: “La Rai faccia chiarezza su Ranucci”</title>
-<link>https://www.ilgiornale.it/news/nazionale/report-il-cdr-dice-no-al-rinvio-la-rai-faccia-chiarezza-su-ranucci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/report-il-cdr-dice-no-al-rinvio-la-rai-faccia-chiarezza-su-ranucci/</guid>
-<pubDate>Wed, 02 Sep 2026 19:13:32 +0000</pubDate>
-<description>Giulia Bernardini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3FBELXO4EJCCXNCASZS2AVZAOA.jpg?focal=1509%2C387&amp;auth=096e290140d8462f40513708fa254186c748e029e835d9d3ae2328da5c80ed00&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
