@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 04 Sep 2026 06:22:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 06:44:00 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meloni Opens in new window</title>
+<link>https://www.ilgiornale.it/news/interni/meloni-avanti-con-i-piedi-per-terra-e-lo-sguardo-rivolto-al-futuro/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/meloni-avanti-con-i-piedi-per-terra-e-lo-sguardo-rivolto-al-futuro/</guid>
+<pubDate>Fri, 04 Sep 2026 06:37:06 +0000</pubDate>
+<description>Meloni Opens in new window</description>
+</item>
 <item>
 <title>Rampelli: “È solo il primo tempo. Ma Giorgia ha rivoluzionato l’Italia”</title>
 <link>https://www.ilgiornale.it/news/governo/e-solo-il-primo-tempo-ma-giorgia-ha-rivoluzionato-litalia/</link>
@@ -796,13 +803,6 @@
 <pubDate>Thu, 03 Sep 2026 05:24:20 +0000</pubDate>
 <description>DIRETTA Un’altra notte di raid russi sull’Ucraina. L’allarme degli 007 danesi: “Da Mosca piani per sabotare le nostre industrie” Come funziona la guerra ibrida russa contro l’Europa Attacco con droni sulla capitale ucraina, mentre a Odessa si registrano almeno 17 feriti. Copenaghen denuncia piani di sabotaggio contro aziende della difesa e tentativi di reclutamento da parte dei servizi russi. Parigi convoca l’incaricato d’affari di Mosca e accusa la Russia di un’escalation di attacchi ibridi in Europa Redazione web “Possibili tentativi d’influenze russe sul voto in Italia”. L’avviso di Tajani.</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/7XOOTWE5JNCKPJUQGNLNRHEC7E.jpg?focal=4608%2C2532&amp;auth=751235344180b849968c0f7add2aab0f7a74cc4e85e855e1f91c682ba796feb9&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Matrimonio Unicredit-Commerz. Orcel prova a tagliare l’esborso</title>
-<link>https://www.ilgiornale.it/news/banche/matrimonio-unicredit-commerz-orcel-prova-a-tagliare-lesborso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/banche/matrimonio-unicredit-commerz-orcel-prova-a-tagliare-lesborso/</guid>
-<pubDate>Thu, 03 Sep 2026 05:22:47 +0000</pubDate>
-<description>Marcello Astorri</description>
 </item>
 </channel>
 </rss>
