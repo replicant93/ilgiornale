@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 16:56:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 17:12:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Macchina della verità per 50 alti ufficiali: al Pentagono è caccia alla talpa sulle scorte di armi</title>
+<link>https://www.ilgiornale.it/news/politica-estera/macchina-della-verita-per-50-alti-ufficiali-al-pentagono-e-caccia-alla-talpa-sulle-scorte-di-armi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/macchina-della-verita-per-50-alti-ufficiali-al-pentagono-e-caccia-alla-talpa-sulle-scorte-di-armi/</guid>
+<pubDate>Sat, 05 Sep 2026 17:01:32 +0000</pubDate>
+<description>Putin ordina una tregua di tre giorni su Kiev dopo l’arrivo di Witkoff e Kushner a Mosca. Zelensky: “Ci asterremo dai raid contro Mosca” E i russi scoprono la guerra in casa. “Colpa della Ue...” Mentre sul territorio russo sono in visita Steve Witkoff e Jared Kushner, Putin stabilisce un breve stop alla guerra a partire da mezzanotte, della durata di tre giorni Redazione web “Operation Carpet”: così Zelensky punta a piegare lo zar del Cremlino Macchina della verità per 50 alti ufficiali: al Pentagono è caccia alla talpa sulle scorte di armi DIRETTA</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FNJON644RFGNFCW65SQLYOKF6M.jpg?focal=1498%2C591&amp;auth=271379bf602d7d8932a4eda99fe0e0de65810742a00b8d792bce8095a7501596&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Il dolore del papà di Lorena: “La politica sia unita”. Meloni: “Continueremo a fare la nostra parte”</title>
 <link>https://www.ilgiornale.it/news/nazionale/il-dolore-del-papa-di-lorena-la-politica-sia-unita-meloni-continueremo-a-fare-la-nostra-parte/</link>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 11:11:48 +0000</pubDate>
 <description>Stop alle politiche di assunzione: penalizzano chi indossa la gonna Andrea Cuomo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/N2C3LO45BRPKXCMBXDRMYL6DAM.jpg?smart=true&amp;auth=6debc742fe0a3485090742a219afa3ff15d77766dd35760b034db7f9c9556d35&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Renzi: “Il conduttore in politica, troppi cronisti amici di 007″</title>
-<link>https://www.ilgiornale.it/news/interni/renzi-il-conduttore-in-politica-troppi-cronisti-amici-di-007/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/renzi-il-conduttore-in-politica-troppi-cronisti-amici-di-007/</guid>
-<pubDate>Fri, 04 Sep 2026 11:11:21 +0000</pubDate>
-<description>Felice Manti</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OJPPFCJDCJHSVI2T27WOYEUPU4.jpg?focal=389%2C234&amp;auth=de0bf736aa29884ba200501594ead687e5e6a0ccd048cd8eb179e7b9ceca2c00&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
