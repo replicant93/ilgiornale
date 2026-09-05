@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 11:50:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 12:14:11 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meloni-Trump, prove di disgelo secondo Zampolli: “Il rapporto sta migliorando”</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/meloni-trump-prove-di-disgelo-secondo-zampolli-il-rapporto-sta-migliorando/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/meloni-trump-prove-di-disgelo-secondo-zampolli-il-rapporto-sta-migliorando/</guid>
+<pubDate>Sat, 05 Sep 2026 11:59:46 +0000</pubDate>
+<description>La lunga marcia da Ecr a Bruxelles. Così ha conquistato un ruolo nell’Ue Meloni-Trump, prove di disgelo secondo Zampolli: “Il rapporto sta migliorando” Nel 2019 entra nei Conservatori, nel 2022 la visita a Von Der Leyen dopo il giuramento: “Non siamo marziani” Adalberto Signore</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FGCUTM6SIVJZXASO2I57WYJSE4.jpg?focal=3367%2C2513&amp;auth=5287413a98a6d3fb48d42f4c68a2bf0d8660dc1da4a32e980dd5ed6c3b1c921b&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>“Meglio prevenire”. Cortona vieta burqa e volto coperto negli uffici pubblici</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/meglio-prevenire-cortona-vieta-burqa-e-volto-coperto-negli-uffici-pubblici/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/meglio-prevenire-cortona-vieta-burqa-e-volto-coperto-negli-uffici-pubblici/</guid>
+<pubDate>Sat, 05 Sep 2026 11:51:37 +0000</pubDate>
+<description>Il sindaco Meoni firma l’ordinanza per sedi pubbliche e manifestazioni: “Nessuna discriminazione, è civile convivenza” Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JPRZ7XRXVFAHPMWY7W6L67VPKY.jfif?focal=395%2C240&amp;auth=5d2805fb4af796f70a90e1de230c8bd216427185c32449c1bc7896a5ee29fbe1&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Esclusiva | Lega, il dato che rafforza Salvini: l’89% degli elettori lo vuole ancora leader</title>
 <link>https://www.ilgiornale.it/news/interni/esclusiva-lega-il-dato-che-rafforza-salvini-l89-degli-elettori-lo-vuole-ancora-leader/</link>
@@ -787,21 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 08:49:56 +0000</pubDate>
 <description>Alessandro Ferro</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/B64GPLNXGBK2DKECTNW5I4DXZI.jpg?focal=1251%2C586&amp;auth=ae5ce6248a836f906e2253454c4027872d04218af2c02397b466eb13341debb4&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Era come dottor Jekyll e Mr Hyde, la pregavo di denunciarlo”. Parla l’amica di Lorena, gettata dal cavalcavia</title>
-<link>https://www.ilgiornale.it/news/nazionale/era-come-dottor-jekyll-e-mr-hyde-la-pregavo-di-denunciarlo-parla-lamica-di-lorena-gettata-dal-cavalcavia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/era-come-dottor-jekyll-e-mr-hyde-la-pregavo-di-denunciarlo-parla-lamica-di-lorena-gettata-dal-cavalcavia/</guid>
-<pubDate>Fri, 04 Sep 2026 08:46:06 +0000</pubDate>
-<description>Sui social l’ultimo post dell'uomo: “Addio a tutti” Lorena Isceri, 45 anni, è stata gettata da un viadotto sull’A1 nel Fiorentino dall’ex compagno Federico Vella Gabriele Laganà</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FUIV3CBY5ZD3VDWZMUCOEO5K3A.jpg?focal=1465%2C827&amp;auth=3df923fc916e1ff4d23506d588e51ac4612e37995085c431cfde44f9a701100b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Codice della Strada: come cambiano le multe e i nuovi importi per la guida senza Rca</title>
-<link>https://www.ilgiornale.it/news/societa/codice-della-strada-come-cambiano-le-multe-e-i-nuovi-importi-per-la-guida-senza-rca/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/codice-della-strada-come-cambiano-le-multe-e-i-nuovi-importi-per-la-guida-senza-rca/</guid>
-<pubDate>Fri, 04 Sep 2026 08:41:56 +0000</pubDate>
-<description>Federico Garau</description>
 </item>
 </channel>
 </rss>
