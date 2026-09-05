@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 15:56:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 16:13:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Famiglia nel bosco, i genitori annunciano ricorso: “La decisione dei giudici ci spezza il cuore”</title>
+<link>https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-i-genitori-annunciano-ricorso-la-decisione-dei-giudici-ci-spezza-il-cuore/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-i-genitori-annunciano-ricorso-la-decisione-dei-giudici-ci-spezza-il-cuore/</guid>
+<pubDate>Sat, 05 Sep 2026 15:56:39 +0000</pubDate>
+<description>In un videomessaggio diffuso dal loro avvocato, Catherine Birmingham e Nathan Trevallion raccontano la loro amarezza per il rientro a tappe in famiglia: “Abbiamo scelto l’Italia per le sue libertà” Roberta Damiata</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WC2FGQY2BJARVGJWWV4P3MN7VI.jpg?smart=true&amp;auth=b8f841a6e31610afde8b5ce7f8f5db62d5ca50089991aedbfae3eabcbac40597&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Sull’Oktoberfest cala la mannaia della censura progressista: sciopero dei giostrai, che boicottano l’evento</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/sulloktoberfest-cala-la-mannaia-della-censura-progressista-sciopero-dei-giostrai-che-boicottano-levento/</link>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 11:08:48 +0000</pubDate>
 <description>Il presidente Usa sta discutendo l’opzione con il suo staff e si è detto favorevole. Ma Hegseth proroga fino al 2027 il dispiegamento delle truffe in Medioriente. Record di petrolio trasportato da Hormuz Valeria Robecco</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5Q4QRYHLEFC6NGYACR2SSFVARU.jpg?focal=1640%2C1025&amp;auth=16798db8da95079c26e83ebf91f02996e5c24c26ada115c162a2711023fa98ec&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>La quota rosa che brucia alla sinistra</title>
-<link>https://www.ilgiornale.it/news/interni/la-quota-rosa-che-brucia-alla-sinistra/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-quota-rosa-che-brucia-alla-sinistra/</guid>
-<pubDate>Fri, 04 Sep 2026 10:44:49 +0000</pubDate>
-<description>commento Interni La quota rosa che brucia alla sinistra Gabriele Barberis</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FDCZ3CKFY3BJGVLJRCNFMX5MEA4.png?smart=true&amp;auth=ed9b0b622d48f50b5e662a7c34a5fa1dee733b45f7f544e30a6ae26f8f26ed50&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
