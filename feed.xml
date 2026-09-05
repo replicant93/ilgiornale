@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 19:15:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 19:28:20 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ruba la borsa all’anziana e spacca il parabrezza di un’auto: ghanese fermato dai cittadini</title>
+<link>https://www.ilgiornale.it/news/nazionale/ruba-la-borsa-allanziana-e-spacca-il-parabrezza-di-unauto-ghanese-fermato-dai-cittadini/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/ruba-la-borsa-allanziana-e-spacca-il-parabrezza-di-unauto-ghanese-fermato-dai-cittadini/</guid>
+<pubDate>Sat, 05 Sep 2026 19:18:25 +0000</pubDate>
+<description>Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RPYSYO7VI5CK5M5HDS2XD7VGNU.png?smart=true&amp;auth=17ea1a532c5037d6287b7f20bc1f8c469e8132c1def2a8c19b306600ab2c6c68&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>L’Inter sotto di due gol ribalta il Napoli: Lautaro affonda Allegri nel recupero</title>
+<link>https://www.ilgiornale.it/news/calcio/linter-sotto-di-due-gol-ribalta-il-napoli-lautaro-affonda-allegri-nel-recupero/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/linter-sotto-di-due-gol-ribalta-il-napoli-lautaro-affonda-allegri-nel-recupero/</guid>
+<pubDate>Sat, 05 Sep 2026 19:08:30 +0000</pubDate>
+<description>La squadra di Chivu recupera due gol di svantaggio e stende la squadra di Allegri. Lautaro, autore di una doppietta e Thuram ribaltano i gol di Politano e Hojlund Antonio Prisco</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/HWEMKTIMIBATJP5HZK5TVVDP6I.jpg?smart=true&amp;auth=b13e3f15011fbf1f963bd689285792219efd785caee939ad5fef8c826d0d0bbf&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“Ne salteranno fuori di cotte e di crude”. Zampolli all’attacco di Ranucci</title>
 <link>https://www.ilgiornale.it/news/interni/ne-salteranno-fuori-di-cotte-e-di-crude-zampolli-allattacco-di-ranucci/</link>
@@ -787,22 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 12:06:05 +0000</pubDate>
 <description>Nei guai il sindaco di Tribano (Padova). Chiesto il processo. Lui respinge ogni accusa e ribadisce la necessità del dispositivo Alessandro Ferro</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/V4LNCRM4SRAM7CC73HVRWHVWSQ.png?smart=true&amp;auth=385c75bd0b4042e8e365542846ece66f405e30bf335df646ef35ebcb4f2f9624&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Un cocktail cinico e feroce per Malkovich</title>
-<link>https://www.ilgiornale.it/news/cinema/un-cocktail-cinico-e-feroce-per-malkovich/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/un-cocktail-cinico-e-feroce-per-malkovich/</guid>
-<pubDate>Fri, 04 Sep 2026 11:18:14 +0000</pubDate>
-<description>La fiaba di Amelio e il Paese che non c’è. Quanta retorica sull’immigrazione Herzog e la leggerezza delle ossessioni “Nessun dolore” gioca la carta della poesia (con morale incorporata), ma risulta solo sconnesso dalla realtà dell’Italia di oggi Alessandro Gnocchi Un cocktail cinico e feroce per Malkovich</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WI7EVRYONFDPVHNKZEF7MSRDP4.jpg?focal=2684%2C931&amp;auth=17ed3aaa9a6d4df645f450983e579fd2c0c98b3955ae038c66e44d5982aac733&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Herzog e la leggerezza delle ossessioni</title>
-<link>https://www.ilgiornale.it/news/cinema/herzog-e-la-leggerezza-delle-ossessioni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/herzog-e-la-leggerezza-delle-ossessioni/</guid>
-<pubDate>Fri, 04 Sep 2026 11:17:38 +0000</pubDate>
-<description>La fiaba di Amelio e il Paese che non c’è. Quanta retorica sull’immigrazione Herzog e la leggerezza delle ossessioni “Nessun dolore” gioca la carta della poesia (con morale incorporata), ma risulta solo sconnesso dalla realtà dell’Italia di oggi Alessandro Gnocchi Un cocktail cinico e feroce per Malkovich</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WI7EVRYONFDPVHNKZEF7MSRDP4.jpg?focal=2684%2C931&amp;auth=17ed3aaa9a6d4df645f450983e579fd2c0c98b3955ae038c66e44d5982aac733&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
