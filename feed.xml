@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 11:40:10 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 11:50:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Esclusiva | Lega, il dato che rafforza Salvini: l’89% degli elettori lo vuole ancora leader</title>
+<link>https://www.ilgiornale.it/news/interni/esclusiva-lega-il-dato-che-rafforza-salvini-l89-degli-elettori-lo-vuole-ancora-leader/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/esclusiva-lega-il-dato-che-rafforza-salvini-l89-degli-elettori-lo-vuole-ancora-leader/</guid>
+<pubDate>Sat, 05 Sep 2026 11:41:20 +0000</pubDate>
+<description>Riccardo Molinari al Lega Summer Fest: "Noi siamo compatti, no a litigi o dibattiti" Secondo EMG il Carroccio vale il 7,4%, ma può arrivare al 12%. E tra i potenziali elettori il 60% continua a puntare sull’attuale segretario Michel Dessì</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JYW74QEA2JE75M5N2PNOKZQQAU.jpg?smart=true&amp;auth=ef952a733d6b1782f72021a761b9b7b2c7590d63c0bec38e92c15c45beeeace9&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Ok alle preferenze. Il nodo: election day o scadenza naturale</title>
+<link>https://www.ilgiornale.it/news/interni/ok-alle-preferenze-il-nodo-election-day-o-scadenza-naturale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ok-alle-preferenze-il-nodo-election-day-o-scadenza-naturale/</guid>
+<pubDate>Sat, 05 Sep 2026 11:30:22 +0000</pubDate>
+<description>Passa l’emendamento sulla legge elettorale. Si riflette sull’accorpamento con i Comuni Francesco Boezi</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KM3TEJII55FOJEA6OE3OZPAYNU.jpg?focal=1748%2C778&amp;auth=3148d251a6e6f9cb8318c2caedff0666e1955195ae230ada897913ce872deaa1&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>La lunga marcia da Ecr a Bruxelles. Così ha conquistato un ruolo nell’Ue</title>
 <link>https://www.ilgiornale.it/news/europa/la-lunga-marcia-da-ecr-a-bruxelles-cosi-ha-conquistato-un-ruolo-nellue/</link>
@@ -786,22 +802,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/societa/codice-della-strada-come-cambiano-le-multe-e-i-nuovi-importi-per-la-guida-senza-rca/</guid>
 <pubDate>Fri, 04 Sep 2026 08:41:56 +0000</pubDate>
 <description>Federico Garau</description>
-</item>
-<item>
-<title>Ecovacs Winbot W2S Pro: il robot lavavetri che sta in una valigetta</title>
-<link>https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</guid>
-<pubDate>Fri, 04 Sep 2026 08:37:47 +0000</pubDate>
-<description>Luigi Melita</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/GKHYBLLLI5AOLLDAWC3P5ZXWBM.jfif?focal=1219%2C829&amp;auth=d597703da61518c44be50c9558486b9f30afc470b0d8357451af1c3d6b899fb6&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Imperia, 19enne violenta una ragazzina e torna libero “per pentimento”</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/imperia-19enne-violenta-una-ragazzina-e-torna-libero-per-pentimento/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/imperia-19enne-violenta-una-ragazzina-e-torna-libero-per-pentimento/</guid>
-<pubDate>Fri, 04 Sep 2026 08:32:44 +0000</pubDate>
-<description>Ignazio Riccio</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QWL52UNTEBA3NPRQVQT5FNKVMM.jfif?focal=591%2C317&amp;auth=427c6f93ae1da98c51b9c934169824fdb7e308b2a9ed5fec93b1288babab2ab1&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
