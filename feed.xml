@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 20:29:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 20:42:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Algeria, il piccolo Ayoub non ce l’ha fatta: morto a 10 anni il bambino caduto nel pozzo</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/algeria-il-piccolo-ayoub-non-ce-lha-fatta-morto-a-10-anni-il-bambino-caduto-nel-pozzo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/algeria-il-piccolo-ayoub-non-ce-lha-fatta-morto-a-10-anni-il-bambino-caduto-nel-pozzo/</guid>
+<pubDate>Sat, 05 Sep 2026 20:38:12 +0000</pubDate>
+<description>Dopo lunghi e disperati tentativi di raggiungerlo, la Protezione civile ha recuperato senza vita il bambino di 10 anni precipitato in un pozzo di 80 metri nel sud-ovest dell’Algeria. La tragedia ha sconvolto il Paese e riporta alla memoria la vicenda del piccolo Alfredino Rampi Roberta Damiata</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5CU6J7HSO5DANATW5WY5CDZ4Y4.jpg?smart=true&amp;auth=b06132fe9dadb97714cd4f2e3c8a698ed36004c8c05b8dc55e8367e58c2a4cf2&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Ruba la borsa all’anziana e spacca il parabrezza di un’auto: ghanese fermato dai cittadini</title>
 <link>https://www.ilgiornale.it/news/nazionale/ruba-la-borsa-allanziana-e-spacca-il-parabrezza-di-unauto-ghanese-fermato-dai-cittadini/</link>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 12:14:06 +0000</pubDate>
 <description>Ceuta, Sanchez era stato avvertito: i dossier che smentiscono il premier Un’associazione ha sporto denuncia alla Guardia Civil dopo la viralità delle immagini che immortalano la morte di un delfino Francesca Galici</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RPQ33EHAPJC2FNUQXH5XRF4YIQ.jpeg?smart=true&amp;auth=ef3e3a373c453017e894bee0918d646a377893fc1fb77fb462fe770e583052da&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“Falso ideologico”: l’accusa al sindaco che avrebbe gonfiato il numero di incidenti per poter ottenere l’autovelox</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/falso-ideologico-laccusa-al-sindaco-che-avrebbe-gonfiato-il-numero-di-incidenti-per-poter-ottenere-lautovelox/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/falso-ideologico-laccusa-al-sindaco-che-avrebbe-gonfiato-il-numero-di-incidenti-per-poter-ottenere-lautovelox/</guid>
-<pubDate>Fri, 04 Sep 2026 12:06:05 +0000</pubDate>
-<description>Nei guai il sindaco di Tribano (Padova). Chiesto il processo. Lui respinge ogni accusa e ribadisce la necessità del dispositivo Alessandro Ferro</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/V4LNCRM4SRAM7CC73HVRWHVWSQ.png?smart=true&amp;auth=385c75bd0b4042e8e365542846ece66f405e30bf335df646ef35ebcb4f2f9624&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
