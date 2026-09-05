@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 06:16:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 06:34:28 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Di Battista, rinviato il rientro da Cuba dopo il malore</title>
+<link>https://www.ilgiornale.it/news/interni/di-battista-rinviato-il-rientro-da-cuba-dopo-il-malore/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/di-battista-rinviato-il-rientro-da-cuba-dopo-il-malore/</guid>
+<pubDate>Sat, 05 Sep 2026 06:20:06 +0000</pubDate>
+<description>Ultim'ora Di Battista, rinviato il rientro da Cuba dopo il malore L’ex M5S, ricoverato dopo un malore, avrebbe dovuto lasciare l’isola nella notte per arrivare oggi a Roma. L’annuncio dell’associazione Schierarsi: “In attesa di ulteriori aggiornamenti” Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/EWZJHSZYXVETHKIO2WZX6WHFO4.jpg?focal=1391%2C672&amp;auth=bc593d0cdaa28aeed2ba49627b5c8deb9c2a860c700fd527f8c6d6d63647f870&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Operation Carpet”: così Zelensky punta a piegare lo zar del Cremlino</title>
 <link>https://www.ilgiornale.it/news/guerra/operation-carpet-cosi-zelensky-punta-a-piegare-lo-zar-del-cremlino/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 03 Sep 2026 19:13:25 +0000</pubDate>
 <description>Dopo lo scoop del Giornale si muove la procura: acquisiti i servizi giornalistici sullo Zimbawe “Fu Lavitola a dirmi di sentirlo”. Parla il giornalista straniero che intervistò Ranucci Il giallo dell’intervista sparita e delle mail tra giornalista e faccendiere fa accendere i riflettori sugli interessi di Lavitola in Africa, dove si trova Tavares Pasquale Napolitano , Giulia Sorrentino “Difendiamo Ranucci…”. E ora l’ex conduttore di Report cavalca anche il paragone con Assange</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/AK3JML2VRRIE7APSKTY6GNFRY4.jpg?smart=true&amp;auth=d8a7debc8d1eb8f5574e967d0826dbb53e0db8a51c03c061cde34af007d3d4aa&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Renzi all’attacco sul caso Striano: “Fittipaldi spieghi da dove arrivavano certe informazioni”</title>
-<link>https://www.ilgiornale.it/news/interni/renzi-allattacco-sul-caso-striano-fittipaldi-spieghi-da-dove-arrivavano-certe-informazioni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/renzi-allattacco-sul-caso-striano-fittipaldi-spieghi-da-dove-arrivavano-certe-informazioni/</guid>
-<pubDate>Thu, 03 Sep 2026 18:44:55 +0000</pubDate>
-<description>Ospite de “L’Estate del Principe” con Augusto Minzolini, l’ex premier accusa una parte del giornalismo di essere “molto vicina a certi apparati” e chiama in causa il direttore del Domani Massimo Balsamo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/3WLRY2HBXJDDBBY4Q7PJ4SOWZQ.jpg?focal=1892%2C693&amp;auth=1b35682f9d428a8777f8524396cc02cecc8b1d4d1ee5c96eb467ecfc31d76ff1&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
