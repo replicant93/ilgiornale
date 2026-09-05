@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 17:40:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 17:51:13 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Denise Pipitone, il giallo della spazzatura rubata a mamma Piera Maggi</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/denise-pipitone-il-giallo-della-spazzatura-rubata-a-mamma-piera-maggi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/denise-pipitone-il-giallo-della-spazzatura-rubata-a-mamma-piera-maggi/</guid>
+<pubDate>Sat, 05 Sep 2026 17:44:12 +0000</pubDate>
+<description>Lo strano furto a pochi giorni dall’anniversario della sparizione della bimba a Mazara del Vallo. La donna: “Episodio inquietante” Angela Leucci</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/UAVZD7V2QJIZDJERLC45EJMDCI.jpg?smart=true&amp;auth=b1d5c638f6dc1afc2a33cb8bed783674eda9d1df9fd94031e54429982fbeda8f&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Macchina della verità per 50 alti ufficiali: al Pentagono è caccia alla talpa sulle scorte di armi</title>
 <link>https://www.ilgiornale.it/news/politica-estera/macchina-della-verita-per-50-alti-ufficiali-al-pentagono-e-caccia-alla-talpa-sulle-scorte-di-armi/</link>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 11:13:05 +0000</pubDate>
 <description>La notte di paura di Max Laudadio</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DLGP63BG65AVDIIRQZQERFLSIQ.png?focal=708%2C348&amp;auth=dd29155fbfceda003a757afacb7e4f5c77cb6b9f9b782c98bc72cb99235b57e5&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Basta divieti di tatuaggi in polizia: “Discriminano le donne”</title>
-<link>https://www.ilgiornale.it/news/attualita/basta-divieti-di-tatuaggi-in-polizia-discriminano-le-donne/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/basta-divieti-di-tatuaggi-in-polizia-discriminano-le-donne/</guid>
-<pubDate>Fri, 04 Sep 2026 11:11:48 +0000</pubDate>
-<description>Stop alle politiche di assunzione: penalizzano chi indossa la gonna Andrea Cuomo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/N2C3LO45BRPKXCMBXDRMYL6DAM.jpg?smart=true&amp;auth=6debc742fe0a3485090742a219afa3ff15d77766dd35760b034db7f9c9556d35&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
