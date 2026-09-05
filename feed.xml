@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 17:51:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 18:12:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Ne salteranno fuori di cotte e di crude”. Zampolli all’attacco di Ranucci</title>
+<link>https://www.ilgiornale.it/news/interni/ne-salteranno-fuori-di-cotte-e-di-crude-zampolli-allattacco-di-ranucci/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ne-salteranno-fuori-di-cotte-e-di-crude-zampolli-allattacco-di-ranucci/</guid>
+<pubDate>Sat, 05 Sep 2026 17:55:24 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/IBARV3MBMZM2FMVIHX3JWQI6KE.jpg?smart=true&amp;auth=8c40d36cf7477068dd07c1895fcfc7a35ca4a867cae038f644cc59fe89a6db29&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Denise Pipitone, il giallo della spazzatura rubata a mamma Piera Maggi</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/denise-pipitone-il-giallo-della-spazzatura-rubata-a-mamma-piera-maggi/</link>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 11:17:38 +0000</pubDate>
 <description>La fiaba di Amelio e il Paese che non c’è. Quanta retorica sull’immigrazione Herzog e la leggerezza delle ossessioni “Nessun dolore” gioca la carta della poesia (con morale incorporata), ma risulta solo sconnesso dalla realtà dell’Italia di oggi Alessandro Gnocchi Un cocktail cinico e feroce per Malkovich</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WI7EVRYONFDPVHNKZEF7MSRDP4.jpg?focal=2684%2C931&amp;auth=17ed3aaa9a6d4df645f450983e579fd2c0c98b3955ae038c66e44d5982aac733&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>La notte di paura di Max Laudadio</title>
-<link>https://www.ilgiornale.it/news/gossip/la-notte-di-paura-di-max-laudadio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/gossip/la-notte-di-paura-di-max-laudadio/</guid>
-<pubDate>Fri, 04 Sep 2026 11:13:05 +0000</pubDate>
-<description>La notte di paura di Max Laudadio</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DLGP63BG65AVDIIRQZQERFLSIQ.png?focal=708%2C348&amp;auth=dd29155fbfceda003a757afacb7e4f5c77cb6b9f9b782c98bc72cb99235b57e5&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
