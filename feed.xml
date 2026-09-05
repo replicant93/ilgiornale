@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 16:42:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 16:56:40 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il dolore del papà di Lorena: “La politica sia unita”. Meloni: “Continueremo a fare la nostra parte”</title>
+<link>https://www.ilgiornale.it/news/nazionale/il-dolore-del-papa-di-lorena-la-politica-sia-unita-meloni-continueremo-a-fare-la-nostra-parte/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-dolore-del-papa-di-lorena-la-politica-sia-unita-meloni-continueremo-a-fare-la-nostra-parte/</guid>
+<pubDate>Sat, 05 Sep 2026 16:46:13 +0000</pubDate>
+<description>Nazionale Il dolore del papà di Lorena: “La politica sia unita”. Meloni: “Continueremo a fare la nostra parte” L'amica della donna gettata dal cavalcavia: “La pregavo di denunciarlo” Dopo l’omicidio della figlia, uccisa dall’ex che l’ha gettata da un cavalcavia sull’A1, il padre chiede alla politica più prevenzione e strumenti contro la violenza sulle donne Francesco Curridori “Tua figlia è morta”: l’ultimo sms di Vella alla madre di Lorena</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/BDIHQL4ABNDRXPF4I4MQSX7V2I.png?smart=true&amp;auth=40f8bda600dd861b7040822e62ad15bb6fdda938edb89a2ebb0125e4934f8b00&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Lollobrigida su tutti. La sfida social da Bari la vince lui</title>
+<link>https://www.ilgiornale.it/news/interni/lollobrigida-su-tutti-la-sfida-social-da-bari-la-vince-lui/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lollobrigida-su-tutti-la-sfida-social-da-bari-la-vince-lui/</guid>
+<pubDate>Sat, 05 Sep 2026 16:40:38 +0000</pubDate>
+<description>Domenico Giordano</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DMYA7SFTKBEZTP7OPRM6VSVEQQ.jpg?smart=true&amp;auth=c48a07142126c04fda52fae6ae7f7e75e4b55daf47c79612df93bd01267651fc&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Famiglia nel bosco, i genitori annunciano ricorso: “La decisione dei giudici ci spezza il cuore”</title>
 <link>https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-i-genitori-annunciano-ricorso-la-decisione-dei-giudici-ci-spezza-il-cuore/</link>
@@ -787,22 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 11:11:21 +0000</pubDate>
 <description>Felice Manti</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OJPPFCJDCJHSVI2T27WOYEUPU4.jpg?focal=389%2C234&amp;auth=de0bf736aa29884ba200501594ead687e5e6a0ccd048cd8eb179e7b9ceca2c00&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>È boom di baby scienziati italiani. Ma per i progetti vanno all’estero</title>
-<link>https://www.ilgiornale.it/news/nazionale/e-boom-di-baby-scienziati-italiani-ma-per-i-progetti-vanno-allestero/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/e-boom-di-baby-scienziati-italiani-ma-per-i-progetti-vanno-allestero/</guid>
-<pubDate>Fri, 04 Sep 2026 11:09:06 +0000</pubDate>
-<description>I giovani tricolori secondi per numero di vincitori, dietro alla Germania e davanti alla Francia. A loro un finanziamento da 75 milioni di euro. Ma siamo solo sesti per idee che si svilupperanno da noi Giacomo Cozzaglio</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WWDHCQYSYVMBBMHMTY4TMYBXU4.jpg?smart=true&amp;auth=d873084137c2ccf8fc2113f1ee1ab3162af1afc79963b225a84f7a0652601cb9&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Iran, Trump pronto alla svolta: dichiarare la fine della guerra</title>
-<link>https://www.ilgiornale.it/news/guerra/iran-trump-pronto-alla-svolta-dichiarare-la-fine-della-guerra/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/iran-trump-pronto-alla-svolta-dichiarare-la-fine-della-guerra/</guid>
-<pubDate>Fri, 04 Sep 2026 11:08:48 +0000</pubDate>
-<description>Il presidente Usa sta discutendo l’opzione con il suo staff e si è detto favorevole. Ma Hegseth proroga fino al 2027 il dispiegamento delle truffe in Medioriente. Record di petrolio trasportato da Hormuz Valeria Robecco</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5Q4QRYHLEFC6NGYACR2SSFVARU.jpg?focal=1640%2C1025&amp;auth=16798db8da95079c26e83ebf91f02996e5c24c26ada115c162a2711023fa98ec&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
