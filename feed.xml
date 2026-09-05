@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 07:56:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 08:14:47 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Disastro Navigli: una scia di gasolio lunga 28 chilometri ha raggiunto la Darsena: “Le quantità sono grandi”</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/disastro-navigli-una-scia-di-gasolio-lunga-28-chilometri-ha-raggiunto-la-darsena-le-quantita-sono-grandi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/disastro-navigli-una-scia-di-gasolio-lunga-28-chilometri-ha-raggiunto-la-darsena-le-quantita-sono-grandi/</guid>
+<pubDate>Sat, 05 Sep 2026 07:52:49 +0000</pubDate>
+<description>Una gigantesca chiazza di gasolio lunga ben 28 chilometri sta risalendo il canale. Massima allerta per il disastro ecologico Federico Garau</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/J2BPF7A2BBDBFKXWS33WUS2K7A.jpg?focal=1737%2C965&amp;auth=5d89c26fb846cacad0ebb31e9d80b484118ef7ecdd2938ef24f9f384e983c60c&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Governo Meloni, l’economia brinda alla sua longevità</title>
 <link>https://www.ilgiornale.it/news/governo/governo-meloni-leconomia-brinda-alla-sua-longevita/</link>
@@ -790,14 +798,6 @@
 <pubDate>Fri, 04 Sep 2026 04:37:22 +0000</pubDate>
 <description>Vittorio Feltri</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/MSA6LJREFRKZRHWFHX6JM5PKNM.jpg?focal=913%2C411&amp;auth=ef4d76add7889f224bf45493ee941b67644429b3261fe4da2951522070ec9cf1&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Sbarchi dimezzati grazie agli accordi con Libia e Tunisia. E l’Ue imita l’Italia</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/sbarchi-dimezzati-grazie-agli-accordi-con-libia-e-tunisia-e-lue-imita-litalia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/sbarchi-dimezzati-grazie-agli-accordi-con-libia-e-tunisia-e-lue-imita-litalia/</guid>
-<pubDate>Fri, 04 Sep 2026 04:28:33 +0000</pubDate>
-<description>Paese più credibile: fiducia dei mercati, crollo dello spread e record occupazione Effetto stabilità Gian Maria De Francesco Sbarchi dimezzati grazie agli accordi con Libia e Tunisia. E l’Ue imita l’Italia Fermezza sull’Ucraina sostegno pieno a Kiev. Il ponte Europa-Usa e quei “no” a Donald</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/B3I2W7ULKNNOHMGEIZYA4GSDKE.jpg?focal=2683%2C1223&amp;auth=1e561b9860cc8646b8b0bb5adaae415663dba6544b091c0f1fe3c08501974ead&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
