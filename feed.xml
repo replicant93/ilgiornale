@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 21:40:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 21:56:25 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>La Roma fa come l’Inter e supera 2-1 in rimonta l’Atalanta: anche i giallorossi in vetta alla classifica</title>
@@ -701,6 +701,14 @@
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QS2AQT4Q6ZKWJPY5BFAXF55G3I.jpg?focal=1467%2C924&amp;auth=6bdf26a17daffff4bb949c7eff73ff05dde48b4a655bd577f2e5628eda5398d0&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
+<title>Aggressioni ai residenti, alle forze dell’ordine e agli animali selvatici: Ceuta sprofonda dopo un mese di invasione</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/aggressioni-ai-residenti-alle-forze-dellordine-e-agli-animali-selvatici-ceuta-sprofonda-dopo-un-mese-di-invasione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/aggressioni-ai-residenti-alle-forze-dellordine-e-agli-animali-selvatici-ceuta-sprofonda-dopo-un-mese-di-invasione/</guid>
+<pubDate>Fri, 04 Sep 2026 16:28:13 +0000</pubDate>
+<description>Esclusiva L’ex premier spagnolo a Il Giornale: “Ceuta pietra miliare del disastro di Sánchez” Il modello Albania convince: 5 Paesi Ue preparano gli hub Il premier nega l’evidenza e difende il Marocco. L’unica cosa che gli sta a cuore non è la sovranità spagnola, ma il suo potere José María Aznar Ceuta, la procura ha elementi sufficienti per avviare l’inchiesta sugli attori dell’invasione Aggressioni ai residenti, alle forze dell’ordine e agli animali selvatici: Ceuta sprofonda dopo un mese di invasione</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RZGJGE73HRDFVCFCUDZ6QFCHSY.png?smart=true&amp;auth=75b4937df424d9d4dcf6a9e676acf7c540a3d2d2baec2d31d45211b7b79df906&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
 <title>F1, a Monza duello tra Ferrari e Mercedes: Russell risponde a Leclerc nelle libere</title>
 <link>https://www.ilgiornale.it/news/motori/f1-a-monza-duello-tra-ferrari-e-mercedes-russell-risponde-a-leclerc-nelle-libere/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/motori/f1-a-monza-duello-tra-ferrari-e-mercedes-russell-risponde-a-leclerc-nelle-libere/</guid>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 13:25:41 +0000</pubDate>
 <description>Abisso torna ad arbitrare</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ABSXS6JDCZG6RJMRB5UYQGJIVQ.jpg?focal=1667%2C325&amp;auth=8ddc823f122ed9eb23dc0897a345433946ea85094a9ea4a45f1f12f04e3ffe44&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Trump lancia i videogiochi Maga: si costruisce il muro e si “inseguono” i migranti</title>
-<link>https://www.ilgiornale.it/news/politica-estera/trump-lancia-i-videogiochi-maga-si-costruisce-il-muro-e-si-inseguono-i-migranti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-lancia-i-videogiochi-maga-si-costruisce-il-muro-e-si-inseguono-i-migranti/</guid>
-<pubDate>Fri, 04 Sep 2026 12:38:27 +0000</pubDate>
-<description>Sul sito ufficiale della Casa Bianca arriva Arcade: cinque giochi in stile retrò dedicati ai temi simbolo della presidenza. Protestano le associazioni per i diritti dei migranti Massimo Balsamo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WEAUAERGONAXVLKXWF7KJC6C7E.PNG?focal=349%2C194&amp;auth=78d63cb9cd75f84afcf7775fc18ca7270fc7bb6f3c3e61921cd18ad3ed6b640d&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
