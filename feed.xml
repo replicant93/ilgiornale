@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 06:59:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 07:16:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Tua figlia è morta”: l’ultimo sms di Vella alla madre di Lorena. In auto fascette e forbici: si ipotizza la premeditazione</title>
+<link>https://www.ilgiornale.it/news/nazionale/tua-figlia-e-morta-lultimo-sms-di-vella-alla-madre-di-lorena-in-auto-fascette-e-forbici-si-ipotizza-la-premeditazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/tua-figlia-e-morta-lultimo-sms-di-vella-alla-madre-di-lorena-in-auto-fascette-e-forbici-si-ipotizza-la-premeditazione/</guid>
+<pubDate>Sat, 05 Sep 2026 06:54:26 +0000</pubDate>
+<description>L'amica della donna gettata dal cavalcavia: “La pregavo di denunciarlo” Il ritrovamento in auto di fascette, forbici e un lenzuolo rafforza l’ipotesi di un’aggressione pianificata. La donna era riuscita a chiedere aiuto dal bagagliaio prima dell’epilogo sul cavalcavia dell’A1 Ignazio Riccio “Non farlo”, poi la poliziotta in ginocchio e il salto nel vuoto: il video del suicidio di Vella</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VNNBGMBWD5AGTD6DHHCDVVLHH4.jpg?focal=318%2C60&amp;auth=f077899989745c50b05185b7f11c2fd3149ca58ee06b8cb95678ebe861be8084&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Di Battista, rinviato il rientro da Cuba dopo il malore</title>
 <link>https://www.ilgiornale.it/news/interni/di-battista-rinviato-il-rientro-da-cuba-dopo-il-malore/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 03 Sep 2026 19:43:38 +0000</pubDate>
 <description>La procura militare precisa: “Nessuna indagine su Vannacci per la ricostituzione del partito fascista” Voto e interferenze russe, la Lega frena: “Gli italiani hanno sempre scelto con la propria testa” il ministro Crosetto interviene sulla questione: “Trovo sbagliato trasformare un accertamento preliminare in una ‘indagine’ per ricostituzione del partito fascista. La condanna su un giornale è un metodo barbaro” Francesco Curridori</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZDBBGUQRFJAKXMA2L6JMDGBMTU.jpg?focal=1491%2C753&amp;auth=65d0cd551a52912078edd5543a221f1a8b0e9665fe999f2184d05df7b44ef85d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Fu Lavitola a dirmi di sentirlo”. Parla il giornalista straniero che intervistò Ranucci</title>
-<link>https://www.ilgiornale.it/news/nazionale/fu-lavitola-a-dirmi-di-sentirlo-al-tg1-parla-il-giornalista-dello-zimbawe-che-intervisto-ranucci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/fu-lavitola-a-dirmi-di-sentirlo-al-tg1-parla-il-giornalista-dello-zimbawe-che-intervisto-ranucci/</guid>
-<pubDate>Thu, 03 Sep 2026 19:13:25 +0000</pubDate>
-<description>Dopo lo scoop del Giornale si muove la procura: acquisiti i servizi giornalistici sullo Zimbawe “Fu Lavitola a dirmi di sentirlo”. Parla il giornalista straniero che intervistò Ranucci Il giallo dell’intervista sparita e delle mail tra giornalista e faccendiere fa accendere i riflettori sugli interessi di Lavitola in Africa, dove si trova Tavares Pasquale Napolitano , Giulia Sorrentino “Difendiamo Ranucci…”. E ora l’ex conduttore di Report cavalca anche il paragone con Assange</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/AK3JML2VRRIE7APSKTY6GNFRY4.jpg?smart=true&amp;auth=d8a7debc8d1eb8f5574e967d0826dbb53e0db8a51c03c061cde34af007d3d4aa&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
