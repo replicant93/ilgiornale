@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 05 Sep 2026 09:13:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 09:29:27 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Meloni celebra gli 80 anni dell’Autonomia: “Il Trentino-Alto Adige è un modello europeo”</title>
@@ -778,6 +778,14 @@
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/MMJOBZIFKJBB3GL5YU5ASVHRJQ.jpg?focal=491%2C566&amp;auth=347221687f80f58269656c229e0f104c11f4d7ca04c4155dce645f72b3382c79&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
+<title>L’eccezione diventi normalità</title>
+<link>https://www.ilgiornale.it/news/governo/leccezione-diventi-normalita/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/leccezione-diventi-normalita/</guid>
+<pubDate>Fri, 04 Sep 2026 06:11:08 +0000</pubDate>
+<description>A cura di Tommaso Cerno</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
+</item>
+<item>
 <title>Offerta su Tim al rush finale. Poste valuta tutte le opzioni</title>
 <link>https://www.ilgiornale.it/news/aziende/offerta-su-tim-al-rush-finale-poste-valuta-tutte-le-opzioni/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/offerta-su-tim-al-rush-finale-poste-valuta-tutte-le-opzioni/</guid>
@@ -791,13 +799,6 @@
 <pubDate>Fri, 04 Sep 2026 05:57:36 +0000</pubDate>
 <description>Marcello Astorri</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/YKOEZIDFSNE3HIOCNJLAU63YVM.jpg?focal=1058%2C760&amp;auth=23bf58695d7681a464fae3cd76f6701efb468b77e03e3a3cfc31dff08aa3593e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Barilla sceglie il mac and cheese americano</title>
-<link>https://www.ilgiornale.it/news/aziende/barilla-sceglie-il-mac-and-cheese-americano/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/barilla-sceglie-il-mac-and-cheese-americano/</guid>
-<pubDate>Fri, 04 Sep 2026 05:55:21 +0000</pubDate>
-<description>Matilde Sperlinga</description>
 </item>
 </channel>
 </rss>
