@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 05:29:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 05:42:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Witkoff e Kushner da Putin: “Piani concreti per la pace”. Oggi il faccia a faccia con Zelensky</title>
+<link>https://www.ilgiornale.it/diretta/guerra/witkoff-e-kushner-da-putin-piani-concreti-per-la-pace-oggi-il-faccia-a-faccia-con-zelensky/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/witkoff-e-kushner-da-putin-piani-concreti-per-la-pace-oggi-il-faccia-a-faccia-con-zelensky/</guid>
+<pubDate>Sun, 06 Sep 2026 05:32:31 +0000</pubDate>
+<description>Tregua di tre giorni su Kiev Gli inviati di Trump hanno discusso con il presidente russo diverse proposte per porre fine alla guerra in Ucraina. La Casa Bianca: “I prossimi passi saranno annunciati nelle prossime settimane” Redazione web “Operation Carpet”: così Zelensky punta a piegare lo zar del Cremlino Macchina della verità per 50 alti ufficiali: al Pentagono è caccia alla talpa sulle scorte di armi DIRETTA</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TVGZJNKTG5A7HI2BTUY53PNZTA.jpg?focal=1377%2C592&amp;auth=7ba178ffc11771d102296d458bf3903bf3c4eed82a35dd4b671c4809ad7e7b24&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>DanielCanzian si rinnova (e diventa più veneziano)</title>
 <link>https://www.ilgiornale.it/news/retrogusto/danielcanzian-si-rinnova-e-diventa-piu-veneziano/</link>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 13:59:43 +0000</pubDate>
 <description>Sui social donne non musulmane annunciano che indosseranno l’indumento islamico contro il referendum promesso dalla leader del Rassemblement national. Il paradosso mentre in Iran c’è chi rischia la vita per toglierselo Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FKGR35WDAJC35MUIPCDEUTDZ7A.png?focal=832%2C486&amp;auth=d6b5ed9e8f4d4f8b3cdac368f9a202a271a2466f2d1f2cd28daebb57abf6f1d9&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Aura Battle”, la nuova sfida virale che porta i ragazzi dai social alle piazze ed ha conquistato anche il Papa</title>
-<link>https://www.ilgiornale.it/news/nazionale/aura-battle-la-nuova-sfida-virale-che-porta-i-ragazzi-dai-social-alle-piazze-ed-ha-conquistato-anche-il-papa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/aura-battle-la-nuova-sfida-virale-che-porta-i-ragazzi-dai-social-alle-piazze-ed-ha-conquistato-anche-il-papa/</guid>
-<pubDate>Fri, 04 Sep 2026 13:57:32 +0000</pubDate>
-<description>Nazionale “Aura Battle”, la nuova sfida virale che porta i ragazzi dai social alle piazze ed ha conquistato anche il Papa Il tormentone trasforma il carisma in una gara: niente scontri fisici, ma gesti, ironia e fantasia. A decretare il vincitore sono gli applausi del pubblico. Ecco di cosa si tratta Roberta Damiata</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5CQGTZXW4ZE3VNU7URDARHSK5E.png?focal=503%2C216&amp;auth=8ec8699abe7eaf46eca65dfa066da7839994868297505d48d00eb2cd7720d15d&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
