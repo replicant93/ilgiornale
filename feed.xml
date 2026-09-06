@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 19:40:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 19:51:15 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nozze segrete per Mara Sattei: la sorpresa ai fan dopo il “sì”</title>
+<link>https://www.ilgiornale.it/news/personaggi/nozze-segrete-per-mara-sattei-la-sorpresa-ai-fan-dopo-il-si/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/nozze-segrete-per-mara-sattei-la-sorpresa-ai-fan-dopo-il-si/</guid>
+<pubDate>Sun, 06 Sep 2026 19:47:13 +0000</pubDate>
+<description>La cantante e il produttore musicale si sono sposati in gran segreto dopo un anno e mezzo dalla proposta di matrimonio Novella Toloni</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/E5GWCZDBGFDWXKEYFYMFSHTX7A.jpeg?smart=true&amp;auth=35f6effa261bad56e8bb4acd50188a72c40e084e7d1245d50732bfdfcc5f5ddc&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Il grande flop della Fiorentina</title>
 <link>https://www.ilgiornale.it/news/calcio/il-grande-flop-della-fiorentina/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 12:29:14 +0000</pubDate>
 <description>Dietro ci sarebbe un gruppo inglese di destra che chiede misure più forti per interrompere i passaggi di migranti irregolari dalla Francia al Regno Unito Francesca Galici</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/C6GIQQ3J2RCCNFEJGRR3BG4MDM.png?smart=true&amp;auth=23903971de2451f881291bf267c7a075de4e165134f3bef87ccf73aa21b39915&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Abito a quadri, la tendenza country-chic dell’autunno. Come abbinarlo con stile</title>
-<link>https://www.ilgiornale.it/news/over/abito-a-quadri-la-tendenza-country-chic-dellautunno-come-abbinarlo-con-stile/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/over/abito-a-quadri-la-tendenza-country-chic-dellautunno-come-abbinarlo-con-stile/</guid>
-<pubDate>Sat, 05 Sep 2026 12:28:22 +0000</pubDate>
-<description>Mariangela Cutrone</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OLWHQ7NNNJGGPIKLXGHKPZWAY4.jfif?focal=1024%2C325&amp;auth=cdacd0ef219986eeb3abc19d24609dd19b4ce00069a848c7bc88cb65f62c6eef&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
