@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 15:43:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 15:56:22 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Migranti tentano lo sbarco in Sardegna ma i bagnanti li mettono in fuga: “Ormai è tutto fuori controllo”</title>
+<link>https://www.ilgiornale.it/news/nazionale/migranti-tentano-lo-sbarco-in-sardegna-ma-i-bagnanti-li-mettono-in-fuga-ormai-e-tutto-fuori-controllo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/migranti-tentano-lo-sbarco-in-sardegna-ma-i-bagnanti-li-mettono-in-fuga-ormai-e-tutto-fuori-controllo/</guid>
+<pubDate>Sun, 06 Sep 2026 15:25:19 +0000</pubDate>
+<description>Il barchino ha fatto inversione a Santa Margherita di Pula. Crescono intanto gli arrivi dall’Algeria lungo una rotta sempre più battuta verso il Sud Sardegna Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/NRWBJOPL3RHD5K5TF3FCYTLGSU.png?smart=true&amp;auth=a0decde3327958e720ff9a94d8bb2145308fcb83c5ad22fe6ac317510690ac9f&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Spieghi invece di fare il martire”. Dopo lo scoop del Giornale ora la politica chiede il conto</title>
 <link>https://www.ilgiornale.it/news/interni/dia-spiegazioni-invece-di-fare-il-martire-eroe-ora-la-politica-chiede-conto-a-ranucci-e-conte-per-la-foto-dellautogrill/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 11:09:14 +0000</pubDate>
 <description>Valeria Robecco</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/HOTIPH263JHQBCX2CJV3MFJAVM.jpg?focal=2153%2C676&amp;auth=6b3502043d0a47db536a35876d27c057872204255fa9f53d8a3378f8c51a3bd7&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Gli inviati Usa in missione. E la Russia colpisce Kiev. “Putin sabota i negoziati”</title>
-<link>https://www.ilgiornale.it/news/guerra/gli-inviati-usa-in-missione-e-la-russia-colpisce-kiev-putin-sabota-i-negoziati/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/gli-inviati-usa-in-missione-e-la-russia-colpisce-kiev-putin-sabota-i-negoziati/</guid>
-<pubDate>Sat, 05 Sep 2026 11:06:50 +0000</pubDate>
-<description>Matteo Basile</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/AERXZ7SUFFEGDOYZEBRWCVE5GI.jpg?focal=3791%2C2585&amp;auth=f4783d3839100b9b9e675b1ca6dace84937af85807d46c877e70fad091310757&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
