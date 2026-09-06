@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 07:11:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 07:29:59 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“La stabilità un successo per tutti gli italiani. Così la sinistra è rimasta senza idee...”</title>
+<link>https://www.ilgiornale.it/news/governo/la-stabilita-un-successo-per-tutti-gli-italiani-cosi-la-sinistra-e-rimasta-senza-idee/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/la-stabilita-un-successo-per-tutti-gli-italiani-cosi-la-sinistra-e-rimasta-senza-idee/</guid>
+<pubDate>Sun, 06 Sep 2026 07:15:47 +0000</pubDate>
+<description>Meloni e la vera svolta del governo: “L’Italia ora non chiede più il permesso” La responsabile della segreteria politica di Fdi: “Il primato dell’esecutivo ci spinge a fare ancora di più. La sicurezza resta in cima alle nostre priorità. Abbiamo dovuto risanare conti devastati dalle politiche folli di Pd e Movimento 5 Stelle come il Superbonus” Francesco Boezi E il popolo di Giorgia esulta: “Ci ha riempito di orgoglio” Per Giorgia più di 19 milioni di followers</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QX3YAS6FCBOFHJ4D24ADXHRBUU.jpg?focal=1569%2C721&amp;auth=3bf0f9a3467c977363a54a2093e79cbdf17837b6f5db0ada27c172807df071c8&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Pace incastrata sul Donetsk: territori, garanzie e il nuovo tentativo di Trump</title>
 <link>https://www.ilgiornale.it/news/guerra/ucraina-la-pace-resta-incastrata-sul-donetsk-territori-garanzie-e-il-nuovo-tentativo-di-trump/</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 04 Sep 2026 17:24:01 +0000</pubDate>
 <description>Il governo Meloni batte tutti nella storia della Repubblica Tantissime le persone accorse per festeggiare il record dell’esecutivo: in collegamento sono intervenuti anche i due vicepremier Francesca Galici Dallo spread al referendum: così i “marziani” beffano i profeti La quota rosa che brucia alla sinistra</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CGPPM3627ZABHDJWQ77KRNNXTE.jpg?smart=true&amp;auth=307ea0a641515197db189b6b6640d8f4cd6e2ab45355a7c785b187a80f098638&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Germania, sabotaggi alla rete elettrica: caccia a un ambientalista. Il ministro Dobrindt: “È terrorismo climatico”</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/germania-sabotaggi-alla-rete-elettrica-caccia-a-un-ambientalista-il-ministro-dobrindt-e-terrorismo-climatico/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/germania-sabotaggi-alla-rete-elettrica-caccia-a-un-ambientalista-il-ministro-dobrindt-e-terrorismo-climatico/</guid>
-<pubDate>Fri, 04 Sep 2026 17:23:26 +0000</pubDate>
-<description>La polizia trova l’auto del sospettato in un bosco, ma dell’uomo nessuna traccia. Nella sua abitazione sono stati rinvenuti materiali esplosivi. Gli investigatori verificano i legami con gli attacchi in Brandeburgo e Nord Reno-Westfalia Massimo Balsamo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CHHRORRNLRH23EMNJ45W32YANA.jpg?smart=true&amp;auth=aaa780aec7a1693515372d3df7285396342cb2a29dc5107ae58d8e9b76792b60&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
