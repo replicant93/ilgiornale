@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 18:47:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 18:58:24 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Germania, terremoto AfD: cosa vuole e quali sono i punti principali del programma</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/germania-terremoto-afd-cosa-vuole-e-quali-sono-i-punti-principali-del-programma/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/germania-terremoto-afd-cosa-vuole-e-quali-sono-i-punti-principali-del-programma/</guid>
+<pubDate>Sun, 06 Sep 2026 18:52:02 +0000</pubDate>
+<description>Francesca Salvatore</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/IJ2BDTMU6FH5XIU5Q4XWLRTCAQ.jpg?smart=true&amp;auth=c9f5e3fe20d62183af722c1c921990be4ce92437ee69abd9a536cdfc70bc3bc6&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Le reazioni della politica italiana</title>
 <link>https://www.ilgiornale.it/news/politica-estera/afd-trionfa-in-sassonia-anhalt-le-reazioni-della-politica-italiana/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 11:51:37 +0000</pubDate>
 <description>Il sindaco Meoni firma l’ordinanza per sedi pubbliche e manifestazioni: “Nessuna discriminazione, è civile convivenza” Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JPRZ7XRXVFAHPMWY7W6L67VPKY.jfif?focal=395%2C240&amp;auth=5d2805fb4af796f70a90e1de230c8bd216427185c32449c1bc7896a5ee29fbe1&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Esclusiva | Lega, il dato che rafforza Salvini: l’89% degli elettori lo vuole ancora leader</title>
-<link>https://www.ilgiornale.it/news/interni/esclusiva-lega-il-dato-che-rafforza-salvini-l89-degli-elettori-lo-vuole-ancora-leader/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/esclusiva-lega-il-dato-che-rafforza-salvini-l89-degli-elettori-lo-vuole-ancora-leader/</guid>
-<pubDate>Sat, 05 Sep 2026 11:41:20 +0000</pubDate>
-<description>Riccardo Molinari al Lega Summer Fest: "Noi siamo compatti, no a litigi o dibattiti" Secondo EMG il Carroccio vale il 7,4%, ma può arrivare al 12%. E tra i potenziali elettori il 60% continua a puntare sull’attuale segretario Michel Dessì</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JYW74QEA2JE75M5N2PNOKZQQAU.jpg?smart=true&amp;auth=ef952a733d6b1782f72021a761b9b7b2c7590d63c0bec38e92c15c45beeeace9&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
