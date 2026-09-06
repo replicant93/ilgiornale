@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 16:30:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 16:46:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Impresa Antonelli a Monza, Meloni: “Un risultato storico”</title>
+<link>https://www.ilgiornale.it/news/motori/impresa-antonelli-a-monza-meloni-un-risultato-storico/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/impresa-antonelli-a-monza-meloni-un-risultato-storico/</guid>
+<pubDate>Sun, 06 Sep 2026 16:41:38 +0000</pubDate>
+<description>F1, Antonelli nella storia: parte ultimo e vince il Gp di Monza Attimi di terrore per Leclerc: si schianta contro un muro a 200km all’ora Il ventenne della Mercedes firma la settima vittoria in carriera e allunga su Russell nel Mondiale. Disastro Ferrari: Leclerc a muro, Hamilton sesto Luca Bocci Impresa Antonelli a Monza, Meloni: “Un risultato storico”</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FEMMKMUGN5FDXIMDH3ULHFYH2E.jpg?focal=1310%2C862&amp;auth=a7ff5d25e11b109246241b6ec638e5ed841f9b655a6d37abcf383cabce2208a0&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Elezioni in Sassonia, primi exit: Afd intorno al 44%, ma c’è il rebus seggi e alleanze: cosa può succedere</title>
 <link>https://www.ilgiornale.it/news/politica-estera/elezioni-in-sassonia-primi-exit-afd-intorno-al-44-ma-ce-il-rebus-seggi-e-alleanze-cosa-puo-succedere/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 11:16:14 +0000</pubDate>
 <description>“La stabilità un successo per tutti gli italiani. Così la sinistra è rimasta senza idee...” Meloni e la vera svolta del governo: “L’Italia ora non chiede più il permesso” La responsabile della segreteria politica di Fdi: “Il primato dell’esecutivo ci spinge a fare ancora di più. La sicurezza resta in cima alle nostre priorità. Abbiamo dovuto risanare conti devastati dalle politiche folli di Pd e Movimento 5 Stelle come il Superbonus” Francesco Boezi E il popolo di Giorgia esulta: “Ci ha riempito di orgoglio” Per Giorgia più di 19 milioni di followers</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QX3YAS6FCBOFHJ4D24ADXHRBUU.jpg?focal=1569%2C721&amp;auth=3bf0f9a3467c977363a54a2093e79cbdf17837b6f5db0ada27c172807df071c8&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>La lunga marcia da Ecr a Bruxelles. Così ha conquistato un ruolo nell’Ue</title>
-<link>https://www.ilgiornale.it/news/europa/la-lunga-marcia-da-ecr-a-bruxelles-cosi-ha-conquistato-un-ruolo-nellue/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/la-lunga-marcia-da-ecr-a-bruxelles-cosi-ha-conquistato-un-ruolo-nellue/</guid>
-<pubDate>Sat, 05 Sep 2026 11:15:17 +0000</pubDate>
-<description>La stampa internazionale celebra la premier Nel 2019 entra nei Conservatori, nel 2022 la visita a Von Der Leyen dopo il giuramento: “Non siamo marziani” Adalberto Signore</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/G3ZVEFKINRDH3O7Y4PILNFUPSI.jpg?focal=878%2C564&amp;auth=9085b7c210203a67ad65722bb992f0fb4aaa33707a62b9b273732e4dab096b2e&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
