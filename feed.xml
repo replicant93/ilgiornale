@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 18:31:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 18:47:21 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Le reazioni della politica italiana</title>
+<link>https://www.ilgiornale.it/news/politica-estera/afd-trionfa-in-sassonia-anhalt-le-reazioni-della-politica-italiana/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/afd-trionfa-in-sassonia-anhalt-le-reazioni-della-politica-italiana/</guid>
+<pubDate>Sun, 06 Sep 2026 18:39:51 +0000</pubDate>
+<description>Elezioni in Sassonia, il trionfo dell’Afd: è intorno al 44%. Siegmund: “Abbiamo fatto la storia”. Tonfo CdU: dal 37 al 18,5%. Rebus seggi e alleanze: cosa può succedere Le reazioni della politica italiana Gli exit poll della tv pubblica Ard danno Ulrich Siegmund nettamente avanti. Il ministro-presidente uscente Sven Schulze si fermerebbe al 18,5% Francesca Salvatore</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/SIQU44BQMFH2VMX3FDT7KUW6TI.jpg?smart=true&amp;auth=3661191408d4dea08badc0cb5b2db8fb5a2412ab0cab2313dffa2dc76d372f7d&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Impresa Antonelli a Monza, Meloni: “Un risultato storico”</title>
 <link>https://www.ilgiornale.it/news/motori/impresa-antonelli-a-monza-meloni-un-risultato-storico/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 11:41:20 +0000</pubDate>
 <description>Riccardo Molinari al Lega Summer Fest: "Noi siamo compatti, no a litigi o dibattiti" Secondo EMG il Carroccio vale il 7,4%, ma può arrivare al 12%. E tra i potenziali elettori il 60% continua a puntare sull’attuale segretario Michel Dessì</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JYW74QEA2JE75M5N2PNOKZQQAU.jpg?smart=true&amp;auth=ef952a733d6b1782f72021a761b9b7b2c7590d63c0bec38e92c15c45beeeace9&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Ok alle preferenze. Il nodo: election day o scadenza naturale</title>
-<link>https://www.ilgiornale.it/news/interni/ok-alle-preferenze-il-nodo-election-day-o-scadenza-naturale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ok-alle-preferenze-il-nodo-election-day-o-scadenza-naturale/</guid>
-<pubDate>Sat, 05 Sep 2026 11:30:22 +0000</pubDate>
-<description>Passa l’emendamento sulla legge elettorale. Si riflette sull’accorpamento con i Comuni Francesco Boezi</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KM3TEJII55FOJEA6OE3OZPAYNU.jpg?focal=1748%2C778&amp;auth=3148d251a6e6f9cb8318c2caedff0666e1955195ae230ada897913ce872deaa1&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
