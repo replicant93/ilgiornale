@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 16:57:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 17:13:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Impresa Antonelli a Monza, Meloni: “Un risultato storico”</title>
@@ -142,6 +142,14 @@
 <pubDate>Sun, 06 Sep 2026 12:43:44 +0000</pubDate>
 <description>Il bilancio è pesante: tra le vittime un navigatore, un commissario e due spettatori: un altro uomo è ricoverato in Sicilia in condizioni gravi Federico Garau</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/Y5CLAFMP2ZFD5DKGP6PO3VH72M.jfif?focal=360%2C174&amp;auth=b69459f3f76e160c03d9b2b19eafc26f3caaa11a2760b9f6056c241626eb63ec&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>L’allarme da Kiev: “Nessuno vincerà”. Il timore per l’inverno e i mille droni pronti contro la Russia</title>
+<link>https://www.ilgiornale.it/news/guerra/lallarme-da-kiev-nessuno-vincera-il-timore-per-linverno-e-i-mille-droni-pronti-contro-la-russia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/lallarme-da-kiev-nessuno-vincera-il-timore-per-linverno-e-i-mille-droni-pronti-contro-la-russia/</guid>
+<pubDate>Sun, 06 Sep 2026 12:43:08 +0000</pubDate>
+<description>Witkoff e Kushner arrivati in Ucraina: “Sia Mosca che Kiev devono fare compromessi”. Lavrov minaccia l’Europa: “Accuse tedesche su Lipsia sono l’inizio di una vera guerra” Dentro lo Zircon di Putin: i segreti del missile ipersonico russo Gli inviati di Trump hanno già discusso con il presidente russo diverse proposte per porre fine alla guerra in Ucraina. La Casa Bianca: “I prossimi passi saranno annunciati nelle prossime settimane”. Nel frattempo Witkoff e Kushner sono volati in Ucraina dove oggi incontreranno il presidente Redazione web L’allarme da Kiev: “Nessuno vincerà”. Il timore per l’i</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TIE5K4G3YVHMPMZNTJ6UDXBYEU.jpg?smart=true&amp;auth=a3ac84f4384afe063905bc9bec2bde45e3a73bde790767f6732d60ddfe217b23&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
 <title>“Avendo contestato la doppia morale del santone Ranucci…”. Sottile torna sugli insulti ricevuti dai giornalisti di Report</title>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 11:30:22 +0000</pubDate>
 <description>Passa l’emendamento sulla legge elettorale. Si riflette sull’accorpamento con i Comuni Francesco Boezi</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KM3TEJII55FOJEA6OE3OZPAYNU.jpg?focal=1748%2C778&amp;auth=3148d251a6e6f9cb8318c2caedff0666e1955195ae230ada897913ce872deaa1&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Per Giorgia più di 19 milioni di followers</title>
-<link>https://www.ilgiornale.it/news/governo/per-giorgia-piu-di-19-milioni-di-followers/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/per-giorgia-piu-di-19-milioni-di-followers/</guid>
-<pubDate>Sat, 05 Sep 2026 11:16:14 +0000</pubDate>
-<description>“La stabilità un successo per tutti gli italiani. Così la sinistra è rimasta senza idee...” Meloni e la vera svolta del governo: “L’Italia ora non chiede più il permesso” La responsabile della segreteria politica di Fdi: “Il primato dell’esecutivo ci spinge a fare ancora di più. La sicurezza resta in cima alle nostre priorità. Abbiamo dovuto risanare conti devastati dalle politiche folli di Pd e Movimento 5 Stelle come il Superbonus” Francesco Boezi E il popolo di Giorgia esulta: “Ci ha riempito di orgoglio” Per Giorgia più di 19 milioni di followers</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QX3YAS6FCBOFHJ4D24ADXHRBUU.jpg?focal=1569%2C721&amp;auth=3bf0f9a3467c977363a54a2093e79cbdf17837b6f5db0ada27c172807df071c8&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
