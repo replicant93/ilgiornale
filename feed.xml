@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 07:43:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 07:56:45 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sassonia-Anhalt al voto, l’onda AfD sfida la CDU e mette alla prova Merz</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/sassonia-anhalt-al-voto-londa-afd-sfida-la-cdu-e-mette-alla-prova-merz/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/sassonia-anhalt-al-voto-londa-afd-sfida-la-cdu-e-mette-alla-prova-merz/</guid>
+<pubDate>Sun, 06 Sep 2026 07:49:16 +0000</pubDate>
+<description>Seggi aperti dalle 8 alle 18 per oltre 1,7 milioni di elettori. Il partito è nettamente in testa nei sondaggi e punta a conquistare per la prima volta la guida di un governo regionale. Ma anche una vittoria senza maggioranza assoluta potrebbe aprire una partita istituzionale senza precedenti Francesca Salvatore</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/6O4TQIZLXVBK5KXY3W4QX7P6B4.jpg?focal=2145%2C947&amp;auth=a9c2d82846040b95d9559fe1082a6059aaece63100e5db636abbad911b51c85e&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Bardella: “Immigrazione fuori controllo, respingimenti a Lampedusa”. E su Meloni: “Spero governi altri cinque anni”</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/respingimenti-a-lampedusa-il-piano-europeo-di-bardella-contro-limmigrazione/</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 04 Sep 2026 17:47:23 +0000</pubDate>
 <description>Francesca Galici</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/B42NV424WBKGNIPD2WZSF4JZIU.png?smart=true&amp;auth=999e0f2eef3b7dd3035e67d06028173815498671629a53d8621cc19af52fc473&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Sempio non incontrerà lo psichiatra Catanesi: “Sarebbe inutile”</title>
-<link>https://www.ilgiornale.it/news/nazionale/garlasco-sempio-non-incontrera-lo-psicologo-catanesi-sarebbe-inutile/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/garlasco-sempio-non-incontrera-lo-psicologo-catanesi-sarebbe-inutile/</guid>
-<pubDate>Fri, 04 Sep 2026 17:44:37 +0000</pubDate>
-<description>Garlasco, guerra per bande dove la vittima è la verità. I depistaggi e gli atti inediti Sempio non incontrerà lo psichiatra Catanesi: “Sarebbe inutile” Scritto dalla nostra cronista, Rita Cavallaro, e con la prefazione del direttore Tommaso Cerno, ricostruisce gli sviluppi del delitto più discusso del nostro Paese Diana Alfieri</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OJZOT7AAMRN4JLIFWYDX4MEKFM.jpg?focal=732%2C360&amp;auth=5de5e2c925d0ceac6fdaf9a72756741bbbae365e02f3f427dca0d31d4ae1daef&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
