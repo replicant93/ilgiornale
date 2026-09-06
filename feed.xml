@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 11:29:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 11:41:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>“Avendo contestato la doppia morale del santone Ranucci…”. Sottile torna sugli insulti ricevuti dai giornalisti di Report</title>
@@ -578,6 +578,14 @@
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/PSPKGEQWVZALPAQ6Y3GU37UXBA.png?smart=true&amp;auth=47d7dd8c0414bb945666c891a4bc9f04c5516f8983321a19296e66a01c5b608e&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Meloni e la vera svolta del governo: “L’Italia ora non chiede più il permesso”</title>
+<link>https://www.ilgiornale.it/news/governo/meloni-e-la-vera-svolta-del-governo-litalia-ora-non-chiede-piu-il-permesso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-e-la-vera-svolta-del-governo-litalia-ora-non-chiede-piu-il-permesso/</guid>
+<pubDate>Sat, 05 Sep 2026 13:38:15 +0000</pubDate>
+<description>“La stabilità un successo per tutti gli italiani. Così la sinistra è rimasta senza idee...” Meloni e la vera svolta del governo: “L’Italia ora non chiede più il permesso” La responsabile della segreteria politica di Fdi: “Il primato dell’esecutivo ci spinge a fare ancora di più. La sicurezza resta in cima alle nostre priorità. Abbiamo dovuto risanare conti devastati dalle politiche folli di Pd e Movimento 5 Stelle come il Superbonus” Francesco Boezi E il popolo di Giorgia esulta: “Ci ha riempito di orgoglio” Per Giorgia più di 19 milioni di followers</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QX3YAS6FCBOFHJ4D24ADXHRBUU.jpg?focal=1569%2C721&amp;auth=3bf0f9a3467c977363a54a2093e79cbdf17837b6f5db0ada27c172807df071c8&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
 <title>Sicurezza aerea, i controlli a sorpresa dell’Easa: un’anomalia per ogni ispezione e tre difetti gravi scoperti ogni giorno</title>
 <link>https://www.ilgiornale.it/news/attualita/sicurezza-aerea-i-controlli-a-sorpresa-delleasa-unanomalia-per-ogni-ispezione-e-tre-difetti-gravi-scoperti-ogni-giorno/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/sicurezza-aerea-i-controlli-a-sorpresa-delleasa-unanomalia-per-ogni-ispezione-e-tre-difetti-gravi-scoperti-ogni-giorno/</guid>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Giù la maschera E tutti dietro come le pecore Luigi Mascheroni</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FI57XKAD7Q5OUBL2MKEU72BYE7E.jpg?smart=true&amp;auth=01797fb19ae2f406b43dc742ffeb3e392afe48c8dfa3ca24cd910671083db269&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Il modello Albania convince: 5 Paesi Ue preparano gli hub</title>
-<link>https://www.ilgiornale.it/news/europa/il-modello-albania-convince-5-paesi-ue-preparano-gli-hub/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/il-modello-albania-convince-5-paesi-ue-preparano-gli-hub/</guid>
-<pubDate>Sat, 05 Sep 2026 10:00:00 +0000</pubDate>
-<description>L’ex premier spagnolo a Il Giornale: “Ceuta pietra miliare del disastro di Sánchez” Il modello Albania convince: 5 Paesi Ue preparano gli hub Il premier nega l’evidenza e difende il Marocco. L’unica cosa che gli sta a cuore non è la sovranità spagnola, ma il suo potere José María Aznar</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RZGJGE73HRDFVCFCUDZ6QFCHSY.png?smart=true&amp;auth=75b4937df424d9d4dcf6a9e676acf7c540a3d2d2baec2d31d45211b7b79df906&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
