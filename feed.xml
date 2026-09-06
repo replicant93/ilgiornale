@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 20:56:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 21:13:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cissè fa sognare, Gatti pareggia in extremis: 1-1 tra Juventus e Milan</title>
+<link>https://www.ilgiornale.it/news/calcio/cisse-fa-sognare-gatti-pareggia-in-extremis-1-0-tra-juventus-e-milan/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/cisse-fa-sognare-gatti-pareggia-in-extremis-1-0-tra-juventus-e-milan/</guid>
+<pubDate>Sun, 06 Sep 2026 20:52:35 +0000</pubDate>
+<description>Il giovane talento trasforma l’unica occasione creata dai rossoneri. La Juventus spinge fino alla fine, trovando il pari grazie al difensore appena entrato. Le due squadre perdono punti da Inter e Roma Luca Bocci</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TRE4NTV3URCNBCW6YEQLGD6IYY.jpg?smart=true&amp;auth=f4f991a1f2cd1bd9942e8db8ea14a8f3f4dd8c4c369d0647e6c8551faf05df3d&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Nozze segrete per Mara Sattei: la sorpresa ai fan dopo il “sì”</title>
 <link>https://www.ilgiornale.it/news/personaggi/nozze-segrete-per-mara-sattei-la-sorpresa-ai-fan-dopo-il-si/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 13:23:00 +0000</pubDate>
 <description>Oltre 600 falle di sicurezza ignorate fino al blitz degli ispettori: viaggio dentro i dati che mettono a nudo i punti ciechi della manutenzione aerea Federico Garau</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/W4L5RCRX4NE3LOX34Q22XQNHJY.jfif?focal=1029%2C832&amp;auth=8768f8273dd368635c4381a547558e3703b5c0a0e37a7e196d17f116da9c783c&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Centinaia di uomini col passamontagna bloccano il porto di Dover contro i migranti al grido di “fermate i barconi”</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/centinaia-di-uomini-col-passamontagna-bloccano-il-porto-di-dover-contro-i-migranti-al-grido-di-fermate-i-barconi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/centinaia-di-uomini-col-passamontagna-bloccano-il-porto-di-dover-contro-i-migranti-al-grido-di-fermate-i-barconi/</guid>
-<pubDate>Sat, 05 Sep 2026 12:29:14 +0000</pubDate>
-<description>Dietro ci sarebbe un gruppo inglese di destra che chiede misure più forti per interrompere i passaggi di migranti irregolari dalla Francia al Regno Unito Francesca Galici</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/C6GIQQ3J2RCCNFEJGRR3BG4MDM.png?smart=true&amp;auth=23903971de2451f881291bf267c7a075de4e165134f3bef87ccf73aa21b39915&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
