@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 06:16:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 06:35:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Come sta Di Battista: dall’operazione d’urgenza a Cuba alla massima discrezione degli amici sulle sue condizioni</title>
+<link>https://www.ilgiornale.it/news/interni/come-sta-di-battista-dalloperazione-durgenza-a-cuba-alla-massima-discrezione-degli-amici-sulle-sue-condizioni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/come-sta-di-battista-dalloperazione-durgenza-a-cuba-alla-massima-discrezione-degli-amici-sulle-sue-condizioni/</guid>
+<pubDate>Sun, 06 Sep 2026 06:22:10 +0000</pubDate>
+<description>Rinviato il rientro in Italia L’ex pentastellato non tornerà a breve in Italia: il volo sanitario è stato annullato per improvvise complicazioni durante il trasporto in aeroporto Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ALXZLT7OWJBTTFV5EQBSV6GBPU.jpg?focal=1214%2C795&amp;auth=5366c9d6f3e7a7143522a0437796f735b1cd9c816a4b970b3453b961bcc035b9&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Mutuo prima casa, cambia la garanzia Consap: ecco chi può ottenere fino all’80%</title>
+<link>https://www.ilgiornale.it/news/cittadini/mutuo-prima-casa-cambia-la-garanzia-consap-ecco-chi-puo-ottenere-fino-all80/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/mutuo-prima-casa-cambia-la-garanzia-consap-ecco-chi-puo-ottenere-fino-all80/</guid>
+<pubDate>Sun, 06 Sep 2026 06:15:21 +0000</pubDate>
+<description>La novità riguarda anche i nuclei con persone con disabilità grave e può facilitare l’accesso al credito, con finanziamenti fino a 250mila euro Stefano Damiano</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/F77R2FQX7VDSJH7N3H62XSAJNI.jpg?smart=true&amp;auth=70837d3d0721b0d52d8a3418afa6f4ba271a4f512e57e48eabf41452fc401c64&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Il “germe demoniaco” e la fuga dal laboratorio russo: lo scenario che può scatenare il caos globale</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/il-germe-demoniaco-la-fuga-dal-laboratorio-russo-e-il-disastro-lo-scenario-che-puo-scatenare-il-caos-globale/</link>
@@ -787,22 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 15:39:56 +0000</pubDate>
 <description>Marco Lombardo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/GW7T2T5I25HURMJ3DZN4IOV4EU.png?smart=true&amp;auth=23302bd5ad84c935196b054db70f9ad8795d7cb62f6fc2aa0ef531b983cbe251&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Cozy cardio, che cos’è e perché riduce il cortisolo</title>
-<link>https://www.ilgiornale.it/news/benessere/cozy-cardio-che-cose-e-perche-riduce-il-cortisolo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/cozy-cardio-che-cose-e-perche-riduce-il-cortisolo/</guid>
-<pubDate>Fri, 04 Sep 2026 14:51:27 +0000</pubDate>
-<description>Mariangela Cutrone</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/D7QK7PFXAVF5FCOXHI66P6UPEY.jpg?smart=true&amp;auth=ca43bf9d0ecb18c92828b3039ec340cb4c5b6f373b3e488570d0e78d97a39e90&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>In Germania la moschea diventa seggio elettorale e i musulmani integrati si spostano verso AfD</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/in-germania-la-moschea-diventa-seggio-elettorale-e-i-musulmani-integrati-si-spostano-verso-afd/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/in-germania-la-moschea-diventa-seggio-elettorale-e-i-musulmani-integrati-si-spostano-verso-afd/</guid>
-<pubDate>Fri, 04 Sep 2026 14:31:10 +0000</pubDate>
-<description>Francesca Galici</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/64V6LGXKZJITZPJT26FCJCI7LM.jpg?focal=1911%2C1423&amp;auth=85ab43402e10bf55229d2f42eca65e4a3120c57ae375310184314eeb30043d38&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
