@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 13:56:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 14:13:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Lamborghini si schianta e prende fuoco sull’A3: morti padre e figlio</title>
+<link>https://www.ilgiornale.it/news/nazionale/lamborghini-si-schianta-e-prende-fuoco-sulla3-morti-padre-e-figlio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/lamborghini-si-schianta-e-prende-fuoco-sulla3-morti-padre-e-figlio/</guid>
+<pubDate>Sun, 06 Sep 2026 14:03:24 +0000</pubDate>
+<description>Roberta Damiata</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/MCNJY6S3JZAE5JPOMBGZVKVHYY.png?smart=true&amp;auth=06ea99a4c0db0fd15eabd468ea1b8bb6e7739257c1254f2256c2380a0921f006&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Rabbia degli agenti, gli aggressori tornano liberi: “Non è più accettabile”</title>
 <link>https://www.ilgiornale.it/news/nazionale/rapine-violenze-e-poliziotti-feriti-in-zona-termini-a-roma-ma-gli-aggressori-tornano-liberi-non-e-piu-accettabile/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 11:03:46 +0000</pubDate>
 <description>Giuseppe Alberto Falci</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/23JF46IAABNF5MSQOOKHUJM2Z4.jpg?focal=1474%2C433&amp;auth=dcb5e093cc1dcdb07198452bb2bb75fe9c39b3a8638b03dddae1ee28e4f28adc&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>“Report è diventato un potere parallelo e fuori controllo”</title>
-<link>https://www.ilgiornale.it/news/politica/report-e-diventato-un-potere-parallelo-e-fuori-controllo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/report-e-diventato-un-potere-parallelo-e-fuori-controllo/</guid>
-<pubDate>Sat, 05 Sep 2026 10:48:53 +0000</pubDate>
-<description>Luca Fazzo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/IRYTAJQGJRGFVBLJBVCPFQGST4.jpg?focal=1247%2C1284&amp;auth=ca1c92bb0b00d8703b05ff5f3b3199b42eaa49ea82ac7e1afa980d12e941d591&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
