@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 11:14:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 11:29:25 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>“Avendo contestato la doppia morale del santone Ranucci…”. Sottile torna sugli insulti ricevuti dai giornalisti di Report</title>
@@ -38,6 +38,14 @@
 <pubDate>Sun, 06 Sep 2026 10:28:40 +0000</pubDate>
 <description>Le paure di Tavares dopo l’attentato. Visita al Cefalù prima del pagamento Una fonte conferma: il leader 5S seppe del filmato quando era ancora a Palazzo Chigi. E la nomina di Mancini saltò Rita Cavallaro , Giulia Sorrentino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OR2YD5WUKRHBLDVUPQNAGGJ46M.jpg?focal=886%2C429&amp;auth=b20006db62ddae08db012592feb2e60682ceddc6b97416148586a7c119a82533&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Cambio al vertice della sanità militare, il generale Catalano lascia dopo 46 anni di servizio</title>
+<link>https://www.ilgiornale.it/news/attualita/cambio-al-vertice-della-sanita-militare-il-generale-catalano-lascia-dopo-46-anni-di-servizio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/cambio-al-vertice-della-sanita-militare-il-generale-catalano-lascia-dopo-46-anni-di-servizio/</guid>
+<pubDate>Sun, 06 Sep 2026 10:27:33 +0000</pubDate>
+<description>Il Tenente Generale Vincenzo Campagna subentra alla guida dell’Ispettorato. Si conclude la straordinaria carriera di un ufficiale medico che ha unito eccellenza clinica e scientifica e riconosciute capacità di comando Luca Romano</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/W6KMVJIFKBBSJDN2WNJHSJWEPM.jpeg?focal=1540%2C558&amp;auth=5ae92352a660d616f477af91f89a902af3d9eb134bdb30a92c15d14bc111a41f&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Iran-Usa, Teheran: colpiti 6 mezzi navali e un drone americano. " Ora risposte più rapide e dolorose”</title>
@@ -792,14 +800,6 @@
 <pubDate>Sat, 05 Sep 2026 10:00:00 +0000</pubDate>
 <description>L’ex premier spagnolo a Il Giornale: “Ceuta pietra miliare del disastro di Sánchez” Il modello Albania convince: 5 Paesi Ue preparano gli hub Il premier nega l’evidenza e difende il Marocco. L’unica cosa che gli sta a cuore non è la sovranità spagnola, ma il suo potere José María Aznar</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RZGJGE73HRDFVCFCUDZ6QFCHSY.png?smart=true&amp;auth=75b4937df424d9d4dcf6a9e676acf7c540a3d2d2baec2d31d45211b7b79df906&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Meloni e la vera svolta del governo: “L’Italia ora non chiede più il permesso”</title>
-<link>https://www.ilgiornale.it/news/governo/meloni-e-la-vera-svolta-del-governo-litalia-ora-non-chiede-piu-il-permesso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-e-la-vera-svolta-del-governo-litalia-ora-non-chiede-piu-il-permesso/</guid>
-<pubDate>Sat, 05 Sep 2026 10:00:00 +0000</pubDate>
-<description>E il popolo di Giorgia esulta: “Ci ha riempito di orgoglio” Il grazie agli alleati e un messaggio alla sinistra: “Noi non stiamo insieme per combattere un avversario comune. Chi fa così, il giorno dopo non sa come agire” Francesco Boezi Per Giorgia più di 19 milioni di followers I selfie, la battuta sulle foto e la telefonata della figlia: è Meloni-show sul palco di Bari</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JCZBTHJNR5F2XGD7XP2ZDPG5GQ.jpg?focal=1311%2C994&amp;auth=a505fe9c3cfbee5ca4a1b4501860f0fdd294934813c309b69553a0ad6c8c5d65&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
