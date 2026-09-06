@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 08:32:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 08:47:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cernobbio, il giorno delle opposizioni. Conte e Shlein: “Abbiamo accumulato proposte significative”. Il sondaggio gela il campo largo e premia Meloni</title>
+<link>https://www.ilgiornale.it/news/parlamento/cernobbio-il-giorno-delle-opposizioni-conte-e-shlein-abbiamo-accumulato-proposte-significative-il-sondaggio-gela-il-campo-largo-e-premia-meloni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/cernobbio-il-giorno-delle-opposizioni-conte-e-shlein-abbiamo-accumulato-proposte-significative-il-sondaggio-gela-il-campo-largo-e-premia-meloni/</guid>
+<pubDate>Sun, 06 Sep 2026 08:36:30 +0000</pubDate>
+<description>In aggiornamento Cernobbio, il giorno delle opposizioni. Conte e Shlein: “Abbiamo accumulato proposte significative”. Il sondaggio gela il campo largo e premia Meloni Vannacci e Monti al Forum La platea di Cernobbio promuove il governo e boccia l’opposizione. Conte attacca Meloni su crescita e riarmo, mentre Schlein rilancia la difesa comune europea e accusa la premier di voler “comprare più armi da Trump” Giulia Bernardini</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LVHZOLI4WRAKNHUFF73ME4NN54.jpg?focal=1531%2C727&amp;auth=437df90c0638866ab17b963052c42a8d0ef94337abc8893a8d99a6052767a4d4&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Sassonia-Anhalt al voto, l’onda AfD sfida la CDU e mette alla prova Merz</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/sassonia-anhalt-al-voto-londa-afd-sfida-la-cdu-e-mette-alla-prova-merz/</link>
@@ -794,14 +802,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/volkswagen-ok-ai-maxi-tagli-non-per-ducati/</guid>
 <pubDate>Sat, 05 Sep 2026 05:45:52 +0000</pubDate>
 <description>Pierluigi Bonora</description>
-</item>
-<item>
-<title>Ex-Ilva, l’indotto licenzia Lettera a 2.500 lavoratori</title>
-<link>https://www.ilgiornale.it/news/aziende/ex-ilva-lindotto-licenzia-lettera-a-2500-lavoratori/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/ex-ilva-lindotto-licenzia-lettera-a-2500-lavoratori/</guid>
-<pubDate>Sat, 05 Sep 2026 05:41:54 +0000</pubDate>
-<description>Sofia Fraschini</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/YW3ASWLQTFOTJLZFP7S5XYQ2AQ.jpg?focal=360%2C205&amp;auth=a82176603ef7e4c866bd4b8f77d94ed21bb07cb8d6e28bebb0832c260a9210c7&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
