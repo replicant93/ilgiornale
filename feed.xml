@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 03:58:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 04:17:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>DanielCanzian si rinnova (e diventa più veneziano)</title>
+<link>https://www.ilgiornale.it/news/retrogusto/danielcanzian-si-rinnova-e-diventa-piu-veneziano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/danielcanzian-si-rinnova-e-diventa-piu-veneziano/</guid>
+<pubDate>Sun, 06 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto DanielCanzian si rinnova (e diventa più veneziano) Andrea Cuomo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ERPWSQ2CRRDYHNTOOZ75LO5DME.jpeg?smart=true&amp;auth=effafacac059eb3e3e16b3ac37ca9f890c1fbce939f0c2d14263b6e06508317e&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>La Roma fa come l’Inter e supera 2-1 in rimonta l’Atalanta: anche i giallorossi in vetta alla classifica</title>
 <link>https://www.ilgiornale.it/news/calcio/la-roma-fa-come-linter-e-supera-2-1-in-rimonta-latalanta-anche-i-giallorossi-in-vetta-alla-classifica/</link>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 04 Sep 2026 13:57:32 +0000</pubDate>
 <description>Nazionale “Aura Battle”, la nuova sfida virale che porta i ragazzi dai social alle piazze ed ha conquistato anche il Papa Il tormentone trasforma il carisma in una gara: niente scontri fisici, ma gesti, ironia e fantasia. A decretare il vincitore sono gli applausi del pubblico. Ecco di cosa si tratta Roberta Damiata</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5CQGTZXW4ZE3VNU7URDARHSK5E.png?focal=503%2C216&amp;auth=8ec8699abe7eaf46eca65dfa066da7839994868297505d48d00eb2cd7720d15d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Abisso torna ad arbitrare</title>
-<link>https://www.ilgiornale.it/news/calcio/illegittima-la-delibera-dellaia-abisso-torna-ad-arbitrare/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/illegittima-la-delibera-dellaia-abisso-torna-ad-arbitrare/</guid>
-<pubDate>Fri, 04 Sep 2026 13:25:41 +0000</pubDate>
-<description>Abisso torna ad arbitrare</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ABSXS6JDCZG6RJMRB5UYQGJIVQ.jpg?focal=1667%2C325&amp;auth=8ddc823f122ed9eb23dc0897a345433946ea85094a9ea4a45f1f12f04e3ffe44&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
