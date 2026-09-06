@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 06:51:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 07:11:33 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pace incastrata sul Donetsk: territori, garanzie e il nuovo tentativo di Trump</title>
+<link>https://www.ilgiornale.it/news/guerra/ucraina-la-pace-resta-incastrata-sul-donetsk-territori-garanzie-e-il-nuovo-tentativo-di-trump/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/ucraina-la-pace-resta-incastrata-sul-donetsk-territori-garanzie-e-il-nuovo-tentativo-di-trump/</guid>
+<pubDate>Sun, 06 Sep 2026 07:01:20 +0000</pubDate>
+<description>Witkoff e Kushner da Putin: “Piani concreti per la pace”. Oggi il faccia a faccia con Zelensky Pace incastrata sul Donetsk: territori, garanzie e il nuovo tentativo di Trump Gli inviati di Trump hanno discusso con il presidente russo diverse proposte per porre fine alla guerra in Ucraina. La Casa Bianca: “I prossimi passi saranno annunciati nelle prossime settimane” Redazione web Tregua di tre giorni su Kiev “Operation Carpet”: così Zelensky punta a piegare lo zar del Cremlino DIRETTA</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TVGZJNKTG5A7HI2BTUY53PNZTA.jpg?focal=1377%2C592&amp;auth=7ba178ffc11771d102296d458bf3903bf3c4eed82a35dd4b671c4809ad7e7b24&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Come sta Di Battista: dall’operazione d’urgenza a Cuba alla massima discrezione degli amici sulle sue condizioni</title>
 <link>https://www.ilgiornale.it/news/interni/come-sta-di-battista-dalloperazione-durgenza-a-cuba-alla-massima-discrezione-degli-amici-sulle-sue-condizioni/</link>
@@ -83,6 +91,14 @@
 <pubDate>Sun, 06 Sep 2026 04:37:58 +0000</pubDate>
 <description>Sorride solo Briatore: la sua Alpine è in pole con Gasly Umberto Zapelloni</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XYXYODMTN5GRRE3276XFMBR5ZE.jpg?focal=1125%2C455&amp;auth=57469c703a4f0f7b9c50ca9f8615bdfd17252c7f109f68650842b4a4a4a8b0b8&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>“Io, papà e quei Gp visti un passo dietro”</title>
+<link>https://www.ilgiornale.it/news/motori/io-papa-e-quei-gp-visti-un-passo-dietro/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/io-papa-e-quei-gp-visti-un-passo-dietro/</guid>
+<pubDate>Sun, 06 Sep 2026 04:30:15 +0000</pubDate>
+<description>Umberto Zapelloni</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QGP3GCLK5RKJFEOGZN44PLWB6A.jpg?focal=3196%2C500&amp;auth=5f490eaf5a1f1c21afbaeb7a0fa9513690bd79552f271ba62cf79b8ba4d80ac2&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>DanielCanzian si rinnova (e diventa più veneziano)</title>
@@ -754,6 +770,14 @@
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JFN6IPXVDFGABIWQ67CDDX3OP4.jpg?smart=true&amp;auth=93bdd06412936debe5c31092e0023f40d8a2a463a74d3ab1af08b7e0fb49773e&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Moschea di Mestre, comunità bengalese all’attacco della leghista Cisint: “Esposto per istigazione all’odio e al razzismo”</title>
+<link>https://www.ilgiornale.it/news/interni/moschea-di-mestre-comunita-bengalese-allattacco-della-leghista-cisint-esposto-per-istigazione-allodio-e-al-razzismo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/moschea-di-mestre-comunita-bengalese-allattacco-della-leghista-cisint-esposto-per-istigazione-allodio-e-al-razzismo/</guid>
+<pubDate>Fri, 04 Sep 2026 17:47:23 +0000</pubDate>
+<description>Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/B42NV424WBKGNIPD2WZSF4JZIU.png?smart=true&amp;auth=999e0f2eef3b7dd3035e67d06028173815498671629a53d8621cc19af52fc473&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
 <title>Sempio non incontrerà lo psichiatra Catanesi: “Sarebbe inutile”</title>
 <link>https://www.ilgiornale.it/news/nazionale/garlasco-sempio-non-incontrera-lo-psicologo-catanesi-sarebbe-inutile/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/garlasco-sempio-non-incontrera-lo-psicologo-catanesi-sarebbe-inutile/</guid>
@@ -776,30 +800,6 @@
 <pubDate>Fri, 04 Sep 2026 17:23:26 +0000</pubDate>
 <description>La polizia trova l’auto del sospettato in un bosco, ma dell’uomo nessuna traccia. Nella sua abitazione sono stati rinvenuti materiali esplosivi. Gli investigatori verificano i legami con gli attacchi in Brandeburgo e Nord Reno-Westfalia Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CHHRORRNLRH23EMNJ45W32YANA.jpg?smart=true&amp;auth=aaa780aec7a1693515372d3df7285396342cb2a29dc5107ae58d8e9b76792b60&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Spie contro spie a Kiev, la sparatoria tra 007 e il ruolo del misterioso cittadino russo: cosa è successo</title>
-<link>https://www.ilgiornale.it/news/politica-estera/spie-contro-spie-a-kiev-la-sparatoria-tra-sbu-e-intelligence-militare-e-il-ruolo-del-misterioso-cittadino-russo-cosa-e-successo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/spie-contro-spie-a-kiev-la-sparatoria-tra-sbu-e-intelligence-militare-e-il-ruolo-del-misterioso-cittadino-russo-cosa-e-successo/</guid>
-<pubDate>Fri, 04 Sep 2026 16:29:17 +0000</pubDate>
-<description>Drone russo colpisce il quartier generale dei servizi a Kiev, Zelensky: “Ci vendicheremo”. Il dubbio sul viaggio di Witkoff in Ucraina: “Teme reazione di Mosca” La Russia cambia la guerra dei droni I due inviati speciali di Trump dovrebbero essere a Mosca sabato e a Kiev domenica. Colpite infrastrutture petrolifere russe e una base aerea a 1.300 chilometri dal confine Redazione web Spie contro spie a Kiev, la sparatoria tra 007 e il ruolo del misterioso cittadino russo: cosa è successo DIRETTA</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QS2AQT4Q6ZKWJPY5BFAXF55G3I.jpg?focal=1467%2C924&amp;auth=6bdf26a17daffff4bb949c7eff73ff05dde48b4a655bd577f2e5628eda5398d0&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Aggressioni ai residenti, alle forze dell’ordine e agli animali selvatici: Ceuta sprofonda dopo un mese di invasione</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/aggressioni-ai-residenti-alle-forze-dellordine-e-agli-animali-selvatici-ceuta-sprofonda-dopo-un-mese-di-invasione/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/aggressioni-ai-residenti-alle-forze-dellordine-e-agli-animali-selvatici-ceuta-sprofonda-dopo-un-mese-di-invasione/</guid>
-<pubDate>Fri, 04 Sep 2026 16:28:13 +0000</pubDate>
-<description>Esclusiva L’ex premier spagnolo a Il Giornale: “Ceuta pietra miliare del disastro di Sánchez” Il modello Albania convince: 5 Paesi Ue preparano gli hub Il premier nega l’evidenza e difende il Marocco. L’unica cosa che gli sta a cuore non è la sovranità spagnola, ma il suo potere José María Aznar Ceuta, la procura ha elementi sufficienti per avviare l’inchiesta sugli attori dell’invasione Aggressioni ai residenti, alle forze dell’ordine e agli animali selvatici: Ceuta sprofonda dopo un mese di invasione</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RZGJGE73HRDFVCFCUDZ6QFCHSY.png?smart=true&amp;auth=75b4937df424d9d4dcf6a9e676acf7c540a3d2d2baec2d31d45211b7b79df906&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>F1, a Monza duello tra Ferrari e Mercedes: Russell risponde a Leclerc nelle libere</title>
-<link>https://www.ilgiornale.it/news/motori/f1-a-monza-duello-tra-ferrari-e-mercedes-russell-risponde-a-leclerc-nelle-libere/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/f1-a-monza-duello-tra-ferrari-e-mercedes-russell-risponde-a-leclerc-nelle-libere/</guid>
-<pubDate>Fri, 04 Sep 2026 16:19:08 +0000</pubDate>
-<description>Dopo che il monegasco aveva fatto meglio di tutti nel gran caldo dell’Autodromo Nazionale, l’inglese della Mercedes è il migliore nella seconda sessione delle libere. Antonelli 3°, Hamilton 5° nella Fp2 Luca Bocci</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KNIA6AAKFREFJM3DLGRCH3ZBDU.jpg?smart=true&amp;auth=0cf60efb98314bbe1810a17fe633d4c13d6728299b90ed0251d8fb8525ce37d1&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
