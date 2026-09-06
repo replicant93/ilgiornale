@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 06 Sep 2026 07:29:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 07:43:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bardella: “Immigrazione fuori controllo, respingimenti a Lampedusa”. E su Meloni: “Spero governi altri cinque anni”</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/respingimenti-a-lampedusa-il-piano-europeo-di-bardella-contro-limmigrazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/respingimenti-a-lampedusa-il-piano-europeo-di-bardella-contro-limmigrazione/</guid>
+<pubDate>Sun, 06 Sep 2026 07:37:24 +0000</pubDate>
+<description>Il presidente del Rassemblement National è intervenuto a Cernobbio e anche nelle interviste successive ha espresso stima, amicizia e alleanza per Giorgia Meloni e Matteo Salvini Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/2EU223SPQFHQ3AMJNXZTQZEHHI.jpg?focal=1995%2C700&amp;auth=355f73bdfd32fccabae77b2eaeddb4b6181f8b6ff51883c6811e1f9fee5a9d3a&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“La stabilità un successo per tutti gli italiani. Così la sinistra è rimasta senza idee...”</title>
 <link>https://www.ilgiornale.it/news/governo/la-stabilita-un-successo-per-tutti-gli-italiani-cosi-la-sinistra-e-rimasta-senza-idee/</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 04 Sep 2026 17:44:37 +0000</pubDate>
 <description>Garlasco, guerra per bande dove la vittima è la verità. I depistaggi e gli atti inediti Sempio non incontrerà lo psichiatra Catanesi: “Sarebbe inutile” Scritto dalla nostra cronista, Rita Cavallaro, e con la prefazione del direttore Tommaso Cerno, ricostruisce gli sviluppi del delitto più discusso del nostro Paese Diana Alfieri</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OJZOT7AAMRN4JLIFWYDX4MEKFM.jpg?focal=732%2C360&amp;auth=5de5e2c925d0ceac6fdaf9a72756741bbbae365e02f3f427dca0d31d4ae1daef&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Il governo celebra il record a Bari, boato per Meloni sul palco: “Consenso più alto di quello che avevamo all’inizio”</title>
-<link>https://www.ilgiornale.it/news/governo/il-governo-celebra-il-record-a-bari-boato-per-meloni-sul-palco/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/il-governo-celebra-il-record-a-bari-boato-per-meloni-sul-palco/</guid>
-<pubDate>Fri, 04 Sep 2026 17:24:01 +0000</pubDate>
-<description>Il governo Meloni batte tutti nella storia della Repubblica Tantissime le persone accorse per festeggiare il record dell’esecutivo: in collegamento sono intervenuti anche i due vicepremier Francesca Galici Dallo spread al referendum: così i “marziani” beffano i profeti La quota rosa che brucia alla sinistra</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CGPPM3627ZABHDJWQ77KRNNXTE.jpg?smart=true&amp;auth=307ea0a641515197db189b6b6640d8f4cd6e2ab45355a7c785b187a80f098638&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
