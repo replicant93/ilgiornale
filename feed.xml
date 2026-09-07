@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 11:57:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 12:22:01 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cinque tagli capelli di tendenza per l’autunno-inverno 2026</title>
+<link>https://www.ilgiornale.it/news/over/cinque-tagli-capelli-di-tendenza-per-lautunno-inverno-2026/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/over/cinque-tagli-capelli-di-tendenza-per-lautunno-inverno-2026/</guid>
+<pubDate>Mon, 07 Sep 2026 12:08:30 +0000</pubDate>
+<description>Mariangela Cutrone</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/QMPMVOGO45G2PN4HEXQX3RBO2Q.jfif?focal=1089%2C517&amp;auth=d638ad8f36b380f22494190b083d46a11b88b25f8e26b6b26ab63a060f09b1b6&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Lavitola al Riesame: “Era un attentato per far bene a Ranucci”</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/lavitola-al-riesame-era-un-attentato-per-far-bene-a-ranucci/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 06 Sep 2026 09:25:12 +0000</pubDate>
 <description>Il dolore del padre e la promessa di Meloni: “Continueremo a fare la nostra parte” L’estremo tentativo di far ragione il proprio ex compagno prima dell’omicidio: cosa è accaduto prima della morte di Lorena e l’iniziativa della sindaca di Firenze Alessandro Ferro “Tua figlia è morta”: l’ultimo sms di Vella alla madre di Lorena L'amica della donna gettata dal cavalcavia: “La pregavo di denunciarlo”</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VNNBGMBWD5AGTD6DHHCDVVLHH4.jpg?focal=314%2C73&amp;auth=f077899989745c50b05185b7f11c2fd3149ca58ee06b8cb95678ebe861be8084&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Il dolore del padre e la promessa di Meloni: “Continueremo a fare la nostra parte”</title>
-<link>https://www.ilgiornale.it/news/nazionale/il-dolore-del-papa-di-lorena-la-politica-sia-unita-meloni-continueremo-a-fare-la-nostra-parte/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-dolore-del-papa-di-lorena-la-politica-sia-unita-meloni-continueremo-a-fare-la-nostra-parte/</guid>
-<pubDate>Sun, 06 Sep 2026 09:22:04 +0000</pubDate>
-<description>L’ultima telefonata di Lorena: il tentativo di salvarsi in 20 minuti. Oggi il ricordo a Firenze Il dolore del padre e la promessa di Meloni: “Continueremo a fare la nostra parte” L’estremo tentativo di far ragione il proprio ex compagno prima dell’omicidio: cosa è accaduto prima della morte di Lorena e l’iniziativa della sindaca di Firenze Alessandro Ferro “Tua figlia è morta”: l’ultimo sms di Vella alla madre di Lorena L'amica della donna gettata dal cavalcavia: “La pregavo di denunciarlo”</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DXIFRC7FIJEKJJDJP577QAFXK4.jpg?focal=466%2C165&amp;auth=9644d95ac97f24c6029b7b9387c24e8f4e0eca14e11c7dfc40b44084fcc90242&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
