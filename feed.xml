@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 20:59:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 21:17:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La Lazio ribalta 2-1 l’Udinese e raggiunge Inter e Roma in vetta alla classifica</title>
+<link>https://www.ilgiornale.it/news/calcio/la-lazio-ribalta-2-1-ludinese-e-raggiunge-inter-e-roma-in-vetta-alla-classifica/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-lazio-ribalta-2-1-ludinese-e-raggiunge-inter-e-roma-in-vetta-alla-classifica/</guid>
+<pubDate>Mon, 07 Sep 2026 20:57:32 +0000</pubDate>
+<description>La squadra di Gattuso centra la terza vittoria consecutiva e sale a 9 punti. Segna prima Karlstrom poi Frattesi e Gudmundsson firmano il sorpasso biancoceleste Antonio Prisco</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/2O5GFLGCTVCWPINCONQ7USW25U.jpg?smart=true&amp;auth=f800905f631d0e824ee448e7429f93b5c543c9cd1942a64f209d7a8e54339ff7&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La strana frase di Lady Report, l’errore non è Afd e Rula Jebreal: quindi, oggi…</title>
 <link>https://www.ilgiornale.it/news/quindi-oggi/la-strana-frase-di-lady-report-lerrore-non-e-afd-e-rula-jebreal-quindi-oggi/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sun, 06 Sep 2026 12:43:08 +0000</pubDate>
 <description>Witkoff e Kushner arrivati in Ucraina: “Sia Mosca che Kiev devono fare compromessi”. Lavrov minaccia l’Europa: “Accuse tedesche su Lipsia sono l’inizio di una vera guerra” Dentro lo Zircon di Putin: i segreti del missile ipersonico russo Gli inviati di Trump hanno già discusso con il presidente russo diverse proposte per porre fine alla guerra in Ucraina. La Casa Bianca: “I prossimi passi saranno annunciati nelle prossime settimane”. Nel frattempo Witkoff e Kushner sono volati in Ucraina dove oggi incontreranno il presidente Redazione web L’allarme da Kiev: “Nessuno vincerà”. Il timore per l’i</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TIE5K4G3YVHMPMZNTJ6UDXBYEU.jpg?smart=true&amp;auth=a3ac84f4384afe063905bc9bec2bde45e3a73bde790767f6732d60ddfe217b23&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>“Avendo contestato la doppia morale del santone Ranucci…”. Sottile torna sugli insulti ricevuti dai giornalisti di Report</title>
-<link>https://www.ilgiornale.it/news/interni/avendo-contestato-la-doppia-morale-del-santone-ranucci-sottile-torna-sugli-insulti-ricevuti-dai-giornalisti-di-report/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/avendo-contestato-la-doppia-morale-del-santone-ranucci-sottile-torna-sugli-insulti-ricevuti-dai-giornalisti-di-report/</guid>
-<pubDate>Sun, 06 Sep 2026 10:55:39 +0000</pubDate>
-<description>Francesca Galici</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VCMSNM6GEJJ6FPAGYLMS5LF5GA.jpg?smart=true&amp;auth=18a4df6e854630b2aefd226a9f0eb29d991ed3cf2e36ae45c2e4048595717af7&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
