@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 14:51:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 15:12:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tassare il porno: ecco come l’Ucraina cerca nuove fonti di guadagno per finanziare la guerra</title>
+<link>https://www.ilgiornale.it/news/guerra/tassare-il-porno-ecco-come-lucraina-cerca-nuove-fonti-di-guadagno-per-finanziare-la-guerra/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/tassare-il-porno-ecco-come-lucraina-cerca-nuove-fonti-di-guadagno-per-finanziare-la-guerra/</guid>
+<pubDate>Mon, 07 Sep 2026 14:49:06 +0000</pubDate>
+<description>DIRETTA Trump parlerà oggi con Putin e Zelensky. Mosca ordina la chiusura del consolato tedesco a San Pietroburgo Tassare il porno: ecco come l’Ucraina cerca nuove fonti di guadagno per finanziare la guerra Cremlino: “Non escludiamo una ripresa dei dialoghi trilaterali”. Il presidente ucraino teme però che la guerra possa proseguire anche nei mesi invernali. Intanto Mosca rivendica nuovi raid sui porti di Odessa e Izmail Redazione web L’allarme da Kiev: “Nessuno vincerà”. Il timore per l’inverno e i mille droni pronti contro la Russia Dentro lo Zircon di Putin: i segreti del missile ipersonico</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/X5MNWHLMY5IVTH7S2J5RU55P3I.jpg?focal=1430%2C532&amp;auth=514ea0116ccaea84351e53cfd60f80d8f0264681b11083beca832ba2ebdd1c0d&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Bernie Ecclestone, arrestato in Portogallo: nel suo jet privato spunta un fucile (e non è la prima volta)</title>
 <link>https://www.ilgiornale.it/news/attualita/bernie-ecclestone-arrestato-in-portogallo-nel-suo-jet-privato-spunta-un-fucile-e-non-e-la-prima-volta/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
 <description>L’ex premier spagnolo a Il Giornale: “Ceuta pietra miliare del disastro di Sánchez” Dalle collette delle parrocchie al cambio di passo rispetto alla conferenza episcopale spagnola Nico Spuntoni</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/YP3M3KWGRRCZJKP6IH3NLZOTJM.jpg?focal=1408%2C979&amp;auth=43bb09258a1ed8d431ad40499a7d5c8ef44682b83b44fd856ffafa2981364fb1&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Come superare il delirio woke</title>
-<link>https://www.ilgiornale.it/news/societa/come-superare-il-delirio-woke/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/come-superare-il-delirio-woke/</guid>
-<pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Società Come superare il delirio woke Pier Luigi del Viscovo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FCJA35OYZ35P2XASGZUYQ2CZ4GQ.png?smart=true&amp;auth=ebc35d3d9480850a545541dc5cb13e8ee487895b0c77c6add67fb431417db1e9&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
