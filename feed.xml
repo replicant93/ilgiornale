@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 16:00:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 16:23:34 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bardella incorona Meloni: “Grande leader, quando sarò premier faremo un accordo sui migranti”</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/bardella-incorona-meloni-grande-leader-quando-saro-premier-faremo-un-accordo-sui-migranti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/bardella-incorona-meloni-grande-leader-quando-saro-premier-faremo-un-accordo-sui-migranti/</guid>
+<pubDate>Mon, 07 Sep 2026 16:14:43 +0000</pubDate>
+<description>Il presidente del Rassemblement National è stato intervistato a Quarta Repubblica : “AfD? L’Ue fatica ad accettare le scelte popolari che non condivide” Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RNAWUSGXJFJHZKL3PKXKO22US4.jpg?smart=true&amp;auth=cc9efc78791f1239e8b442cb695b77c448fb42770392ad5c7138cf1ee1f92df2&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Schengen, migranti, crisi internazionali e Marcinelle. L’incontro tra Meloni e il premier belga</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/schengen-migranti-crisi-internazionali-e-marcinelle-lincontro-tra-meloni-e-il-premier-belga/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/schengen-migranti-crisi-internazionali-e-marcinelle-lincontro-tra-meloni-e-il-premier-belga/</guid>
+<pubDate>Mon, 07 Sep 2026 16:03:45 +0000</pubDate>
+<description>La presidente della Repubblica ha sottolineato che con De Wever c’è “un lavoro comune e una bella amicizia”. E su Schengen: “Preservare spazio Schengen solo se si difendono i confini Ue” Alessandra Corradi</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZZJNCUKKZNHIVJEDTDE74ALHAU.jpg?smart=true&amp;auth=215ddcea28fa3d16bec5c755dcfad1e471cf934dfaf00fff5049e899f388b972&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Migranti, anche Portsmouth in rivolta: strade bloccate dopo lo sbarco di 140 persone</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/migranti-anche-portsmouth-in-rivolta-strade-bloccate-dopo-lo-sbarco-di-140-persone/</link>
@@ -785,22 +801,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/lunico-modo-per-salutare-enzo-bianchi-e-ripartire/</guid>
 <pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Attualità L’unico modo per salutare Enzo Bianchi è ripartire Don Luigi Maria Epicoco</description>
-</item>
-<item>
-<title>Le autocrazie si sostengono</title>
-<link>https://www.ilgiornale.it/news/politica/le-autocrazie-si-sostengono/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/le-autocrazie-si-sostengono/</guid>
-<pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Politica Le autocrazie si sostengono Augusto Minzolini</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FTD45PSNL2RNC3DSYRE5KK5XYSY.jpg?smart=true&amp;auth=e12e9f99f76369afd201892404841dba6e9773f13d454793ce795aabb97d992a&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Le paure di Tavares dopo l’attentato. Visita al Cefalù prima del pagamento</title>
-<link>https://www.ilgiornale.it/news/politica/le-paure-di-tavares-dopo-lattentato-visita-al-cefalu-prima-del-pagamento/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/le-paure-di-tavares-dopo-lattentato-visita-al-cefalu-prima-del-pagamento/</guid>
-<pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
-<description>La puntata di Report su Renzi in autogrill? Una soffiata degli 007. E Conte la vide prima Le paure di Tavares dopo l’attentato. Visita al Cefalù prima del pagamento Una fonte conferma: il leader 5S seppe del filmato quando era ancora a Palazzo Chigi. E la nomina di Mancini saltò Rita Cavallaro , Giulia Sorrentino</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OR2YD5WUKRHBLDVUPQNAGGJ46M.jpg?focal=886%2C429&amp;auth=b20006db62ddae08db012592feb2e60682ceddc6b97416148586a7c119a82533&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
