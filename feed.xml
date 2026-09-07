@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 19:43:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 19:56:37 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La strana frase di Lady Report, l’errore non è Afd e Rula Jebreal: quindi, oggi…</title>
+<link>https://www.ilgiornale.it/news/quindi-oggi/la-strana-frase-di-lady-report-lerrore-non-e-afd-e-rula-jebreal-quindi-oggi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/quindi-oggi/la-strana-frase-di-lady-report-lerrore-non-e-afd-e-rula-jebreal-quindi-oggi/</guid>
+<pubDate>Mon, 07 Sep 2026 19:48:58 +0000</pubDate>
+<description>Quindi oggi La strana frase di Lady Report, l’errore non è Afd e Rula Jebreal: quindi, oggi… Giuseppe De Lorenzo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/IKOHHNGYYVLCRKD4JTEDIDQOGA.jpg?smart=true&amp;auth=9872e52f7428a623f5fb4a08ac9e07ab90131df887780f1f844db26e5c36d488&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Dipendenti donne “nascoste” per la visita della delegazione induista alla Torre Eiffel: esplode la polemica a Parigi</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/dipendenti-donne-nascoste-per-la-visita-della-delegazione-induista-alla-torre-eiffel-esplode-la-polemica-a-parigi/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sun, 06 Sep 2026 10:55:39 +0000</pubDate>
 <description>Francesca Galici</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VCMSNM6GEJJ6FPAGYLMS5LF5GA.jpg?smart=true&amp;auth=18a4df6e854630b2aefd226a9f0eb29d991ed3cf2e36ae45c2e4048595717af7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Leonardo Maria Del Vecchio su Delfin: “Dialogo tra soci, cda realizzi strategie della maggioranza”</title>
-<link>https://www.ilgiornale.it/news/aziende/leonardo-maria-del-vecchio-su-delfin-dialogo-tra-soci-cda-realizzi-strategie-maggioranza/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/leonardo-maria-del-vecchio-su-delfin-dialogo-tra-soci-cda-realizzi-strategie-maggioranza/</guid>
-<pubDate>Sun, 06 Sep 2026 10:50:59 +0000</pubDate>
-<description>Redazione web</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5R4C6XZKFNKANIDBZLKBQDF2SM.jpg?focal=1276%2C748&amp;auth=cb87699b092cc55d1e32f2aab9981e36f9154f0c8e9aa5a39535d47f9c9491d9&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
