@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 18:52:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 19:11:21 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Dipendenti donne “nascoste” per la visita della delegazione induista alla Torre Eiffel: esplode la polemica a Parigi</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/dipendenti-donne-nascoste-per-la-visita-della-delegazione-induista-alla-torre-eiffel-esplode-la-polemica-a-parigi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/dipendenti-donne-nascoste-per-la-visita-della-delegazione-induista-alla-torre-eiffel-esplode-la-polemica-a-parigi/</guid>
+<pubDate>Mon, 07 Sep 2026 19:07:04 +0000</pubDate>
+<description>Cronaca internazionale Dipendenti donne “nascoste” per la visita della delegazione induista alla Torre Eiffel: esplode la polemica a Parigi La società che gestisce il monumento accetta la richiesta di limitare i contatti con le dipendenti. Le lavoratrici scioperano, poi arrivano le scuse: “Non doveva accadere” Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZTH2FWNH4JOMHETCCUHXEULVU4.jpg?smart=true&amp;auth=317726d11f90054d300b11bfa653fe17c3eeb58ba2f9e6d57030c415349b4021&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Il saluto di Ranucci a Report: l’abbraccio con Claudia Di Pasquale</title>
 <link>https://www.ilgiornale.it/news/nazionale/il-saluto-di-ranucci-a-report-labbraccio-con-claudia-di-pasquale/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sun, 06 Sep 2026 10:50:59 +0000</pubDate>
 <description>Redazione web</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5R4C6XZKFNKANIDBZLKBQDF2SM.jpg?focal=1276%2C748&amp;auth=cb87699b092cc55d1e32f2aab9981e36f9154f0c8e9aa5a39535d47f9c9491d9&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Nuovo allarme truffe: il finto SMS della multa che copia (alla perfezione) il sito Send</title>
-<link>https://www.ilgiornale.it/news/cittadini/nuovo-allarme-truffe-il-finto-sms-della-multa-che-copia-alla-perfezione-il-sito-send/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/nuovo-allarme-truffe-il-finto-sms-della-multa-che-copia-alla-perfezione-il-sito-send/</guid>
-<pubDate>Sun, 06 Sep 2026 10:29:23 +0000</pubDate>
-<description>Molti utenti stanno ricevendo messaggi sul cellulare che sollecitano il pagamento di contravvenzioni stradali inesistenti Federico Garau</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/J5RWDPZP4RHLNGHWZHP5P7PDZA.jpg?focal=1175%2C679&amp;auth=176556bc974c316bc72dc19ef5b6653d04043bdf0478181e0aa87ebee3d36101&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
