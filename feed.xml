@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 08:58:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 09:19:36 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>BMW iX3: la Neue Klasse è arrivata, e cambia tutto</title>
+<link>https://www.ilgiornale.it/news/auto-moto-motori/bmw-ix3-la-neue-klasse-e-arrivata-e-cambia-tutto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/bmw-ix3-la-neue-klasse-e-arrivata-e-cambia-tutto/</guid>
+<pubDate>Mon, 07 Sep 2026 09:16:24 +0000</pubDate>
+<description>Primo modello della nuova era BMW, la iX3 porta 469 CV, 805 km di autonomia dichiarata e una tecnologia di bordo che anticipa il futuro. Il menu dello schermo centrale, però, richiede pazienza Daniele Villa</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TKLFMDVZHZGHTDVAF52HSEHZZ4.jpeg?smart=true&amp;auth=4397e9eb9868afc5d09cb043f31dd2d85e41ad724445f9c0e7b1325f7f94a2e8&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Crans-Montana, spunta l’email sul rischio della schiuma infiammabile: il Comune lo sapeva?</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/crans-montana-spunta-lemail-sul-rischio-della-schiuma-indagata-lex-responsabile-comunale/</link>
@@ -790,14 +798,6 @@
 <pubDate>Sun, 06 Sep 2026 04:10:01 +0000</pubDate>
 <description>La ThuLa raddrizza l’Inter e il Napoli sprofonda a -6 Amorim vuole il suo Milan. La Juve primo vero esame Chivu, dopo la polemica sugli scontri diretti, sfata il tabù azzurro e si conferma in vetta con la rimonta firmata Lautaro e Thuram Gianni VisnadiGianni Visnadi , Gianni Visnadi Spalletti oltre l’emergenza: “Squadra migliorata”</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/K2QXYS52VJEC3KKKIB2U3UE3DU.jpg?focal=1543%2C886&amp;auth=3f68f6954d273f57f11699d878219f6bb4f83e34c37b4e8e447ae64bccdd6e35&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Stefania Divertito: “La nostra Terra devastata da Verdun all’Ucraina”</title>
-<link>https://www.ilgiornale.it/news/arte-e-storia/la-nostra-terra-devastata-da-verdun-allucraina/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/arte-e-storia/la-nostra-terra-devastata-da-verdun-allucraina/</guid>
-<pubDate>Sun, 06 Sep 2026 04:06:00 +0000</pubDate>
-<description>L’autrice indaga sui danni causati all’ambiente dai conflitti Eleonora Barbieri</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TKHZCBDMT5A2PBUJLD62GRPVEE.jpg?focal=271%2C215&amp;auth=79977907655aff0d1ca2c1c9d9b4e8ad50c5646bc9c9390ec891fba333967791&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
