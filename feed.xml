@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 16:57:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 17:14:35 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>AfD al 43,8% ma senza maggioranza: ecco i cinque scenari che possono sconvolgere la Sassonia</title>
+<link>https://www.ilgiornale.it/news/politica-estera/afd-al-438-ma-senza-maggioranza-ecco-i-cinque-scenari-che-possono-sconvolgere-la-sassonia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/afd-al-438-ma-senza-maggioranza-ecco-i-cinque-scenari-che-possono-sconvolgere-la-sassonia/</guid>
+<pubDate>Mon, 07 Sep 2026 16:59:30 +0000</pubDate>
+<description>Redazione web</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/X6J3XK5YXVHFZNZ4YSYYOZRHTA.jpg?smart=true&amp;auth=1fd0c0d7234e44cd7a0697bb7750d8ec24d4f7e854404bea51d197cc35edc54f&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Bardella incorona Meloni: “Grande leader, quando sarò premier faremo un accordo sui migranti”</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/bardella-incorona-meloni-grande-leader-quando-saro-premier-faremo-un-accordo-sui-migranti/</link>
@@ -794,13 +802,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/societa/la-possibilita-di-emanciparsi/</guid>
 <pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Società La possibilità di emanciparsi Francesca Albergotti</description>
-</item>
-<item>
-<title>L’unico modo per salutare Enzo Bianchi è ripartire</title>
-<link>https://www.ilgiornale.it/news/attualita/lunico-modo-per-salutare-enzo-bianchi-e-ripartire/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/lunico-modo-per-salutare-enzo-bianchi-e-ripartire/</guid>
-<pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Attualità L’unico modo per salutare Enzo Bianchi è ripartire Don Luigi Maria Epicoco</description>
 </item>
 </channel>
 </rss>
