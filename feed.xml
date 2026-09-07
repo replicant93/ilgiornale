@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 17:14:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 17:30:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Emma Bonino ricoverata d’urgenza in ospedale: è in gravi condizioni</title>
+<link>https://www.ilgiornale.it/news/nazionale/emma-bonino-ricoverata-durgenza-in-ospedale-e-in-gravi-condizioni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/emma-bonino-ricoverata-durgenza-in-ospedale-e-in-gravi-condizioni/</guid>
+<pubDate>Mon, 07 Sep 2026 17:27:33 +0000</pubDate>
+<description>La leader di +Europa è stata soccors in casa nel pomeriggio e trasportata in codice rosso all’ospedale Santo Spirito Redazione web Ultim'ora</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RDIQPGHNPRJANOKE7QND6WZI54.jpg?smart=true&amp;auth=1189ea76a42c152b07f54074aaa9f9075a4fcafa54d7748e3ef0f1683f1719d7&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>L’onda sovranista scuote l’Occidente: dopo l’AfD, tutte le elezioni che possono cambiare Europa e Usa</title>
+<link>https://www.ilgiornale.it/news/politica-estera/londa-sovranista-scuote-loccidente-dopo-lafd-tutte-le-elezioni-che-possono-cambiare-europa-e-usa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/londa-sovranista-scuote-loccidente-dopo-lafd-tutte-le-elezioni-che-possono-cambiare-europa-e-usa/</guid>
+<pubDate>Mon, 07 Sep 2026 17:12:52 +0000</pubDate>
+<description>Cosa ci dice davvero la Germania - l'editoriale di Cerno Dalla Svezia alla Francia, fino alle midterm americane: destra radicale e populisti avanzano mentre la sinsitra perde terreno Redazione web Il terremoto dell’ultradestra e il “problema” di Merz: cosa può fare il cancelliere</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DDWBYMJ5LFJBJEK6FS3XVBLJRQ.jpg?smart=true&amp;auth=057e04d89d4ed26d50928a5f4254ecf2c47f60c24d7bfa59e627f0e715e22950&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>AfD al 43,8% ma senza maggioranza: ecco i cinque scenari che possono sconvolgere la Sassonia</title>
 <link>https://www.ilgiornale.it/news/politica-estera/afd-al-438-ma-senza-maggioranza-ecco-i-cinque-scenari-che-possono-sconvolgere-la-sassonia/</link>
@@ -787,21 +803,6 @@
 <pubDate>Sun, 06 Sep 2026 10:02:05 +0000</pubDate>
 <description>Cernobbio, il sondaggio in platea promuove il governo Meloni e stronca le opposizioni Salvini: "Le opposizioni? non sempre sanno di cosa parlano” Il 68,3% degli imprenditori valuta positivamente l’operato del governo. Per i partiti di opposizione i giudizi negativi salgono all’83%, dieci punti in più rispetto al 2025 Redazione web Vannacci e Monti al Forum</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/U3GXIYHVAFPC5J7XD3LAVKVNFY.jpg?focal=383%2C186&amp;auth=4d51be5fa448eecd7379c0e4254529dfe41ae9570994b58eeca378aa3ea339dd&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Il generale non sia l’arma dell’opposizione</title>
-<link>https://www.ilgiornale.it/news/interni/il-generale-non-sia-larma-dellopposizione/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-generale-non-sia-larma-dellopposizione/</guid>
-<pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
-<description>A cura di Vittorio Feltri</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FOHE6KNO7Q5JX7LKRZKFQUKW6KE.jpg?smart=true&amp;auth=bb0fa3e9a72b4dfd5068608ba8009649f50d7fba509cbbb03108f038b40a16ce&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>La possibilità di emanciparsi</title>
-<link>https://www.ilgiornale.it/news/societa/la-possibilita-di-emanciparsi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/la-possibilita-di-emanciparsi/</guid>
-<pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Società La possibilità di emanciparsi Francesca Albergotti</description>
 </item>
 </channel>
 </rss>
