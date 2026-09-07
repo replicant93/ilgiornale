@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 14:34:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 14:51:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bernie Ecclestone, arrestato in Portogallo: nel suo jet privato spunta un fucile (e non è la prima volta)</title>
+<link>https://www.ilgiornale.it/news/attualita/bernie-ecclestone-arrestato-in-portogallo-nel-suo-jet-privato-spunta-un-fucile-e-non-e-la-prima-volta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/bernie-ecclestone-arrestato-in-portogallo-nel-suo-jet-privato-spunta-un-fucile-e-non-e-la-prima-volta/</guid>
+<pubDate>Mon, 07 Sep 2026 14:47:45 +0000</pubDate>
+<description>A 95 anni, l’ex numero uno della Formula 1 torna al centro dell’attenzione per una vicenda legata alle armi. Quattro anni fa era già stato fermato in Brasile per un caso simile Roberta Damiata</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CKZS5NGDWVKBDIHDPCRU2KRSFM.jpg?smart=true&amp;auth=2d04f1eba91941ac1bcfbd13ab77b4ee8f37c80289b62fb42e91f537db8ef5a8&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Spagna, il caso Plus Ultra si allarga: la deposizione che complica la posizione di Zapatero</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/spagna-il-caso-plus-ultra-si-allarga-la-deposizione-che-complica-la-posizione-di-zapatero/</link>
@@ -792,14 +800,6 @@
 <pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Società Come superare il delirio woke Pier Luigi del Viscovo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FCJA35OYZ35P2XASGZUYQ2CZ4GQ.png?smart=true&amp;auth=ebc35d3d9480850a545541dc5cb13e8ee487895b0c77c6add67fb431417db1e9&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Fine delle vacanze, ritorno in strada: ecco i nuovi cartelli stradali che forse non tutti conoscono</title>
-<link>https://www.ilgiornale.it/news/attualita/fine-delle-vacanze-ritorno-in-strada-ecco-i-nuovi-cartelli-stradali-che-forse-non-tutti-conoscono/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/fine-delle-vacanze-ritorno-in-strada-ecco-i-nuovi-cartelli-stradali-che-forse-non-tutti-conoscono/</guid>
-<pubDate>Sun, 06 Sep 2026 09:54:21 +0000</pubDate>
-<description>Ecco i nuovi cartelli stradali comparsi nelle autostrade spagnole: cosa significano e perché è importante conoscerli Federico Garau</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WD6HGA2TCZGYFGBHDUBL4PA3EU.jpg?focal=1076%2C783&amp;auth=1f0ee4e0bbdb58fd03d3995f7fdaf5a20bf5a7d41d69c36bb361775b2538549b&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
