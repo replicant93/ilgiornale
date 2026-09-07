@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 07 Sep 2026 15:32:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 15:49:37 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>“Circonderemo il Palazzo”. La minaccia antifà contro l’elezione di AfD</title>
@@ -14,6 +14,14 @@
 <pubDate>Mon, 07 Sep 2026 15:25:36 +0000</pubDate>
 <description>Francesca Galici</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/PETUA5PPTVBSDMGWSI6L46QP2M.jpg?smart=true&amp;auth=a0f4428730ead282a2b6080bd5ffffb1eb0e4825b6d4f0d701d6e70536515b17&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Rispetto e violenza di genere, Valditara gela il prof: “Si insegnano già dal 2024”</title>
+<link>https://www.ilgiornale.it/news/interni/rispetto-e-violenza-di-genere-valditara-gela-il-prof-si-insegnano-gia-dal-2024/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/rispetto-e-violenza-di-genere-valditara-gela-il-prof-si-insegnano-gia-dal-2024/</guid>
+<pubDate>Mon, 07 Sep 2026 15:20:06 +0000</pubDate>
+<description>Il ministro replica al docente Andrea Maggi sul consenso informato: “La normativa non impedisce di educare al rispetto, all’empatia e al contrasto della violenza di genere” Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DCA6CF2MDNDJRO4BPNLYI52JWQ.jpg?smart=true&amp;auth=15e36137fa7f1e5ee14f09de186aa30e67c8973e6451767f16c43219838a6994&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>Tassare il porno: ecco come l’Ucraina cerca nuove fonti di guadagno per finanziare la guerra</title>
@@ -792,14 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica/la-via-duscita-davvero-possibile/</guid>
 <pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Politica La via d'uscita davvero possibile Lucio Martino</description>
-</item>
-<item>
-<title>Vannacci sfida l’Europa e Monti. Cernobbio applaude il Professore</title>
-<link>https://www.ilgiornale.it/news/interni/vannacci-sfida-leuropa-e-monti-cernobbio-applaude-il-professore/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/vannacci-sfida-leuropa-e-monti-cernobbio-applaude-il-professore/</guid>
-<pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
-<description>Cernobbio, il sondaggio in platea promuove il governo Meloni e stronca le opposizioni Salvini: "Le opposizioni? non sempre sanno di cosa parlano” Il 68,3% degli imprenditori valuta positivamente l’operato del governo. Per i partiti di opposizione i giudizi negativi salgono all’83%, dieci punti in più rispetto al 2025 Redazione web Vannacci sfida l’Europa e Monti. Cernobbio applaude il Professore</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/U3GXIYHVAFPC5J7XD3LAVKVNFY.jpg?focal=383%2C186&amp;auth=4d51be5fa448eecd7379c0e4254529dfe41ae9570994b58eeca378aa3ea339dd&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
