@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 20:17:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 20:33:48 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Malagò, problemi con il tesseramento: la Procura del Coni respinge la richiesta di archiviazione</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/malago-problemi-con-il-tesseramento-la-procura-del-coni-respinge-la-richiesta-di-archiviazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/malago-problemi-con-il-tesseramento-la-procura-del-coni-respinge-la-richiesta-di-archiviazione/</guid>
+<pubDate>Tue, 08 Sep 2026 20:24:45 +0000</pubDate>
+<description>Il procuratore generale dello Sport ha chiesto spiegazioni sull’indagine portata avanti da Chiné: ecco di cosa si tratta Alessandro Ferro</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5QTFR4PEUNA57KBX2IUYWIU7PE.jpg?focal=2915%2C875&amp;auth=0877e53232ff3fe7ac1c49280de27f6a584218dc9d80d4f06eebae527fd4fbc7&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Cerno asfalta Magi e la sinistra: “Sta con l’islam che uccide i gay, siamo al capolinea della democrazia”</title>
 <link>https://www.ilgiornale.it/news/interni/cerno-asfalta-magi-e-la-sinistra-sta-con-lislam-che-uccide-i-gay-siamo-al-capolinea-della-democrazia/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 15:53:35 +0000</pubDate>
 <description>Centinaia di manifestanti tentano di impedire il trasferimento dei richiedenti asilo verso il centro di accoglienza. Tensione con la polizia, il governo condanna i disordini Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LCKROIA62VANLBAHREUFHBPQ6Y.png?smart=true&amp;auth=362f2728954d673ff34f979ce183600a01e11b1e86965514d24506c4dee465b1&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Harry e Meghan, la decisione di Re Carlo: “Rimangono fuori dalla famiglia reale”</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/harry-e-meghan-la-decisione-di-re-carlo-rimangono-fuori-dalla-famiglia-reale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/harry-e-meghan-la-decisione-di-re-carlo-rimangono-fuori-dalla-famiglia-reale/</guid>
-<pubDate>Mon, 07 Sep 2026 15:48:47 +0000</pubDate>
-<description>Il rientro dei Sussex in Inghilterra non riapre le porte della monarchia: Harry e Meghan restano fuori dagli incarichi ufficiali, con gli stili di “Sua Altezza Reale” ancora sospesi e le attività benefiche considerate personali. A chiarirlo Re Carlo III Roberta Damiata</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XYSHHX55LRJTRN7JUTRR5B367U.jpg?smart=true&amp;auth=141df21c558d69c379670ebbe4be49211e1bb3a2ee637c5f611ad24a17c68b4b&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
