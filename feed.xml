@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 12:29:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 12:50:54 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ecovacs Winbot W2S Pro: il robot lavavetri che sta in una valigetta</title>
+<link>https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</guid>
+<pubDate>Tue, 08 Sep 2026 12:49:50 +0000</pubDate>
+<description>Luigi Melita</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OTCGTSEBXFD67M62FWWYW6TW4E.jpeg?smart=true&amp;auth=f7ce801197070997a29499cd88dcba5d64367bcc1122d03286715538264d2e8c&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Se affonda Ceuta, affonda l’Europa”. Il monito del presidente dell’exclave. Arrestato un altro marocchino per stupro</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/se-affonda-ceuta-affonda-leuropa-il-monito-del-presidente-dellexclave-arrestato-un-altro-marocchino-per-stupro/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
 <description>Pasquale Napolitano</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/2TKYDAKVDBBKLHMZZJUBJPONSY.jpg?focal=587%2C143&amp;auth=cc3309bfb0e65ef834b69a2a37d6464e0aebdc31aaea894a9953d3b546acbd8a&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Calabresi spacca il Pd e a Milano ora è arenato. “Io? Aspetto la politica”</title>
-<link>https://www.ilgiornale.it/news/interni/calabresi-spacca-il-pd-e-a-milano-ora-e-arenato-io-aspetto-la-politica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/calabresi-spacca-il-pd-e-a-milano-ora-e-arenato-io-aspetto-la-politica/</guid>
-<pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
-<description>Da Scalfari a Fo: quell’odio cieco contro suo padre ancora resiste L’aspirante candidato prova a buttarla sul buonismo ma è in un ginepraio. La candidatura destabilizza i dem, crea problemi a Elly e Majorino non ci sta Francesca Neri</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/3B53WQTY5RHY3EZAD7NIHA2AE4.jpg?focal=1657%2C1393&amp;auth=3c1bcd3346eb5ff997bceced94c59ba003be8947e02208dd5c60d9384880370e&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
