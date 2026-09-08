@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 07:42:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 07:58:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Colpo al museo di Cagnes-sur-Mer: rubati tre capolavori di Renoir. Valgono 9 milioni di euro</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/colpo-al-museo-di-cagnes-sur-mer-rubati-tre-capolavori-di-renoir-valgono-9-milioni-di-euro/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/colpo-al-museo-di-cagnes-sur-mer-rubati-tre-capolavori-di-renoir-valgono-9-milioni-di-euro/</guid>
+<pubDate>Tue, 08 Sep 2026 07:57:31 +0000</pubDate>
+<description>Blitz nella notte all’interno del museo. Il bilancio del furto è pesante: sono stati portati via quattro capolavori multimilionari, uno è poi rimasto indietro Federico Garau</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/2ZRO7CT4D5AR3EWPB6M5TS52TY.jpg?focal=552%2C393&amp;auth=aca68bea37813e72a567a360c7266cb7617d61a22468f657a6679b5f56208e77&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Muore a 14 anni di tumore: cos’è il “metodo Hamer” e perché con la chemioterapia si sarebbe potuto salvare</title>
+<link>https://www.ilgiornale.it/news/nazionale/muore-a-14-anni-di-tumore-cose-il-metodo-hamer-e-perche-con-la-chemioterapia-si-sarebbe-potuto-salvare/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/muore-a-14-anni-di-tumore-cose-il-metodo-hamer-e-perche-con-la-chemioterapia-si-sarebbe-potuto-salvare/</guid>
+<pubDate>Tue, 08 Sep 2026 07:53:09 +0000</pubDate>
+<description>Si poteva salvare, poi la percentuale di sopravvivenza è scesa drasticamente con l’avanzare della malattia: qual è la storia di Francesco Gianello Alessandro Ferro</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FII4B7XB7RBX3CTZ3AB2YBENXI.jpg?smart=true&amp;auth=835d41d46d030bb5cf94995e6964095f6dc1e7f741f7a4bd3aa4c65cee36f9aa&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>La notte in ospedale, il tumore e la crisi respiratoria: come sta Emma Bonino</title>
 <link>https://www.ilgiornale.it/news/interni/la-notte-in-ospedale-di-emma-bonino-come-sta-la-leader-radicale-dopo-la-crisi-respiratoria/</link>
@@ -785,21 +801,6 @@
 <pubDate>Mon, 07 Sep 2026 05:24:32 +0000</pubDate>
 <description>F1, Antonelli nella storia: parte ultimo e vince il Gp di Monza Attimi di terrore per Leclerc: si schianta contro un muro a 200km all’ora Il ventenne della Mercedes firma la settima vittoria in carriera e allunga su Russell nel Mondiale. Disastro Ferrari: Leclerc a muro, Hamilton sesto Luca Bocci “E Kimi chiamò...”. Monza s’inchina. L’Italia corre con lui Paura Leclerc e delusione: Ferrari, che incubo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FEMMKMUGN5FDXIMDH3ULHFYH2E.jpg?focal=1310%2C862&amp;auth=a7ff5d25e11b109246241b6ec638e5ed841f9b655a6d37abcf383cabce2208a0&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Giorgetti: “Su Mps governo del tutto neutrale”</title>
-<link>https://www.ilgiornale.it/news/banche/giorgetti-su-mps-governo-del-tutto-neutrale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/banche/giorgetti-su-mps-governo-del-tutto-neutrale/</guid>
-<pubDate>Mon, 07 Sep 2026 05:22:58 +0000</pubDate>
-<description>Gian Maria De Francesco</description>
-</item>
-<item>
-<title>Lmdv apre la nuova fase. “I soci Delfin dialoghino”</title>
-<link>https://www.ilgiornale.it/news/aziende/lmdv-apre-la-nuova-fase-i-soci-delfin-dialoghino/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/lmdv-apre-la-nuova-fase-i-soci-delfin-dialoghino/</guid>
-<pubDate>Mon, 07 Sep 2026 05:22:00 +0000</pubDate>
-<description>Gian Maria De Francesco</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/BVE5LYDQYFGKPIPT7YYK4FRVRY.jpg?focal=2379%2C585&amp;auth=5c9e3871f15558d38d31449e1ed5bac67b5052344a814df786c8aec6abd40337&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
