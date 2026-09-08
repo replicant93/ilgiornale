@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 12:50:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 13:14:12 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Non ho fatto niente di sbagliato”. La difesa del bengalese che ha violentato una 13enne a Torino</title>
+<link>https://www.ilgiornale.it/news/nazionale/non-ho-fatto-niente-di-sbagliato-la-difesa-del-bengalese-che-ha-violentato-una-13enne-a-torino/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/non-ho-fatto-niente-di-sbagliato-la-difesa-del-bengalese-che-ha-violentato-una-13enne-a-torino/</guid>
+<pubDate>Tue, 08 Sep 2026 12:54:28 +0000</pubDate>
+<description>In attesa della pronuncia del Riesame, il 42enne è stato raggiunto da Quarta Repubblica: “Qui otterrò giustizia” Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/EAAVHWFR4VDIRMQXHOUQS5QOU4.jpg?smart=true&amp;auth=4ab8c2df84b905d1f46a2967019c7ce40a9cab220452afdcc49d2349c011aec4&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Ecovacs Winbot W2S Pro: il robot lavavetri che sta in una valigetta</title>
 <link>https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
 <description>Rita Cavallaro , Giulia Sorrentino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OR2YD5WUKRHBLDVUPQNAGGJ46M.jpg?focal=1008%2C347&amp;auth=b20006db62ddae08db012592feb2e60682ceddc6b97416148586a7c119a82533&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Il gaffeur che sogna un ruolo da regista nel campo largo</title>
-<link>https://www.ilgiornale.it/news/interni/il-gaffeur-che-sogna-un-ruolo-da-regista-nel-campo-largo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-gaffeur-che-sogna-un-ruolo-da-regista-nel-campo-largo/</guid>
-<pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
-<description>Pasquale Napolitano</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/2TKYDAKVDBBKLHMZZJUBJPONSY.jpg?focal=587%2C143&amp;auth=cc3309bfb0e65ef834b69a2a37d6464e0aebdc31aaea894a9953d3b546acbd8a&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
