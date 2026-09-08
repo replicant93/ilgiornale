@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 16:13:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 16:35:01 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’Iran punta sul nuovo missile Qassem Basir: cosa può fare e come può colpire le forze Usa</title>
+<link>https://www.ilgiornale.it/news/guerra/liran-punta-sul-nuovo-missile-qassem-basir-cosa-puo-fare-e-come-puo-colpire-le-forze-usa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/liran-punta-sul-nuovo-missile-qassem-basir-cosa-puo-fare-e-come-puo-colpire-le-forze-usa/</guid>
+<pubDate>Tue, 08 Sep 2026 16:21:19 +0000</pubDate>
+<description>DIRETTA L’accusa di Londra: “In Cisgiordania pulizia etnica”. Israele: “Governo britannico alimenta antisemitismo nel mondo”. Teheran: “Catturato drone sottomarino Usa” L’Iran punta sul nuovo missile Qassem Basir: cosa può fare e come può colpire le forze Usa Secondo l’inchiesta del giornale israeliano, Hamas e Tel Aviv stavano lavorando ad un accordo prima della guerra. Lo stop alle trattative avrebbe portato agli attacchi terroristici dello Shabbat di sangue Redazione web Hilltop Youth: chi sono i giovani coloni israeliani che vogliono prendersi la Cisgiordania</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/HOCL24IIZNC67JA6UZQJJSQHP4.jpg?smart=true&amp;auth=19beddbb01f079b5e753b3781a6a7fb4d75fb4d92ee12de787c80953f474eaa4&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Pensioni, scatto in avanti nel 2027: l’inflazione spinge al rialzo gli assegni, ecco chi ne beneficerà</title>
 <link>https://www.ilgiornale.it/news/previdenza-e-pensioni/pensioni-scatto-in-avanti-nel-2027-linflazione-spinge-al-rialzo-gli-assegni-ecco-chi-ne-beneficera/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 07 Sep 2026 11:20:56 +0000</pubDate>
 <description>Psoe in calo, Vox continua a crescere. Il premier attacca “l’ultradestra internazionale”, ma i numeri raccontano un’altra storia Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CBJNY74BAVBHZK3GQWX7S4TB2Q.jpg?smart=true&amp;auth=cb30986576f6d83975ac89b2638c03d75d517a4245deca2d8f87d5acf3066dd0&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Commissario Montalbano, Sotheby’s mette in vendita le dimore della fiction: da Scicli a Ragusa, due location storiche</title>
-<link>https://www.ilgiornale.it/news/personaggi/commissario-montalbano-sothebys-mette-in-vendita-le-dimore-della-fiction-da-scicli-a-ragusa-due-location-storiche/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/commissario-montalbano-sothebys-mette-in-vendita-le-dimore-della-fiction-da-scicli-a-ragusa-due-location-storiche/</guid>
-<pubDate>Mon, 07 Sep 2026 10:17:08 +0000</pubDate>
-<description>Dalla casa affacciata sul Municipio di Scicli al grande palazzo ottocentesco di Ragusa, due proprietà legate alla storia della celebre fiction Roberta Damiata</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/SPCB36RLJJM3TMVEQT4H6TJI74.jpg?focal=341%2C127&amp;auth=5f3995453367654fa4ecee00ce283741669703565288af5d790b30deb3f63514&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
