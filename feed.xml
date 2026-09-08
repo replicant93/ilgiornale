@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 19:17:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 19:31:44 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cerno asfalta Magi e la sinistra: “Sta con l’islam che uccide i gay, siamo al capolinea della democrazia”</title>
+<link>https://www.ilgiornale.it/news/interni/cerno-asfalta-magi-e-la-sinistra-sta-con-lislam-che-uccide-i-gay-siamo-al-capolinea-della-democrazia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/cerno-asfalta-magi-e-la-sinistra-sta-con-lislam-che-uccide-i-gay-siamo-al-capolinea-della-democrazia/</guid>
+<pubDate>Tue, 08 Sep 2026 19:23:40 +0000</pubDate>
+<description>Il direttore è stato ospite di Quarta Repubblica e ha rivendicato la sua non partecipazione al Pride di quest’anno: “Difendete il carcere culturale e oscurantista” Alessandra Corradi</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RBIHEHFXZNAUTKAIE55VOE7QAI.jpg?smart=true&amp;auth=4b3646acb4f3dc1f8befd604b5b98a44cb1e5c2ef229f881dcabad33b23e54a2&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Ranucci sibillino sulla discesa in campo: “Se mi cacciano dalla Rai...”</title>
 <link>https://www.ilgiornale.it/news/attualita/ranucci-sibillino-sulla-discesa-in-campo-se-mi-cacciano-dalla-rai/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 15:48:47 +0000</pubDate>
 <description>Il rientro dei Sussex in Inghilterra non riapre le porte della monarchia: Harry e Meghan restano fuori dagli incarichi ufficiali, con gli stili di “Sua Altezza Reale” ancora sospesi e le attività benefiche considerate personali. A chiarirlo Re Carlo III Roberta Damiata</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XYSHHX55LRJTRN7JUTRR5B367U.jpg?smart=true&amp;auth=141df21c558d69c379670ebbe4be49211e1bb3a2ee637c5f611ad24a17c68b4b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Circonderemo il Palazzo”. La minaccia antifà contro l’elezione di AfD</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/circonderemo-il-palazzo-la-minaccia-antifa-contro-lelezione-di-afd/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/circonderemo-il-palazzo-la-minaccia-antifa-contro-lelezione-di-afd/</guid>
-<pubDate>Mon, 07 Sep 2026 15:25:36 +0000</pubDate>
-<description>Francesca Galici</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/PETUA5PPTVBSDMGWSI6L46QP2M.jpg?smart=true&amp;auth=a0f4428730ead282a2b6080bd5ffffb1eb0e4825b6d4f0d701d6e70536515b17&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
