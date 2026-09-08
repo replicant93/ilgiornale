@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 07:24:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 07:42:47 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>La notte in ospedale, il tumore e la crisi respiratoria: come sta Emma Bonino</title>
@@ -14,6 +14,14 @@
 <pubDate>Tue, 08 Sep 2026 07:14:58 +0000</pubDate>
 <description>Ricoverata d'urgenza: cosa è successo Dal 2015, e fino al 2023, Bonino è stata in cura per un microcitoma polmonare: l’ultimo ricovero risale alla fine del 2025 Francesca Galici Il tumore, l'aborto, la liberalizzazione delle droghe: le battaglie di Emma Bonino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FC2USKP6T5GJFHYU2ZCLU4P5RA.jpg?smart=true&amp;auth=55dda34363b401b9b290de08d5ef92359f312eef4ccef19a0cc4e3fa0da77886&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Uomini, operai e con un basso livello di istruzione: chi sono i tedeschi che hanno votato AfD</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/uomini-operai-e-con-un-basso-livello-di-istruzione-chi-sono-i-tedeschi-che-hanno-votato-afd/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/uomini-operai-e-con-un-basso-livello-di-istruzione-chi-sono-i-tedeschi-che-hanno-votato-afd/</guid>
+<pubDate>Tue, 08 Sep 2026 07:06:12 +0000</pubDate>
+<description>Cosa ci dice davvero la Germania - l'editoriale di Cerno La vittoria in Sassonia-Anhalt racconta una trasformazione profonda del consenso all’AfD. Ma il dato più significativo è un altro: l’AfD è riuscita a conquistare anche giovani e una parte consistente dell’elettorato astensionista Francesca Salvatore Il terremoto dell’ultradestra e il “problema” di Merz: cosa può fare il cancelliere L’onda sovranista scuote l’Occidente: dopo l’AfD, tutte le elezioni che possono cambiare Europa e Usa</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/I7ARWGQTF5BTVHAYVF6WIF67SI.jpg?focal=1596%2C481&amp;auth=a1e565b2ce54946d480aa63f2cc95f5b6a145c02ff96a4443cf7f7a07557209e&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
 <title>“Aveva paura di lui”: il racconto della madre di Lorena Isceri prima del femminicidio di Barberino di Mugello</title>
@@ -792,14 +800,6 @@
 <pubDate>Mon, 07 Sep 2026 05:22:00 +0000</pubDate>
 <description>Gian Maria De Francesco</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/BVE5LYDQYFGKPIPT7YYK4FRVRY.jpg?focal=2379%2C585&amp;auth=5c9e3871f15558d38d31449e1ed5bac67b5052344a814df786c8aec6abd40337&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Xi mette la Cina in modalità crisi: cosa prevede la nuova legge sulla mobilitazione e cosa può cambiare</title>
-<link>https://www.ilgiornale.it/news/politica-estera/xi-mette-la-cina-in-modalita-crisi-cosa-prevede-la-nuova-legge-sulla-mobilitazione-e-cosa-puo-cambiare/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/xi-mette-la-cina-in-modalita-crisi-cosa-prevede-la-nuova-legge-sulla-mobilitazione-e-cosa-puo-cambiare/</guid>
-<pubDate>Mon, 07 Sep 2026 04:00:01 +0000</pubDate>
-<description>Politica estera Xi mette la Cina in modalità crisi: cosa prevede la nuova legge sulla mobilitazione e cosa può cambiare Imprese private, dati, software, droni e risorse civili entrano nel sistema della difesa. Pechino punta a reagire più rapidamente in caso di emergenza Federico Giuliani</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZGRANZUBWNJOROLAO2ZTRAI3OQ.jpg?smart=true&amp;auth=dd450cf60dc67e816b7a6c55cbd3d9e7798f2e680a4b486748bb150ba1bf98a4&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
