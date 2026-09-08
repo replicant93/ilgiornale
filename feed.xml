@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 13:51:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 14:14:28 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Anziani morti in ambulanza, Luca spada e i selfie con le bare. I carabinieri: “Spinta ossessiva”</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/anziani-morti-in-ambulanza-luca-spada-e-i-selfie-con-le-bare-i-carabinieri-spinta-ossessiva/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/anziani-morti-in-ambulanza-luca-spada-e-i-selfie-con-le-bare-i-carabinieri-spinta-ossessiva/</guid>
+<pubDate>Tue, 08 Sep 2026 13:56:58 +0000</pubDate>
+<description>La relazione del Racis di Roma sulla personalità dell’ex autista, in carcere con l’accusa di aver ucciso sei pazienti con iniezioni d’aria Alessandro Ferro</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OOPPGVZG75DVXGSZIQVLCGRNXM.jpg?smart=true&amp;auth=144e8d1cfbad98fb49ff209c3ffe61953a28caae819ec2b84100ff6c7d60c40c&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Hilltop Youth: chi sono i giovani coloni israeliani che vogliono prendersi la Cisgiordania</title>
 <link>https://www.ilgiornale.it/news/cronache/hilltop-youth-chi-sono-i-giovani-coloni-israeliani-che-vogliono-prendersi-la-cisgiordania/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
 <description>Francesco Giubilei</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DBL63CE3UJEGDIXKYPKT7UXSZM.jpg?smart=true&amp;auth=e6d72846f604a5868558e25ce26e21423941c26da7ac691d53a1935f1dc16ee2&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Lady Lavitola si sfoga: “Sono il gatto e la volpe”. Quegli affari con Ranucci</title>
-<link>https://www.ilgiornale.it/news/interni/lady-lavitola-si-sfoga-sono-il-gatto-e-la-volpe-quegli-affari-con-ranucci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lady-lavitola-si-sfoga-sono-il-gatto-e-la-volpe-quegli-affari-con-ranucci/</guid>
-<pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
-<description>Pasquale Napolitano , Giulia Sorrentino</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/AVF5ACTT5BF6DGTUHV2P7UCBM4.jpg?focal=1315%2C514&amp;auth=c919f36fe5077120173ea8b677501a1a818630fdb4d0cdd110e706f5ac044d4a&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
