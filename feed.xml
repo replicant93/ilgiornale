@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 13:14:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 13:33:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Hilltop Youth: chi sono i giovani coloni israeliani che vogliono prendersi la Cisgiordania</title>
+<link>https://www.ilgiornale.it/news/cronache/hilltop-youth-chi-sono-i-giovani-coloni-israeliani-che-vogliono-prendersi-la-cisgiordania/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/hilltop-youth-chi-sono-i-giovani-coloni-israeliani-che-vogliono-prendersi-la-cisgiordania/</guid>
+<pubDate>Tue, 08 Sep 2026 13:15:50 +0000</pubDate>
+<description>La denuncia di Haaretz: “Netanyahu avvertito dagli Emirati 10 giorni prima dell’attacco del 7 ottobre”. Lui smentisce: “Menzogna, mai informati” Hilltop Youth: chi sono i giovani coloni israeliani che vogliono prendersi la Cisgiordania Secondo l’inchiesta del giornale israeliano, Hamas e Tel Aviv stavano lavorando ad un accordo prima della guerra. Lo stop alle trattative avrebbe portato agli attacchi terroristici dello Shabbat di sangue Redazione web DIRETTA</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/HOCL24IIZNC67JA6UZQJJSQHP4.jpg?smart=true&amp;auth=19beddbb01f079b5e753b3781a6a7fb4d75fb4d92ee12de787c80953f474eaa4&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Non ho fatto niente di sbagliato”. La difesa del bengalese che ha violentato una 13enne a Torino</title>
 <link>https://www.ilgiornale.it/news/nazionale/non-ho-fatto-niente-di-sbagliato-la-difesa-del-bengalese-che-ha-violentato-una-13enne-a-torino/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
 <description>Pasquale Napolitano , Giulia Sorrentino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/AVF5ACTT5BF6DGTUHV2P7UCBM4.jpg?focal=1315%2C514&amp;auth=c919f36fe5077120173ea8b677501a1a818630fdb4d0cdd110e706f5ac044d4a&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Altro che scatto casuale in Autogrill. Ecco la relazione dei servizi sull’incontro</title>
-<link>https://www.ilgiornale.it/news/interni/altro-che-scatto-casuale-in-autogrill-ecco-la-relazione-dei-servizi-sullincontro/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/altro-che-scatto-casuale-in-autogrill-ecco-la-relazione-dei-servizi-sullincontro/</guid>
-<pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
-<description>Rita Cavallaro , Giulia Sorrentino</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OR2YD5WUKRHBLDVUPQNAGGJ46M.jpg?focal=1008%2C347&amp;auth=b20006db62ddae08db012592feb2e60682ceddc6b97416148586a7c119a82533&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
