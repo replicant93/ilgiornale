@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 16:35:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 16:50:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>James Bond, Gary Oldman lancia la “soffiata”: il nuovo 007 sarebbe già stato scelto</title>
+<link>https://www.ilgiornale.it/news/cinema/james-bond-gary-oldman-lancia-la-soffiata-il-nuovo-007-sarebbe-gia-stato-scelto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/james-bond-gary-oldman-lancia-la-soffiata-il-nuovo-007-sarebbe-gia-stato-scelto/</guid>
+<pubDate>Tue, 08 Sep 2026 16:41:55 +0000</pubDate>
+<description>Jack Lowden è tra i favoriti per raccogliere l’eredità di Daniel Craig. L’annuncio ufficiale potrebbe arrivare presto Davide Bartoccini</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/2YDWQQ3TDNBB5LJGI5YDHECPEA.jpg?smart=true&amp;auth=c08c42b20d053d24c63fb589c64140bbc7d2cf87af84eddf098df3d5d4cbc79c&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>L’Iran punta sul nuovo missile Qassem Basir: cosa può fare e come può colpire le forze Usa</title>
 <link>https://www.ilgiornale.it/news/guerra/liran-punta-sul-nuovo-missile-qassem-basir-cosa-puo-fare-e-come-puo-colpire-le-forze-usa/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 07 Sep 2026 11:24:04 +0000</pubDate>
 <description>Le simulazioni dell’Osservatorio previdenza Cgil indicano una riduzione del 10,6% in alcuni profili, con perdite tra 183 e 366 euro lordi mensili Valentina Menassi</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZIV5T6YE55PVNN4YCERS5NM2JY.jpg?smart=true&amp;auth=c0a28950cf1297db0beeb7b80f5babfde7f8d6320c2ee33d711d1cda37166fdd&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La Spagna volta le spalle a Sanchez: destra oltre il 50%</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/la-spagna-volta-le-spalle-a-sanchez-destra-oltre-il-50/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/la-spagna-volta-le-spalle-a-sanchez-destra-oltre-il-50/</guid>
-<pubDate>Mon, 07 Sep 2026 11:20:56 +0000</pubDate>
-<description>Psoe in calo, Vox continua a crescere. Il premier attacca “l’ultradestra internazionale”, ma i numeri raccontano un’altra storia Massimo Balsamo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CBJNY74BAVBHZK3GQWX7S4TB2Q.jpg?smart=true&amp;auth=cb30986576f6d83975ac89b2638c03d75d517a4245deca2d8f87d5acf3066dd0&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
