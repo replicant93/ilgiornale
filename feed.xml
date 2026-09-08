@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 17:58:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 18:21:28 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Us Open: Orfani di Sinner, 3 anni dopo niente Italia ai quarti</title>
+<link>https://www.ilgiornale.it/news/tennis/us-open-orfani-di-sinner-3-anni-dopo-niente-italia-ai-quarti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/us-open-orfani-di-sinner-3-anni-dopo-niente-italia-ai-quarti/</guid>
+<pubDate>Tue, 08 Sep 2026 18:12:52 +0000</pubDate>
+<description>Col ko di Darderi nessun nostro tennista L’ultima volta allo Us Open ’23 Marco Lombardo Juve, la rivincita degli indesiderati La Lazio vince: è prima</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DUNRPGFOL5CCTDP5A2SKCDZK7I.jpg?smart=true&amp;auth=c81d09a3e83b9a026a535a7b07e49fbf11ca773be9f6c313a9908cd7fe6da50a&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Passione, ricordi e le Ferrari dei record. Al Mugello il Gran Premio d’Italia Storico</title>
 <link>https://www.ilgiornale.it/news/auto-moto-motori/passione-ricordi-e-le-ferrari-dei-record-al-mugello-il-gran-premio-ditalia-storico/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 13:44:44 +0000</pubDate>
 <description>L’ex presidente della compagnia aerea racconta al giudice di una commissione dell’1 per cento e di un contratto da 5mila euro al mese per favorire il salvataggio da 53 milioni. L’ex premier socialista nega ogni coinvolgimento Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/6EIXXFEBAJAUPLJXGHK6GPH5GE.jpg?focal=1810%2C481&amp;auth=5b9ae9d138176e91d17e7c90fe571295e4e3a184530a0ac9722b88eb3a68622a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Ora il Pd va in corteo con i No Tav: “Non impediamo a nessuno di aggiungersi”</title>
-<link>https://www.ilgiornale.it/news/interni/ora-il-pd-va-in-corteo-con-i-no-tav-non-impediamo-a-nessuno-di-aggiungersi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ora-il-pd-va-in-corteo-con-i-no-tav-non-impediamo-a-nessuno-di-aggiungersi/</guid>
-<pubDate>Mon, 07 Sep 2026 13:26:16 +0000</pubDate>
-<description>Dopo i gravi fatti di luglio, un esponente del Partito democratico, il sindaco di Caselette, prenderà parte a un corteo Francesca Galici</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OHRTFT7JENCYRGC6A3MVBD3DSY.jpg?focal=1504%2C891&amp;auth=0cc0ffda14427793e8d9ac7b4e72912ebc2330fff6f401942b9840091c000448&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
