@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 05:32:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 05:49:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Se il Como incuriosisce l’Europa</title>
+<link>https://www.ilgiornale.it/news/calcio/se-il-como-incuriosisce-leuropa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/se-il-como-incuriosisce-leuropa/</guid>
+<pubDate>Tue, 08 Sep 2026 05:41:05 +0000</pubDate>
+<description>commento Calcio Se il Como incuriosisce l’Europa Tony Damascelli</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FBMBKS24BURILLIA2NWA2M6JJF4.png?smart=true&amp;auth=350d7bf71fde71ed635a596675930a58bc764773eada92ba38c667f237b390f7&amp;width=100&amp;height=100" medium="image" />
+</item>
+<item>
+<title>La sfida dei bengalesi di Padova che lanciano il partito islamico: “Anche noi possiamo governare”</title>
+<link>https://www.ilgiornale.it/news/attualita/la-sfida-dei-bengalesi-di-padova-che-lanciano-il-partito-islamico-anche-noi-possiamo-governare/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/la-sfida-dei-bengalesi-di-padova-che-lanciano-il-partito-islamico-anche-noi-possiamo-governare/</guid>
+<pubDate>Tue, 08 Sep 2026 05:38:43 +0000</pubDate>
+<description>La comunità bengalese di Padova guarda alle prossime elezioni comunali e rivendica un ruolo sempre più centrale nella vita politica della città. Tra richieste su casa e scuola e l’ipotesi di candidati nelle liste del centrosinistra, non mancano le accuse della Lega sul rischio di una crescente influenza dell’islam politico Giulia Sorrentino</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RXHL2BM3OZGSHAM5MF2NIMUDBM.PNG?focal=413%2C277&amp;auth=92c8ed3cd2b4ba3f1d3e631ae1ab734bba77710e90fb78c3dce5f6c75924fdbc&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Ucraina, finita la tregua: la Russia torna a colpire Kiev. Due morti e sette feriti</title>
 <link>https://www.ilgiornale.it/diretta/guerra/ucraina-finita-la-tregua-la-russia-torna-a-colpire-kiev-due-morti-e-sette-feriti/</link>
@@ -787,22 +803,6 @@
 <pubDate>Sun, 06 Sep 2026 13:16:17 +0000</pubDate>
 <description>Domenico Giordano</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/6SF6PDBFCRAARBNHGRHLG7CHXE.jpg?smart=true&amp;auth=71e17f202eeec097a5aeba4215cf2b3c055162dda38470d65b6aacb973c9e97b&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Troppo caffè può indebolire le ossa</title>
-<link>https://www.ilgiornale.it/news/benessere/troppo-caffe-puo-indebolire-le-ossa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/troppo-caffe-puo-indebolire-le-ossa/</guid>
-<pubDate>Sun, 06 Sep 2026 13:10:49 +0000</pubDate>
-<description>Troppo caffè può indebolire le ossa</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/AVAKJDPEL5KWXKWBIQG7REVWAQ.jpg?focal=1335%2C760&amp;auth=8d73d432d50590ba3e06cb8517ef85e30dfc9ed23306ba2f7d2af4f8a127722d&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Come superare il delirio woke</title>
-<link>https://www.ilgiornale.it/news/societa/come-superare-il-delirio-woke/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/come-superare-il-delirio-woke/</guid>
-<pubDate>Sun, 06 Sep 2026 13:06:03 +0000</pubDate>
-<description>commento Società Come superare il delirio woke Pier Luigi del Viscovo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FCJA35OYZ35P2XASGZUYQ2CZ4GQ.png?smart=true&amp;auth=ebc35d3d9480850a545541dc5cb13e8ee487895b0c77c6add67fb431417db1e9&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
