@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 09:33:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 09:50:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La scuola italiana resta in piedi. Valditara sui dati Ocse-Pisa: “Siamo sopra la media, diventiamo un riferimento internazionale”</title>
+<link>https://www.ilgiornale.it/news/politica/la-scuola-italiana-resta-in-piedi-valditara-sui-dati-ocse-pisa-siamo-sopra-la-media-diventiamo-un-riferimento-internazionale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/la-scuola-italiana-resta-in-piedi-valditara-sui-dati-ocse-pisa-siamo-sopra-la-media-diventiamo-un-riferimento-internazionale/</guid>
+<pubDate>Tue, 08 Sep 2026 09:47:08 +0000</pubDate>
+<description>Politica La scuola italiana resta in piedi. Valditara sui dati Ocse-Pisa: “Siamo sopra la media, diventiamo un riferimento internazionale” Il ministro dell’Istruzione parla di un sistema di istruzione “solido” e sottolinea anche la riduzione dei divari tra Nord e Sud Valentina Menassi</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/BJXPIQKQZZBPDPFJXEEWPTENBY.jpg?smart=true&amp;auth=5b0785f7501588583a89eb872be827d798721889ec63a5fd2bb070e0d53a18ba&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Cos’è il microcitoma polmonare, il tumore combattuto da Emma Bonino</title>
 <link>https://www.ilgiornale.it/news/salute/cose-il-microcitoma-polmonare-il-tumore-combattuto-da-emma-bonino/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 05:29:25 +0000</pubDate>
 <description>Le reazioni della politica italiana La partita, tuttavia, non riguarda soltanto la Sassonia-Anhalt. Nuovo problema per Merz Francesca Salvatore</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/A6ZR5D6W3VAVJO236O5QW36RCY.jpg?smart=true&amp;auth=41d7a01675cb35e3d01944d6acf234d419d89aec7b70db1e8fb469849b542bcb&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Normalità, rivoluzioni e ora c’è la Champions</title>
-<link>https://www.ilgiornale.it/news/calcio/normalita-rivoluzioni-e-ora-ce-la-champions/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/normalita-rivoluzioni-e-ora-ce-la-champions/</guid>
-<pubDate>Mon, 07 Sep 2026 05:28:59 +0000</pubDate>
-<description>commento Calcio Normalità, rivoluzioni e ora c’è la Champions Tony Damascelli</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FBMBKS24BURILLIA2NWA2M6JJF4.png?smart=true&amp;auth=350d7bf71fde71ed635a596675930a58bc764773eada92ba38c667f237b390f7&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
