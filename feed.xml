@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 06:28:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 06:49:46 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Angelina Jolie a sorpresa a Kharkiv</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/angelina-jolie-visita-a-sorpresa-una-palestra-di-pugilato-a-kharkiv/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/angelina-jolie-visita-a-sorpresa-una-palestra-di-pugilato-a-kharkiv/</guid>
+<pubDate>Tue, 08 Sep 2026 06:30:55 +0000</pubDate>
+<description>Ucraina, finita la tregua: la Russia torna a colpire Kiev. Due morti e sette feriti Angelina Jolie a sorpresa a Kharkiv Dopo tre giorni di stop agli attacchi sulla capitale, riprendono i raid russi. L’allarme aereo è scattato nella notte: colpiti edifici alla periferia della città. Attacco con droni anche sulla russa Saratov, dove sono state danneggiate infrastrutture civili Redazione web Tassare il porno: ecco come l’Ucraina cerca nuove fonti di guadagno per finanziare la guerra Terremoto a Kiev, si dimette il procuratore generale: l’ombra delle tangenti sui call center illegali DIRETTA</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/AERXZ7SUFFEGDOYZEBRWCVE5GI.jpg?focal=3804%2C2880&amp;auth=f4783d3839100b9b9e675b1ca6dace84937af85807d46c877e70fad091310757&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Se il Como incuriosisce l’Europa</title>
 <link>https://www.ilgiornale.it/news/calcio/se-il-como-incuriosisce-leuropa/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sun, 06 Sep 2026 13:16:31 +0000</pubDate>
 <description>Nonostante la gravità dell’azione, l’autorità giudiziaria ha disposto la scarcerazione dell’indagato. La reazione del sindacato di Polizia Coisp Federico Garau</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/4LHRHNAFGNDYRIUDXZ7R3Z77NY.jfif?focal=581%2C392&amp;auth=dc3504d9307344112d37a1aa0c4bd5de4812d2d976cf09cabda671a4942548cf&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Meloni sfonda quota 7 milioni su Facebook: ora Macron è nel mirino</title>
-<link>https://www.ilgiornale.it/news/governo/meloni-sfonda-quota-7-milioni-su-facebook-ora-macron-e-nel-mirino/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-sfonda-quota-7-milioni-su-facebook-ora-macron-e-nel-mirino/</guid>
-<pubDate>Sun, 06 Sep 2026 13:16:17 +0000</pubDate>
-<description>Domenico Giordano</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/6SF6PDBFCRAARBNHGRHLG7CHXE.jpg?smart=true&amp;auth=71e17f202eeec097a5aeba4215cf2b3c055162dda38470d65b6aacb973c9e97b&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
