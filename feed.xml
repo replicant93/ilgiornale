@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 16:50:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 17:12:30 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Troppa carne e poco verde”. Alla Festa dell’Unità parte la crociata contro le grigliate</title>
+<link>https://www.ilgiornale.it/news/societa/troppa-carne-e-poco-verde-alla-festa-dellunita-parte-la-crociata-contro-le-grigliate/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/troppa-carne-e-poco-verde-alla-festa-dellunita-parte-la-crociata-contro-le-grigliate/</guid>
+<pubDate>Tue, 08 Sep 2026 16:59:23 +0000</pubDate>
+<description>La protesta degli ecologisti a Modena riapre il dibattito sul cibo “politicamente corretto”: ecco il j’accuse dei vegani Massimo Balsamo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VYZYC5WKLJJ3VCPHQDN3H2EO5U.jpg?smart=true&amp;auth=fffbb79980bbc9c25ff93aa525090801c92254b762aacb57d4f858a29f823b59&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>James Bond, Gary Oldman lancia la “soffiata”: il nuovo 007 sarebbe già stato scelto</title>
 <link>https://www.ilgiornale.it/news/cinema/james-bond-gary-oldman-lancia-la-soffiata-il-nuovo-007-sarebbe-gia-stato-scelto/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 07 Sep 2026 11:29:02 +0000</pubDate>
 <description>Cosa ci dice davvero la Germania Merz fa autocritica: “Non abbiamo stabilito un contatto emotivo con la gente”. Cdu scossa nelle fondamenta: “Ora coesione” In Sassonia non hanno solo votato, hanno strappato il velo all’ipocrisia di una alleanza con la sinistra che ormai traballa da mesi Tommaso Cerno Il terremoto dell’ultradestra e il “problema” di Merz: cosa può fare il cancelliere</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/A6ZR5D6W3VAVJO236O5QW36RCY.jpg?focal=1971%2C820&amp;auth=41d7a01675cb35e3d01944d6acf234d419d89aec7b70db1e8fb469849b542bcb&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Pensione anticipata a 64 anni, quanto costa uscire prima</title>
-<link>https://www.ilgiornale.it/news/cittadini/pensione-anticipata-a-64-anni-quanto-costa-uscire-prima/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/pensione-anticipata-a-64-anni-quanto-costa-uscire-prima/</guid>
-<pubDate>Mon, 07 Sep 2026 11:24:04 +0000</pubDate>
-<description>Le simulazioni dell’Osservatorio previdenza Cgil indicano una riduzione del 10,6% in alcuni profili, con perdite tra 183 e 366 euro lordi mensili Valentina Menassi</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZIV5T6YE55PVNN4YCERS5NM2JY.jpg?smart=true&amp;auth=c0a28950cf1297db0beeb7b80f5babfde7f8d6320c2ee33d711d1cda37166fdd&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
