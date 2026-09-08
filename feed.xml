@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 08 Sep 2026 09:13:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 09:33:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cos’è il microcitoma polmonare, il tumore combattuto da Emma Bonino</title>
+<link>https://www.ilgiornale.it/news/salute/cose-il-microcitoma-polmonare-il-tumore-combattuto-da-emma-bonino/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/salute/cose-il-microcitoma-polmonare-il-tumore-combattuto-da-emma-bonino/</guid>
+<pubDate>Tue, 08 Sep 2026 09:22:42 +0000</pubDate>
+<description>Federico Garau</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/YLHSZOKQQ5LTDAQBRXUPNRE3LA.jpg?smart=true&amp;auth=4bcf873382330e5b408fe24bb588aa6d680e05633c6f16cdc3f4b6f90372bd6f&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Famiglia nel bosco, aperto un procedimento disciplinare per l’assistente sociale: “Ostile e non imparziale”</title>
 <link>https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-aperto-un-procedimento-disciplinare-per-lassistente-sociale-ostile-e-non-imparziale/</link>
@@ -794,13 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 05:28:59 +0000</pubDate>
 <description>commento Calcio Normalità, rivoluzioni e ora c’è la Champions Tony Damascelli</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FBMBKS24BURILLIA2NWA2M6JJF4.png?smart=true&amp;auth=350d7bf71fde71ed635a596675930a58bc764773eada92ba38c667f237b390f7&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Finalmente sappiamo tifare l’uomo e non l’auto</title>
-<link>https://www.ilgiornale.it/news/motori/finalmente-sappiamo-tifare-luomo-e-non-lauto/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/finalmente-sappiamo-tifare-luomo-e-non-lauto/</guid>
-<pubDate>Mon, 07 Sep 2026 05:27:36 +0000</pubDate>
-<description>commento Motori Finalmente sappiamo tifare l’uomo e non l’auto Benny Casadei Lucchi</description>
 </item>
 </channel>
 </rss>
