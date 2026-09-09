@@ -5,8 +5,23 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 13:20:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 13:43:34 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bimbo di 5 anni precipita dalla finestra al terzo piano e muore, la tragedia a Genova</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/bimbo-di-5-anni-precipita-dalla-finestra-al-terzo-piano-e-muore-la-tragedia-a-genova/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/bimbo-di-5-anni-precipita-dalla-finestra-al-terzo-piano-e-muore-la-tragedia-a-genova/</guid>
+<pubDate>Wed, 09 Sep 2026 13:39:27 +0000</pubDate>
+<description>Il piccolo è caduto da un’altezza di circa 15 metri. La madre è stata fermata dai vigili del fuoco mentre tentava di lanciarsi nel vuoto. Indagini in corso. Roberta Damiata</description>
+</item>
+<item>
+<title>Iader Fabbri: “La fame non si vince con la forza di volontà, ma imparando ad ascoltare il nostro corpo”</title>
+<link>https://www.ilgiornale.it/news/dieta-e-alimentazione/iader-fabbri-la-fame-non-si-vince-con-la-forza-di-volonta-ma-imparando-ad-ascoltare-il-nostro-corpo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/dieta-e-alimentazione/iader-fabbri-la-fame-non-si-vince-con-la-forza-di-volonta-ma-imparando-ad-ascoltare-il-nostro-corpo/</guid>
+<pubDate>Wed, 09 Sep 2026 13:16:56 +0000</pubDate>
+<description>Roberta Damiata</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/GBKC3O2RZJFXJEN2KAW4YI6RLA.jpg?smart=true&amp;auth=563c21de963c53e058e2841dfd0124a750efc5e3f7f8fb32fb702bb4e56492ae&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Caos voli nel Regno Unito, un errore in un documento militare ha mandato in blocco il sistema. Il precedente del 2023</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/caos-voli-nel-regno-unito-un-errore-in-un-documento-militare-ha-mandato-in-blocco-il-sistema-il-precedente-del-2023/</link>
@@ -784,22 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>Vittorio Feltri</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/YUKP4HGUMJGULM23UT3ERTGBQU.jpg?focal=2892%2C1101&amp;auth=0f3588353cc4886cdfd11e887d80d01be125516806c2f6f9601421d58557d9b1&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>I “rossobruni” decisivi e quell’asse dai migranti alla guerra</title>
-<link>https://www.ilgiornale.it/news/politica-estera/i-rossobruni-decisivi-e-quellasse-dai-migranti-alla-guerra/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/i-rossobruni-decisivi-e-quellasse-dai-migranti-alla-guerra/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Giacomo Cozzaglio</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/UPFKUBWB3JNQDHCZCEVVAOYZXA.jpg?focal=3737%2C1125&amp;auth=1b551732dd3b6543cb2eeef74a61cef009207078a5dc7a2fe0d73ec67b049574&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Boom anti-sistema: il ritorno alle urne di 170mila astenuti. E “scippata” la Cdu</title>
-<link>https://www.ilgiornale.it/news/politica/boom-anti-sistema-il-ritorno-alle-urne-di-170mila-astenuti-e-scippata-la-cdu/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/boom-anti-sistema-il-ritorno-alle-urne-di-170mila-astenuti-e-scippata-la-cdu/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Francesco De Remigis</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/NULXK4LY2JDRRLNMT4UW3M3WQY.jpg?smart=true&amp;auth=6be27fc778d138399ae8ae1f963d444e54fecef32971e0d902c96c01604473b9&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
