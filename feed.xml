@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 13:43:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 13:57:46 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il gastroenterologo che ha galleggiato per 3 giorni nel lago di Bracciano</title>
+<link>https://www.ilgiornale.it/news/attualita/il-gastroenterologo-che-ha-galleggiato-per-3-giorni-nel-lago-di-bracciano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/il-gastroenterologo-che-ha-galleggiato-per-3-giorni-nel-lago-di-bracciano/</guid>
+<pubDate>Wed, 09 Sep 2026 13:46:45 +0000</pubDate>
+<description>Centosettanta chilometri, sonno indotto con l’ipnosi, nessun appoggio a terra: la storia di Marco Fratini, il medico di Perugia che ha segnato un nuovo record Paolo Lazzari</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/D7B25RQY35JB3KDAWEGGLL6RGU.jpg?smart=true&amp;auth=6eb572c2dd9cae714aa82e00bd1b168337484390f6be034799a5d6dc1c5fc566&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Bimbo di 5 anni precipita dalla finestra al terzo piano e muore, la tragedia a Genova</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/bimbo-di-5-anni-precipita-dalla-finestra-al-terzo-piano-e-muore-la-tragedia-a-genova/</link>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>Francesco De Palo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CRZKK32P2BF2FJA2AGXWKMDFSM.jpg?focal=848%2C962&amp;auth=722b14a831fc2673c01498048927dc02cc737904be5a1d788d60edaf6463513b&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Basta con le etichette. Un'affluenza all'80% va rispettata</title>
-<link>https://www.ilgiornale.it/news/politica-estera/basta-con-le-etichette-unaffluenza-all80-va-rispettata/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/basta-con-le-etichette-unaffluenza-all80-va-rispettata/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Vittorio Feltri</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/YUKP4HGUMJGULM23UT3ERTGBQU.jpg?focal=2892%2C1101&amp;auth=0f3588353cc4886cdfd11e887d80d01be125516806c2f6f9601421d58557d9b1&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
