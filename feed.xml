@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 14:51:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 15:12:24 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Caos a Firenze, scoppia la rissa tra stranieri e i cittadini perdono la pazienza: ecco cosa è successo</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/caos-a-firenze-scoppia-la-rissa-tra-stranieri-e-i-cittadini-perdono-la-pazienza-ecco-cosa-e-successo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/caos-a-firenze-scoppia-la-rissa-tra-stranieri-e-i-cittadini-perdono-la-pazienza-ecco-cosa-e-successo/</guid>
+<pubDate>Wed, 09 Sep 2026 15:01:58 +0000</pubDate>
+<description>L’episodio davanti a un centro commerciale di San Jacopino. L’ennesima rissa tra immigrati ha scatenato la reazione di chi era presente. Scoppia la polemica Federico Garau</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VSLA4BEAJRHGNHOF6XU32VKXLQ.jpeg?focal=662%2C291&amp;auth=be7ff5bf8292df13bc8f2bfd347ddb9dac2bf83519bf46a9e78f67a2d526803f&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Il gastroenterologo che ha galleggiato per 3 giorni nel lago di Bracciano</title>
 <link>https://www.ilgiornale.it/news/attualita/il-gastroenterologo-che-ha-galleggiato-per-3-giorni-nel-lago-di-bracciano/</link>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>L’ex compagna di Lavitola ha già depositato un faldone sui rapporti tra i due Pasquale Napolitano , Giulia Sorrentino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JEPSVHIFHVGBHPHU7QD6DDICBY.jpg?focal=79%2C91&amp;auth=1153546bbfe9c1ab3010a3cc1f1cb8294253c34a986bd6cf69bce4510c5ba79e&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Siegmund vede Berlino. “Weidel sarà cancelliera. E l’AfD arriverà al 40%”</title>
-<link>https://www.ilgiornale.it/news/politica-estera/siegmund-vede-berlino-weidel-sara-cancelliera-e-lafd-arrivera-al-40/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/siegmund-vede-berlino-weidel-sara-cancelliera-e-lafd-arrivera-al-40/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Francesco De Palo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CRZKK32P2BF2FJA2AGXWKMDFSM.jpg?focal=848%2C962&amp;auth=722b14a831fc2673c01498048927dc02cc737904be5a1d788d60edaf6463513b&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
