@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 18:43:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 18:56:35 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ceuta, cosa rivelano i rapporti di intelligence: “Anche il Marocco era stato avvertito”</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/crisi-di-ceuta-cosa-rivelano-i-rapporti-di-intelligence-anche-il-marocco-era-stato-avvertito/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/crisi-di-ceuta-cosa-rivelano-i-rapporti-di-intelligence-anche-il-marocco-era-stato-avvertito/</guid>
+<pubDate>Wed, 09 Sep 2026 18:43:20 +0000</pubDate>
+<description>La spocchia di Sanchez: “Meloni al governo da 3 anni? Noi da 8″. Ma continua a ignorare la crisi dei migranti Ceuta, cosa rivelano i rapporti di intelligence: “Anche il Marocco era stato avvertito” Il premier spagnolo si è autoincensato per i risultati economici del suo governo, senza però affrontare la crisi dei suoi consensi o la disastrosa situazione di Ceuta Filippo Jacopo Carpani</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/X7KWZU7Y5FCDPCHXEK5HTVBMHA.jpg?focal=1823%2C370&amp;auth=d3dd3c13a05363f2de1ca3e029d5cc7f7b4e00a23046ad15430dec02f5e44b8a&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>L’ultima di Ranucci: “Nulla di segreto, sono tutte caz...e”. Ma spuntano altre chat</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/lultima-di-ranucci-nulla-di-segreto-sono-tutte-caze-ma-spuntano-altre-chat/</link>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:04:29 +0000</pubDate>
 <description>I funerali del boia di Srebrenica, il reportage di Fausto Biloslavo Fausto Biloslavo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F09-08-2026%2Ft_4a0473ce32a44df692828f113e69cd6a_name_file_640x360_600_v4_.jpg?smart=true&amp;auth=5e52d709b18084e98ca1484e4ba32d7ef773f55e2d2bf93a27a923429848f9e7&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Il senso di Ursula per la neve</title>
-<link>https://www.ilgiornale.it/news/europa/il-senso-di-ursula-per-la-neve/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/il-senso-di-ursula-per-la-neve/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>A cura di Tommaso Cerno</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
 </item>
 </channel>
 </rss>
