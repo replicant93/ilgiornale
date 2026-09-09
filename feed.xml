@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 06:45:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 07:00:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>La missione segreta dei Navy SEAL e il drone sottomarino catturato da Teheran: cosa succede nello Stretto di Hormuz</title>
@@ -38,6 +38,14 @@
 <pubDate>Wed, 09 Sep 2026 05:00:00 +0000</pubDate>
 <description>Retrogusto La Torre del Saracino lascia Vico Equense e va a Sorrento Andrea Cuomo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/V5TV3XWC3RGFZFQ5YAAU7BTUWY.jpg?smart=true&amp;auth=033bdf12484ff794a32bc01d4c7d08ff47b35b89e702b8892d1036d1c6f38fa7&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Xi prepara la Cina allo choc energetico: il piano sul petrolio che può cambiare tutto</title>
+<link>https://www.ilgiornale.it/news/economia-e-finanza/xi-prepara-la-cina-allo-choc-energetico-il-piano-sul-petrolio-che-puo-cambiare-tutto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/economia-e-finanza/xi-prepara-la-cina-allo-choc-energetico-il-piano-sul-petrolio-che-puo-cambiare-tutto/</guid>
+<pubDate>Wed, 09 Sep 2026 04:00:01 +0000</pubDate>
+<description>Scorte record, fornitori diversificati e meno dipendenza dai consumi tradizionali: Pechino si è costruita un margine di sicurezza che può pesare anche nelle crisi geopolitiche Federico Giuliani</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/7YOR2ZYMRJP4DGV4HEYHPHN6HU.jpg?smart=true&amp;auth=e2f725b034299fcba41de1b8d279b8bcb1d0f4a3d21ad68195d46fa7132947c8&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>Malagò, problemi con il tesseramento: la Procura del Coni respinge la richiesta di archiviazione</title>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 17:27:33 +0000</pubDate>
 <description>La leader di +Europa è stata soccors in casa nel pomeriggio e trasportata in codice rosso all’ospedale Santo Spirito Redazione web Ultim'ora</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RDIQPGHNPRJANOKE7QND6WZI54.jpg?smart=true&amp;auth=1189ea76a42c152b07f54074aaa9f9075a4fcafa54d7748e3ef0f1683f1719d7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>L’onda sovranista scuote l’Occidente: dopo l’AfD, tutte le elezioni che possono cambiare Europa e Usa</title>
-<link>https://www.ilgiornale.it/news/politica-estera/londa-sovranista-scuote-loccidente-dopo-lafd-tutte-le-elezioni-che-possono-cambiare-europa-e-usa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/londa-sovranista-scuote-loccidente-dopo-lafd-tutte-le-elezioni-che-possono-cambiare-europa-e-usa/</guid>
-<pubDate>Mon, 07 Sep 2026 17:12:52 +0000</pubDate>
-<description>Cosa ci dice davvero la Germania - l'editoriale di Cerno Dalla Svezia alla Francia, fino alle midterm americane: destra radicale e populisti avanzano mentre la sinsitra perde terreno Redazione web Il terremoto dell’ultradestra e il “problema” di Merz: cosa può fare il cancelliere</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DDWBYMJ5LFJBJEK6FS3XVBLJRQ.jpg?smart=true&amp;auth=057e04d89d4ed26d50928a5f4254ecf2c47f60c24d7bfa59e627f0e715e22950&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
