@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 11:23:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 11:41:25 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La bara bianca e lo striscione degli amici: “Resterai sempre qui”. I funerali di Lorena Isceri</title>
+<link>https://www.ilgiornale.it/news/nazionale/la-bara-bianca-e-lo-striscione-degli-amici-resterai-sempre-qui-i-funerali-di-lorena-isceri/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/la-bara-bianca-e-lo-striscione-degli-amici-resterai-sempre-qui-i-funerali-di-lorena-isceri/</guid>
+<pubDate>Wed, 09 Sep 2026 11:26:56 +0000</pubDate>
+<description>La cerimonia funebre a Squinzano (Lecce), paese d’origine della 45enne uccisa dall’ex compagno Federico Vella a Barberino del Mugello Rosa Scognamiglio</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/R7JRHLJWIJE7NMZO2EB6S7PBZQ.jpg?focal=1469%2C1078&amp;auth=2103aba366f14e9725b12503f177437c0e7a3b19f6de7960a03867264f10746b&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Skin care dopo le vacanze: sei step per una pelle rigenerata e luminosa</title>
 <link>https://www.ilgiornale.it/news/benessere/skin-care-dopo-le-vacanze-sei-step-per-una-pelle-rigenerata-e-luminosa/</link>
@@ -792,14 +800,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>Un altro imprenditore in commissione contro l’ex collega di studio allora premier: “Ci chiese solo il 5% per ‘presentarci’ ai vertici e avere un prestito”. Fratelli d’Italia: “Il leader M5s chiarisca” Felice Manti</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/NOMDYSWIC5IV3BNHMEASMBENRM.jpg?focal=1887%2C2278&amp;auth=30a4943cd52dbd4027205782c01a3be01e7af5b804521b50eb5a3d51bee731f9&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Sardegna Cayenna d’Italia”, autogol della Todde sul 41 bis</title>
-<link>https://www.ilgiornale.it/news/interni/sardegna-cayenna-ditalia-autogol-della-todde-sul-41-bis/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/sardegna-cayenna-ditalia-autogol-della-todde-sul-41-bis/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Detenuti trasferiti, la governatrice accusa il governo ma la scelta fu di Conte Felice Manti</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WDQQ3FYE2ZBP5OJPPUFMTOCVYU.jpg?focal=485%2C494&amp;auth=54500bb5bf295ed7d066b4e1b6fc0745a3129ca242d46642bf27564b7591ce99&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
