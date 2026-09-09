@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 13:00:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 13:20:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Caos voli nel Regno Unito, un errore in un documento militare ha mandato in blocco il sistema. Il precedente del 2023</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/caos-voli-nel-regno-unito-un-errore-in-un-documento-militare-ha-mandato-in-blocco-il-sistema-il-precedente-del-2023/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/caos-voli-nel-regno-unito-un-errore-in-un-documento-militare-ha-mandato-in-blocco-il-sistema-il-precedente-del-2023/</guid>
+<pubDate>Wed, 09 Sep 2026 13:14:46 +0000</pubDate>
+<description>Penalizzati anche oggi soprattutto gli scali di Londra Alessandro Ferro</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/4HH4LBKYOFE4RFLGQHGGRUMG5U.jpg?smart=true&amp;auth=c4a228450e3649eef21dd34bf3b48f917ef36dc4a1aea96844165d33c7d25b05&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Milano, problema tecnico alla linea elettrica: treni cancellati e ritardi fino a un’ora</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/milano-problema-tecnico-alla-linea-elettrica-treni-cancellati-e-ritardi-fino-a-unora/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/milano-problema-tecnico-alla-linea-elettrica-treni-cancellati-e-ritardi-fino-a-unora/</guid>
+<pubDate>Wed, 09 Sep 2026 13:01:39 +0000</pubDate>
+<description>I disagi riguardano i Malpensa Express, i treni della linea per Lecco e quelli della linea di Alta velocità per Torino Porta Nuova Redazione web</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/6HGAVWGJBNM5ZEEIMOTGWMSYGE.jpg?focal=2372%2C672&amp;auth=2de1fc426569f5884766297e6f6941d6fdda62eb6080555174127759d951c45b&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>11 settembre, bufera su Mamdani a New York: 98mila firme per tenerlo lontano da Ground Zero</title>
 <link>https://www.ilgiornale.it/news/terrorismo/11-settembre-bufera-su-mamdani-a-new-york-98mila-firme-per-tenerlo-lontano-da-ground-zero/</link>
@@ -784,22 +800,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>Francesco De Remigis</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/NULXK4LY2JDRRLNMT4UW3M3WQY.jpg?smart=true&amp;auth=6be27fc778d138399ae8ae1f963d444e54fecef32971e0d902c96c01604473b9&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Noi nati nel cuore della società. I vecchi partiti? Esploderanno”</title>
-<link>https://www.ilgiornale.it/news/politica-estera/noi-nati-nel-cuore-della-societa-i-vecchi-partiti-esploderanno/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/noi-nati-nel-cuore-della-societa-i-vecchi-partiti-esploderanno/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Francesco De Felice</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/HFQHPIITJZBL5KLWVFOAC5AQJM.jpg?focal=957%2C487&amp;auth=e81b19e2192cc0d086e6987b8b8b1c865a338f02ec80ef7e9ac3f436df44b0f4&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Editori, riviste e think tank: l'élite culturale del movimento</title>
-<link>https://www.ilgiornale.it/news/politica-estera/editori-riviste-e-think-tank-lelite-culturale-del-movimento/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/editori-riviste-e-think-tank-lelite-culturale-del-movimento/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Francesco Giubilei</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/SMJC72F7ZNASFK4GN67HLHB5KM.jpg?focal=1015%2C875&amp;auth=67a3638ad72e796f1c32cb56bf0bffb6643bcebd8fbed7fd50fdeca347721892&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
