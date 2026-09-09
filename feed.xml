@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 15:50:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 16:13:15 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Caparezza, l’annuncio choc dal palco: “Lasciatemi andare. Non so che fine farò, ve lo dico con sincerità”</title>
+<link>https://www.ilgiornale.it/news/personaggi/caparezza-lannuncio-choc-dal-palco-lasciatemi-andare-non-so-che-fine-faro-ve-lo-dico-con-sincerita/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/caparezza-lannuncio-choc-dal-palco-lasciatemi-andare-non-so-che-fine-faro-ve-lo-dico-con-sincerita/</guid>
+<pubDate>Wed, 09 Sep 2026 15:49:44 +0000</pubDate>
+<description>Il messaggio con cui il cantante si è accomiatato dal suo pubblico, accorso per assistere alla tappa conclusiva del tour legato all’album “Orbit Orbit”, ha allarmato i fan Federico Garau</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FPTS4HQSVFKPDNVO4MDXFPOOSQ.jpg?smart=true&amp;auth=ba18968f859e80727475dec80a892c54ed7412570afd0e78dead7d7492f51842&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Caos a Firenze, scoppia la rissa tra stranieri e i cittadini perdono la pazienza: ecco cosa è successo</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/caos-a-firenze-scoppia-la-rissa-tra-stranieri-e-i-cittadini-perdono-la-pazienza-ecco-cosa-e-successo/</link>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>Pasquale Napolitano , Giulia Sorrentino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LLVEVEHCARHQLLBCK6IOXG6LPQ.jpg?focal=1410%2C413&amp;auth=e75a7e04fedecd7fa4fb6c45b1c1a6d3a364b02265880d8118ad541ea3003087&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Ranucci si spese e mediò per sbloccare l'acquisto del Cefalù</title>
-<link>https://www.ilgiornale.it/news/magistratura/ranucci-si-spese-e-medio-per-sbloccare-lacquisto-del-cefalu/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/ranucci-si-spese-e-medio-per-sbloccare-lacquisto-del-cefalu/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>L’ex compagna di Lavitola ha già depositato un faldone sui rapporti tra i due Pasquale Napolitano , Giulia Sorrentino</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JEPSVHIFHVGBHPHU7QD6DDICBY.jpg?focal=79%2C91&amp;auth=1153546bbfe9c1ab3010a3cc1f1cb8294253c34a986bd6cf69bce4510c5ba79e&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
