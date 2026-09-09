@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 16:13:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 16:33:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La spocchia di Sanchez: “Meloni al governo da 3 anni? Noi da 8″. Ma continua a ignorare la crisi dei migranti</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/la-spocchia-di-sanchez-meloni-al-governo-da-3-anni-noi-da-8-ma-continua-a-ignorare-la-crisi-dei-migranti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/la-spocchia-di-sanchez-meloni-al-governo-da-3-anni-noi-da-8-ma-continua-a-ignorare-la-crisi-dei-migranti/</guid>
+<pubDate>Wed, 09 Sep 2026 16:16:04 +0000</pubDate>
+<description>Il premier spagnolo si è autoincensato per i risultati economici del suo governo, senza però affrontare la crisi dei suoi consensi o la disastrosa situazione di Ceuta Filippo Jacopo Carpani</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/X7KWZU7Y5FCDPCHXEK5HTVBMHA.jpg?focal=1823%2C370&amp;auth=d3dd3c13a05363f2de1ca3e029d5cc7f7b4e00a23046ad15430dec02f5e44b8a&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Caparezza, l’annuncio choc dal palco: “Lasciatemi andare. Non so che fine farò, ve lo dico con sincerità”</title>
 <link>https://www.ilgiornale.it/news/personaggi/caparezza-lannuncio-choc-dal-palco-lasciatemi-andare-non-so-che-fine-faro-ve-lo-dico-con-sincerita/</link>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>Giù la maschera L’alleato Bonaccinen Luigi Mascheroni</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/PBCMCDQFANIO7NGKFEOFQ6VXQE.jpg?smart=true&amp;auth=29f403589aacd55e4b3bcf55f61eb2c00e7e2d58a480606e4b1d21be8cb10dfa&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Il documento choc: tra Valter e Sigfrido. 8 telefonate al giorno. I consigli su Report</title>
-<link>https://www.ilgiornale.it/news/magistratura/il-documento-choc-tra-valter-e-sigfrido-8-telefonate-al-giorno-i-consigli-su-report/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/il-documento-choc-tra-valter-e-sigfrido-8-telefonate-al-giorno-i-consigli-su-report/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Pasquale Napolitano , Giulia Sorrentino</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LLVEVEHCARHQLLBCK6IOXG6LPQ.jpg?focal=1410%2C413&amp;auth=e75a7e04fedecd7fa4fb6c45b1c1a6d3a364b02265880d8118ad541ea3003087&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
