@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 17:11:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 17:31:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sassaiola contro la polizia nel centro di accoglienza migranti di Cagliari dopo un accoltellamento</title>
+<link>https://www.ilgiornale.it/news/nazionale/sassaiola-contro-la-polizia-nel-centro-di-accoglienza-migranti-di-cagliari-dopo-un-accoltellamento/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sassaiola-contro-la-polizia-nel-centro-di-accoglienza-migranti-di-cagliari-dopo-un-accoltellamento/</guid>
+<pubDate>Wed, 09 Sep 2026 17:02:35 +0000</pubDate>
+<description>La rotta del canale di Sardegna sta incrementando la sua portata. FdI: “La Sardegna non può e non deve rassegnarsi a diventare l’hub occidentale della clandestinità nel Mediterraneo” Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZOODPCRFABMBPFBEQUNAB5DN34.jpg?focal=540%2C322&amp;auth=f4ff76e2eace9e13bda959d4f5c3d62139fd8d99346d9276a54f7b2f52947d38&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La spocchia di Sanchez: “Meloni al governo da 3 anni? Noi da 8″. Ma continua a ignorare la crisi dei migranti</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/la-spocchia-di-sanchez-meloni-al-governo-da-3-anni-noi-da-8-ma-continua-a-ignorare-la-crisi-dei-migranti/</link>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Politica internazionale La Giorgia che manca a Berlino Filippo Facci</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2F3HVFMH7JMFL5PB2RLDPDA32HTE.jpg?smart=true&amp;auth=5fafc1fb93f37d3b5f3175d5762059fba1bdd1e991f2cca5f517ddb4577aae79&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>L’alleato Bonaccinen</title>
-<link>https://www.ilgiornale.it/news/giu-la-maschera/lalleato-bonaccinen/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/lalleato-bonaccinen/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Giù la maschera L’alleato Bonaccinen Luigi Mascheroni</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/PBCMCDQFANIO7NGKFEOFQ6VXQE.jpg?smart=true&amp;auth=29f403589aacd55e4b3bcf55f61eb2c00e7e2d58a480606e4b1d21be8cb10dfa&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
