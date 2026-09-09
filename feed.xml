@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 10:50:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 11:01:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Skin care dopo le vacanze: sei step per una pelle rigenerata e luminosa</title>
+<link>https://www.ilgiornale.it/news/benessere/skin-care-dopo-le-vacanze-sei-step-per-una-pelle-rigenerata-e-luminosa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/skin-care-dopo-le-vacanze-sei-step-per-una-pelle-rigenerata-e-luminosa/</guid>
+<pubDate>Wed, 09 Sep 2026 10:54:24 +0000</pubDate>
+<description>Mariangela Cutrone</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VCGH73QRIBF2NNE6U2IOPLPF4E.jpg?focal=2334%2C1625&amp;auth=1265bf8fff424be01c9e87dc596fc0014fb90892000e0f1b1e136ba6cb18af34&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Le ultime rivelazioni di Brusca: “Volevamo dare la colpa delle stragi del ‘92 e ‘93 alla sinistra per aiutare Berlusconi”</title>
 <link>https://www.ilgiornale.it/news/magistratura/le-ultime-rivelazioni-di-brusca-volevamo-dare-la-colpa-delle-stragi-del-92-e-93-alla-sinistra-per-aiutare-berlusconi/</link>
@@ -792,14 +800,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>Detenuti trasferiti, la governatrice accusa il governo ma la scelta fu di Conte Felice Manti</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/WDQQ3FYE2ZBP5OJPPUFMTOCVYU.jpg?focal=485%2C494&amp;auth=54500bb5bf295ed7d066b4e1b6fc0745a3129ca242d46642bf27564b7591ce99&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“La sinistra snobba imprese e Pil, impossibile da scegliere”</title>
-<link>https://www.ilgiornale.it/news/interni/la-sinistra-snobba-imprese-e-pil-impossibile-da-scegliere/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-sinistra-snobba-imprese-e-pil-impossibile-da-scegliere/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Parla Nicola Rossi: “Non è chiaro come usciremmo dalla situazione attuale con un governo di centrosinistra” Gian Maria De Francesco</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5Z2LEN7MPFMNDGHL7KS27I2SJ4.jpg?focal=237%2C147&amp;auth=6d84d59d15ef14bb8443ec0b48f99909ffe50db8bff3495da41f81e49f8c374d&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
