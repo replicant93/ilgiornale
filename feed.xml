@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 04:58:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 05:17:14 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La Torre del Saracino lascia Vico Equense e va a Sorrento</title>
+<link>https://www.ilgiornale.it/news/retrogusto/la-torre-del-saracino-lascia-vico-equense-e-va-a-sorrento/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/la-torre-del-saracino-lascia-vico-equense-e-va-a-sorrento/</guid>
+<pubDate>Wed, 09 Sep 2026 05:00:00 +0000</pubDate>
+<description>Retrogusto La Torre del Saracino lascia Vico Equense e va a Sorrento Andrea Cuomo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/V5TV3XWC3RGFZFQ5YAAU7BTUWY.jpg?smart=true&amp;auth=033bdf12484ff794a32bc01d4c7d08ff47b35b89e702b8892d1036d1c6f38fa7&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Malagò, problemi con il tesseramento: la Procura del Coni respinge la richiesta di archiviazione</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/malago-problemi-con-il-tesseramento-la-procura-del-coni-respinge-la-richiesta-di-archiviazione/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 16:03:45 +0000</pubDate>
 <description>La presidente della Repubblica ha sottolineato che con De Wever c’è “un lavoro comune e una bella amicizia”. E su Schengen: “Preservare spazio Schengen solo se si difendono i confini Ue” Alessandra Corradi</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZZJNCUKKZNHIVJEDTDE74ALHAU.jpg?smart=true&amp;auth=215ddcea28fa3d16bec5c755dcfad1e471cf934dfaf00fff5049e899f388b972&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Migranti, anche Portsmouth in rivolta: strade bloccate dopo lo sbarco di 140 persone</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/migranti-anche-portsmouth-in-rivolta-strade-bloccate-dopo-lo-sbarco-di-140-persone/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/migranti-anche-portsmouth-in-rivolta-strade-bloccate-dopo-lo-sbarco-di-140-persone/</guid>
-<pubDate>Mon, 07 Sep 2026 15:53:35 +0000</pubDate>
-<description>Centinaia di manifestanti tentano di impedire il trasferimento dei richiedenti asilo verso il centro di accoglienza. Tensione con la polizia, il governo condanna i disordini Massimo Balsamo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LCKROIA62VANLBAHREUFHBPQ6Y.png?smart=true&amp;auth=362f2728954d673ff34f979ce183600a01e11b1e86965514d24506c4dee465b1&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
