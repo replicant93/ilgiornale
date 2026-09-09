@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 09:13:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 09:33:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Furia Merz contro AfD dopo la disfatta: “Voi forza distruttiva, remigrazione è pulizia etnica”. E scoppia la bagarre in Aula</title>
+<link>https://www.ilgiornale.it/news/politica-estera/furia-merz-contro-afd-dopo-la-disfatta-voi-forza-distruttiva-remigrazione-e-pulizia-etnica-e-scoppia-la-bagarre-in-aula/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/furia-merz-contro-afd-dopo-la-disfatta-voi-forza-distruttiva-remigrazione-e-pulizia-etnica-e-scoppia-la-bagarre-in-aula/</guid>
+<pubDate>Wed, 09 Sep 2026 09:15:07 +0000</pubDate>
+<description>Dopo il ko della Cdu in Sassonia-Anhalt, il cancelliere attacca Weidel al Bundestag. Urla e contestazioni costringono la presidente a richiamare l’Aula all’ordine Francesca Galici</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/N6GMBHHY2BEG3H2WN4HM4SG3EU.jpg?smart=true&amp;auth=c8b0ebc1f0c945a5eb70448afe07250279a03e0b88865c3f088091cadbd56fc6&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Eredità Francesco Guccini, spunta un nuovo testamento: le ultime volontà</title>
 <link>https://www.ilgiornale.it/news/personaggi/eredita-francesco-guccini-spunta-un-nuovo-testamento-le-ultime-volonta/</link>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 08 Sep 2026 05:38:43 +0000</pubDate>
 <description>La comunità bengalese di Padova guarda alle prossime elezioni comunali e rivendica un ruolo sempre più centrale nella vita politica della città. Tra richieste su casa e scuola e l’ipotesi di candidati nelle liste del centrosinistra, non mancano le accuse della Lega sul rischio di una crescente influenza dell’islam politico Giulia Sorrentino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RXHL2BM3OZGSHAM5MF2NIMUDBM.PNG?focal=413%2C277&amp;auth=92c8ed3cd2b4ba3f1d3e631ae1ab734bba77710e90fb78c3dce5f6c75924fdbc&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La Lazio vince: è prima</title>
-<link>https://www.ilgiornale.it/news/calcio/la-lazio-vince-e-prima/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-lazio-vince-e-prima/</guid>
-<pubDate>Tue, 08 Sep 2026 05:37:23 +0000</pubDate>
-<description>Real-Inter l’allievo sfida il maestro Al Bernabeu Mourinho torna a incrociare il suo passato, Chivu cerca una notte da protagonista Gianni Visnadi Juve, la rivincita degli indesiderati La Lazio vince: è prima</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JK5WMOKRNNEONIKAKWSK6325XY.jpg?focal=1576%2C1138&amp;auth=3f20c1dff0b65bfc32a2a3f5aa00c474a034ccdeb43c06f7294ec580304674fe&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
