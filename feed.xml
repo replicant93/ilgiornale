@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 08:18:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 08:34:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La mossa di Teheran per allargare il conflitto con Usa e Arabia: come cambia “l’asse della resistenza”</title>
+<link>https://www.ilgiornale.it/news/guerra/la-mossa-di-teheran-per-allargare-il-conflitto-con-usa-e-arabia-come-cambia-lasse-della-resistenza/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/la-mossa-di-teheran-per-allargare-il-conflitto-con-usa-e-arabia-come-cambia-lasse-della-resistenza/</guid>
+<pubDate>Wed, 09 Sep 2026 08:24:47 +0000</pubDate>
+<description>Francesca Salvatore</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ASJDWCQECFBFBH42YINRLOHB5M.jpg?smart=true&amp;auth=15ffcb52a5b2d60c103fcab0338562050ea2ee50e319f6c0981af1c1bd961183&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Attacco russo lungo il confine con la Moldova, raid anche su Kiev. Zelensky: “Pronti a compromessi. Lavrov attacca Meloni: ”Cessate il fuoco? Vogliono solo guadagnare Tempo"</title>
 <link>https://www.ilgiornale.it/diretta/guerra/attacco-russo-lungo-il-confine-con-la-moldova-raid-anche-su-kiev-zelensky-pronti-a-compromessi-ma-ci-servono-difese-aeree/</link>
@@ -794,14 +802,6 @@
 <pubDate>Tue, 08 Sep 2026 05:21:42 +0000</pubDate>
 <description>Navi vicino al Giappone, nuove basi nel Mar Cinese Meridionale e jet su Scarborough Shoal: Pechino normalizza la pressione militare nella regione Federico Giuliani</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/UJYRQMVPVJKVVINSIQXPF5PIKI.jpg?smart=true&amp;auth=838bba71679575f300f4bbc9e8d7f8e8d03ac5e6ff6c50812d36a4f42cd6d06b&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Spese sportive dei figli, quanto si può detrarre e quali sono i requisiti</title>
-<link>https://www.ilgiornale.it/news/cittadini/spese-sportive-dei-figli-quanto-si-puo-detrarre-e-quali-sono-i-requisiti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/spese-sportive-dei-figli-quanto-si-puo-detrarre-e-quali-sono-i-requisiti/</guid>
-<pubDate>Tue, 08 Sep 2026 05:21:32 +0000</pubDate>
-<description>Tra scadenza della dichiarazione di fine settembre e ripartenza dei corsi, cosa sapere su costi ammessi, tracciabilità dei pagamenti e documenti da conservare Dario Murri</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/C5ZDA4PXFFFRDJXOB6YDGS4HYM.jpg?smart=true&amp;auth=b539b6fc7986f09e7896f3e45e1aaeb48ca3e99434837b49de217a2ed6a74bd0&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
