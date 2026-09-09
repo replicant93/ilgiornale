@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 06:25:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 06:45:49 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La missione segreta dei Navy SEAL e il drone sottomarino catturato da Teheran: cosa succede nello Stretto di Hormuz</title>
+<link>https://www.ilgiornale.it/news/difesa/la-missione-segreta-dei-navy-seal-e-il-drone-sottomarino-catturato-da-teheran-cosa-succede-nello-stretto-di-hormuz/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/la-missione-segreta-dei-navy-seal-e-il-drone-sottomarino-catturato-da-teheran-cosa-succede-nello-stretto-di-hormuz/</guid>
+<pubDate>Wed, 09 Sep 2026 06:36:13 +0000</pubDate>
+<description>DIRETTA Usa: “Distrutte 5 petroliere iraniane dopo attacchi a nostra nave”. Teheran risponde con bombe a grappolo sulla Giordania La missione segreta dei Navy SEAL e il drone sottomarino catturato da Teheran: cosa succede nello Stretto di Hormuz Redazione web Londra: “In Cisgiordania pulizia etnica”. Altri 11 Paesi vogliono aderire alle sanzioni contro i coloni</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/XUBVTVV6URDWRHBBY5JCYUVLDM.jpg?focal=1715%2C1300&amp;auth=b874cb572dba57c8ef196723ae264bc087105b3dbfda16e7690d5c7cc64b8200&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Di Battista “Sta affrontando nel migliore dei modi fase post-operatoria”: l’aggiornamento social sulle sue condizioni</title>
 <link>https://www.ilgiornale.it/news/interni/di-battista-sta-affrontando-nel-migliore-dei-modi-fase-post-operatoria-laggiornamento-social-sulle-sue-condizioni/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 07 Sep 2026 17:12:52 +0000</pubDate>
 <description>Cosa ci dice davvero la Germania - l'editoriale di Cerno Dalla Svezia alla Francia, fino alle midterm americane: destra radicale e populisti avanzano mentre la sinsitra perde terreno Redazione web Il terremoto dell’ultradestra e il “problema” di Merz: cosa può fare il cancelliere</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DDWBYMJ5LFJBJEK6FS3XVBLJRQ.jpg?smart=true&amp;auth=057e04d89d4ed26d50928a5f4254ecf2c47f60c24d7bfa59e627f0e715e22950&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>AfD al 43,8% ma senza maggioranza: ecco i cinque scenari che possono sconvolgere la Sassonia</title>
-<link>https://www.ilgiornale.it/news/politica-estera/afd-al-438-ma-senza-maggioranza-ecco-i-cinque-scenari-che-possono-sconvolgere-la-sassonia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/afd-al-438-ma-senza-maggioranza-ecco-i-cinque-scenari-che-possono-sconvolgere-la-sassonia/</guid>
-<pubDate>Mon, 07 Sep 2026 16:59:30 +0000</pubDate>
-<description>Redazione web</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/X6J3XK5YXVHFZNZ4YSYYOZRHTA.jpg?smart=true&amp;auth=1fd0c0d7234e44cd7a0697bb7750d8ec24d4f7e854404bea51d197cc35edc54f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
