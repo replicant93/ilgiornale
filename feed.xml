@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 12:22:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 12:46:20 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ranucci convocato in procura entro fine settembre: sarà sentito come persona informata sui fatti</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/ranucci-convocato-in-procura-entro-fine-settembre-sara-sentito-come-persona-informata-sui-fatti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/ranucci-convocato-in-procura-entro-fine-settembre-sara-sentito-come-persona-informata-sui-fatti/</guid>
+<pubDate>Wed, 09 Sep 2026 12:28:29 +0000</pubDate>
+<description>Ranucci, le carte segrete e le donne del mistero “L’affare Autogrill fu il casus belli”. Gabrielli rievoca lo stop a Mancini La notte della perquisizione a carico del faccendiere, Cianfoni, collaboratrice di Mr Report, inoltrò alla compagna di Lavitola l’ordinanza che riguardava l’arresto degli autori materiali dell’attentato Pasquale Napolitano , Giulia Sorrentino Ranucci convocato in procura entro fine settembre: sarà sentito come persona informata sui fatti</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/BA3W4EWURJHFPF4NUJFKFRRFSA.jpg?focal=1548%2C676&amp;auth=01e92de92360da85a439b448acaa7a99c3fcb8c81439540e3ae423f03584dd8b&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>“Boicottate Adidas”. La campagna con l’ex soldato israeliano scatena la rivolta pro-Pal</title>
 <link>https://www.ilgiornale.it/news/cultura-e-societa/boicottate-adidas-la-campagna-con-lex-soldato-israeliano-scatena-la-rivolta-pro-pal/</link>
@@ -792,14 +800,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <description>La “maledizione dell’inciucio” e la via italiana per la destra Confini e bollette, Meloni sferza l’Ue. E Fdi: mai accordi con i socialisti Augusto Minzolini</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/TYHOIZNEWVCSTOJSPYI5NMRCVY.jpg?focal=2298%2C868&amp;auth=de55e24b0e635cff539887f101121578ac21e2ab45515f78d578f634f5d5a83d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Sono le grandi coalizioni che fanno crescere i populisti”</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/sono-le-grandi-coalizioni-che-fanno-crescere-i-populisti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/sono-le-grandi-coalizioni-che-fanno-crescere-i-populisti/</guid>
-<pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
-<description>Parla Marco Tarchi: “Sovranismo e occidentalismo non vanno affatto di pari passo. Se si accetta l’egemonia altrui, la sovranità resta una parola vuota” Francesco Boezi</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/MA4PSWF77BJYLDUHSS57RIW53U.jpg?focal=2035%2C520&amp;auth=1adb5d0e6f3ab8196817ba6a5242382885055a8a6efda8c40aaff4ae9c244f89&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
