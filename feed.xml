@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 20:15:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 20:32:39 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Abolire Afd è da pazzi, il radical chic veste Prada e Zelensky: quindi, oggi…</title>
+<link>https://www.ilgiornale.it/news/quindi-oggi/abolire-afd-e-da-pazzi-il-radical-chic-veste-prada-e-zelensky-quindi-oggi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/quindi-oggi/abolire-afd-e-da-pazzi-il-radical-chic-veste-prada-e-zelensky-quindi-oggi/</guid>
+<pubDate>Wed, 09 Sep 2026 20:13:32 +0000</pubDate>
+<description>Quindi oggi Abolire Afd è da pazzi, il radical chic veste Prada e Zelensky: quindi, oggi… Giuseppe De Lorenzo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/42QVWXH3UJLJFGIFPAPYGOUUIA.jpg?smart=true&amp;auth=7f2aea35972689dfc0f9745d371098d168b86dce65c79ea6ce2ab9050e97bb99&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Elezioni a Milano, ecco chi sono i possibili candidati del centrodestra: la rosa dei nomi</title>
 <link>https://www.ilgiornale.it/news/interni/elezioni-a-milano-ecco-chi-sono-i-possibili-candidati-del-centrodestra-la-rosa-dei-nomi/</link>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:33:08 +0000</pubDate>
 <description>Mariangela Cutrone</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/X2ALUAIP4VB4TFIRRWCGJ7VWW4.jfif?smart=true&amp;auth=cbe53619a52a67a5f17a80c0ac31ecf049fdddd13d9055a0783b270e10d9de99&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>L’ideologo dietro l’Afd: chi è Hans-Thomas Tillschneider, autore del Manifesto di Magdeburgo</title>
-<link>https://www.ilgiornale.it/news/politica-estera/lideologo-dietro-lafd-chi-e-hans-thomas-tillschneider-autore-del-manifesto-di-magdeburgo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/lideologo-dietro-lafd-chi-e-hans-thomas-tillschneider-autore-del-manifesto-di-magdeburgo/</guid>
-<pubDate>Tue, 08 Sep 2026 10:32:47 +0000</pubDate>
-<description>Massimo Balsamo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/HFQBH63PZRAONHBLW3BE2G54UU.jpg?smart=true&amp;auth=2d9c7bbcc556ce4fce132c08854f9405148c0a98e394232229abca9d1d079761&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
