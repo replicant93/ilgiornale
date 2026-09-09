@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 18:56:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 19:13:29 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Elezioni a Milano, ecco chi sono i possibili candidati del centrodestra: la rosa dei nomi</title>
+<link>https://www.ilgiornale.it/news/interni/elezioni-a-milano-ecco-chi-sono-i-possibili-candidati-del-centrodestra-la-rosa-dei-nomi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/elezioni-a-milano-ecco-chi-sono-i-possibili-candidati-del-centrodestra-la-rosa-dei-nomi/</guid>
+<pubDate>Wed, 09 Sep 2026 19:01:50 +0000</pubDate>
+<description>L’ex ministro Santanchè: “Poker di candidati con la necessaria esperienza politica oltre che con riconosciute qualità” Francesco Boezi</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/RNWM45ZOGJNMBPQV5Y2V3WNETE.jpg?smart=true&amp;auth=08488ea27621fdf5d3515e0703d308b5c81098ee3f2cd3071024eaf5355e2dd4&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Ceuta, cosa rivelano i rapporti di intelligence: “Anche il Marocco era stato avvertito”</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/crisi-di-ceuta-cosa-rivelano-i-rapporti-di-intelligence-anche-il-marocco-era-stato-avvertito/</link>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:22:35 +0000</pubDate>
 <description>I funerali del boia di Srebrenica, il reportage di Fausto Biloslavo In migliaia ieri per le esequie del militare che per il mondo è stato un criminale di guerra. Ma che nel Paese resta un martire del nazionalismo. “Ha salvato il nostro popolo dal genocidio” Fausto Biloslavo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/GLKHS64CFJBPXNWQ3VMLHOD43Y.jpg?smart=true&amp;auth=4b80163a4c9e38a893be37bc92daf4ce187a9c7b48cd00a4a175ca0e8432ad96&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Cronaca internazionale</title>
-<link>https://www.ilgiornale.it/esteri/cronaca-internazionale</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/esteri/cronaca-internazionale</guid>
-<pubDate>Tue, 08 Sep 2026 10:04:29 +0000</pubDate>
-<description>I funerali del boia di Srebrenica, il reportage di Fausto Biloslavo Fausto Biloslavo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F09-08-2026%2Ft_4a0473ce32a44df692828f113e69cd6a_name_file_640x360_600_v4_.jpg?smart=true&amp;auth=5e52d709b18084e98ca1484e4ba32d7ef773f55e2d2bf93a27a923429848f9e7&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
