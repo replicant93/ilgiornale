@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 09 Sep 2026 19:13:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 19:30:14 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Elezioni a Milano, ecco chi sono i possibili candidati del centrodestra: la rosa dei nomi</title>
@@ -30,6 +30,14 @@
 <pubDate>Wed, 09 Sep 2026 17:45:26 +0000</pubDate>
 <description>Ranucci minaccia: “Non mi candido perché do più fastidio come conduttore di Report”. E punta al reintegro. Intanto la procura lo sentirà entro fine settembre L’ex conduttore di Report, alla festa di Avs, commento l’esistenza di una chat tra Laura Cianfoni, vicina a lui, e la compagna di Valter Lavitola, Natalia Potenza. Ma ecco i messaggi Giulia Sorrentino “L’affare Autogrill fu il casus belli”. Gabrielli rievoca lo stop a Mancini</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JWAHB77ITVFCTAFYQCLKS6HNLM.jpg?smart=true&amp;auth=2960a05d429fd6078ec3ae26ec755e8b4688a0047d6a059ae42dd49b50c7d795&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Cronaca internazionale</title>
+<link>https://www.ilgiornale.it/esteri/cronaca-internazionale</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/esteri/cronaca-internazionale</guid>
+<pubDate>Wed, 09 Sep 2026 17:45:21 +0000</pubDate>
+<description>I funerali del boia di Srebrenica, il reportage di Fausto Biloslavo Fausto Biloslavo</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F09-08-2026%2Ft_4a0473ce32a44df692828f113e69cd6a_name_file_640x360_600_v4_.jpg?smart=true&amp;auth=5e52d709b18084e98ca1484e4ba32d7ef773f55e2d2bf93a27a923429848f9e7&amp;width=640&amp;height=360" medium="image" />
 </item>
 <item>
 <title>Il pilota Ryanair accusa la giunta Lepore durante il volo. L’annuncio ai passeggeri: “Il ritardo? Colpa di un provvedimento”</title>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 08 Sep 2026 10:32:47 +0000</pubDate>
 <description>Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/HFQBH63PZRAONHBLW3BE2G54UU.jpg?smart=true&amp;auth=2d9c7bbcc556ce4fce132c08854f9405148c0a98e394232229abca9d1d079761&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>L’onda serba: “Mladic vive ancora”</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/londa-serba-mladic-vive-ancora/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/londa-serba-mladic-vive-ancora/</guid>
-<pubDate>Tue, 08 Sep 2026 10:22:35 +0000</pubDate>
-<description>I funerali del boia di Srebrenica, il reportage di Fausto Biloslavo In migliaia ieri per le esequie del militare che per il mondo è stato un criminale di guerra. Ma che nel Paese resta un martire del nazionalismo. “Ha salvato il nostro popolo dal genocidio” Fausto Biloslavo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/GLKHS64CFJBPXNWQ3VMLHOD43Y.jpg?smart=true&amp;auth=4b80163a4c9e38a893be37bc92daf4ce187a9c7b48cd00a4a175ca0e8432ad96&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
