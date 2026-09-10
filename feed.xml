@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 18:34:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 18:51:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nel Senese donna muore in casa per le conseguenze di una tromba d’aria</title>
+<link>https://www.ilgiornale.it/news/cronache/maltempo-nel-senese-donna-muore-in-casa-per-le-conseguenze-di-una-tromba-daria/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/maltempo-nel-senese-donna-muore-in-casa-per-le-conseguenze-di-una-tromba-daria/</guid>
+<pubDate>Thu, 10 Sep 2026 18:46:56 +0000</pubDate>
+<description>Maltempo, dramma nel sottopasso allagato a Latisana (Udine): una donna muore annegata Nel Senese donna muore in casa per le conseguenze di una tromba d’aria La vittima era rimasta intrappolata con la propria automobile. I soccorsi sono stati purtroppo inutili: ecco che cosa è successo Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/F4ISS4WQ3VDWFOTHU5VHLK33XM.jpg?smart=true&amp;auth=6a1f1a4414fca5734a0773c9f2c44146b490f08363106abe71be2a87707dcb66&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Svizzera, incidente per un pullman turistico. La polizia: “Morti e feriti”</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/svizzera-incidente-per-un-pullman-turistico-la-polizia-morti-e-feriti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/svizzera-incidente-per-un-pullman-turistico-la-polizia-morti-e-feriti/</guid>
+<pubDate>Thu, 10 Sep 2026 18:37:30 +0000</pubDate>
+<description>Cronaca internazionale Svizzera, incidente per un pullman turistico. La polizia: “Morti e feriti” L’incidente è avvenuto tra i comuni di Susch e Zernez, nel cantone dei Grigioni, nella parte orientale del paese. La Farnesina sta verificando l’eventuale presenza di italiani Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MS3FWILKANPA7OVJNSJ5M4HP7M.jpg?smart=true&amp;auth=db878577a10ed66764ea17d7b8f15aa52bf8fbcb47257d1c83460919db63f929&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Chi era la collaboratrice di giustizia che lottò contro la 'ndrangheta</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/l-opposizione-ndrangheta-femminicidio-forza-figlia-lea-2178964.html</link>
@@ -779,21 +795,6 @@
 <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
 <description>Il trapassato remoto</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>La guerra e il mestiere più antico</title>
-<link>https://www.ilgiornale.it/news/guerra/la-guerra-e-il-mestiere-piu-antico/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/la-guerra-e-il-mestiere-piu-antico/</guid>
-<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Guerra La guerra e il mestiere più antico Monica Mosca</description>
-</item>
-<item>
-<title>Il pallone sgonfiato dai sondaggi</title>
-<link>https://www.ilgiornale.it/news/interni/il-pallone-sgonfiato-dai-sondaggi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-pallone-sgonfiato-dai-sondaggi/</guid>
-<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Interni Il pallone sgonfiato dai sondaggi Filippo Facci</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2F3HVFMH7JMFL5PB2RLDPDA32HTE.jpg?smart=true&amp;auth=5fafc1fb93f37d3b5f3175d5762059fba1bdd1e991f2cca5f517ddb4577aae79&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
