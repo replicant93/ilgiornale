@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 13:50:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 14:01:11 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Gli Houthi mettono lo stretto di Bab el-Mandeb nel mirino: come si allarga la guerra e cosa si rischia</title>
+<link>https://www.ilgiornale.it/news/guerra/gli-houthi-avanzano-sul-mar-rosso-e-lo-stretto-di-bab-el-mandeb-finisce-nel-mirino-come-si-allarga-la-guerra-e-cosa-si-rischia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/gli-houthi-avanzano-sul-mar-rosso-e-lo-stretto-di-bab-el-mandeb-finisce-nel-mirino-come-si-allarga-la-guerra-e-cosa-si-rischia/</guid>
+<pubDate>Thu, 10 Sep 2026 13:56:02 +0000</pubDate>
+<description>DIRETTA Escalation Usa-Iran, Trump: “Potremmo dover colpire ancora”. Caccia americani danneggiati dagli attacchi di Teheran. I Pasdaran: “Siamo pronti a operazioni offensive” Gli Houthi mettono lo stretto di Bab el-Mandeb nel mirino: come si allarga la guerra e cosa si rischia Escalation tra Usa e Iran: raid iraniano danneggia velivoli americani in Giordania. Washington promette pressioni economiche, mentre Trump evoca nuovi attacchi contro siti nucleari iraniani Redazione web</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/EKB6J57D3VBU3L7LQK7DLY6PK4.jpg?smart=true&amp;auth=dbb4da7ebd34cd466868d3046ef228d9eeb358ddba2135c6835d90e3ca199a35&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Con te se ne va un pezzo di cuore e di storia di Forte dei Marmi. Ciao Roberto</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/con-te-se-ne-va-un-pezzo-di-cuore-e-di-storia-di-forte-dei-marmi-ciao-roberto/</link>
@@ -787,14 +795,6 @@
 <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
 <description>Il commissario fu isolato anche dalla sinistra bene che l’accusò per la fine di Pinelli Luca Fazzo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LSJP3IF2MVC2LHQ4A5JO4MK2YY.jpg?focal=204%2C223&amp;auth=ca7815d9d6e5bef1508b8340dd0be66a16b1889e33cc4dc55bb3a2bf29bc2aab&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>No ballottaggio, premio al 41%. Il Senato lima la legge elettorale</title>
-<link>https://www.ilgiornale.it/news/parlamento/no-ballottaggio-premio-al-41-il-senato-lima-la-legge-elettorale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/no-ballottaggio-premio-al-41-il-senato-lima-la-legge-elettorale/</guid>
-<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-<description>Parlamento No ballottaggio, premio al 41%. Il Senato lima la legge elettorale Ma il doppio turno piace alla maggioranza degli italiani Il testo oggi in Aula a Palazzo Madama. Intesa sui capilista bloccati ma fino a tre preferenze. Pressing della Lega per il turno unico, mentre FdI vuole ridurre l’asticella che garantisce la maggioranza Fabrizio de Feo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/4CE4A534AZABHL6NDRECJ7SFZU.jpg?smart=true&amp;auth=9334c74f8c7a7a6a53b7f9f911ce69f1504124ad6417873399a8ab5a9d8fa478&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
