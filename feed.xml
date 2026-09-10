@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 03:17:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 03:34:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Le frecce a Beppe. La sinistra si boccia</title>
+<link>https://www.ilgiornale.it/news/interni/le-frecce-a-beppe-la-sinistra-si-boccia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/le-frecce-a-beppe-la-sinistra-si-boccia/</guid>
+<pubDate>Thu, 10 Sep 2026 03:26:23 +0000</pubDate>
+<description>commento Interni Le frecce a Beppe. La sinistra si boccia Giannino della Frattina</description>
+</item>
 <item>
 <title>Abolire Afd è da pazzi, il radical chic veste Prada e Zelensky: quindi, oggi…</title>
 <link>https://www.ilgiornale.it/news/quindi-oggi/abolire-afd-e-da-pazzi-il-radical-chic-veste-prada-e-zelensky-quindi-oggi/</link>
@@ -791,14 +798,6 @@
 <pubDate>Tue, 08 Sep 2026 10:34:46 +0000</pubDate>
 <description>Dice che l’amico non sapeva nulla ma Ranucci conosceva la rilevazione e l’aveva anche corretta Pasquale Napolitano , Giulia Sorrentino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/I5OEEF5EX5DZZFJFYIL3KLG2LA.jpg?focal=1493%2C461&amp;auth=20f2ad2fba153e89b128a075cb0695cf62bc4944852fc81979ab6b1a289269c5&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Funghi funzionali, a cosa servono e quali scegliere per fare il pieno di benessere</title>
-<link>https://www.ilgiornale.it/news/salute/funghi-funzionali-a-cosa-servono-e-quali-scegliere-per-fare-il-pieno-di-benessere/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/salute/funghi-funzionali-a-cosa-servono-e-quali-scegliere-per-fare-il-pieno-di-benessere/</guid>
-<pubDate>Tue, 08 Sep 2026 10:33:08 +0000</pubDate>
-<description>Mariangela Cutrone</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/X2ALUAIP4VB4TFIRRWCGJ7VWW4.jfif?smart=true&amp;auth=cbe53619a52a67a5f17a80c0ac31ecf049fdddd13d9055a0783b270e10d9de99&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
