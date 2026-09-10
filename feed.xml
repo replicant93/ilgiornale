@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 08:51:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 09:12:33 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sinner, il recupero continua: quando lo rivedremo in campo</title>
+<link>https://www.ilgiornale.it/news/tennis/sinner-il-recupero-continua-quando-lo-rivedremo-in-campo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/sinner-il-recupero-continua-quando-lo-rivedremo-in-campo/</guid>
+<pubDate>Thu, 10 Sep 2026 09:10:29 +0000</pubDate>
+<description>Ancora terapie al ginocchio, nel week-end deciderà se tornare a Montecarlo o rimanere a Torino: come sta il numero uno del mondo Alessandro Ferro</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5LBW45U7WNH5PK43CAMLVGEZBQ.jpg?smart=true&amp;auth=39161a5dce97a8e1e18d0c3dce40b64c18afd9805cd912ebd59f0298b04aa0e7&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Circolazione depressionaria sull’Italia: dove colpiranno piogge e temporali</title>
 <link>https://www.ilgiornale.it/news/attualita/circolazione-depressionaria-sullitalia-dove-colpiranno-piogge-e-temporali/</link>
@@ -786,14 +794,6 @@
 <pubDate>Tue, 08 Sep 2026 18:12:52 +0000</pubDate>
 <description>Col ko di Darderi nessun nostro tennista L’ultima volta allo Us Open ’23 Marco Lombardo Juve, la rivincita degli indesiderati La Lazio vince: è prima</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DUNRPGFOL5CCTDP5A2SKCDZK7I.jpg?smart=true&amp;auth=c81d09a3e83b9a026a535a7b07e49fbf11ca773be9f6c313a9908cd7fe6da50a&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Federico Vella, l’omicida di Lorena Isceri, era stato dallo psichiatra tre giorni prima del delitto: “Nessun segnale”</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/federico-vella-lomicida-di-lorena-isceri-era-stato-dallo-psichiatra-tre-giorni-prima-del-delitto-nessun-segnale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/federico-vella-lomicida-di-lorena-isceri-era-stato-dallo-psichiatra-tre-giorni-prima-del-delitto-nessun-segnale/</guid>
-<pubDate>Tue, 08 Sep 2026 18:08:04 +0000</pubDate>
-<description>Il medico che aveva in cura il 36enne da ben 15 anni rivela: “Non me lo sarei mai aspettato, era relativamente tranquillo” Federico Garau</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KCDKM7VUPZBRHJEAI5X6XW4PSY.jfif?focal=633%2C338&amp;auth=2db15196fd8828d759ca3032169f89ac993d7550e791b9c7ebefb5f82355968b&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
