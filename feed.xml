@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 05:32:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 05:49:02 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Champions, l’Arsenal passa di misura al Maradona: Odegaard punisce il Napoli</title>
+<link>https://www.ilgiornale.it/news/calcio/champions-larsenal-passa-di-misura-al-maradona-odegaard-punisce-il-napoli/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/champions-larsenal-passa-di-misura-al-maradona-odegaard-punisce-il-napoli/</guid>
+<pubDate>Thu, 10 Sep 2026 05:28:13 +0000</pubDate>
+<description>Il Como sa farsi ben volere Vittoria di misura della squadra di Arteta, che dopo aver fallito varie occasioni, trova il gol partita nell’ultimo quarto d’ora con Odegaard. Terzo stop consecutivo per Allegri Antonio Prisco Zero rigori, più gol, var ignorato</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/H5UBODMFHRHP3IKAU2G3UMAVPE.jpg?smart=true&amp;auth=0a16d7559803e7b321528105fd4f069236c4d1b1f845e3529b7511d8484ce169&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Il filo segreto tra Pechino e i droni di Putin: così la Cina tiene in vita la macchina da guerra russa</title>
 <link>https://www.ilgiornale.it/news/difesa/il-filo-segreto-tra-pechino-e-i-droni-di-putin-cosi-la-cina-tiene-in-vita-la-macchina-da-guerra-russa/</link>
@@ -790,14 +798,6 @@
 <pubDate>Tue, 08 Sep 2026 12:54:28 +0000</pubDate>
 <description>In attesa della pronuncia del Riesame, il 42enne è stato raggiunto da Quarta Repubblica: “Qui otterrò giustizia” Francesca Galici</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/EAAVHWFR4VDIRMQXHOUQS5QOU4.jpg?smart=true&amp;auth=4ab8c2df84b905d1f46a2967019c7ce40a9cab220452afdcc49d2349c011aec4&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Ecovacs Winbot W2S Pro: il robot lavavetri che sta in una valigetta</title>
-<link>https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/ecovacs-winbot-w2s-pro-il-robot-lavavetri-che-sta-in-una-valigetta/</guid>
-<pubDate>Tue, 08 Sep 2026 12:49:50 +0000</pubDate>
-<description>Luigi Melita</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/OTCGTSEBXFD67M62FWWYW6TW4E.jpeg?smart=true&amp;auth=f7ce801197070997a29499cd88dcba5d64367bcc1122d03286715538264d2e8c&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
