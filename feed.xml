@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 20:56:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 21:13:37 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Buona la prima del Como in Champions, Lipsia battuto 4-1</title>
+<link>https://www.ilgiornale.it/news/calcio/buona-la-prima-del-como-in-champions-lipsia-battuto-4-1/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/buona-la-prima-del-como-in-champions-lipsia-battuto-4-1/</guid>
+<pubDate>Thu, 10 Sep 2026 21:07:21 +0000</pubDate>
+<description>Il Como sa farsi ben volere La squadra allenata da Fabregas ha onorato la prima partita della sua storia nel più importante torneo europeo di calcio riservato ai club Redazione web Zero rigori, più gol, var ignorato</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/PXBHLXBZ7ZELLD2JDTCP2XC7B4.jpg?smart=true&amp;auth=78e05a8ab048a253dc6ad1e0d5725b2ece36d742646f40df9bfd99d608b4491b&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>La frase horror di Ranucci, la scuola di soli bengalesi e Lavitola: quindi, oggi…</title>
 <link>https://www.ilgiornale.it/news/quindi-oggi/la-frase-horror-di-ranucci-la-scuola-di-soli-bengalesi-e-lavitola-quindi-oggi/</link>
@@ -787,14 +795,6 @@
 <pubDate>Wed, 09 Sep 2026 10:31:06 +0000</pubDate>
 <description>“L’affare Autogrill fu il casus belli”. Gabrielli rievoca lo stop a Mancini La notte della perquisizione a carico del faccendiere, Cianfoni, collaboratrice di Mr Report, inoltrò alla compagna di Lavitola l’ordinanza che riguardava l’arresto degli autori materiali dell’attentato Pasquale Napolitano , Giulia Sorrentino</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/BA3W4EWURJHFPF4NUJFKFRRFSA.jpg?focal=1548%2C676&amp;auth=01e92de92360da85a439b448acaa7a99c3fcb8c81439540e3ae423f03584dd8b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Shelton elimina Alcaraz dopo oltre 4 ore di gara: ace a 235 km/h e impresa da record agli US Open</title>
-<link>https://www.ilgiornale.it/news/tennis/shelton-elimina-alcaraz-alle-333-del-mattino-ace-a-235-kmh-e-impresa-da-record-agli-us-open/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/shelton-elimina-alcaraz-alle-333-del-mattino-ace-a-235-kmh-e-impresa-da-record-agli-us-open/</guid>
-<pubDate>Wed, 09 Sep 2026 10:08:59 +0000</pubDate>
-<description>L’americano vince dopo quasi quattro ore e mezza, mentre lo spagnolo accusa anche un malessere in campo. Ora sfiderà Tiafoe in semifinale Alessandro Ferro</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZPUGVGJL7VBB3OJ3SZVQMQPCKI.jpg?smart=true&amp;auth=6df03da4cdda5f1c94c8d493f0b5f06676511a2fed1df454bea10b6cdb027ca3&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
