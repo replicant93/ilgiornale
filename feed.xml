@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 04:57:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 05:16:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump infiamma la convention di Dallas e sfida i dem: “Se vinciamo le midterm 5mila dollari ad ogni americano”</title>
+<link>https://www.ilgiornale.it/news/politica-estera/trump-infiamma-la-convention-di-dallas-e-sfida-i-dem-se-vinciamo-le-midterm-5mila-dollari-ad-ogni-americano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-infiamma-la-convention-di-dallas-e-sfida-i-dem-se-vinciamo-le-midterm-5mila-dollari-ad-ogni-americano/</guid>
+<pubDate>Thu, 10 Sep 2026 05:09:33 +0000</pubDate>
+<description>Il presidente chiama alla mobilitazione per mantenere Camera e Senato: il “dividendo Trump” potrà essere speso soltanto negli Stati Uniti Redazione web</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/6DUB7RJRZJCQNNS42GSTFNABEQ.jpg?smart=true&amp;auth=07a1f53f6e804873f5b9819b236ffec38c0f06db00daf5d90ffd1000253ec534&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Caporivo, la cucina sorrentina di Esposito</title>
 <link>https://www.ilgiornale.it/news/retrogusto/caporivo-la-cucina-sorrentina-di-esposito/</link>
@@ -790,14 +798,6 @@
 <pubDate>Tue, 08 Sep 2026 11:22:26 +0000</pubDate>
 <description>Il seminario sulla sicurezza urbana è riconosciuto come aggiornamento professionale con esonero dal servizio. Pd e Avs chiedono chiarimenti a Piantedosi e la revoca dell’autorizzazione Massimo Balsamo</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/SZGIQFBHT5AYFJBEH277A3GVOA.jpg?smart=true&amp;auth=4b19dc021b3bdedefc3d7668decd6c057ad7be53fb96046e424249f021317b42&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Terrorismo in patria”: arrestato cittadino giordano a Firenze. Le accuse: legami con il regime iraniano ed Hezbollah</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/terrorismo-in-patria-arrestato-cittadino-giordano-a-firenze-le-accuse-legami-con-il-regime-iraniano-ed-hezbollah/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/terrorismo-in-patria-arrestato-cittadino-giordano-a-firenze-le-accuse-legami-con-il-regime-iraniano-ed-hezbollah/</guid>
-<pubDate>Tue, 08 Sep 2026 11:18:39 +0000</pubDate>
-<description>Francesca Galici</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DI6UHZWDORCXLLTTGWWFYZMX4A.jpg?smart=true&amp;auth=119d3cd505ef4beb5084067054d023b5edfcd266e594375c822cf61e270166f2&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
