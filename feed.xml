@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 11:56:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 12:19:00 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Auguro a Scoccia la fine di Mussolini”: 53enne finisce a processo dopo il commento choc</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/auguro-a-scoccia-la-fine-di-mussolini-la-donna-finisce-a-processo-per-diffamazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/auguro-a-scoccia-la-fine-di-mussolini-la-donna-finisce-a-processo-per-diffamazione/</guid>
+<pubDate>Thu, 10 Sep 2026 12:18:14 +0000</pubDate>
+<description>La donna è stata citata a giudizio per diffamazione aggravata dopo il post contro la consigliera di Fratelli d’Italia. L’udienza è fissata per il 3 marzo 2027. Un augurio di morte spacciato per dissenso politico che ora approda davanti a un giudice Giulia Bernardini</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/AISN5B6A6BLNZEDPXJPDLLDBFA.jpg?focal=357%2C673&amp;auth=66fbba632d1056a204bc825ba44524221b6f56a8f8f85f7cab67db556799a5a3&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Sgrida uno studente e il padre musulmano minaccia di decapitarla: l’orrore in Francia contro un’insegnante</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/sgrida-uno-studente-e-il-padre-musulmano-minaccia-di-decapitarla-lorrore-in-francia-contro-uninsegnante/</link>
@@ -787,14 +795,6 @@
 <pubDate>Wed, 09 Sep 2026 09:12:11 +0000</pubDate>
 <description>Un nuovo testamento è emerso dopo la morte del cantautore: il documento, che risale agli ultimi anni della sua vita, modifica le volontà espresse in quello precedente e ridefinisce così le disposizioni sull’eredità Roberta Damiata</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/UAFCKXXNENBYFL26OJFW32XEZQ.jpg?smart=true&amp;auth=dc6a0273f7f31825713af8000206d88ea6023f275d86dd38c54f541ffb682ccc&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Tutte le novità sul Bonus scuola: dalle detrazioni nel 730 ai libri fino agli sgravi per le paritarie</title>
-<link>https://www.ilgiornale.it/news/cittadini/tutte-le-novita-sul-bonus-scuola-dalle-detrazioni-nel-730-ai-libri-fino-agli-sgravi-per-le-paritarie/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/tutte-le-novita-sul-bonus-scuola-dalle-detrazioni-nel-730-ai-libri-fino-agli-sgravi-per-le-paritarie/</guid>
-<pubDate>Wed, 09 Sep 2026 08:49:10 +0000</pubDate>
-<description>Ecco come funzionano i sussidi attivi per alleggerire il budget familiare destinato all’istruzione: tutto ciò che si deve sapere per risparmiare Federico Garau</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5Y746JIPXNLW3LQMYPKLXXN4OY.jpg?smart=true&amp;auth=78b1d80b2bdde96c0cc3f884926250efbc2a49d37f2d415efdf2945049bac256&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
