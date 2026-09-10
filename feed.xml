@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 09:12:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 09:33:21 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Maltempo, dramma nel sottopasso allagato a Latisana (Udine): una donna muore annegata</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/maltempo-dramma-nel-sottopasso-allagato-a-latisana-udine-una-donna-muore-annegata/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/maltempo-dramma-nel-sottopasso-allagato-a-latisana-udine-una-donna-muore-annegata/</guid>
+<pubDate>Thu, 10 Sep 2026 09:17:31 +0000</pubDate>
+<description>Cronaca locale Maltempo, dramma nel sottopasso allagato a Latisana (Udine): una donna muore annegata La vittima era rimasta intrappolata con la propria automobile. I soccorsi sono stati purtroppo inutili: ecco che cosa è successo Federico Garau</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/F4ISS4WQ3VDWFOTHU5VHLK33XM.jpg?smart=true&amp;auth=6a1f1a4414fca5734a0773c9f2c44146b490f08363106abe71be2a87707dcb66&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Sinner, il recupero continua: quando lo rivedremo in campo</title>
 <link>https://www.ilgiornale.it/news/tennis/sinner-il-recupero-continua-quando-lo-rivedremo-in-campo/</link>
@@ -786,14 +794,6 @@
 <pubDate>Tue, 08 Sep 2026 18:22:17 +0000</pubDate>
 <description>Dopo Dover, tensioni anche a Portsmouth e Southampton. Circa 120 migranti sono stati dirottati su uno scalo minore, poi bloccato dai manifestanti Francesca Galici</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/IRUCOFD5ZVGFRON7F7WL7X6PZQ.png?smart=true&amp;auth=4e59500c67199e78e428a177523e3178983e9cf6afa1769dc747b0a5ceb93219&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Us Open: Orfani di Sinner, 3 anni dopo niente Italia ai quarti</title>
-<link>https://www.ilgiornale.it/news/tennis/us-open-orfani-di-sinner-3-anni-dopo-niente-italia-ai-quarti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/us-open-orfani-di-sinner-3-anni-dopo-niente-italia-ai-quarti/</guid>
-<pubDate>Tue, 08 Sep 2026 18:12:52 +0000</pubDate>
-<description>Col ko di Darderi nessun nostro tennista L’ultima volta allo Us Open ’23 Marco Lombardo Juve, la rivincita degli indesiderati La Lazio vince: è prima</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/DUNRPGFOL5CCTDP5A2SKCDZK7I.jpg?smart=true&amp;auth=c81d09a3e83b9a026a535a7b07e49fbf11ca773be9f6c313a9908cd7fe6da50a&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
