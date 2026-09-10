@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 11:23:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 11:41:30 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il maxi-gasdotto che doveva unire Putin e Xi si arena: la richiesta di Pechino che Mosca non accetta</title>
+<link>https://www.ilgiornale.it/news/economia-e-finanza/il-maxi-gasdotto-che-doveva-unire-putin-e-xi-si-arena-la-richiesta-di-pechino-che-mosca-non-accetta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/economia-e-finanza/il-maxi-gasdotto-che-doveva-unire-putin-e-xi-si-arena-la-richiesta-di-pechino-che-mosca-non-accetta/</guid>
+<pubDate>Thu, 10 Sep 2026 11:30:55 +0000</pubDate>
+<description>Federico Giuliani</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/F5ETTSMAO5JN7GK2PN3LK4NESI.jpg?smart=true&amp;auth=c6a9f76d9be3e6c7597b623fa6dfa4737881e14d64222170869f7d05a9e01f11&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Legge elettorale, il numero magico è 42%</title>
 <link>https://www.ilgiornale.it/news/parlamento/legge-elettorale-il-numero-magico-e-42/</link>
@@ -787,14 +795,6 @@
 <pubDate>Wed, 09 Sep 2026 08:24:47 +0000</pubDate>
 <description>Francesca Salvatore</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ASJDWCQECFBFBH42YINRLOHB5M.jpg?smart=true&amp;auth=15ffcb52a5b2d60c103fcab0338562050ea2ee50e319f6c0981af1c1bd961183&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Scatta l’ora del maltempo: forti temporali, termometri giù anche di 10°C, cosa dobbiamo aspettarci</title>
-<link>https://www.ilgiornale.it/news/attualita/scatta-lora-del-maltempo-forti-temporali-termometri-giu-anche-di-10c-cosa-dobbiamo-aspettarci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/scatta-lora-del-maltempo-forti-temporali-termometri-giu-anche-di-10c-cosa-dobbiamo-aspettarci/</guid>
-<pubDate>Wed, 09 Sep 2026 08:19:49 +0000</pubDate>
-<description>Con la perturbazione in ingresso dalla Francia, seguita da aria fresca, si chiude un periodo eccezionalmente caldo per tutta Italia: ecco dove colpiranno i fenomeni e l’entità del calo termico Alessandro Ferro</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/A5YN6JS4XNLOLESFLROYTFUEMQ.jpg?smart=true&amp;auth=bb7241dbcaea7d46061d07c355f9ed77bbd9e392c83b0484e06fa96d3c6d13b2&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
