@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 16:49:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 17:00:25 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Paura a Malpensa, principio d’incendio su un volo EasyJet: aeroporto chiuso e 146 passeggeri evacuati</title>
+<link>https://www.ilgiornale.it/news/cronache/chiuso-laeroporto-di-malpensa-per-principio-di-incendio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/chiuso-laeroporto-di-malpensa-per-principio-di-incendio/</guid>
+<pubDate>Thu, 10 Sep 2026 16:52:00 +0000</pubDate>
+<description>Cronache Paura a Malpensa, principio d’incendio su un volo EasyJet: aeroporto chiuso e 146 passeggeri evacuati Principio d’incendio su un aereo diretto a Praga durante il rullaggio. Tutti i passeggeri fatti scendere dagli scivoli: due lievemente feriti. Operazioni aeroportuali temporaneamente sospese Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/V4FW2XJAPNGI7HWUX5ZINOQ2N4.jpg?focal=1682%2C1027&amp;auth=dd7443845e2e62403db108a70ae9cdff30b1afa69da3ac765614bafc9b9957cb&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Si toglie la vita Denise Cosco, la figlia di Lea Garofalo. Aveva 35 anni</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/si-toglie-la-vita-denise-cosco-la-figlia-di-lea-garofalo-aveva-35-anni/</link>
@@ -786,14 +794,6 @@
 <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
 <description>La stanza di Feltri Urge ripartire da una parola ora fuori moda: disciplina Vittorio Feltri</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LJLMY37ZBZHSJAUUEWX37WHRIY.jpg?focal=2290%2C1698&amp;auth=5598bd17ee911731ce8f250db2dd437adfe92efcca458687fa12f6c12e0491b6&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Vi meritate Jasmine Trinca</title>
-<link>https://www.ilgiornale.it/news/giu-la-maschera/vi-meritate-jasmine-trinca/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/vi-meritate-jasmine-trinca/</guid>
-<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-<description>Giù la maschera Vi meritate Jasmine Trinca Luigi Mascheroni</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/CD44PAAIIZEMJOK6IH5N6O46LM.jpg?focal=2651%2C1916&amp;auth=a9f0526701c11683960d070c7253c44d5a155c9ee12fc7072a28764252ef561f&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
