@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 20:40:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:56:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La frase horror di Ranucci, la scuola di soli bengalesi e Lavitola: quindi, oggi…</title>
+<link>https://www.ilgiornale.it/news/quindi-oggi/la-frase-horror-di-ranucci-la-scuola-di-soli-bengalesi-e-lavitola-quindi-oggi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/quindi-oggi/la-frase-horror-di-ranucci-la-scuola-di-soli-bengalesi-e-lavitola-quindi-oggi/</guid>
+<pubDate>Thu, 10 Sep 2026 20:42:38 +0000</pubDate>
+<description>Quindi oggi La frase horror di Ranucci, la scuola di soli bengalesi e Lavitola: quindi, oggi… Giuseppe De Lorenzo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ADD2QTU6MRC63EKHVFRSDMZWB4.jpg?smart=true&amp;auth=27d3d858b7ebe818b4cb6b54fb08d0d8707cf7c78a8065ec448739818e4c7d01&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Nel Senese donna muore in casa per le conseguenze di una tromba d’aria</title>
 <link>https://www.ilgiornale.it/news/cronache/maltempo-nel-senese-donna-muore-in-casa-per-le-conseguenze-di-una-tromba-daria/</link>
@@ -787,14 +795,6 @@
 <pubDate>Wed, 09 Sep 2026 10:08:59 +0000</pubDate>
 <description>L’americano vince dopo quasi quattro ore e mezza, mentre lo spagnolo accusa anche un malessere in campo. Ora sfiderà Tiafoe in semifinale Alessandro Ferro</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ZPUGVGJL7VBB3OJ3SZVQMQPCKI.jpg?smart=true&amp;auth=6df03da4cdda5f1c94c8d493f0b5f06676511a2fed1df454bea10b6cdb027ca3&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il trapassato remoto</title>
-<link>https://www.ilgiornale.it/news/governo/il-trapassato-remoto/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/il-trapassato-remoto/</guid>
-<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-<description>Il trapassato remoto</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
 </item>
 </channel>
 </rss>
