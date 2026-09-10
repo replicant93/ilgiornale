@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 18:14:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 18:34:05 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Chi era la collaboratrice di giustizia che lottò contro la 'ndrangheta</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/l-opposizione-ndrangheta-femminicidio-forza-figlia-lea-2178964.html</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/l-opposizione-ndrangheta-femminicidio-forza-figlia-lea-2178964.html</guid>
+<pubDate>Thu, 10 Sep 2026 18:24:18 +0000</pubDate>
+<description>Si toglie la vita Denise Cosco, la figlia di Lea Garofalo. Aveva 35 anni Chi era la collaboratrice di giustizia che lottò contro la 'ndrangheta La giovane donna aveva la stessa età della madre quando venne assassinata dal compagno e da altri complici, appartenenti alla ‘ndrangheta, per avere collaborato con la giustizia Manuela Messina</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DYZ6PVYYE5P67MPZQZ2FY6ED6E.jpg?smart=true&amp;auth=fa140d9f7fdf0fa94de59489a83dae86ade1419b13e6da89d328c6159215e7bc&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Paura a Malpensa, principio d’incendio su un volo EasyJet: aeroporto chiuso e 146 passeggeri evacuati</title>
 <link>https://www.ilgiornale.it/news/cronache/chiuso-laeroporto-di-malpensa-per-principio-di-incendio/</link>
@@ -786,14 +794,6 @@
 <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Interni Il pallone sgonfiato dai sondaggi Filippo Facci</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2F3HVFMH7JMFL5PB2RLDPDA32HTE.jpg?smart=true&amp;auth=5fafc1fb93f37d3b5f3175d5762059fba1bdd1e991f2cca5f517ddb4577aae79&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Urge ripartire da una parola ora fuori moda: disciplina</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/urge-ripartire-da-una-parola-ora-fuori-moda-disciplina/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/urge-ripartire-da-una-parola-ora-fuori-moda-disciplina/</guid>
-<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-<description>La stanza di Feltri Urge ripartire da una parola ora fuori moda: disciplina Vittorio Feltri</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LJLMY37ZBZHSJAUUEWX37WHRIY.jpg?focal=2290%2C1698&amp;auth=5598bd17ee911731ce8f250db2dd437adfe92efcca458687fa12f6c12e0491b6&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
