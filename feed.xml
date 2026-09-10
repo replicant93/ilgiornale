@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 09:33:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 09:50:27 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Attentato a Ranucci, Lavitola resta in carcere: confermata anche l’aggravante mafiosa</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/attentato-a-ranucci-lavitola-resta-in-carcere-confermata-anche-laggravante-mafiosa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/attentato-a-ranucci-lavitola-resta-in-carcere-confermata-anche-laggravante-mafiosa/</guid>
+<pubDate>Thu, 10 Sep 2026 09:42:44 +0000</pubDate>
+<description>Respinta la richiesta dei domiciliari. L’ex editore si è assunto “tutte le responsabilità” come mandante, sostenendo di non voler fare male a nessuno Redazione web</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VTWCRDNRUZAB3PXB74R6J2AIIA.jpg?smart=true&amp;auth=b2c8a665bc83b23d1482ce7d5a12d2ad0c9ba7c1a4eced8d99755e6b0dabd174&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Maltempo, dramma nel sottopasso allagato a Latisana (Udine): una donna muore annegata</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/maltempo-dramma-nel-sottopasso-allagato-a-latisana-udine-una-donna-muore-annegata/</link>
@@ -786,14 +794,6 @@
 <pubDate>Tue, 08 Sep 2026 18:31:06 +0000</pubDate>
 <description>La proposta di Salvini per la manovra: “Contributo strutturale dalle grandi banche” Sul tavolo anche una tassazione agevolata per gli aumenti salariali e l’uscita a 64 anni. Più prudenza invece sulla tassa agli extraprofitti delle banche Redazione web</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/LWN44Z6T25F5JESSC2XVV6IGPU.jpg?smart=true&amp;auth=20cc833656b6a2c1eaa342c7f10067e2e3f3bc0ee04b69dd26c9885b417099ba&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Migranti, nuove proteste nel sud dell’Inghilterra: barche respinte e picchetti dopo gli sbarchi</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/migranti-nuove-proteste-nel-sud-dellinghilterra-barche-respinte-e-picchetti-dopo-gli-sbarchi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/migranti-nuove-proteste-nel-sud-dellinghilterra-barche-respinte-e-picchetti-dopo-gli-sbarchi/</guid>
-<pubDate>Tue, 08 Sep 2026 18:22:17 +0000</pubDate>
-<description>Dopo Dover, tensioni anche a Portsmouth e Southampton. Circa 120 migranti sono stati dirottati su uno scalo minore, poi bloccato dai manifestanti Francesca Galici</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/IRUCOFD5ZVGFRON7F7WL7X6PZQ.png?smart=true&amp;auth=4e59500c67199e78e428a177523e3178983e9cf6afa1769dc747b0a5ceb93219&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
