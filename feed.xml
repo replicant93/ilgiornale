@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 08:18:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 08:36:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Circolazione depressionaria sull’Italia: dove colpiranno piogge e temporali</title>
+<link>https://www.ilgiornale.it/news/attualita/circolazione-depressionaria-sullitalia-dove-colpiranno-piogge-e-temporali/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/circolazione-depressionaria-sullitalia-dove-colpiranno-piogge-e-temporali/</guid>
+<pubDate>Thu, 10 Sep 2026 08:17:58 +0000</pubDate>
+<description>Almeno fino a sabato ci saranno numerose occasioni per fenomeni su gran parte delle regioni: termometri verso il basso anche al Sud, ecco i valori previsti Alessandro Ferro</description>
+<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/Q6T22ZZACNNDFNTO4WTAZ2HOPQ.jpg?smart=true&amp;auth=1b91bf1ca5799ef3ed2d25afdba50f0c70e23aa54fecf827c03615d9a764976b&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Orrore a Firenze, studentessa chiede di usare il bagno, il gestore pakistano le strappa gli slip e prova a violentarla</title>
 <link>https://www.ilgiornale.it/news/nazionale/orrore-a-firenze-studentessa-chiede-di-usare-il-bagno-il-gestore-pakistano-le-strappa-gli-slip-e-prova-a-violentarla/</link>
@@ -786,14 +794,6 @@
 <pubDate>Tue, 08 Sep 2026 18:08:04 +0000</pubDate>
 <description>Il medico che aveva in cura il 36enne da ben 15 anni rivela: “Non me lo sarei mai aspettato, era relativamente tranquillo” Federico Garau</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KCDKM7VUPZBRHJEAI5X6XW4PSY.jfif?focal=633%2C338&amp;auth=2db15196fd8828d759ca3032169f89ac993d7550e791b9c7ebefb5f82355968b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Passione, ricordi e le Ferrari dei record. Al Mugello il Gran Premio d’Italia Storico</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/passione-ricordi-e-le-ferrari-dei-record-al-mugello-il-gran-premio-ditalia-storico/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/passione-ricordi-e-le-ferrari-dei-record-al-mugello-il-gran-premio-ditalia-storico/</guid>
-<pubDate>Tue, 08 Sep 2026 17:48:26 +0000</pubDate>
-<description>Dal 2 al 4 ottobre il circuito toscano ospiterà la prima assoluta che vedrà celebrare il decennio più glorioso della storia di Maranello. In pista 9 monoposto guidate da ex piloti della “rossa”. Il capitolo d’oro del Dream Team di cui facevano parte Todt e Schumacher. La Russa (Aci): “Il patrimonio più prezioso del nostro motorsport è la sua storia” Pierluigi Bonora</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/YSBVZKFQFBFJRKYY2KVUAR7LJE.jpg?focal=678%2C400&amp;auth=2a908cb1082ac67d3c022cb5cab281d843b3c321af266fbf05fc9c047d243226&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
