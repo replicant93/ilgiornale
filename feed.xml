@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 10 Sep 2026 15:49:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 16:00:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Multa stradale per aver bestemmiato: 102 euro, ecco per quale ragione</title>
+<link>https://www.ilgiornale.it/news/attualita/multa-stradale-per-aver-bestemmiato-102-euro-ecco-per-quale-ragione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/multa-stradale-per-aver-bestemmiato-102-euro-ecco-per-quale-ragione/</guid>
+<pubDate>Thu, 10 Sep 2026 15:53:51 +0000</pubDate>
+<description>Autovelox, arriva una multa senza foto? Ecco quando puoi contestarla e come procedere Pur avendo evitato di investire, con il suo scooter, un pedone, ha ricevuto la multa per un altro motivo: ecco cosa prevede un articolo del codice penale Alessandro Ferro</description>
+</item>
 <item>
 <title>A Ceuta i migranti tendono le trappole ai militari: “Così cadono nel vuoto”</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/a-ceuta-i-migranti-tendono-le-trappole-ai-militari-cosi-cadono-nel-vuoto/</link>
@@ -787,14 +794,6 @@
 <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
 <description>Meloni e il no all’alleanza con Vannacci. Fdi: “Non dobbiamo vincere snaturandoci” E la sinistra caccia l'ex generale dalla kermesse di poliziotti La premier non vuole accordi con il generale. Filini: “Non si sommano mele e pere, la sua linea è contro l’esecutivo”. Interrotte tutte le comunicazioni con il leader di Fn, che continua a mandare messaggi: “Se vogliono governare facciano i conti con noi” Francesco Boezi</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/JZITT4ZO3ZD5JGG35FHTJWAEXU.jpg?focal=1874%2C631&amp;auth=a502b4511ae7af826fbcb077b65f5c4fa79c5ba66e17f4c576ca84bac57735d7&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“La Lega è una e indivisibile. Sarò alla Festa di Pontida”</title>
-<link>https://www.ilgiornale.it/news/interni/la-lega-e-una-e-indivisibile-saro-alla-festa-di-pontida/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-lega-e-una-e-indivisibile-saro-alla-festa-di-pontida/</guid>
-<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-<description>Il presidente del Consiglio regionale del Veneto Luca Zaia: “La vittoria Afd è democrazia, chi la vota chiede sicurezza e lotta all’immigrazione. Il Carroccio? Normale dialogare con il leader” Hoara Borselli</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/PF27ZNFQ4VD4BNRZQVZE4D7HIA.jpg?focal=355%2C322&amp;auth=8b1fc35bde5e3336ccb3b0b48d894304aee35816be3b06385f95be8a43bb39d8&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
