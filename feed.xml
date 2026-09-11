@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 20:31:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:49:22 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La folle teoria su Vannacci, vedono neonazi ovunque e Bonino: quindi, oggi…</title>
+<link>https://www.ilgiornale.it/news/quindi-oggi/la-folle-teoria-su-vannacci-vedono-neonazi-ovunque-e-bonino-quindi-oggi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/quindi-oggi/la-folle-teoria-su-vannacci-vedono-neonazi-ovunque-e-bonino-quindi-oggi/</guid>
+<pubDate>Fri, 11 Sep 2026 20:38:33 +0000</pubDate>
+<description>Quindi oggi La folle teoria su Vannacci, vedono neonazi ovunque e Bonino: quindi, oggi… Giuseppe De Lorenzo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ZDBBGUQRFJAKXMA2L6JMDGBMTU.jpg?smart=true&amp;auth=65d0cd551a52912078edd5543a221f1a8b0e9665fe999f2184d05df7b44ef85d&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>I messaggi di Vella alla madre di Lorena Isceri mentre la uccideva: “Sei perfida”</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/i-messaggi-di-vella-alla-madre-di-lorena-isceri-mentre-la-uccideva-sei-perfida/</link>
@@ -792,13 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/poste-ora-fa-il-balzo-nella-scalata-a-tim/</guid>
 <pubDate>Fri, 11 Sep 2026 05:19:29 +0000</pubDate>
 <description>Sofia Fraschini</description>
-</item>
-<item>
-<title>E adesso i fondi complicano i piani di Lovaglio</title>
-<link>https://www.ilgiornale.it/news/banche/e-adesso-i-fondi-complicano-i-piani-di-lovaglio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/banche/e-adesso-i-fondi-complicano-i-piani-di-lovaglio/</guid>
-<pubDate>Fri, 11 Sep 2026 05:18:45 +0000</pubDate>
-<description>Gian Maria De Francesco</description>
 </item>
 </channel>
 </rss>
