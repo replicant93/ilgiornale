@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 13:19:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 13:34:23 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Margherita Agnelli non può essere parte civile contro il figlio in una parte del processo</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/margherita-agnelli-non-puo-essere-parte-civile-contro-il-figlio-in-una-parte-del-processo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/margherita-agnelli-non-puo-essere-parte-civile-contro-il-figlio-in-una-parte-del-processo/</guid>
+<pubDate>Fri, 11 Sep 2026 13:33:10 +0000</pubDate>
+<description>La richiesta non è stata accolta nel procedimento sulla presunta residenza fittizia di Marella Caracciolo ma è stata, al contrario, accolta nel segmento sul falso Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/O5MSIQ3M4JIXZO7R3TB5A5F2CQ.jpg?focal=473%2C512&amp;auth=2eb9b576d4aca42443baaf499c7b783f9d84bc4bbcbc97afd639e16ad3859be4&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Il cuore artificiale avrebbe salvato Domenico”: che cosa emerge dalla perizia del gip</title>
 <link>https://www.ilgiornale.it/news/nazionale/il-cuore-artificiale-avrebbe-salvato-domenico-che-cosa-emerge-dalla-perizia-del-gip/</link>
@@ -789,14 +797,6 @@
 <pubDate>Thu, 10 Sep 2026 15:43:46 +0000</pubDate>
 <description>Il commissario Ue Brunner è in contatto con Italia e Spagna per risolvere le conseguenze della crisi ma “ci sono ancora delle sfide” Alessandra Corradi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YP3M3KWGRRCZJKP6IH3NLZOTJM.jpg?focal=1505%2C1206&amp;auth=43bb09258a1ed8d431ad40499a7d5c8ef44682b83b44fd856ffafa2981364fb1&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>L’università simbolo del progressismo sotto accusa: “Penalizzati bianchi e asiatici”</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/luniversita-simbolo-del-progressismo-sotto-accusa-penalizzati-bianchi-e-asiatici/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/luniversita-simbolo-del-progressismo-sotto-accusa-penalizzati-bianchi-e-asiatici/</guid>
-<pubDate>Thu, 10 Sep 2026 15:39:24 +0000</pubDate>
-<description>Il Dipartimento di Giustizia accusa Berkeley di aver favorito i candidati neri nelle ammissioni del 2024 e 2025. L’ateneo respinge tutto: “La razza non viene considerata” Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/RVNZAW4BCZAHDAFT52YEUZ4TKE.jpg?smart=true&amp;auth=58cd7b15470ad582d06ac58a611c9886a11de998778e58913ea7689f3e9aaedd&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
