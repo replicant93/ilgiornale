@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 09:17:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 09:33:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A Ceuta un altro arresto per jihadismo: fermato un marocchino già espulso per terrorismo</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/a-ceuta-un-altro-arresto-per-jihadismo-fermato-un-marocchino-gia-espulso-per-terrorismo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/a-ceuta-un-altro-arresto-per-jihadismo-fermato-un-marocchino-gia-espulso-per-terrorismo/</guid>
+<pubDate>Fri, 11 Sep 2026 09:24:12 +0000</pubDate>
+<description>Intanto nella notte sono andate a fuoco 42 baracche abusive dei migranti, mentre per Sanchez non sono invasori ma “persone che cercano una vita migliore” Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FHW3YHO5FNFIPHPWDZQNI2MLTM.jpg?focal=2100%2C671&amp;auth=51185b61cdca60508ac978ebca495d8503b8c7b1d6128b89afd15d5bd90c1dc3&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Emma Bonino e Marco Pannella, una vita da radicali: il sodalizio, le battaglie e la dolorosa rottura</title>
 <link>https://www.ilgiornale.it/news/interni/emma-bonino-e-marco-pannella-una-vita-da-radicali-il-sodalizio-le-battaglie-e-la-dolorosa-rottura/</link>
@@ -787,14 +795,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/autovelox-arriva-una-multa-senza-foto-ecco-quando-puoi-contestarla-e-come-procedere/</guid>
 <pubDate>Thu, 10 Sep 2026 08:11:48 +0000</pubDate>
 <description>In sede di contestazione di una multa, l’amministrazione deve mostrare la foto dell’infrazione. L’assenza di prova fotografica cambia tutto Federico Garau</description>
-</item>
-<item>
-<title>La rivoluzione pieghevole</title>
-<link>https://www.ilgiornale.it/news/aziende/liphone-diventa-pieghevole/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/liphone-diventa-pieghevole/</guid>
-<pubDate>Thu, 10 Sep 2026 08:03:15 +0000</pubDate>
-<description>iPhone Duo e 18 Pro: ecco tutti i prezzi La rivoluzione pieghevole Le prime novità presentate da John Ternus alla prova del mercato: il pieghevole arriva il 23 ottobre, per la versione base bisognerà aspettare il 2027. Resta l’incognita IA in Europa Marco Lombardo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NTYN2ZWW2NEHNBM3WAK5MGKTWI.jpg?smart=true&amp;auth=9e7032e732b5eed506d3568c51bee23df6484bbe3d63ea14afb5ec886c3d8fbf&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
