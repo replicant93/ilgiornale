@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 16:56:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 17:12:29 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Suicidio di Denise Cosco, il mistero delle ultime ore: la Procura sentirà il compagno</title>
+<link>https://www.ilgiornale.it/news/nazionale/suicidio-di-denise-cosco-il-mistero-delle-ultime-ore-la-procura-sentira-il-compagno/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/suicidio-di-denise-cosco-il-mistero-delle-ultime-ore-la-procura-sentira-il-compagno/</guid>
+<pubDate>Fri, 11 Sep 2026 16:15:32 +0000</pubDate>
+<description>Si indaga per istigazione al suicidio dietro la morte della figlia di Lea Garofalo: disposto anche l’esame del telefono della donna Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MTMUIDQ5WFHFNEL2DFDZBC4JPI.jpg?smart=true&amp;auth=ca38991453926a8804fd16e3bd35ab80323f1cfcc7b839df1f92d4fa6c09c5bb&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Migranti, la stretta della Meloni: “Chi delinque viene espulso”. E posta il video delle operazioni di rimpatrio della polizia</title>
 <link>https://www.ilgiornale.it/news/governo/migranti-la-stretta-della-meloni-chi-delinque-viene-espulso/</link>
@@ -790,14 +798,6 @@
 <pubDate>Thu, 10 Sep 2026 18:46:56 +0000</pubDate>
 <description>Maltempo, dramma nel sottopasso allagato a Latisana (Udine): una donna muore annegata Nel Senese donna muore in casa per le conseguenze di una tromba d’aria La vittima era rimasta intrappolata con la propria automobile. I soccorsi sono stati purtroppo inutili: ecco che cosa è successo Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/F4ISS4WQ3VDWFOTHU5VHLK33XM.jpg?smart=true&amp;auth=6a1f1a4414fca5734a0773c9f2c44146b490f08363106abe71be2a87707dcb66&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Svizzera, incidente per un pullman turistico. La polizia: “Morti e feriti”</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/svizzera-incidente-per-un-pullman-turistico-la-polizia-morti-e-feriti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/svizzera-incidente-per-un-pullman-turistico-la-polizia-morti-e-feriti/</guid>
-<pubDate>Thu, 10 Sep 2026 18:37:30 +0000</pubDate>
-<description>Cronaca internazionale Svizzera, incidente per un pullman turistico. La polizia: “Morti e feriti” L’incidente è avvenuto tra i comuni di Susch e Zernez, nel cantone dei Grigioni, nella parte orientale del paese. La Farnesina sta verificando l’eventuale presenza di italiani Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MS3FWILKANPA7OVJNSJ5M4HP7M.jpg?smart=true&amp;auth=db878577a10ed66764ea17d7b8f15aa52bf8fbcb47257d1c83460919db63f929&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
