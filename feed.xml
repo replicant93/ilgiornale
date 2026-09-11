@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 20:14:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:31:45 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>I messaggi di Vella alla madre di Lorena Isceri mentre la uccideva: “Sei perfida”</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/i-messaggi-di-vella-alla-madre-di-lorena-isceri-mentre-la-uccideva-sei-perfida/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/i-messaggi-di-vella-alla-madre-di-lorena-isceri-mentre-la-uccideva-sei-perfida/</guid>
+<pubDate>Fri, 11 Sep 2026 20:07:46 +0000</pubDate>
+<description>Cronaca giudiziaria I messaggi di Vella alla madre di Lorena Isceri mentre la uccideva: “Sei perfida” Il 36enne, suicida dopo aver gettato giù dal viadotto l’ex compagna, accusava la mamma della vittima del mancato ricongiungimento con la figlia: “Se non mi avessi trattato male non sarebbe successo” Rosa Scognamiglio</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MJRK2CPGI5D7HE5NFLGJFY7FF4.png?smart=true&amp;auth=bc28b10d241cfde0510083a8f88b28d37ca5546f74f80479ef57ecf79cb16324&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Funerali di Stato per Emma Bonino. “Saranno in forma laica”. La Camera ardente domenica e lunedì in Campidoglio</title>
 <link>https://www.ilgiornale.it/news/interni/funerali-di-stato-per-emma-bonino-saranno-in-forma-laica-la-camera-ardente-domenica-e-lunedi-in-campidoglio/</link>
@@ -791,14 +799,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/banche/e-adesso-i-fondi-complicano-i-piani-di-lovaglio/</guid>
 <pubDate>Fri, 11 Sep 2026 05:18:45 +0000</pubDate>
 <description>Gian Maria De Francesco</description>
-</item>
-<item>
-<title>Intesa, plebiscito dei soci per la conquista di Mps</title>
-<link>https://www.ilgiornale.it/news/banche/intesa-plebiscito-dei-soci-per-la-conquista-di-mps/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/banche/intesa-plebiscito-dei-soci-per-la-conquista-di-mps/</guid>
-<pubDate>Fri, 11 Sep 2026 05:18:06 +0000</pubDate>
-<description>Marcello Astorri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZWV4K4QNDNK6LHGL2ODU6FPNB4.jpg?focal=3837%2C2075&amp;auth=eec346ef7d2212a8d54f0f0f59f2d3a9deb19601c43b5839e5653d1d72a5e4b5&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
