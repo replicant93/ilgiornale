@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 03:42:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 03:57:42 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sventurata la città che cerca gli eroi</title>
+<link>https://www.ilgiornale.it/news/nazionale/sventurata-la-citta-che-cerca-gli-eroi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sventurata-la-citta-che-cerca-gli-eroi/</guid>
+<pubDate>Fri, 11 Sep 2026 03:51:35 +0000</pubDate>
+<description>commento Nazionale Sventurata la città che cerca gli eroi Antonio Ruzzo</description>
+</item>
 <item>
 <title>Buona la prima del Como in Champions, Lipsia battuto 4-1</title>
 <link>https://www.ilgiornale.it/news/calcio/buona-la-prima-del-como-in-champions-lipsia-battuto-4-1/</link>
@@ -787,14 +794,6 @@
 <pubDate>Wed, 09 Sep 2026 10:35:15 +0000</pubDate>
 <description>“Eravamo nel ‘94. Nelle discussioni con Bagarella dicevamo di usarle come strumento politico, in modo che potessero orientare la sua entrata in politica”, ha detto il boss durante il processo Baiardo Redazione web</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FMWU4HMZDJI27OGRQMRPN2FI4M.jpg?focal=1256%2C260&amp;auth=17f03cdf36110fe7668b066cbdee086e99c55d68ee545e8183bff9b60453fe26&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>L'amica di Ranucci inviò a Valter le carte top secret sull'inchiesta</title>
-<link>https://www.ilgiornale.it/news/interni/lamica-di-ranucci-invio-a-valter-le-carte-top-secret-sullinchiesta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lamica-di-ranucci-invio-a-valter-le-carte-top-secret-sullinchiesta/</guid>
-<pubDate>Wed, 09 Sep 2026 10:31:06 +0000</pubDate>
-<description>“L’affare Autogrill fu il casus belli”. Gabrielli rievoca lo stop a Mancini La notte della perquisizione a carico del faccendiere, Cianfoni, collaboratrice di Mr Report, inoltrò alla compagna di Lavitola l’ordinanza che riguardava l’arresto degli autori materiali dell’attentato Pasquale Napolitano , Giulia Sorrentino</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/BA3W4EWURJHFPF4NUJFKFRRFSA.jpg?focal=1548%2C676&amp;auth=01e92de92360da85a439b448acaa7a99c3fcb8c81439540e3ae423f03584dd8b&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
