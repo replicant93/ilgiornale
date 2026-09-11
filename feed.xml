@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 05:40:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 05:56:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tajani: “L’Occidente ha sconfitto il terrorismo, ma non bisogna abbassare la guardia”</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/11-settembre-tajani-loccidente-ha-sconfitto-il-terrorismo-ma-non-bisogna-abbassare-la-guardia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/11-settembre-tajani-loccidente-ha-sconfitto-il-terrorismo-ma-non-bisogna-abbassare-la-guardia/</guid>
+<pubDate>Fri, 11 Sep 2026 05:46:04 +0000</pubDate>
+<description>Cosa resta di Al Qaeda 25 anni dopo gli attentati dell’11 settembre e perché è ancora pericolosa Tajani: “L’Occidente ha sconfitto il terrorismo, ma non bisogna abbassare la guardia” Dal Sahel all’Afghanistan fino alle cellule europee: la “Base” si è trasformata in un sistema decentralizzato che punta su propaganda, microcellule e lupi solitari Alberto Bellotto</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/WKIRQ6M6PFLBXCJJ5K773BCZ7I.jpg?focal=575%2C205&amp;auth=4ff2a1bec408e9fc73441d8c3a2cc7bd6f164432c1555e21978f18696de005f8&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>I frutti avvelenati di Al Qaeda: ecco dove sono i santuari del terrore islamista</title>
 <link>https://www.ilgiornale.it/news/terrorismo/i-frutti-avvenelanti-di-al-qaeda-ecco-dove-sono-i-santuari-del-terrore-islamista/</link>
@@ -786,14 +794,6 @@
 <pubDate>Wed, 09 Sep 2026 12:28:29 +0000</pubDate>
 <description>Ranucci, le carte segrete e le donne del mistero “L’affare Autogrill fu il casus belli”. Gabrielli rievoca lo stop a Mancini La notte della perquisizione a carico del faccendiere, Cianfoni, collaboratrice di Mr Report, inoltrò alla compagna di Lavitola l’ordinanza che riguardava l’arresto degli autori materiali dell’attentato Pasquale Napolitano , Giulia Sorrentino Ranucci convocato in procura entro fine settembre: sarà sentito come persona informata sui fatti</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/BA3W4EWURJHFPF4NUJFKFRRFSA.jpg?focal=1548%2C676&amp;auth=01e92de92360da85a439b448acaa7a99c3fcb8c81439540e3ae423f03584dd8b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“Boicottate Adidas”. La campagna con l’ex soldato israeliano scatena la rivolta pro-Pal</title>
-<link>https://www.ilgiornale.it/news/cultura-e-societa/boicottate-adidas-la-campagna-con-lex-soldato-israeliano-scatena-la-rivolta-pro-pal/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cultura-e-societa/boicottate-adidas-la-campagna-con-lex-soldato-israeliano-scatena-la-rivolta-pro-pal/</guid>
-<pubDate>Wed, 09 Sep 2026 11:53:47 +0000</pubDate>
-<description>Nel mirino Shalev Biton, amputato dopo un attacco di Hamas nel 2021. Dopo le polemiche il gruppo tedesco chiede scusa Massimo Balsamo</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/P4XDBHYPWJHSLGHEHGJBDI6XJY.png?focal=464%2C411&amp;auth=f4dc4b2396ab6c53796d012966fb5e1c309272c3b34b545bb8a4fbc9e8426f95&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
