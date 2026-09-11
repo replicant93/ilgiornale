@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 08:58:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 09:17:42 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Emma Bonino e Marco Pannella, una vita da radicali: il sodalizio, le battaglie e la dolorosa rottura</title>
+<link>https://www.ilgiornale.it/news/interni/emma-bonino-e-marco-pannella-una-vita-da-radicali-il-sodalizio-le-battaglie-e-la-dolorosa-rottura/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/emma-bonino-e-marco-pannella-una-vita-da-radicali-il-sodalizio-le-battaglie-e-la-dolorosa-rottura/</guid>
+<pubDate>Fri, 11 Sep 2026 08:56:35 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VFNOSKGJHVEH7EJ3KSTSQZUK4U.jpg?smart=true&amp;auth=46349044897798c0fd162c058cb82d212ed6657282a51845e3197d204f8f5270&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>All’asta il revenge dress che Lady Diana indossó nel 1994 dopo l’intervista scandalo di Carlo</title>
 <link>https://www.ilgiornale.it/news/personaggi/allasta-il-revenge-dress-che-lady-diana-indosso-nel-1994-dopo-lintervista-scandalo-di-carlo/</link>
@@ -787,14 +795,6 @@
 <pubDate>Thu, 10 Sep 2026 08:03:15 +0000</pubDate>
 <description>iPhone Duo e 18 Pro: ecco tutti i prezzi La rivoluzione pieghevole Le prime novità presentate da John Ternus alla prova del mercato: il pieghevole arriva il 23 ottobre, per la versione base bisognerà aspettare il 2027. Resta l’incognita IA in Europa Marco Lombardo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NTYN2ZWW2NEHNBM3WAK5MGKTWI.jpg?smart=true&amp;auth=9e7032e732b5eed506d3568c51bee23df6484bbe3d63ea14afb5ec886c3d8fbf&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il filo segreto tra Pechino e Mosca: così la Cina tiene in vita la macchina da guerra russa</title>
-<link>https://www.ilgiornale.it/news/difesa/il-filo-segreto-tra-pechino-e-i-droni-di-putin-cosi-la-cina-tiene-in-vita-la-macchina-da-guerra-russa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/il-filo-segreto-tra-pechino-e-i-droni-di-putin-cosi-la-cina-tiene-in-vita-la-macchina-da-guerra-russa/</guid>
-<pubDate>Thu, 10 Sep 2026 07:59:29 +0000</pubDate>
-<description>DIRETTA Mosca colpisce Kiev e un centro commerciale: 5 morti. Putin e Xi arrivano a Nuova Delhi per il vertice dei Brics L’allarme, lo stop al volo e i droni russi nei cieli Nato: cosa è successo a Zelensky Notte di attacchi tra Russia e Ucraina: due feriti nella capitale ucraina e cinque morti a Pavlohrad, mentre Kiev colpisce Saratov e Volgograd. Sul fronte si contano 277 scontri in un giorno, intanto il presidente russo è arrivato in India per il vertice dei Brics Redazione web Il filo segreto tra Pechino e Mosca: così la Cina tiene in vita la macchina da guerra russa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/AERXZ7SUFFEGDOYZEBRWCVE5GI.jpg?focal=4407%2C2960&amp;auth=f4783d3839100b9b9e675b1ca6dace84937af85807d46c877e70fad091310757&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
