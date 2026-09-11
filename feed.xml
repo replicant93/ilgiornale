@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 19:29:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 19:42:40 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bin Laden, Al Qaeda e l’ombra dell’attacco: cosa dicevano i dossier Cia prima dell’11 settembre</title>
+<link>https://www.ilgiornale.it/news/terrorismo/bin-laden-al-qaeda-e-lombra-dellattacco-cosa-dicevano-i-dossier-cia-prima-dell11-settembre/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/terrorismo/bin-laden-al-qaeda-e-lombra-dellattacco-cosa-dicevano-i-dossier-cia-prima-dell11-settembre/</guid>
+<pubDate>Fri, 11 Sep 2026 18:46:10 +0000</pubDate>
+<description>Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LFSSMUBWGVFUHNMQCR4FG5IQFY.jpg?smart=true&amp;auth=dcd8a0943d66a80dee17840ad0cf8966e35eedcc591f1d122f2cfa8941e90d27&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Subita irruzione dopo post su convegno no vax”. La denuncia del Pd Lombardia</title>
 <link>https://www.ilgiornale.it/news/politica/subita-irruzione-dopo-post-su-convegno-no-vax-la-denuncia-del-pd-lombardia/</link>
@@ -791,13 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 04:00:01 +0000</pubDate>
 <description>A 25 anni dall’11 settembre, l’ideologia di Al Qaeda continua a rigenerarsi: meno strutture, più radicalizzazione autonoma e una violenza sempre più facile da attivare Alberto Bellotto</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/6HQPU46YDBP5JOKV7NIQSLAWFA.jpg?smart=true&amp;auth=74107161f69bab9a4ae2e6a0669e14c8c1187fb3ad334636f5a618f7cf61a213&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Sventurata la città che cerca gli eroi</title>
-<link>https://www.ilgiornale.it/news/nazionale/sventurata-la-citta-che-cerca-gli-eroi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sventurata-la-citta-che-cerca-gli-eroi/</guid>
-<pubDate>Fri, 11 Sep 2026 03:51:35 +0000</pubDate>
-<description>commento Nazionale Sventurata la città che cerca gli eroi Antonio Ruzzo</description>
 </item>
 </channel>
 </rss>
