@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 08:24:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 08:42:43 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Casa, la scelta liberticida della Ue sugli affitti brevi</title>
+<link>https://www.ilgiornale.it/scheda/affari-doro/casa-la-scelta-liberticida-della-ue-sugli-affitti-brevi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/scheda/affari-doro/casa-la-scelta-liberticida-della-ue-sugli-affitti-brevi/</guid>
+<pubDate>Fri, 11 Sep 2026 08:26:09 +0000</pubDate>
+<description>Affari d'oro Casa, la scelta liberticida della Ue sugli affitti brevi Marcello Zacché</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/L6GCRCIQRJPEJDS6EHQYBX5J6A.jpg?focal=432%2C316&amp;auth=30e2f2258064c9883e49e8008bd6e725ae74586b4aa1ccb173940e2fada74ec7&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Meloni: “Ha rappresentato per decenni una voce forte e riconoscibile della politica italiana”</title>
 <link>https://www.ilgiornale.it/news/governo/meloni-ha-rappresentato-per-decenni-una-voce-forte-e-riconoscibile-della-politica-italiana/</link>
@@ -30,6 +38,14 @@
 <pubDate>Fri, 11 Sep 2026 07:53:40 +0000</pubDate>
 <description>Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/AA3RMWES2NKZZIUTRFMMGT2CZQ.jpg?smart=true&amp;auth=9019bece7db8702a7dda2200c5302e0039c306c4f73a018ca8e00d9474249015&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>A 90 anni è morto Raffaele Costa: chi era l’ex membro del Parlamento europeo</title>
+<link>https://www.ilgiornale.it/news/attualita/a-90-anni-e-morto-raffaele-costa-chi-era-lex-membro-del-parlamento-europeo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/a-90-anni-e-morto-raffaele-costa-chi-era-lex-membro-del-parlamento-europeo/</guid>
+<pubDate>Fri, 11 Sep 2026 07:48:16 +0000</pubDate>
+<description>La notizia della scomparsa di Costa è stata data dal ministro degli Affari Esteri, Antonio Tajani. “Le tue battaglie continueranno con chi ha condiviso le tue scelte” Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/OV264X5UONE3LIKNONEQVQTOHA.jfif?focal=643%2C232&amp;auth=ef5e797b4ec9c9f9478fdb76e29a7f5cdb1d643628a19d56766108e778fb79b7&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>È morta Emma: addio alla storica leader del Partito Radicale, attivista dei diritti civili e simbolo di tante battaglie</title>
@@ -779,22 +795,6 @@
 <pubDate>Thu, 10 Sep 2026 07:56:17 +0000</pubDate>
 <description>Il blocco dell’ex capo di Stato maggiore arriverebbe a 57 seggi contro i 52 del premier uscente. Dopo il voto inizierà la corsa alle alleanze Chiara Clausi</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/HOCL24IIZNC67JA6UZQJJSQHP4.jpg?smart=true&amp;auth=19beddbb01f079b5e753b3781a6a7fb4d75fb4d92ee12de787c80953f474eaa4&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>L’allarme, lo stop al volo e i droni russi nei cieli Nato: cosa è successo a Zelensky</title>
-<link>https://www.ilgiornale.it/news/guerra/lallarme-lo-stop-al-volo-e-i-droni-russi-nei-cieli-nato-cosa-e-successo-a-zelensky/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/lallarme-lo-stop-al-volo-e-i-droni-russi-nei-cieli-nato-cosa-e-successo-a-zelensky/</guid>
-<pubDate>Thu, 10 Sep 2026 07:24:56 +0000</pubDate>
-<description>Il presidente ucraino è rimasto a terra in Moldavia durante un’incursione di droni russi, uno dei quali ha attraversato anche lo spazio aereo romeno Francesca Salvatore</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/NCVAFG6SQJHGHCPJJOEAGVSNWA.jpg?smart=true&amp;auth=aa1afb5d9be32cc5286a91f4dff3cdb5a24fa666da24c7bdecd87450ed6d7e3b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il mondo delle cliniche: aggiornate il tariffario</title>
-<link>https://www.ilgiornale.it/news/politica/il-mondo-delle-cliniche-aggiornate-il-tariffario/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/il-mondo-delle-cliniche-aggiornate-il-tariffario/</guid>
-<pubDate>Thu, 10 Sep 2026 06:16:00 +0000</pubDate>
-<description>L’Unione poliambulatori privati lamenta aumenti sotto i livelli dell’inflazione Francesco Curridori</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5ZA3LAGSS5KLFBEVPYUR5YBWCE.jpg?smart=true&amp;auth=b912f957654a93bf95d226462c57298abe974fa3dcad994baf29f7ac44944bef&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
