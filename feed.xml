@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 08:01:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 08:24:59 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Meloni: “Ha rappresentato per decenni una voce forte e riconoscibile della politica italiana”</title>
@@ -62,6 +62,14 @@
 <pubDate>Fri, 11 Sep 2026 07:16:53 +0000</pubDate>
 <description>Domenico Giordano</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TYJM5FXCQ5CB7MRMBX4BH3AZY4.jpg?focal=2392%2C1692&amp;auth=104801b6f75e9d7e71c9b19e327fb8fd7b5d9d15f205563bb5f5363aabfdea73&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>La convention di Dallas: "Se vinciamo le midterm, 5mila dollari a ogni americano”</title>
+<link>https://www.ilgiornale.it/news/politica-estera/trump-infiamma-la-convention-di-dallas-e-sfida-i-dem-se-vinciamo-le-midterm-5mila-dollari-ad-ogni-americano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-infiamma-la-convention-di-dallas-e-sfida-i-dem-se-vinciamo-le-midterm-5mila-dollari-ad-ogni-americano/</guid>
+<pubDate>Fri, 11 Sep 2026 07:09:26 +0000</pubDate>
+<description>Trump in versione predicatore: “Giurate fedeltà a me. Se non votate andrete all’inferno” La convention di Dallas: "Se vinciamo le midterm, 5mila dollari a ogni americano” Alla convention repubblicana il presidente trasforma le midterm in un referendum su se stesso: “Fate finta che il mio nome sia sulla scheda” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/P2XL7YYSDFBEZOTSI2FQAAH3WQ.jpg?focal=3051%2C1735&amp;auth=3652bf1884f0f938fd81f722f6191931b8f78c8930447f676c64f2290e48863c&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>Trump in versione predicatore: “Giurate fedeltà a me. Se non votate andrete all’inferno”</title>
@@ -749,6 +757,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/NTYN2ZWW2NEHNBM3WAK5MGKTWI.jpg?smart=true&amp;auth=9e7032e732b5eed506d3568c51bee23df6484bbe3d63ea14afb5ec886c3d8fbf&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Il filo segreto tra Pechino e Mosca: così la Cina tiene in vita la macchina da guerra russa</title>
+<link>https://www.ilgiornale.it/news/difesa/il-filo-segreto-tra-pechino-e-i-droni-di-putin-cosi-la-cina-tiene-in-vita-la-macchina-da-guerra-russa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/il-filo-segreto-tra-pechino-e-i-droni-di-putin-cosi-la-cina-tiene-in-vita-la-macchina-da-guerra-russa/</guid>
+<pubDate>Thu, 10 Sep 2026 07:59:29 +0000</pubDate>
+<description>DIRETTA Mosca colpisce Kiev e un centro commerciale: 5 morti. Putin e Xi arrivano a Nuova Delhi per il vertice dei Brics L’allarme, lo stop al volo e i droni russi nei cieli Nato: cosa è successo a Zelensky Notte di attacchi tra Russia e Ucraina: due feriti nella capitale ucraina e cinque morti a Pavlohrad, mentre Kiev colpisce Saratov e Volgograd. Sul fronte si contano 277 scontri in un giorno, intanto il presidente russo è arrivato in India per il vertice dei Brics Redazione web Il filo segreto tra Pechino e Mosca: così la Cina tiene in vita la macchina da guerra russa</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/AERXZ7SUFFEGDOYZEBRWCVE5GI.jpg?focal=4407%2C2960&amp;auth=f4783d3839100b9b9e675b1ca6dace84937af85807d46c877e70fad091310757&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
 <title>iPhone Duo e 18 Pro: ecco tutti i prezzi</title>
 <link>https://www.ilgiornale.it/news/mobile/iphone-duo-e-18-pro-ecco-tutti-i-prezzi/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/iphone-duo-e-18-pro-ecco-tutti-i-prezzi/</guid>
@@ -779,22 +795,6 @@
 <pubDate>Thu, 10 Sep 2026 06:16:00 +0000</pubDate>
 <description>L’Unione poliambulatori privati lamenta aumenti sotto i livelli dell’inflazione Francesco Curridori</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/5ZA3LAGSS5KLFBEVPYUR5YBWCE.jpg?smart=true&amp;auth=b912f957654a93bf95d226462c57298abe974fa3dcad994baf29f7ac44944bef&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Escalation Usa-Iran, Trump: “Potremmo dover colpire ancora”. Caccia americani danneggiati dagli attacchi dei pasdaran</title>
-<link>https://www.ilgiornale.it/diretta/guerra/escalation-usa-iran-trump-potremmo-dover-colpire-ancora-caccia-americani-danneggiati-dagli-attacchi-dei-pasdaran/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/escalation-usa-iran-trump-potremmo-dover-colpire-ancora-caccia-americani-danneggiati-dagli-attacchi-dei-pasdaran/</guid>
-<pubDate>Thu, 10 Sep 2026 05:42:04 +0000</pubDate>
-<description>La missione segreta dei Navy SEAL e il drone sottomarino catturato da Teheran: cosa succede nello Stretto di Hormuz Escalation tra Usa e Iran: raid iraniano danneggia velivoli americani in Giordania. Washington promette pressioni economiche, mentre Trump evoca nuovi attacchi contro siti nucleari iraniani Redazione web</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/EKB6J57D3VBU3L7LQK7DLY6PK4.jpg?smart=true&amp;auth=dbb4da7ebd34cd466868d3046ef228d9eeb358ddba2135c6835d90e3ca199a35&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Champions, l’Arsenal passa di misura al Maradona: Odegaard punisce il Napoli</title>
-<link>https://www.ilgiornale.it/news/calcio/champions-larsenal-passa-di-misura-al-maradona-odegaard-punisce-il-napoli/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/champions-larsenal-passa-di-misura-al-maradona-odegaard-punisce-il-napoli/</guid>
-<pubDate>Thu, 10 Sep 2026 05:28:13 +0000</pubDate>
-<description>Il Como sa farsi ben volere Vittoria di misura della squadra di Arteta, che dopo aver fallito varie occasioni, trova il gol partita nell’ultimo quarto d’ora con Odegaard. Terzo stop consecutivo per Allegri Antonio Prisco Zero rigori, più gol, var ignorato</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/H5UBODMFHRHP3IKAU2G3UMAVPE.jpg?smart=true&amp;auth=0a16d7559803e7b321528105fd4f069236c4d1b1f845e3529b7511d8484ce169&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
