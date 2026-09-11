@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 15:17:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 15:33:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Non associate gli attacchi all’Islam”: la folle guida delle scuole Usa sull’11 settembre</title>
+<link>https://www.ilgiornale.it/news/terrorismo/non-associate-gli-attacchi-allislam-la-folle-guida-delle-scuole-usa-sull11-settembre/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/terrorismo/non-associate-gli-attacchi-allislam-la-folle-guida-delle-scuole-usa-sull11-settembre/</guid>
+<pubDate>Fri, 11 Sep 2026 15:22:18 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JEVBWDPF4BCB3BT52D4M7RS5AU.jpg?smart=true&amp;auth=3efea98db9b017dc99c46a5a3d2e143edeea8eb0e692896dfde315a0759be4a4&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Il tempo della P38”. La minaccia contro Atreju prima della manifestazione di Roma</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/il-tempo-della-p38-la-minaccia-contro-atreju-prima-della-manifestazione-di-roma/</link>
@@ -790,14 +798,6 @@
 <pubDate>Thu, 10 Sep 2026 18:16:46 +0000</pubDate>
 <description>Viva le preferenze, gli italiani tornano a scegliere Meloni: “Mancavano dal ‘93, noi le abbiamo rimesse, sinistra non credibile”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F09-10-2026%2Ft_0b49cee1c1d44edebe238477cf1a7da2_name_IlGiornale_it_7__scaled.jpg?smart=true&amp;auth=984458b742b3bd61ab77d0cd619d84430fe967074f8c97c27b3c8c61c819e69d&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Paura a Malpensa, principio d’incendio su un volo EasyJet: aeroporto chiuso e 146 passeggeri evacuati</title>
-<link>https://www.ilgiornale.it/news/cronache/chiuso-laeroporto-di-malpensa-per-principio-di-incendio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/chiuso-laeroporto-di-malpensa-per-principio-di-incendio/</guid>
-<pubDate>Thu, 10 Sep 2026 16:52:00 +0000</pubDate>
-<description>Cronache Paura a Malpensa, principio d’incendio su un volo EasyJet: aeroporto chiuso e 146 passeggeri evacuati Principio d’incendio su un aereo diretto a Praga durante il rullaggio. Tutti i passeggeri fatti scendere dagli scivoli: due lievemente feriti. Operazioni aeroportuali temporaneamente sospese Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/V4FW2XJAPNGI7HWUX5ZINOQ2N4.jpg?focal=1682%2C1027&amp;auth=dd7443845e2e62403db108a70ae9cdff30b1afa69da3ac765614bafc9b9957cb&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
