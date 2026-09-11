@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 11:48:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:58:54 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meloni: “In arrivo aiuti mirati contro il caro carburanti a chi ha più bisogno”</title>
+<link>https://www.ilgiornale.it/news/governo/meloni-in-arrivo-aiuti-mirati-contro-il-caro-carburanti-a-chi-ha-piu-bisogno/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-in-arrivo-aiuti-mirati-contro-il-caro-carburanti-a-chi-ha-piu-bisogno/</guid>
+<pubDate>Fri, 11 Sep 2026 11:52:56 +0000</pubDate>
+<description>Governo Meloni: “In arrivo aiuti mirati contro il caro carburanti a chi ha più bisogno” Il premier Giorgia Meloni ha parlato a margine dell’inaugurazione della seconda edizione di Risò, il Festival internazionale del riso Francesco Curridori</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3FYA4EXUDRELJCKVQOTJKXYFP4.jpg?focal=2977%2C1265&amp;auth=aef23ce41064233f199a4c48bf5eac99035755aa26d631a4321abd8f555c56c4&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Torre Milano, la sentenza che smonta l’accusa: “Nessun accordo illecito”</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/torre-milano-la-sentenza-che-smonta-laccusa-nessun-accordo-illecito/</link>
@@ -789,14 +797,6 @@
 <pubDate>Thu, 10 Sep 2026 13:10:17 +0000</pubDate>
 <description>In corso al Senato la discussione sullo Stabilicum Francesco Curridori</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KR2YTTQY5VGTHHC7DPVAU46VYM.jpg?focal=1396%2C660&amp;auth=52062732bbbb27e31680f7437ce911b6f6f58e9a285978eb7022c68ec8a72b28&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Bce, nuova stretta sui tassi: aumento di 25 punti base. Ma l’eurozona resiste e Francoforte alza le stime sul Pil</title>
-<link>https://www.ilgiornale.it/news/borsa-e-mercati/bce-nuova-stretta-sui-tassi-aumento-di-25-punti-base-ma-leurozona-resiste-e-francoforte-alza-le-stime-sul-pil/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/borsa-e-mercati/bce-nuova-stretta-sui-tassi-aumento-di-25-punti-base-ma-leurozona-resiste-e-francoforte-alza-le-stime-sul-pil/</guid>
-<pubDate>Thu, 10 Sep 2026 12:57:54 +0000</pubDate>
-<description>Sullo sfondo restano le pressioni inflazionistiche legate alle tensioni in Medio Oriente, mentre migliorano le prospettive dell’economia: crescita stimata allo 0,9% nel 2026 e all’1,4% nel 2027, contro lo 0,8% e l’1,2% indicati a giugno Valentina Menassi</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/J5UV5PXAB5IR5LEPBGUA2M7RU4.jpg?smart=true&amp;auth=92fe33be90aa29cad81282874d4f95357b2621f1e9c60d29dd49127fe0ddc687&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
