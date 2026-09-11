@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 12:24:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 12:45:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Caso Delmastro, scontro sulle chat: la Procura solleva un conflitto di attribuzione</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/caso-delmastro-scontro-sulle-chat-la-procura-solleva-un-conflitto-di-attribuzione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/caso-delmastro-scontro-sulle-chat-la-procura-solleva-un-conflitto-di-attribuzione/</guid>
+<pubDate>Fri, 11 Sep 2026 12:40:01 +0000</pubDate>
+<description>I pm della Dda di Roma contestano il no di Montecitorio all’acquisizione delle comunicazioni tra l’ex sottosegretario e Mauro Caroccia Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VOMZIN6E4BF5FNQCKNAKYED5AY.jpg?focal=2253%2C338&amp;auth=36c21ca066d57b66a5cae1f06b1db4e4ef773b9b0b53842cd120fa837ed78117&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Meloni: “In arrivo aiuti mirati contro il caro carburanti a chi ha più bisogno”</title>
 <link>https://www.ilgiornale.it/news/governo/meloni-in-arrivo-aiuti-mirati-contro-il-caro-carburanti-a-chi-ha-piu-bisogno/</link>
@@ -789,14 +797,6 @@
 <pubDate>Thu, 10 Sep 2026 13:24:54 +0000</pubDate>
 <description>Roberto Santini imprenditore e custode dello storico Bagno Piero a Forte dei Marmi, amato da tutti per essere un punto di riferimento della comunità, è morto questa notte all’età di 63 anni. La lettera del Presidente e del Direttivo UPB Luca Romano</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/ITOA6QS34FCURFSAZ4CRKDCUXY.jpeg?focal=335%2C174&amp;auth=87ac901b656861630b0d3f8c5b1acf9eb95ecdf39bff023a703b4549ff48be23&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Legge elettorale, sulle preferenze il governo valuta l’ipotesi di rimettersi all’Aula. Donzelli: “La maggioranza non salta”</title>
-<link>https://www.ilgiornale.it/news/parlamento/legge-elettorale-casellati-lobiettivo-e-la-stabilita/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/legge-elettorale-casellati-lobiettivo-e-la-stabilita/</guid>
-<pubDate>Thu, 10 Sep 2026 13:10:17 +0000</pubDate>
-<description>In corso al Senato la discussione sullo Stabilicum Francesco Curridori</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/KR2YTTQY5VGTHHC7DPVAU46VYM.jpg?focal=1396%2C660&amp;auth=52062732bbbb27e31680f7437ce911b6f6f58e9a285978eb7022c68ec8a72b28&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
