@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 17:46:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 17:57:47 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Gli Houthi conquistano le isole di Bab el-Mandeb, ora il Mar Rosso è nelle loro mani: perché la guerra si può allargare</title>
+<link>https://www.ilgiornale.it/news/guerra/gli-houthi-conquistano-le-isole-di-bab-el-mandeb-ora-il-mar-rosso-e-nelle-loro-mani-perche-la-guerra-si-puo-allargare/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/gli-houthi-conquistano-le-isole-di-bab-el-mandeb-ora-il-mar-rosso-e-nelle-loro-mani-perche-la-guerra-si-puo-allargare/</guid>
+<pubDate>Fri, 11 Sep 2026 17:51:00 +0000</pubDate>
+<description>La caduta di Grande e Piccola Hanish completa l’avanzata del movimento filo-iraniano verso lo stretto. Dopo Mocha e Perim, gli Houthi controllano una posizione che può mettere sotto pressione una delle principali rotte marittime mondiali Francesca Salvatore</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ZGQFOF3F7NBZNPWPJI4HDUHSKU.jpg?smart=true&amp;auth=2b9068e533022ef2b5ae9f5f01bb8677eb92a40f6c4cf78c0cbd51cb723956f3&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Cos’è e come funziona il volo sanitario: perché deve viaggiare a bassa quota e fare più scali</title>
 <link>https://www.ilgiornale.it/news/attualita/rientro-di-di-battista-da-cuba-cose-e-come-funziona-il-volo-sanitario-perche-deve-viaggiare-a-bassa-quota-e-fare-piu-scali/</link>
@@ -790,14 +798,6 @@
 <pubDate>Thu, 10 Sep 2026 21:07:21 +0000</pubDate>
 <description>Il Como sa farsi ben volere La squadra allenata da Fabregas ha onorato la prima partita della sua storia nel più importante torneo europeo di calcio riservato ai club Redazione web Zero rigori, più gol, var ignorato</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/PXBHLXBZ7ZELLD2JDTCP2XC7B4.jpg?smart=true&amp;auth=78e05a8ab048a253dc6ad1e0d5725b2ece36d742646f40df9bfd99d608b4491b&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>La frase horror di Ranucci, la scuola di soli bengalesi e Lavitola: quindi, oggi…</title>
-<link>https://www.ilgiornale.it/news/quindi-oggi/la-frase-horror-di-ranucci-la-scuola-di-soli-bengalesi-e-lavitola-quindi-oggi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/quindi-oggi/la-frase-horror-di-ranucci-la-scuola-di-soli-bengalesi-e-lavitola-quindi-oggi/</guid>
-<pubDate>Thu, 10 Sep 2026 20:42:38 +0000</pubDate>
-<description>Quindi oggi La frase horror di Ranucci, la scuola di soli bengalesi e Lavitola: quindi, oggi… Giuseppe De Lorenzo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ADD2QTU6MRC63EKHVFRSDMZWB4.jpg?smart=true&amp;auth=27d3d858b7ebe818b4cb6b54fb08d0d8707cf7c78a8065ec448739818e4c7d01&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
