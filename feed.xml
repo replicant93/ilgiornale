@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 03:57:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 04:17:49 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Quattro Passi riapre al Romeo Massa Lubrense</title>
+<link>https://www.ilgiornale.it/news/retrogusto/quattro-passi-riapre-al-romeo-massa-lubrense/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/quattro-passi-riapre-al-romeo-massa-lubrense/</guid>
+<pubDate>Fri, 11 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Quattro Passi riapre al Romeo Massa Lubrense Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LWTI52HNPRCXTGDPITFSIRZCKE.png?smart=true&amp;auth=4a1d583bc657615d8afcc203c78e468d4eeb5dcd1ecd6fcf8ac26bc75699fc16&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Sventurata la città che cerca gli eroi</title>
 <link>https://www.ilgiornale.it/news/nazionale/sventurata-la-citta-che-cerca-gli-eroi/</link>
@@ -786,14 +794,6 @@
 <pubDate>Wed, 09 Sep 2026 10:54:24 +0000</pubDate>
 <description>Mariangela Cutrone</description>
 <media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/VCGH73QRIBF2NNE6U2IOPLPF4E.jpg?focal=2334%2C1625&amp;auth=1265bf8fff424be01c9e87dc596fc0014fb90892000e0f1b1e136ba6cb18af34&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Le ultime rivelazioni di Brusca: “Volevamo dare la colpa delle stragi del ‘92 e ‘93 alla sinistra per aiutare Berlusconi”</title>
-<link>https://www.ilgiornale.it/news/magistratura/le-ultime-rivelazioni-di-brusca-volevamo-dare-la-colpa-delle-stragi-del-92-e-93-alla-sinistra-per-aiutare-berlusconi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/le-ultime-rivelazioni-di-brusca-volevamo-dare-la-colpa-delle-stragi-del-92-e-93-alla-sinistra-per-aiutare-berlusconi/</guid>
-<pubDate>Wed, 09 Sep 2026 10:35:15 +0000</pubDate>
-<description>“Eravamo nel ‘94. Nelle discussioni con Bagarella dicevamo di usarle come strumento politico, in modo che potessero orientare la sua entrata in politica”, ha detto il boss durante il processo Baiardo Redazione web</description>
-<media:content url="https://ilgiornale-ilgiornale-staging.web.arc-cdn.net/resizer/v2/FMWU4HMZDJI27OGRQMRPN2FI4M.jpg?focal=1256%2C260&amp;auth=17f03cdf36110fe7668b066cbdee086e99c55d68ee545e8183bff9b60453fe26&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
