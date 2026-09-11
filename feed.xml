@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 14:58:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 15:17:36 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Il tempo della P38”. La minaccia contro Atreju prima della manifestazione di Roma</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/il-tempo-della-p38-la-minaccia-contro-atreju-prima-della-manifestazione-di-roma/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/il-tempo-della-p38-la-minaccia-contro-atreju-prima-della-manifestazione-di-roma/</guid>
+<pubDate>Fri, 11 Sep 2026 14:45:57 +0000</pubDate>
+<description>Cronaca giudiziaria “Il tempo della P38”. La minaccia contro Atreju prima della manifestazione di Roma La giovanile di FdI ha condiviso il video in cui si vedono le minacce ricevute con una promessa. “Ci vediamo a Fenix”. Il caso a un anno dall’uccisione di Charlie Kirk Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FMV25A4FDVCYRKKM5XZ6KFZ2QE.jfif?smart=true&amp;auth=f5ac9a4af4b1017d47bdaf90a908346494a044c16fd4b534e1cf892c7b8116e3&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Morta la principessa Astrid di Norvegia. Due giorni fa il funerale del fratello Harald V</title>
 <link>https://www.ilgiornale.it/news/personaggi/morta-la-principessa-astrid-di-norvegia-due-giorni-fa-il-funerale-del-fratello-harald-v/</link>
@@ -790,14 +798,6 @@
 <pubDate>Thu, 10 Sep 2026 16:52:00 +0000</pubDate>
 <description>Cronache Paura a Malpensa, principio d’incendio su un volo EasyJet: aeroporto chiuso e 146 passeggeri evacuati Principio d’incendio su un aereo diretto a Praga durante il rullaggio. Tutti i passeggeri fatti scendere dagli scivoli: due lievemente feriti. Operazioni aeroportuali temporaneamente sospese Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/V4FW2XJAPNGI7HWUX5ZINOQ2N4.jpg?focal=1682%2C1027&amp;auth=dd7443845e2e62403db108a70ae9cdff30b1afa69da3ac765614bafc9b9957cb&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Si toglie la vita Denise Cosco, la figlia di Lea Garofalo. Aveva 35 anni</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/si-toglie-la-vita-denise-cosco-la-figlia-di-lea-garofalo-aveva-35-anni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/si-toglie-la-vita-denise-cosco-la-figlia-di-lea-garofalo-aveva-35-anni/</guid>
-<pubDate>Thu, 10 Sep 2026 16:15:07 +0000</pubDate>
-<description>La giovane donna aveva la stessa età della madre quando venne assassinata dal compagno e da altri complici, appartenenti alla ‘ndrangheta, per avere collaborato con la giustizia Manuela Messina</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/JXJFQWGD35JLZBFB2BKMINZDWE.jpg?smart=true&amp;auth=c606f3c8fbb36c723325906a0cd727402137e8c280f32cfbea9de4dc4f224b98&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
