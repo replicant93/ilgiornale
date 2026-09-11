@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 17:12:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 17:30:36 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cos’è e come funziona il volo sanitario: perché deve viaggiare a bassa quota e fare più scali</title>
+<link>https://www.ilgiornale.it/news/attualita/rientro-di-di-battista-da-cuba-cose-e-come-funziona-il-volo-sanitario-perche-deve-viaggiare-a-bassa-quota-e-fare-piu-scali/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/rientro-di-di-battista-da-cuba-cose-e-come-funziona-il-volo-sanitario-perche-deve-viaggiare-a-bassa-quota-e-fare-piu-scali/</guid>
+<pubDate>Fri, 11 Sep 2026 17:11:57 +0000</pubDate>
+<description>Di Battista parte da Cuba per l’Italia: arriverà domani mattina. Come sta l'ex grillino Cos’è e come funziona il volo sanitario: perché deve viaggiare a bassa quota e fare più scali ll volo dovrà essere effettuato a bassa quota, con tappe intermedie, per garantire le migliori condizioni possibili al paziente Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/KRMFZZAKYFBLPPZENBWFP24KOQ.jpg?focal=2177%2C472&amp;auth=00deb798170df8c9b9dcf103bdec0024f9f373d2468e5b9d0d75a48631c1bba5&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Suicidio di Denise Cosco, il mistero delle ultime ore: la Procura sentirà il compagno</title>
 <link>https://www.ilgiornale.it/news/nazionale/suicidio-di-denise-cosco-il-mistero-delle-ultime-ore-la-procura-sentira-il-compagno/</link>
@@ -790,14 +798,6 @@
 <pubDate>Thu, 10 Sep 2026 20:42:38 +0000</pubDate>
 <description>Quindi oggi La frase horror di Ranucci, la scuola di soli bengalesi e Lavitola: quindi, oggi… Giuseppe De Lorenzo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ADD2QTU6MRC63EKHVFRSDMZWB4.jpg?smart=true&amp;auth=27d3d858b7ebe818b4cb6b54fb08d0d8707cf7c78a8065ec448739818e4c7d01&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Nel Senese donna muore in casa per le conseguenze di una tromba d’aria</title>
-<link>https://www.ilgiornale.it/news/cronache/maltempo-nel-senese-donna-muore-in-casa-per-le-conseguenze-di-una-tromba-daria/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/maltempo-nel-senese-donna-muore-in-casa-per-le-conseguenze-di-una-tromba-daria/</guid>
-<pubDate>Thu, 10 Sep 2026 18:46:56 +0000</pubDate>
-<description>Maltempo, dramma nel sottopasso allagato a Latisana (Udine): una donna muore annegata Nel Senese donna muore in casa per le conseguenze di una tromba d’aria La vittima era rimasta intrappolata con la propria automobile. I soccorsi sono stati purtroppo inutili: ecco che cosa è successo Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/F4ISS4WQ3VDWFOTHU5VHLK33XM.jpg?smart=true&amp;auth=6a1f1a4414fca5734a0773c9f2c44146b490f08363106abe71be2a87707dcb66&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
