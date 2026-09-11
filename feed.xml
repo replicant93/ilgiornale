@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 21:17:54 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sgarbi assolto dalla Corte dei Conti sul caso delle consulenze: cade l’accusa sulle 121 prestazioni da sottosegretario</title>
+<link>https://www.ilgiornale.it/news/interni/sgarbi-assolto-dalla-corte-dei-conti-sul-caso-dele-consulenze-cade-laccusa-sulle-121-prestazioni-da-sottosegretario/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/sgarbi-assolto-dalla-corte-dei-conti-sul-caso-dele-consulenze-cade-laccusa-sulle-121-prestazioni-da-sottosegretario/</guid>
+<pubDate>Fri, 11 Sep 2026 21:11:28 +0000</pubDate>
+<description>Respinta la richiesta di oltre 200mila euro: per i giudici non è stato dimostrato alcun danno erariale. Il critico d’arte: “Sono felice che la verità si sia affermata” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/SRO6LPUD5BL33H5CUCTEG3YXRI.jpg?smart=true&amp;auth=46b5bd92fbbd27dc251e3716c1f5dbb74f122d905a1c0c1710e86b9c1240a465&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La folle teoria su Vannacci, vedono neonazi ovunque e Bonino: quindi, oggi…</title>
 <link>https://www.ilgiornale.it/news/quindi-oggi/la-folle-teoria-su-vannacci-vedono-neonazi-ovunque-e-bonino-quindi-oggi/</link>
@@ -792,13 +800,6 @@
 <link>https://www.ilgiornale.it/news/politica-economica/la-bce-alza-i-tassi-dinteresse-ma-ce-il-rischio-nuove-stangate/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/la-bce-alza-i-tassi-dinteresse-ma-ce-il-rischio-nuove-stangate/</guid>
 <pubDate>Fri, 11 Sep 2026 05:21:33 +0000</pubDate>
-<description>Sofia Fraschini</description>
-</item>
-<item>
-<title>Poste ora fa il balzo nella scalata a Tim</title>
-<link>https://www.ilgiornale.it/news/aziende/poste-ora-fa-il-balzo-nella-scalata-a-tim/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/poste-ora-fa-il-balzo-nella-scalata-a-tim/</guid>
-<pubDate>Fri, 11 Sep 2026 05:19:29 +0000</pubDate>
 <description>Sofia Fraschini</description>
 </item>
 </channel>
