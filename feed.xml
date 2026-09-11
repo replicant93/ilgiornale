@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 13:49:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 14:00:28 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Morta la principessa Astrid di Norvegia. Due giorni fa il funerale del fratello Harald V</title>
+<link>https://www.ilgiornale.it/news/personaggi/morta-la-principessa-astrid-di-norvegia-due-giorni-fa-il-funerale-del-fratello-harald-v/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/morta-la-principessa-astrid-di-norvegia-due-giorni-fa-il-funerale-del-fratello-harald-v/</guid>
+<pubDate>Fri, 11 Sep 2026 13:54:20 +0000</pubDate>
+<description>Per oltre sette decenni aveva rappresentato la monarchia norvegese, prima come First Lady accanto al padre Olav V e poi al fianco di tre generazioni della famiglia reale. L’ultimo impegno pubblico la partecipazione al funerale del fratello Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GGTSAG334JCMPLOH4UB5L4Q3B4.jpg?smart=true&amp;auth=4add3737818bf7c03fdb17079a784740ff020880419e3515776ef4e3812a2b6c&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Gasparri: “Fuori le chat Sigfrido. La trasparenza vale anche per te”</title>
 <link>https://www.ilgiornale.it/news/nazionale/gasparri-a-ranucci-fuori-le-chat-sigfrido-la-trasparenza-vale-anche-per-te/</link>
@@ -790,14 +798,6 @@
 <pubDate>Thu, 10 Sep 2026 16:14:59 +0000</pubDate>
 <description>Il Cdm ha approvato il decreto per contenere gli effetti della crisi energetica determinata dalla guerra in Iran e dalla chiusura dello Stretto di Hormuz Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/PMIBE7GBVNHN3IQFZJGSTUTBVA.jpg?smart=true&amp;auth=624b6337b0e2f593235cc1ccfd3565b713b965d89748f07d1fd618a1b2388a41&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Migranti, gli arrivi in Ue calano del 35%: nel Mediterrano centrale la riduzione è del 55%</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/migranti-gli-arrivi-in-ue-calano-del-35-nel-mediterrano-centrale-la-riduzione-e-del-55/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/migranti-gli-arrivi-in-ue-calano-del-35-nel-mediterrano-centrale-la-riduzione-e-del-55/</guid>
-<pubDate>Thu, 10 Sep 2026 16:09:50 +0000</pubDate>
-<description>Grazie alla combinazione di politiche italiane ed europee, nella prima estate di operatività del Patto sulla migrazione i risultati sono incoraggianti Alessandra Corradi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/5PVMA6SMX5MATKVZZBITMIAX6Q.jpg?smart=true&amp;auth=8490750d7704c27e66b2b613d45a6b0c388de98738e8c73a6327d020575bdb20&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
