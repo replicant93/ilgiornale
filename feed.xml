@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 12:59:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 13:19:21 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Il cuore artificiale avrebbe salvato Domenico”: che cosa emerge dalla perizia del gip</title>
+<link>https://www.ilgiornale.it/news/nazionale/il-cuore-artificiale-avrebbe-salvato-domenico-che-cosa-emerge-dalla-perizia-del-gip/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-cuore-artificiale-avrebbe-salvato-domenico-che-cosa-emerge-dalla-perizia-del-gip/</guid>
+<pubDate>Fri, 11 Sep 2026 13:03:54 +0000</pubDate>
+<description>I periti del gip evidenziano criticità a Bolzano e nel post-trapianto. Nessuna responsabilità per Oppido e Bergonzoni nell’esecuzione dell’intervento al Monaldi. L’avvocato della famiglia: “La Procura valuti l’ipotesi di omicidio volontario” Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MPHGG3CHLRM4ND45UC3DNSHNIY.jpg?focal=1012%2C883&amp;auth=5dbd16dd0f325db48dcc9c49a701a69fe65c0e41ea126bb873befa4bee6e66d8&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Remigrazione? Per il cancelliere è pulizia etnica”. AfD denuncia Merz</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/remigrazione-per-il-cancelliere-e-pulizia-etnica-afd-denuncia-merz/</link>
@@ -789,14 +797,6 @@
 <pubDate>Thu, 10 Sep 2026 15:39:24 +0000</pubDate>
 <description>Il Dipartimento di Giustizia accusa Berkeley di aver favorito i candidati neri nelle ammissioni del 2024 e 2025. L’ateneo respinge tutto: “La razza non viene considerata” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/RVNZAW4BCZAHDAFT52YEUZ4TKE.jpg?smart=true&amp;auth=58cd7b15470ad582d06ac58a611c9886a11de998778e58913ea7689f3e9aaedd&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il costo del denaro sale ancora: ecco gli effetti su mutui e i prestiti</title>
-<link>https://www.ilgiornale.it/news/cittadini/bce-il-costo-del-denaro-sale-ancora-ecco-gli-effetti-sui-mutui-e-i-prestiti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bce-il-costo-del-denaro-sale-ancora-ecco-gli-effetti-sui-mutui-e-i-prestiti/</guid>
-<pubDate>Thu, 10 Sep 2026 15:39:12 +0000</pubDate>
-<description>Bce, nuova stretta sui tassi: aumento di 25 punti base. Ma l’eurozona resiste e Francoforte alza le stime sul Pil Il costo del denaro sale ancora: ecco gli effetti su mutui e i prestiti Sullo sfondo restano le pressioni inflazionistiche legate alle tensioni in Medio Oriente, mentre migliorano le prospettive dell’economia: crescita stimata allo 0,9% nel 2026 e all’1,4% nel 2027, contro lo 0,8% e l’1,2% indicati a giugno Valentina Menassi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/J5UV5PXAB5IR5LEPBGUA2M7RU4.jpg?smart=true&amp;auth=92fe33be90aa29cad81282874d4f95357b2621f1e9c60d29dd49127fe0ddc687&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
