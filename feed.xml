@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 11 Sep 2026 18:20:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 18:37:15 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Subita irruzione dopo post su convegno no vax”. La denuncia del Pd Lombardia</title>
+<link>https://www.ilgiornale.it/news/politica/subita-irruzione-dopo-post-su-convegno-no-vax-la-denuncia-del-pd-lombardia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/subita-irruzione-dopo-post-su-convegno-no-vax-la-denuncia-del-pd-lombardia/</guid>
+<pubDate>Fri, 11 Sep 2026 18:23:22 +0000</pubDate>
+<description>Politica “Subita irruzione dopo post su convegno no vax”. La denuncia del Pd Lombardia “Erano una trentina, sono venuti a cercarci nei nostri uffici a Palazzo Pirelli”, scrivono sui social Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5MQIOMQD5RKPXPGE6ZQEGA5HYI.jpg?smart=true&amp;auth=7bfa8ae4c7e29c4214946321678df37655ba5f124a3ad497c94dd6f31fc47280&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Gli Houthi conquistano le isole di Bab el-Mandeb, ora il Mar Rosso è nelle loro mani: perché la guerra si può allargare</title>
 <link>https://www.ilgiornale.it/news/guerra/gli-houthi-conquistano-le-isole-di-bab-el-mandeb-ora-il-mar-rosso-e-nelle-loro-mani-perche-la-guerra-si-puo-allargare/</link>
@@ -790,14 +798,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sventurata-la-citta-che-cerca-gli-eroi/</guid>
 <pubDate>Fri, 11 Sep 2026 03:51:35 +0000</pubDate>
 <description>commento Nazionale Sventurata la città che cerca gli eroi Antonio Ruzzo</description>
-</item>
-<item>
-<title>Buona la prima del Como in Champions, Lipsia battuto 4-1</title>
-<link>https://www.ilgiornale.it/news/calcio/buona-la-prima-del-como-in-champions-lipsia-battuto-4-1/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/buona-la-prima-del-como-in-champions-lipsia-battuto-4-1/</guid>
-<pubDate>Thu, 10 Sep 2026 21:07:21 +0000</pubDate>
-<description>Il Como sa farsi ben volere La squadra allenata da Fabregas ha onorato la prima partita della sua storia nel più importante torneo europeo di calcio riservato ai club Redazione web Zero rigori, più gol, var ignorato</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/PXBHLXBZ7ZELLD2JDTCP2XC7B4.jpg?smart=true&amp;auth=78e05a8ab048a253dc6ad1e0d5725b2ece36d742646f40df9bfd99d608b4491b&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
