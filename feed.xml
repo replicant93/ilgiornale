@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 16:13:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 16:30:35 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Trump vuole un’Irlanda unita: “Succederà prima o poi”. E Londra frena</title>
@@ -30,6 +30,14 @@
 <pubDate>Sat, 12 Sep 2026 15:20:17 +0000</pubDate>
 <description>La valanga di guai dell’eurodeputata allergica alla legge L’europarlamentare non sarebbe a conoscenza “dell’esatto importo preteso né delle coordinate necessarie per effettuare il pagamento” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MXYOLUEXQFNRLH6YWD4ETPYUZY.jpg?smart=true&amp;auth=098d2d3ff5aa1c13ab17879751c14c094d8ba4938a3eeb5f53d0b09006302688&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Rapina in casa Donnarumma, mandante condannato a 9 anni. La moglie strangolata col cavo del telefono: “Così ha perso il bambino”</title>
+<link>https://www.ilgiornale.it/news/attualita/rapina-in-casa-donnarumma-mandante-condannato-a-9-anni-la-moglie-strangolata-col-cavo-del-telefono-cosi-ha-perso-il-bambino/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/rapina-in-casa-donnarumma-mandante-condannato-a-9-anni-la-moglie-strangolata-col-cavo-del-telefono-cosi-ha-perso-il-bambino/</guid>
+<pubDate>Sat, 12 Sep 2026 14:42:37 +0000</pubDate>
+<description>È arrivata la sentenza di condanna per i fatti avvenuti nella villa parigina di Gigio Donnarumma e della moglie Alessia Elefante Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/S7A5RTEGABMZXGVGIFU3E4KFXU.jpg?smart=true&amp;auth=0031fdc71ef24aad8afa5fb6a213f23da17c05f3946fe2f2c24ddf5f82db7159&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Fumare alla guida, occhio alla stangata: in quali casi arriva la sanzione e quando raddoppia</title>
@@ -791,13 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 10:38:02 +0000</pubDate>
 <description>Dopo il duetto all’Olimpico i due artisti firmano la loro prima collaborazione con la ballad “Per noi” Novella Toloni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FEMZGJWTSZDANGUELGXH3FDO7I.jpg?focal=1421%2C692&amp;auth=461f8b48372866a031a4fdf91ddd30e9475521d372cb1c428bc51d5767e67984&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Patenti A, B, C e D: i requisiti e i controlli per il rinnovo dopo i 65 anni</title>
-<link>https://www.ilgiornale.it/news/cittadini/patenti-a-b-c-e-d-i-requisiti-e-i-controlli-per-il-rinnovo-dopo-i-65-anni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/patenti-a-b-c-e-d-i-requisiti-e-i-controlli-per-il-rinnovo-dopo-i-65-anni/</guid>
-<pubDate>Fri, 11 Sep 2026 10:36:53 +0000</pubDate>
-<description>Federico Garau</description>
 </item>
 </channel>
 </rss>
