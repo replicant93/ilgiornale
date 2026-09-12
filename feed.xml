@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 18:31:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 18:47:23 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il socio africano di Lavitola accusa Ranucci: “Ha abusato della sua posizione per aiutarlo”</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/il-socio-africano-di-lavitola-accusa-ranucci-ha-abusato-della-sua-posizione-per-aiutarlo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/il-socio-africano-di-lavitola-accusa-ranucci-ha-abusato-della-sua-posizione-per-aiutarlo/</guid>
+<pubDate>Sat, 12 Sep 2026 18:36:07 +0000</pubDate>
+<description>L’ex compagna di Lavitola in Procura per dieci ore: “Non sapevo nulla della bomba” Al Tg1 Benjamin Chimutengo dice che ha deciso di citare anche Sigfrido Ranucci per un’intervista in cui parlò di un’inchiesta di Report su un gruppo di investitori italiani nel carbon credit vittime di un truffatore Redazione web L’ex amico Bellavia: “Sigfrido ormai è andato fuori di testa” Ecco il link tra Report e i servizi segreti. Quel documento mostrato in tv e poi sparito</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YISWXPDXKVF7BL74ZJICLAOTKI.jpg?smart=true&amp;auth=4e599ae4df23937dcf5a6041b7e9cabf281323586d5885d192b8a48134e28140&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Un super Moreira salva il Milan all’Olimpico: 2-2 e Lazio prima da sola</title>
 <link>https://www.ilgiornale.it/news/calcio/un-super-moreira-salva-il-milan-allolimpico-2-2-e-lazio-prima-da-sola/</link>
@@ -791,14 +799,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/addio-ricorsi-ecco-quando-il-nuovo-codice-della-strada-prevede-larchiviazione-automatica-della-multa/</guid>
 <pubDate>Fri, 11 Sep 2026 11:24:51 +0000</pubDate>
 <description>Federico Garau</description>
-</item>
-<item>
-<title>Cristèl Carrisi ha sposato (di nuovo) Davor Luksik: la foto con mamma Romina e l’assenza di Al Bano</title>
-<link>https://www.ilgiornale.it/news/personaggi/cristel-carrisi-ha-sposato-di-nuovo-davor-luksik-la-foto-con-mamma-romina-e-lassenza-di-al-bano/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/cristel-carrisi-ha-sposato-di-nuovo-davor-luksik-la-foto-con-mamma-romina-e-lassenza-di-al-bano/</guid>
-<pubDate>Fri, 11 Sep 2026 11:10:21 +0000</pubDate>
-<description>A dieci anni dal primo “sì” la figlia di Al Bano e Romina ha rinnovato le promesse con Davor Luksic a Roma Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/X474TW7R2ZLUJLRBV5YEPT762Q.jpg?focal=429%2C502&amp;auth=282635ba168f9328d79ee8c3d5bef848f36dc0f190324cdba5c755a47c78623e&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
