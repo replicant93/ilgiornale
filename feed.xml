@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 08:48:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 08:59:19 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Cronaca internazionale</title>
@@ -475,6 +475,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/TKLW6MDTFFDG3C6SOQQE5KE5A4.jpg?focal=1843%2C786&amp;auth=f2c5a582235e12c24e8cea0d34da1fe8eb2e4238bdca6eae163f23e88fb6ae84&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>È iniziato il declino social di Ranucci</title>
+<link>https://www.ilgiornale.it/news/attualita/e-iniziato-il-declino-social-di-ranucci/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/e-iniziato-il-declino-social-di-ranucci/</guid>
+<pubDate>Fri, 11 Sep 2026 10:06:32 +0000</pubDate>
+<description>Domenico Giordano</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TYJM5FXCQ5CB7MRMBX4BH3AZY4.jpg?focal=2392%2C1692&amp;auth=104801b6f75e9d7e71c9b19e327fb8fd7b5d9d15f205563bb5f5363aabfdea73&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
 <title>Previsto in partenza per oggi l’aereo di Di Battista con destinazione Italia: come sta l’ex grillino</title>
 <link>https://www.ilgiornale.it/news/nazionale/previsto-in-partenza-per-oggi-laereo-di-di-battista-con-destinazione-italia-come-sta-lex-grillino/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/previsto-in-partenza-per-oggi-laereo-di-di-battista-con-destinazione-italia-come-sta-lex-grillino/</guid>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 11 Sep 2026 07:48:16 +0000</pubDate>
 <description>La notizia della scomparsa di Costa è stata data dal ministro degli Affari Esteri, Antonio Tajani. “Le tue battaglie continueranno con chi ha condiviso le tue scelte” Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OV264X5UONE3LIKNONEQVQTOHA.jfif?focal=643%2C232&amp;auth=ef5e797b4ec9c9f9478fdb76e29a7f5cdb1d643628a19d56766108e778fb79b7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>È morta Emma: addio alla storica leader del Partito Radicale, attivista dei diritti civili e simbolo di tante battaglie</title>
-<link>https://www.ilgiornale.it/news/interni/emma-bonino-morta-1381945.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/emma-bonino-morta-1381945.html</guid>
-<pubDate>Fri, 11 Sep 2026 07:47:39 +0000</pubDate>
-<description>Emma Bonino, storica leader del Partito Radicale, è morta oggi all’età di 78 anni e si è ‘ricongiunta’ a Marco Pannella dopo aver speso un’intera vita nelle battaglie per i diritti civili Francesco Curridori</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/UW4U6RCZLRNA7HKSSLNIQCOK2Y.jpg?smart=true&amp;auth=94b8f52df25cc42e6b172942b213491bc3a50a1aeb331e1b813ac775d4d9043b&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
