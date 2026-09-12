@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 08:59:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 09:17:40 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Cronaca internazionale</title>
@@ -126,6 +126,14 @@
 <pubDate>Sat, 12 Sep 2026 05:35:51 +0000</pubDate>
 <description>Cos’è e come funziona il volo sanitario: perché deve viaggiare a bassa quota e fare più scali L’ex pentastellato era stato ricoverato all’Avana dopo forti dolori alla testa. Operato d’urgenza la scorsa settimana, ieri ha lasciato Cuba per rientrare in Italia Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/44GQS3DHENAJLEN2PXIFG2CB6I.jpg?smart=true&amp;auth=bc188ba3492ef42cc373b847486a2e036df58a5e687789367b1bbbdb5233c0a2&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>La storica leader del Partito radicale è morta a 78 anni</title>
+<link>https://www.ilgiornale.it/news/interni/emma-bonino-morta-1381945.html</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/emma-bonino-morta-1381945.html</guid>
+<pubDate>Sat, 12 Sep 2026 05:17:23 +0000</pubDate>
+<description>Funerali di Stato per Emma Bonino. “Saranno in forma laica”. Camera ardente domenica e lunedì in Campidoglio La storica leader del Partito radicale è morta a 78 anni Alle esequie della storica leader Radicale sono attesi rappresentanti istituzionali, politici, cittadini, esponenti della società civile Redazione web Cos’è il microcitoma polmonare, il tumore combattuto da Emma Bonino Meloni: “Voce riconoscibile della politica italiana”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VWYF7VXNIBDC5BXRHRQR4AWDGY.jpg?smart=true&amp;auth=6bc4e8715d0f2d01d0f2775d4a265c88c479e7d028b50f6f84969f8745ea8e66&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>L’Italia convince Fitch, confermato il rating</title>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 11 Sep 2026 07:53:40 +0000</pubDate>
 <description>Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/AA3RMWES2NKZZIUTRFMMGT2CZQ.jpg?smart=true&amp;auth=9019bece7db8702a7dda2200c5302e0039c306c4f73a018ca8e00d9474249015&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>A 90 anni è morto Raffaele Costa: chi era l’ex membro del Parlamento europeo</title>
-<link>https://www.ilgiornale.it/news/attualita/a-90-anni-e-morto-raffaele-costa-chi-era-lex-membro-del-parlamento-europeo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/a-90-anni-e-morto-raffaele-costa-chi-era-lex-membro-del-parlamento-europeo/</guid>
-<pubDate>Fri, 11 Sep 2026 07:48:16 +0000</pubDate>
-<description>La notizia della scomparsa di Costa è stata data dal ministro degli Affari Esteri, Antonio Tajani. “Le tue battaglie continueranno con chi ha condiviso le tue scelte” Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OV264X5UONE3LIKNONEQVQTOHA.jfif?focal=643%2C232&amp;auth=ef5e797b4ec9c9f9478fdb76e29a7f5cdb1d643628a19d56766108e778fb79b7&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
