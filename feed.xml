@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 15:29:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 15:42:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>F1, Norris scippa la pole ad Antonelli a Madrid. Hamilton e Leclerc 4° e 5°</title>
+<link>https://www.ilgiornale.it/news/life/f1-norris-scippa-la-pole-ad-antonelli-a-madrid-hamilton-e-leclerc-4-e-5/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/life/f1-norris-scippa-la-pole-ad-antonelli-a-madrid-hamilton-e-leclerc-4-e-5/</guid>
+<pubDate>Sat, 12 Sep 2026 15:27:54 +0000</pubDate>
+<description>Como, i padroni stranieri che hanno capito gli italiani La prima pole sul nuovo tracciato della capitale spagnola va al campione del mondo che beffa il bolognese per un solo centesimo di secondo. I due ferraristi illudono i tifosi prima di scivolare indietro Luca Bocci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/4YJXMM2H2NGJRNO4SGWS7TX6KY.jpg?smart=true&amp;auth=cdf2d2db2d06df5b7e3d2ce2a0d679d2dc080256b01d492a40ea92abe5a8b620&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Ilaria Salis non paga, pignorato il conto. La replica dei legali: “Non lo sapeva...”</title>
 <link>https://www.ilgiornale.it/news/interni/ilaria-salis-non-paga-pignorato-il-conto-la-replica-dei-legali-non-lo-sapeva/</link>
@@ -790,14 +798,6 @@
 <pubDate>Fri, 11 Sep 2026 10:27:07 +0000</pubDate>
 <description>A Torino scatta la protezione per la gip che ha rimesso in libertà l’indagato per gli abusi sulla tredicenne. Ecco che cosa è successo Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/5KOVMJZ7BRDRPFTAT3THS5HNKQ.jfif?focal=311%2C175&amp;auth=d1ded71ce522eec6b36c7eed552eb590c97ed4d823915c60d144f849e93128f9&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Ex Ilva, i giudici confermano il blocco dell’area a caldo: lo stop entro il 28 ottobre</title>
-<link>https://www.ilgiornale.it/news/nazionale/ex-ilva-i-giudici-confermano-il-blocco-dellarea-a-caldo-lo-stop-il-28-ottobre/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/ex-ilva-i-giudici-confermano-il-blocco-dellarea-a-caldo-lo-stop-il-28-ottobre/</guid>
-<pubDate>Fri, 11 Sep 2026 10:22:47 +0000</pubDate>
-<description>Taranto Ex Ilva, i giudici confermano il blocco dell’area a caldo: lo stop entro il 28 ottobre A luglio la Corte d’Appello diede 90 giorni per fermare l’area a caldo fino a che non fosse stato “rimosso integralmente l’amianto ancora presente negli impianti” Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/YW3ASWLQTFOTJLZFP7S5XYQ2AQ.jpg?focal=408%2C222&amp;auth=a82176603ef7e4c866bd4b8f77d94ed21bb07cb8d6e28bebb0832c260a9210c7&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
