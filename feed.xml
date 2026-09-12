@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 09:17:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 09:31:50 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Non mi interessano le polemiche”. E il Comune di Marzabotto premia Francesca Albanese</title>
+<link>https://www.ilgiornale.it/news/interni/non-mi-interessano-le-polemiche-e-il-comune-di-marzabotto-premia-francesca-albanese/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/non-mi-interessano-le-polemiche-e-il-comune-di-marzabotto-premia-francesca-albanese/</guid>
+<pubDate>Sat, 12 Sep 2026 09:27:41 +0000</pubDate>
+<description>Nonostante le esternazioni borderline, la relatrice speciale dell’Onu riceverà la cittadinanza onoraria Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Q6ANV46HSRIGPGWGXUBM465O4U.jpg?focal=2110%2C776&amp;auth=7d7af69b85a999c3f18211d93253c62ef5a969661a69cb83ba4df1dd2fc8f800&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Cronaca internazionale</title>
 <link>https://www.ilgiornale.it/esteri/cronaca-internazionale</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 11 Sep 2026 07:55:40 +0000</pubDate>
 <description>Una vita in prima linea: le immagini di una storia politica italiana</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/2NRZQKUX6JCUZPVGD6F5CNI27Y.jpg?smart=true&amp;auth=8b96d77fa9fa78cbdd86a69130bae0aa665a26b0690d8d7bf23bfae9554d1b91&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Dall'aborto alla liberalizzazione delle droghe: tutte le sue battaglie</title>
-<link>https://www.ilgiornale.it/news/interni/tumore-laborto-liberalizzazione-delle-droghe-battaglie-emma-2575896.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/tumore-laborto-liberalizzazione-delle-droghe-battaglie-emma-2575896.html</guid>
-<pubDate>Fri, 11 Sep 2026 07:53:40 +0000</pubDate>
-<description>Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/AA3RMWES2NKZZIUTRFMMGT2CZQ.jpg?smart=true&amp;auth=9019bece7db8702a7dda2200c5302e0039c306c4f73a018ca8e00d9474249015&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
