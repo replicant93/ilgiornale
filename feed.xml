@@ -5,8 +5,23 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 19:56:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 20:13:13 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Fakir, collettivi e sindacati preparano uno sciopero generale</title>
+<link>https://www.ilgiornale.it/news/attualita/fakir-collettivi-e-sindacati-preparano-uno-sciopero-generale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/fakir-collettivi-e-sindacati-preparano-uno-sciopero-generale/</guid>
+<pubDate>Sat, 12 Sep 2026 20:01:37 +0000</pubDate>
+<description>All’assemblea presenti anche l’avvocato Fabio Anselmo, legale della famiglia, e Ilaria Cucchi Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FWUIRHBVM5EM7OCNG4NQ43VRRE.jpg?smart=true&amp;auth=01a989ec7fb404aa2f9f4ada6272771c36acbb5d57484501279e3483dcb6b44a&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>“Rallentare lo sviluppo dei modelli Ai”. L’allarme del Ceo di Anthropic accolto da Musk e dal Ceo di OpenAi</title>
+<link>https://www.ilgiornale.it/news/attualita/rallentare-lo-sviluppo-dei-modelli-ai-lallarme-del-ceo-di-anthropic-accolto-da-musk-e-dal-ceo-di-openai/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/rallentare-lo-sviluppo-dei-modelli-ai-lallarme-del-ceo-di-anthropic-accolto-da-musk-e-dal-ceo-di-openai/</guid>
+<pubDate>Sat, 12 Sep 2026 20:00:25 +0000</pubDate>
+<description>L’intelligenza artificiale sta migliorando la sua capacità di rigenerazione e “se non controllato, tale processo potrebbe superare la nostra capacità di comprendere” Alessandra Corradi</description>
+</item>
 <item>
 <title>“Vergognoso attacco alla Meloni. Aspetto una tua risposta”. La rabbia di Robby Giusti, influencer “amico” di Vannacci</title>
 <link>https://www.ilgiornale.it/news/interni/vergognoso-attacco-alla-meloni-aspetto-una-tua-risposta-la-rabbia-di-robby-giusti-influencer-amico-di-vannacci/</link>
@@ -784,22 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 12:40:49 +0000</pubDate>
 <description>Berretti Verdi, Navy SEAL e ricognitori della Forze speciali americane furono preparati a trasportare e piazzare piccoli ordigni nucleari contro obiettivi strategici sovietici. Uno dei piani più estremi concepiti durante la Guerra Fredda Davide Bartoccini</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/GM6AKBXZ75DIDKGA75E65C72GY.jfif?smart=true&amp;auth=40e95f0f70e97cad137c1fd8738247b1ae3404f0dade95fb7958eb93e5a05847&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Caso Delmastro, scontro sulle chat: la Procura solleva un conflitto di attribuzione</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/caso-delmastro-scontro-sulle-chat-la-procura-solleva-un-conflitto-di-attribuzione/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/caso-delmastro-scontro-sulle-chat-la-procura-solleva-un-conflitto-di-attribuzione/</guid>
-<pubDate>Fri, 11 Sep 2026 12:40:01 +0000</pubDate>
-<description>I pm della Dda di Roma contestano il no di Montecitorio all’acquisizione delle comunicazioni tra l’ex sottosegretario e Mauro Caroccia Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VOMZIN6E4BF5FNQCKNAKYED5AY.jpg?focal=2253%2C338&amp;auth=36c21ca066d57b66a5cae1f06b1db4e4ef773b9b0b53842cd120fa837ed78117&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Meloni: “In arrivo aiuti mirati contro il caro carburanti a chi ha più bisogno”</title>
-<link>https://www.ilgiornale.it/news/governo/meloni-in-arrivo-aiuti-mirati-contro-il-caro-carburanti-a-chi-ha-piu-bisogno/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-in-arrivo-aiuti-mirati-contro-il-caro-carburanti-a-chi-ha-piu-bisogno/</guid>
-<pubDate>Fri, 11 Sep 2026 11:52:56 +0000</pubDate>
-<description>Governo Meloni: “In arrivo aiuti mirati contro il caro carburanti a chi ha più bisogno” Il premier Giorgia Meloni ha parlato a margine dell’inaugurazione della seconda edizione di Risò, il Festival internazionale del riso Francesco Curridori</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3FYA4EXUDRELJCKVQOTJKXYFP4.jpg?focal=2977%2C1265&amp;auth=aef23ce41064233f199a4c48bf5eac99035755aa26d631a4321abd8f555c56c4&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
