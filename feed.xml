@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 03:59:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 04:17:48 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>I Fruttini di Lancusi arrivano a Milano con Matteo</title>
+<link>https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-a-milano-con-matteo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-a-milano-con-matteo/</guid>
+<pubDate>Sat, 12 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto I Fruttini di Lancusi arrivano a Milano con Matteo Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/WVAKS7DGMNEUBFCCU5R46J23TI.jpg?smart=true&amp;auth=23c8a0e61176e210153a2d852f119b2655416399ff640f84842eda5fb907dd5f&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Sgarbi assolto dalla Corte dei Conti sul caso delle consulenze: cade l’accusa sulle 121 prestazioni da sottosegretario</title>
 <link>https://www.ilgiornale.it/news/interni/sgarbi-assolto-dalla-corte-dei-conti-sul-caso-dele-consulenze-cade-laccusa-sulle-121-prestazioni-da-sottosegretario/</link>
@@ -794,13 +802,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/i-tunnel-di-musk-raccolgono-tre-miliardi/</guid>
 <pubDate>Fri, 11 Sep 2026 05:22:29 +0000</pubDate>
 <description>Matilde Sperlinga</description>
-</item>
-<item>
-<title>La Bce alza i tassi d’interesse ma c’è il rischio nuove stangate</title>
-<link>https://www.ilgiornale.it/news/politica-economica/la-bce-alza-i-tassi-dinteresse-ma-ce-il-rischio-nuove-stangate/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/la-bce-alza-i-tassi-dinteresse-ma-ce-il-rischio-nuove-stangate/</guid>
-<pubDate>Fri, 11 Sep 2026 05:21:33 +0000</pubDate>
-<description>Sofia Fraschini</description>
 </item>
 </channel>
 </rss>
