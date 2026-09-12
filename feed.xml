@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 15:56:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 16:13:58 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump vuole un’Irlanda unita: “Succederà prima o poi”. E Londra frena</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/trump-vuole-unirlanda-unita-succedera-prima-o-poi-e-londra-frena/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/trump-vuole-unirlanda-unita-succedera-prima-o-poi-e-londra-frena/</guid>
+<pubDate>Sat, 12 Sep 2026 16:00:05 +0000</pubDate>
+<description>Da Dublino il presidente americano rompe una cautela durata decenni sulla questione nordirlandese. Il governo britannico: nessun referendum finché non ci sarà una maggioranza favorevole Francesca Salvatore</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TXJWDX3TONBI5AVKKTJ42TLK2I.jpg?smart=true&amp;auth=cc7cfe68ee07c858d791219a448624e87ad9b837e0cf68c4df88c3ffd9ed9eba&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>F1, Norris scippa la pole ad Antonelli a Madrid. Hamilton e Leclerc 4° e 5°</title>
 <link>https://www.ilgiornale.it/news/life/f1-norris-scippa-la-pole-ad-antonelli-a-madrid-hamilton-e-leclerc-4-e-5/</link>
@@ -790,14 +798,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/patenti-a-b-c-e-d-i-requisiti-e-i-controlli-per-il-rinnovo-dopo-i-65-anni/</guid>
 <pubDate>Fri, 11 Sep 2026 10:36:53 +0000</pubDate>
 <description>Federico Garau</description>
-</item>
-<item>
-<title>Vittima dell’odio social, la gip di Torino che ha scarcerato il bengalese finisce sotto sorveglianza dinamica</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/vittima-dellodio-social-la-gip-di-torino-che-ha-scarcerato-il-bengalese-finisce-sotto-sorveglianza-dinamica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/vittima-dellodio-social-la-gip-di-torino-che-ha-scarcerato-il-bengalese-finisce-sotto-sorveglianza-dinamica/</guid>
-<pubDate>Fri, 11 Sep 2026 10:27:07 +0000</pubDate>
-<description>A Torino scatta la protezione per la gip che ha rimesso in libertà l’indagato per gli abusi sulla tredicenne. Ecco che cosa è successo Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/5KOVMJZ7BRDRPFTAT3THS5HNKQ.jfif?focal=311%2C175&amp;auth=d1ded71ce522eec6b36c7eed552eb590c97ed4d823915c60d144f849e93128f9&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
