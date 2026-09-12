@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 05:57:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 06:20:54 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>ChatGPT, Claude e Gemini nel mirino: così la Cina avrebbe addestrato la sua IA</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/chatgpt-claude-e-gemini-nel-mirino-cosi-la-cina-avrebbe-addestrato-la-sua-ia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/chatgpt-claude-e-gemini-nel-mirino-cosi-la-cina-avrebbe-addestrato-la-sua-ia/</guid>
+<pubDate>Sat, 12 Sep 2026 06:07:41 +0000</pubDate>
+<description>Secondo Washington, alcune società cinesi avrebbero usato milioni di risposte dei modelli americani per ridurre tempi e costi nello sviluppo dei propri sistemi Federico Giuliani</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/PFXUNKWJPVP5HKPMSDRC2XEDK4.jpg?smart=true&amp;auth=35b319a23222638ccb266341853103258c352e1c76fc9a0b65ec98990563134e&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Di Battista è tornato in Italia: atterrato a Ciampino dopo l’operazione a Cuba</title>
 <link>https://www.ilgiornale.it/news/interni/di-battista-e-tornato-in-italia-atterrato-a-ciampino-dopo-loperazione-a-cuba/</link>
@@ -795,14 +803,6 @@
 <pubDate>Fri, 11 Sep 2026 05:37:57 +0000</pubDate>
 <description>Alberto Bellotto</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/Z75NL6MBNRDTFGWVAOBUSRFQ4M.jpg?smart=true&amp;auth=2c29b602a3dfc34751f659b4dac484a290711bd676b2fea9650bc74311399eff&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Cosa resta di Al Qaeda 25 anni dopo gli attentati dell’11 settembre e perché è ancora pericolosa</title>
-<link>https://www.ilgiornale.it/news/terrorismo/cosa-resta-di-al-qaeda-25-anni-dopo-gli-attentati-dell11-settembre-e-perche-e-ancora-pericolosa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/terrorismo/cosa-resta-di-al-qaeda-25-anni-dopo-gli-attentati-dell11-settembre-e-perche-e-ancora-pericolosa/</guid>
-<pubDate>Fri, 11 Sep 2026 05:30:30 +0000</pubDate>
-<description>Dal Sahel all’Afghanistan fino alle cellule europee: la “Base” si è trasformata in un sistema decentralizzato che punta su propaganda, microcellule e lupi solitari Alberto Bellotto</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/E3Q2JICUIBJALACSI33DYMAGGY.jpg?smart=true&amp;auth=c0135c8539fe4582eaf2cbafdbf41daf607fd9a63bf3e37ee095a4bd0fdf9409&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
