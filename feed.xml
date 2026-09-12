@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 12:36:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 12:51:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Milano, molesta una 15enne alla fermata del bus: fermato dai passanti un 37enne del Burkina Faso</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/milano-molesta-una-15enne-alla-fermata-del-bus-fermato-dai-passanti-un-37enne-del-burkina-faso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/milano-molesta-una-15enne-alla-fermata-del-bus-fermato-dai-passanti-un-37enne-del-burkina-faso/</guid>
+<pubDate>Sat, 12 Sep 2026 12:34:53 +0000</pubDate>
+<description>La vittima ha chiesto aiuto con gli occhi alle altre persone che insieme a lei aspettavano il bus. Una donna e suo figlio hanno permesso agli agenti di individuare rapidamente l’uomo Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/X27FOAQYQZGNVJPZXA5VHED7YA.png?focal=760%2C463&amp;auth=84a2b83691877063fa3e69c33b80ec1455515434b5fc94a15c318f891d876441&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Mamdani ancora nella bufera: beccato a ridere con Ocasio-Cortez a Ground Zero durante la cerimonia per l’11 settembre</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/mamdani-ancora-nella-bufera-beccato-a-ridere-con-ocasio-cortez-a-ground-zero-durante-la-cerimonia-per-l11-settembre/</link>
@@ -791,14 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 10:01:44 +0000</pubDate>
 <description>Il governo vara un piano straordinario per blindare il Fentanyl nelle strutture sanitarie. Ecco come cambiano i protocolli Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/L6M7DCTV65MQBIDRLDX7INAB6Y.jpg?focal=1207%2C927&amp;auth=987e8ca77c2d216c881bc1cdb4ee269b9aa7270629a9380d3b22a6acc2a15d3e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Morso da una vipera a 5 anni. L’intervento della mamma gli salva la vita. Cosa fare se succede</title>
-<link>https://www.ilgiornale.it/news/attualita/morso-da-una-vipera-a-5-anni-lintervento-della-mamma-gli-salva-la-vita-cosa-fare-se-succede/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/morso-da-una-vipera-a-5-anni-lintervento-della-mamma-gli-salva-la-vita-cosa-fare-se-succede/</guid>
-<pubDate>Fri, 11 Sep 2026 10:01:36 +0000</pubDate>
-<description>Il piccolo è stato portato d’urgenza in ospedale e trasferito al Santobono di Napoli dopo il consulto con il Centro Antiveleni del Cardarelli. Ha ricevuto il siero antivipera e le sue condizioni sono migliorate. Cosa fare in caso di morso Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/QZ3253ZQCVF55ND5WSU7CK3ZVY.jfif?focal=1083%2C639&amp;auth=336f10da6c701bfe98fa2e126c832a4c9e28873d16dc99cc4a127124d23f07a5&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
