@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 06:43:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 06:57:43 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>La cena, le nozze, i tradimenti, l’attentato a Dallas: la storia d’amore tra John Kennedy e Jacqueline Bouvier</title>
@@ -67,6 +67,14 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/poste-scala-tim-boom-di-adesioni/</guid>
 <pubDate>Sat, 12 Sep 2026 04:45:41 +0000</pubDate>
 <description>Poste scala Tim. Boom di adesioni</description>
+</item>
+<item>
+<title>“Il racconto è una missione fulminea”</title>
+<link>https://www.ilgiornale.it/intervista/letteratura/il-racconto-e-una-missione-fulminea/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/intervista/letteratura/il-racconto-e-una-missione-fulminea/</guid>
+<pubDate>Sat, 12 Sep 2026 04:36:03 +0000</pubDate>
+<description>L’autrice americana: “Ho raccolto le mie storie in ordine alfabetico perchè amo fingere di essere una bibliotecaria” Eleonora Barbieri</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HMI4XN6DA5CVXCYJNL2GFXPA6M.jpg?focal=1979%2C684&amp;auth=09fa815228fb485efe6f13c590787ab71f096ec3275fd5f7ce45fd7d49322cd1&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>Per capire la Palestina non basta “Naza”, ma serve “Fauda”</title>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 11 Sep 2026 06:10:30 +0000</pubDate>
 <description>Roberto Alessi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BIC5I6AAU5NIFCAB4FDTYELROI.jpg?focal=429%2C245&amp;auth=e38352e9575fe18a4d8de69319bec8456e2dc3c2cca2facdb4c60f8ebc49ef6f&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Pio e Amedeo “a gratis” nella loro Foggia</title>
-<link>https://www.ilgiornale.it/news/gossip/pio-e-amedeo-a-gratis-nella-loro-foggia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/gossip/pio-e-amedeo-a-gratis-nella-loro-foggia/</guid>
-<pubDate>Fri, 11 Sep 2026 06:09:05 +0000</pubDate>
-<description>Roberto Alessi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/SSR2M5UJPNOBBABEN7GP4JRN5I.jpg?focal=960%2C469&amp;auth=bfdae03b10005d603bac5efbb3979444ff12c471b52fe48cbdb645b55c04bf34&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
