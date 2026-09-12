@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 14:32:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 14:47:19 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Fumare alla guida, occhio alla stangata: in quali casi arriva la sanzione e quando raddoppia</title>
+<link>https://www.ilgiornale.it/news/cittadini/fumare-alla-guida-occhio-alla-stangata-in-quali-casi-arriva-la-sanzione-e-quando-raddoppia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/fumare-alla-guida-occhio-alla-stangata-in-quali-casi-arriva-la-sanzione-e-quando-raddoppia/</guid>
+<pubDate>Sat, 12 Sep 2026 14:33:47 +0000</pubDate>
+<description>Federico Garau</description>
+</item>
 <item>
 <title>FdI all’attacco sul caso El Koudri: “Troppa fretta della sinistra”</title>
 <link>https://www.ilgiornale.it/news/politica/fdi-allattacco-sul-caso-el-koudri-troppa-fretta-della-sinistra/</link>
@@ -791,14 +798,6 @@
 <pubDate>Fri, 11 Sep 2026 10:13:04 +0000</pubDate>
 <description>Il calciatore e la compagna hanno subito una violenta rapina nel 2023. In aula la tensione è esplosa dopo l’allontanamento del fratello di uno degli imputati. La seduta è stata sospesa Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TKLW6MDTFFDG3C6SOQQE5KE5A4.jpg?focal=1843%2C786&amp;auth=f2c5a582235e12c24e8cea0d34da1fe8eb2e4238bdca6eae163f23e88fb6ae84&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>È iniziato il declino social di Ranucci</title>
-<link>https://www.ilgiornale.it/news/attualita/e-iniziato-il-declino-social-di-ranucci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/e-iniziato-il-declino-social-di-ranucci/</guid>
-<pubDate>Fri, 11 Sep 2026 10:06:32 +0000</pubDate>
-<description>Domenico Giordano</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TYJM5FXCQ5CB7MRMBX4BH3AZY4.jpg?focal=2392%2C1692&amp;auth=104801b6f75e9d7e71c9b19e327fb8fd7b5d9d15f205563bb5f5363aabfdea73&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
