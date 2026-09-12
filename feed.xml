@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 07:14:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 07:29:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Basta colpevolizzare i maschi”. Futuro Nazionale di Vannacci attacca il programma Cecchettin</title>
+<link>https://www.ilgiornale.it/news/interni/basta-colpevolizzare-i-maschi-futuro-nazionale-di-vannacci-attacca-il-programma-cecchettin/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/basta-colpevolizzare-i-maschi-futuro-nazionale-di-vannacci-attacca-il-programma-cecchettin/</guid>
+<pubDate>Sat, 12 Sep 2026 07:19:53 +0000</pubDate>
+<description>Valdegamberi chiede a Valditara di fermare il progetto. FdI, Lega e Forza Italia difendono il protocollo: “Educazione al rispetto sì, senza eccessi” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VIBJEBZM7JLXFCW3JEDQTZJCAE.jpg?focal=1540%2C518&amp;auth=dafea757be931b3588cf3b65e281de25063808d33100d61351fc03317014d4fc&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La cena, le nozze, i tradimenti, l’attentato a Dallas: la storia d’amore tra John Kennedy e Jacqueline Bouvier</title>
 <link>https://www.ilgiornale.it/news/personaggi/la-cena-le-nozze-i-tradimenti-lattentato-a-dallas-la-storia-damore-tra-john-kennedy-e-jacqueline-bouvier/</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 11 Sep 2026 06:12:46 +0000</pubDate>
 <description>Nuovi hangar, piste e strutture per i test stanno trasformando la base segreta. Qui potrebbero essere provati caccia di sesta generazione e forse l’H-20 Federico Giuliani</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/5JYAOVJU35HRLGLO2KKLRPUQOA.jpg?smart=true&amp;auth=7382c3706f4497e1be2fb409aefabb79df3d58924204542933108ebab1c72e29&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Il podio di Roberto Alessi: Assad, Trussardi, Hernandez e Nureyev</title>
-<link>https://www.ilgiornale.it/news/gossip/il-podio-di-roberto-alessi-assad-trussardi-hernandez-e-nureyev/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/gossip/il-podio-di-roberto-alessi-assad-trussardi-hernandez-e-nureyev/</guid>
-<pubDate>Fri, 11 Sep 2026 06:10:30 +0000</pubDate>
-<description>Roberto Alessi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BIC5I6AAU5NIFCAB4FDTYELROI.jpg?focal=429%2C245&amp;auth=e38352e9575fe18a4d8de69319bec8456e2dc3c2cca2facdb4c60f8ebc49ef6f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
