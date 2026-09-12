@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 17:56:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 18:15:10 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Un super Moreira salva il Milan all’Olimpico: 2-2 e Lazio prima da sola</title>
+<link>https://www.ilgiornale.it/news/calcio/un-super-moreira-salva-il-milan-allolimpico-2-2-e-lazio-prima-da-sola/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/un-super-moreira-salva-il-milan-allolimpico-2-2-e-lazio-prima-da-sola/</guid>
+<pubDate>Sat, 12 Sep 2026 18:11:36 +0000</pubDate>
+<description>Un tempo per parte tra Lazio e Milan, nell’anticipo della 4/a giornata di Serie A Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VV6NXF4HIJFVVA4YKXBJSHL27A.jpg?smart=true&amp;auth=2af087935f6961ee9a8ad2724ca5be1152340c54a4fa6a36da87cf85c99a1b21&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Trump vuole un’Irlanda unita: “Succederà prima o poi”. E Londra frena</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/trump-vuole-unirlanda-unita-succedera-prima-o-poi-e-londra-frena/</link>
@@ -791,14 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 11:10:21 +0000</pubDate>
 <description>A dieci anni dal primo “sì” la figlia di Al Bano e Romina ha rinnovato le promesse con Davor Luksic a Roma Novella Toloni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/X474TW7R2ZLUJLRBV5YEPT762Q.jpg?focal=429%2C502&amp;auth=282635ba168f9328d79ee8c3d5bef848f36dc0f190324cdba5c755a47c78623e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Achille Lauro e Geolier fuori con “Per noi”: “Non abbiamo dimenticato da dove veniamo”</title>
-<link>https://www.ilgiornale.it/news/musica/achille-lauro-e-geolier-fuori-con-per-noi-non-abbiamo-dimenticato-da-dove-veniamo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/achille-lauro-e-geolier-fuori-con-per-noi-non-abbiamo-dimenticato-da-dove-veniamo/</guid>
-<pubDate>Fri, 11 Sep 2026 10:38:02 +0000</pubDate>
-<description>Dopo il duetto all’Olimpico i due artisti firmano la loro prima collaborazione con la ballad “Per noi” Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FEMZGJWTSZDANGUELGXH3FDO7I.jpg?focal=1421%2C692&amp;auth=461f8b48372866a031a4fdf91ddd30e9475521d372cb1c428bc51d5767e67984&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
