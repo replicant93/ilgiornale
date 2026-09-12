@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 20:13:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 20:32:30 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Festa dell’Unità, la strana coppia Bersani-Conte all’assalto del governo</title>
+<link>https://www.ilgiornale.it/news/interni/festa-dellunita-bersani-e-conte-allassalto-del-governo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/festa-dellunita-bersani-e-conte-allassalto-del-governo/</guid>
+<pubDate>Sat, 12 Sep 2026 20:17:31 +0000</pubDate>
+<description>Alla Festa dell’Unità di Reggio Emilia, l’ex segretario del Pd e l’ex premier hanno criticato aspramente l’esecutivo. Conte: “Se noi facciamo i progressisti, non c’è spazio per loro...” Francesco Curridori</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HAPOSWYS3VC6XKMBOOTZWYIEG4.jpg?smart=true&amp;auth=2b82376df73ecaaff22bf53fa579a016f2b2dba4b4dea8ae80ed2c07ce1db400&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Fakir, collettivi e sindacati preparano uno sciopero generale</title>
 <link>https://www.ilgiornale.it/news/attualita/fakir-collettivi-e-sindacati-preparano-uno-sciopero-generale/</link>
@@ -791,14 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 12:44:01 +0000</pubDate>
 <description>Funerali di Stato per Emma Bonino. “Saranno in forma laica”. Camera ardente domenica e lunedì in Campidoglio La storica leader del Partito radicale è morta a 78 anni Alle esequie della storica leader Radicale sono attesi rappresentanti istituzionali, politici, cittadini, esponenti della società civile Redazione web Cos’è il microcitoma polmonare, il tumore combattuto da Emma Bonino Meloni: “Voce riconoscibile della politica italiana”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VWYF7VXNIBDC5BXRHRQR4AWDGY.jpg?smart=true&amp;auth=6bc4e8715d0f2d01d0f2775d4a265c88c479e7d028b50f6f84969f8745ea8e66&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>La bomba atomica portatile delle forze speciali: un piano segreto per colpire dietro le linee sovietiche</title>
-<link>https://www.ilgiornale.it/scheda/arte-e-storia/la-bomba-atomica-portatile-delle-forze-speciale-un-piano-segreto-per-colpire-dietro-le-linee-sovietiche/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/scheda/arte-e-storia/la-bomba-atomica-portatile-delle-forze-speciale-un-piano-segreto-per-colpire-dietro-le-linee-sovietiche/</guid>
-<pubDate>Fri, 11 Sep 2026 12:40:49 +0000</pubDate>
-<description>Berretti Verdi, Navy SEAL e ricognitori della Forze speciali americane furono preparati a trasportare e piazzare piccoli ordigni nucleari contro obiettivi strategici sovietici. Uno dei piani più estremi concepiti durante la Guerra Fredda Davide Bartoccini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GM6AKBXZ75DIDKGA75E65C72GY.jfif?smart=true&amp;auth=40e95f0f70e97cad137c1fd8738247b1ae3404f0dade95fb7958eb93e5a05847&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
