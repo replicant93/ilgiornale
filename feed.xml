@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 05:31:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 05:47:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Di Battista è tornato in Italia: atterrato a Ciampino dopo l’operazione a Cuba</title>
+<link>https://www.ilgiornale.it/news/interni/di-battista-e-tornato-in-italia-atterrato-a-ciampino-dopo-loperazione-a-cuba/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/di-battista-e-tornato-in-italia-atterrato-a-ciampino-dopo-loperazione-a-cuba/</guid>
+<pubDate>Sat, 12 Sep 2026 05:35:51 +0000</pubDate>
+<description>Cos’è e come funziona il volo sanitario: perché deve viaggiare a bassa quota e fare più scali L’ex pentastellato era stato ricoverato all’Avana dopo forti dolori alla testa. Operato d’urgenza la scorsa settimana, ieri ha lasciato Cuba per rientrare in Italia Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/44GQS3DHENAJLEN2PXIFG2CB6I.jpg?smart=true&amp;auth=bc188ba3492ef42cc373b847486a2e036df58a5e687789367b1bbbdb5233c0a2&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>I Fruttini di Lancusi arrivano a Milano con Matteo</title>
 <link>https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-a-milano-con-matteo/</link>
@@ -795,13 +803,6 @@
 <pubDate>Fri, 11 Sep 2026 05:30:30 +0000</pubDate>
 <description>Dal Sahel all’Afghanistan fino alle cellule europee: la “Base” si è trasformata in un sistema decentralizzato che punta su propaganda, microcellule e lupi solitari Alberto Bellotto</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/E3Q2JICUIBJALACSI33DYMAGGY.jpg?smart=true&amp;auth=c0135c8539fe4582eaf2cbafdbf41daf607fd9a63bf3e37ee095a4bd0fdf9409&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>I tunnel di Musk raccolgono tre miliardi</title>
-<link>https://www.ilgiornale.it/news/aziende/i-tunnel-di-musk-raccolgono-tre-miliardi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/i-tunnel-di-musk-raccolgono-tre-miliardi/</guid>
-<pubDate>Fri, 11 Sep 2026 05:22:29 +0000</pubDate>
-<description>Matilde Sperlinga</description>
 </item>
 </channel>
 </rss>
