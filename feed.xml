@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 11:56:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 12:17:58 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Mamdani ancora nella bufera: beccato a ridere con Ocasio-Cortez a Ground Zero durante la cerimonia per l’11 settembre</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/mamdani-ancora-nella-bufera-beccato-a-ridere-con-ocasio-cortez-a-ground-zero-durante-la-cerimonia-per-l11-settembre/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/mamdani-ancora-nella-bufera-beccato-a-ridere-con-ocasio-cortez-a-ground-zero-durante-la-cerimonia-per-l11-settembre/</guid>
+<pubDate>Sat, 12 Sep 2026 12:04:11 +0000</pubDate>
+<description>Islamisti e tolleranza zero: quello che l’Ue non capisce Durante la commemorazione del 25esimo anniversario, il sindaco socialista viene ripreso sorridente accanto a Ocasio-Cortez mentre vengono letti i nomi delle vittime Massimo Balsamo Trump e l’11 settembre. “In guerra per vincere”. Vance, prove da leader</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YVYKYMD3KRGKVEJKRM77E5SAU4.jpg?focal=639%2C362&amp;auth=a2e4b6312bcad37f146a079f94cd1886a30b7270cd5e612236f47f55643b5e8a&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Kate torna a sorpresa al Royal Marsden, l’ospedale dove ha curato il cancro</title>
 <link>https://www.ilgiornale.it/news/personaggi/kate-torna-a-sorpresa-al-royal-marsden-lospedale-dove-ha-curato-il-cancro/</link>
@@ -791,14 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 10:01:36 +0000</pubDate>
 <description>Il piccolo è stato portato d’urgenza in ospedale e trasferito al Santobono di Napoli dopo il consulto con il Centro Antiveleni del Cardarelli. Ha ricevuto il siero antivipera e le sue condizioni sono migliorate. Cosa fare in caso di morso Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/QZ3253ZQCVF55ND5WSU7CK3ZVY.jfif?focal=1083%2C639&amp;auth=336f10da6c701bfe98fa2e126c832a4c9e28873d16dc99cc4a127124d23f07a5&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Chi ha paura di dire islamista</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/chi-ha-paura-di-dire-islamista/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/chi-ha-paura-di-dire-islamista/</guid>
-<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-<description>A cura di Tommaso Cerno</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
 </item>
 </channel>
 </rss>
