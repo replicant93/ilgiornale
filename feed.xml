@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 09:31:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 09:47:15 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tenta di uccidere la ex in aula dopo la sentenza di compagna</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/tenta-di-uccidere-la-ex-in-aula-dopo-la-sentenza-di-compagna/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/tenta-di-uccidere-la-ex-in-aula-dopo-la-sentenza-di-compagna/</guid>
+<pubDate>Sat, 12 Sep 2026 09:35:01 +0000</pubDate>
+<description>Cronaca giudiziaria Tenta di uccidere la ex in aula dopo la sentenza di compagna È successo a Trieste. Il 40enne, militare dell’Esercito, si è alzato dal banco degli imputati dopo la lettura del verdetto e l’ha colpita con un oggetto appuntito Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/B7GPEKOBZJLKJDRWOSBT6J5SJQ.jpg?smart=true&amp;auth=5c19bbea4e8fac390e11a1a643f3e322bf8012116380777377068d060f1211a4&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Non mi interessano le polemiche”. E il Comune di Marzabotto premia Francesca Albanese</title>
 <link>https://www.ilgiornale.it/news/interni/non-mi-interessano-le-polemiche-e-il-comune-di-marzabotto-premia-francesca-albanese/</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 11 Sep 2026 08:00:40 +0000</pubDate>
 <description>È morta Emma Bonino: addio alla storica leader del Partito Radicale, attivista dei diritti civili e simbolo di tante battaglie Meloni: “Ha rappresentato per decenni una voce forte e riconoscibile della politica italiana” Emma Bonino, storica leader del Partito Radicale, è morta oggi all’età di 78 anni e si è ‘ricongiunta’ a Marco Pannella dopo aver speso un’intera vita nelle battaglie per i diritti civili Francesco Curridori Cos’è il microcitoma polmonare, il tumore combattuto da Emma Bonino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/UW4U6RCZLRNA7HKSSLNIQCOK2Y.jpg?smart=true&amp;auth=94b8f52df25cc42e6b172942b213491bc3a50a1aeb331e1b813ac775d4d9043b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Una vita in prima linea: le immagini di una storia politica italiana</title>
-<link>https://www.ilgiornale.it/gallery/attualita/una-vita-in-prima-linea-le-immagini-di-una-storia-politica-italiana/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/gallery/attualita/una-vita-in-prima-linea-le-immagini-di-una-storia-politica-italiana/</guid>
-<pubDate>Fri, 11 Sep 2026 07:55:40 +0000</pubDate>
-<description>Una vita in prima linea: le immagini di una storia politica italiana</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2NRZQKUX6JCUZPVGD6F5CNI27Y.jpg?smart=true&amp;auth=8b96d77fa9fa78cbdd86a69130bae0aa665a26b0690d8d7bf23bfae9554d1b91&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
