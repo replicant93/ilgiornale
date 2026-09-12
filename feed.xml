@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 12 Sep 2026 15:15:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 15:29:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ilaria Salis non paga, pignorato il conto. La replica dei legali: “Non lo sapeva...”</title>
+<link>https://www.ilgiornale.it/news/interni/ilaria-salis-non-paga-pignorato-il-conto-la-replica-dei-legali-non-lo-sapeva/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ilaria-salis-non-paga-pignorato-il-conto-la-replica-dei-legali-non-lo-sapeva/</guid>
+<pubDate>Sat, 12 Sep 2026 15:20:17 +0000</pubDate>
+<description>La valanga di guai dell’eurodeputata allergica alla legge L’europarlamentare non sarebbe a conoscenza “dell’esatto importo preteso né delle coordinate necessarie per effettuare il pagamento” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MXYOLUEXQFNRLH6YWD4ETPYUZY.jpg?smart=true&amp;auth=098d2d3ff5aa1c13ab17879751c14c094d8ba4938a3eeb5f53d0b09006302688&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Fumare alla guida, occhio alla stangata: in quali casi arriva la sanzione e quando raddoppia</title>
 <link>https://www.ilgiornale.it/news/cittadini/fumare-alla-guida-occhio-alla-stangata-in-quali-casi-arriva-la-sanzione-e-quando-raddoppia/</link>
@@ -790,14 +798,6 @@
 <pubDate>Fri, 11 Sep 2026 10:22:47 +0000</pubDate>
 <description>Taranto Ex Ilva, i giudici confermano il blocco dell’area a caldo: lo stop entro il 28 ottobre A luglio la Corte d’Appello diede 90 giorni per fermare l’area a caldo fino a che non fosse stato “rimosso integralmente l’amianto ancora presente negli impianti” Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YW3ASWLQTFOTJLZFP7S5XYQ2AQ.jpg?focal=408%2C222&amp;auth=a82176603ef7e4c866bd4b8f77d94ed21bb07cb8d6e28bebb0832c260a9210c7&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Processo Donnarumma, caos in aula tra insulti, sputi e minacce: due imputati espulsi</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/processo-donnarumma-caos-in-aula-tra-insulti-sputi-e-minacce-due-imputati-espulsi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/processo-donnarumma-caos-in-aula-tra-insulti-sputi-e-minacce-due-imputati-espulsi/</guid>
-<pubDate>Fri, 11 Sep 2026 10:13:04 +0000</pubDate>
-<description>Il calciatore e la compagna hanno subito una violenta rapina nel 2023. In aula la tensione è esplosa dopo l’allontanamento del fratello di uno degli imputati. La seduta è stata sospesa Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TKLW6MDTFFDG3C6SOQQE5KE5A4.jpg?focal=1843%2C786&amp;auth=f2c5a582235e12c24e8cea0d34da1fe8eb2e4238bdca6eae163f23e88fb6ae84&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
