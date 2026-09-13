@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 10:56:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 11:12:43 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Così in 36 ore hanno sconvolto il Medio Oriente</title>
@@ -547,6 +547,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/YVYKYMD3KRGKVEJKRM77E5SAU4.jpg?focal=639%2C362&amp;auth=a2e4b6312bcad37f146a079f94cd1886a30b7270cd5e612236f47f55643b5e8a&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
+<title>Tenta di uccidere la ex in aula dopo la sentenza di condanna</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/tenta-di-uccidere-la-ex-in-aula-dopo-la-sentenza-di-compagna/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/tenta-di-uccidere-la-ex-in-aula-dopo-la-sentenza-di-compagna/</guid>
+<pubDate>Sat, 12 Sep 2026 11:51:42 +0000</pubDate>
+<description>È successo a Udine. Il 40enne, militare dell’Esercito, si è alzato dal banco degli imputati dopo la lettura del verdetto e l’ha colpita con un oggetto appuntito Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/B7GPEKOBZJLKJDRWOSBT6J5SJQ.jpg?smart=true&amp;auth=5c19bbea4e8fac390e11a1a643f3e322bf8012116380777377068d060f1211a4&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
 <title>Kate torna a sorpresa al Royal Marsden, l’ospedale dove ha curato il cancro</title>
 <link>https://www.ilgiornale.it/news/personaggi/kate-torna-a-sorpresa-al-royal-marsden-lospedale-dove-ha-curato-il-cancro/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/kate-torna-a-sorpresa-al-royal-marsden-lospedale-dove-ha-curato-il-cancro/</guid>
@@ -791,14 +799,6 @@
 <pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
 <description>Modena, è terrorismo. Sinistra ammutolita e il sindaco attacca noi “Odio e dinamica stragista. Il metodo è quello dell’Isis” I video dell’attentatore smontano la tesi dei problemi psichici Giuseppe Alberto Falci “Questo Paese va distrutto”. Poi l’attentato. Ecco le minacce nei video choc di El Koudri La verità che dobbiamo alle vittime</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/5NRFE6QRRFMGTBFIPBNOU7ZRG4.jpg?smart=true&amp;auth=ff09d145c3c3f3299aeba80ea15221ce0c56f9ad7ee60f6eed15a245c569a23b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>In vendita la celebre villa dei genitori di Ilary Blasi: un immobile di lusso con 5 bagni e dettagli di pregio</title>
-<link>https://www.ilgiornale.it/news/personaggi/in-vendita-la-celebre-villa-dei-genitori-di-ilary-blasi-un-immobile-di-lusso-con-5-bagni-e-dettagli-di-pregio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/in-vendita-la-celebre-villa-dei-genitori-di-ilary-blasi-un-immobile-di-lusso-con-5-bagni-e-dettagli-di-pregio/</guid>
-<pubDate>Sat, 12 Sep 2026 09:50:11 +0000</pubDate>
-<description>Nuovo inizio per la conduttrice che si separa dalla storica residenza abitata dalla madre. La casa era stata aperta al pubblico durante le riprese del documentario “Unica” Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LTNAUIZUHNLULKIA5JYLIKVOSE.png?focal=621%2C146&amp;auth=ab7172a1abe092bc1569fc25b77245a809a367313ac23918ba9262e801568bfd&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
