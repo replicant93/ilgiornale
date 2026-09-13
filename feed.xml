@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 14:30:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 14:43:13 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>“Riciclaggio? Possibilità concreta”. Da Giletti parla Chimutengo, ex socio di Lavitola</title>
@@ -451,6 +451,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/MUJV7YI3JZDONCOUMJ7POM5RQU.jpg?smart=true&amp;auth=e1a0f5d15b1ba021233c5400d455d0f4c2b43490ef8e2f748def17216c40fc65&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
+<title>Un paradiso tropicale con un passato da incubo: viaggio a Koh Tao, l’“isola della morte”</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/un-paradiso-tropicale-con-un-passato-da-incubo-viaggio-a-koh-tao-lisola-della-morte/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/un-paradiso-tropicale-con-un-passato-da-incubo-viaggio-a-koh-tao-lisola-della-morte/</guid>
+<pubDate>Sun, 13 Sep 2026 04:00:00 +0000</pubDate>
+<description>Oggi attira migliaia di turisti con spiagge, immersioni e nightlife. Ma una lunga serie di decessi sospetti ne ha segnato la fama per anni Federico Giuliani</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DLPQRD66XBCGJHQAWG27ANCWFQ.jpg?smart=true&amp;auth=62a5cf4d41dae8ae8609e791b45af3ae378d4f91776e47c614ec62679d83d220&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
 <title>Moreira-show. E il Milan passa dal disastro al punto d’oro</title>
 <link>https://www.ilgiornale.it/news/calcio/moreira-show-e-il-milan-passa-dal-disastro-al-punto-doro/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/moreira-show-e-il-milan-passa-dal-disastro-al-punto-doro/</guid>
@@ -789,14 +797,6 @@
 <pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
 <description>Paolo Guzzanti</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/PEZFPYG4J5A67FFK5Z66URIA2Y.jpg?focal=934%2C439&amp;auth=022e336975d155f314ccc4f9395fe3a5347ca4248ec31f1739d70753eec2bc0c&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Legge elettorale, Meloni sfida il Pd. “Centrosinistra poco credibile”</title>
-<link>https://www.ilgiornale.it/news/governo/legge-elettorale-meloni-sfida-il-pd-centrosinistra-poco-credibile/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/legge-elettorale-meloni-sfida-il-pd-centrosinistra-poco-credibile/</guid>
-<pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
-<description>La premier rivendica e contrattacca: “Ora non basta? Loro festeggiavano per averle affossate” Fabrizio de Feo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/B6TBDRQG4FHZJKB7NVKIFZPTH4.jpg?focal=1239%2C521&amp;auth=2618cd02b13f2adeab2abf180826339a227d6f6ab1ebe1fd091b5f1df6b7f4e7&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
