@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 19:01:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 19:19:35 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Conte sfida Schlein e manda in tilt il campo largo: scontro su leadership e Ucraina. La segretaria Pd: “Noi perno della coalizione”</title>
+<link>https://www.ilgiornale.it/news/interni/conte-sfida-schlein-e-manda-in-tilt-il-campo-largo-scontro-su-leadership-e-ucraina-la-segretaria-pd-noi-perno-della-coalizione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/conte-sfida-schlein-e-manda-in-tilt-il-campo-largo-scontro-su-leadership-e-ucraina-la-segretaria-pd-noi-perno-della-coalizione/</guid>
+<pubDate>Sun, 13 Sep 2026 18:59:31 +0000</pubDate>
+<description>Il leader M5S boccia la regola del partito più forte e mette il veto sulle armi a Kiev. La segretaria dem prova il pressing: “Ora accelerare sul programma comune” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VHHQKG2B5ZESLAUG2MWR27XZOM.jpg?smart=true&amp;auth=b16fdfde29328730cc521a52c3d8d0120847314a98b08d40b8346b30acf5362b&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“Il Südtirol non è Italia”. Un caso le parole del leader giovanile dell’AfD</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/il-sudtirol-non-e-italia-un-caso-le-parole-del-leader-giovanile-dellafd/</link>
@@ -789,14 +797,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/femminista-coraggiosa-e-fuori-tempo/</guid>
 <pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Interni Femminista coraggiosa e fuori tempo Francesca Albergotti</description>
-</item>
-<item>
-<title>La politica del pagate voi che poi... ci pensiamo noi</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/la-politica-del-pagate-voi-che-poi-ci-pensiamo-noi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/la-politica-del-pagate-voi-che-poi-ci-pensiamo-noi/</guid>
-<pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento La stanza di Feltri La politica del pagate voi che poi... ci pensiamo noi Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FOHE6KNO7Q5JX7LKRZKFQUKW6KE.jpg?smart=true&amp;auth=bb0fa3e9a72b4dfd5068608ba8009649f50d7fba509cbbb03108f038b40a16ce&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
