@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 05:58:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 06:26:06 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’ultimo saluto a Emma Bonino, oggi e domani la camera ardente in Campidoglio</title>
+<link>https://www.ilgiornale.it/news/interni/lultimo-saluto-a-emma-bonino-oggi-e-domani-la-camera-ardente-in-campidoglio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lultimo-saluto-a-emma-bonino-oggi-e-domani-la-camera-ardente-in-campidoglio/</guid>
+<pubDate>Sun, 13 Sep 2026 06:19:09 +0000</pubDate>
+<description>La sala della Protomoteca è aperta ai cittadini dalla mattina alla sera. Martedì 15 settembre, alle 12.30, le esequie di Stato in forma laica Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3DLD772Z45BXZF4Y7ZH3MICOK4.jpg?focal=1753%2C526&amp;auth=dcd3d3730a9853b0d9b6a00920467806aa1e43ca18b8c5cd7e31cb42eb984687&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Houthi, colpita una base militare saudita con missili e droni. Oltre 1.400 yemeniti in fuga verso Gibuti</title>
 <link>https://www.ilgiornale.it/diretta/guerra/houthi-colpita-una-base-militare-saudita-con-missili-e-droni-oltre-1400-yemeniti-in-fuga-verso-gibuti/</link>
@@ -791,14 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 13:54:20 +0000</pubDate>
 <description>Per oltre sette decenni aveva rappresentato la monarchia norvegese, prima come First Lady accanto al padre Olav V e poi al fianco di tre generazioni della famiglia reale. L’ultimo impegno pubblico la partecipazione al funerale del fratello Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/GGTSAG334JCMPLOH4UB5L4Q3B4.jpg?smart=true&amp;auth=4add3737818bf7c03fdb17079a784740ff020880419e3515776ef4e3812a2b6c&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Gasparri: “Fuori le chat Sigfrido. La trasparenza vale anche per te”</title>
-<link>https://www.ilgiornale.it/news/nazionale/gasparri-a-ranucci-fuori-le-chat-sigfrido-la-trasparenza-vale-anche-per-te/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/gasparri-a-ranucci-fuori-le-chat-sigfrido-la-trasparenza-vale-anche-per-te/</guid>
-<pubDate>Fri, 11 Sep 2026 13:47:11 +0000</pubDate>
-<description>Il mistero delle chat cancellate. E Lavitola rimane in carcere Gasparri: “Fuori le chat Sigfrido. La trasparenza vale anche per te” Negata la scarcerazione del faccendiere e confermata l’aggravante: usate modalità da clan. Buchi nelle conversazioni tra il mandante e il giornalista poco prima dell’attentato e dopo il 16 ottobre Pasquale Napolitano , Giulia Sorrentino L’ex amico Bellavia: “Sigfrido ormai è andato fuori di testa” Report e l'inchiesta stoppata per favorire gli affari di Valter</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/6LSNTI7FQ5MBRJJKZLPIFPJVBM.png?focal=1495%2C534&amp;auth=497343763f917e9d911d0af3a065a5721573c92d9c53bbfe202006755df248d9&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
