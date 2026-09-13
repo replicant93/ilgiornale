@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 03:59:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 04:33:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>In un libro i riti gastronomici della morte</title>
+<link>https://www.ilgiornale.it/news/retrogusto/in-un-libro-i-riti-gastronomici-della-morte/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/in-un-libro-i-riti-gastronomici-della-morte/</guid>
+<pubDate>Sun, 13 Sep 2026 04:00:00 +0000</pubDate>
+<description>Retrogusto In un libro i riti gastronomici della morte Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MUJV7YI3JZDONCOUMJ7POM5RQU.jpg?smart=true&amp;auth=e1a0f5d15b1ba021233c5400d455d0f4c2b43490ef8e2f748def17216c40fc65&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Festa dell’Unità, la strana coppia Bersani-Conte all’assalto del governo</title>
 <link>https://www.ilgiornale.it/news/interni/festa-dellunita-bersani-e-conte-allassalto-del-governo/</link>
@@ -791,14 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 12:49:19 +0000</pubDate>
 <description>In un discorso infuocato rivolto al gruppo parlamentare dell’AfD, Merz aveva affermato che milioni di immigrati lavoratori sono fondamentali per la società tedesca Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/6O4TQIZLXVBK5KXY3W4QX7P6B4.jpg?focal=2065%2C855&amp;auth=a9c2d82846040b95d9559fe1082a6059aaece63100e5db636abbad911b51c85e&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Meloni: “Voce riconoscibile della politica italiana”</title>
-<link>https://www.ilgiornale.it/news/governo/meloni-ha-rappresentato-per-decenni-una-voce-forte-e-riconoscibile-della-politica-italiana/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-ha-rappresentato-per-decenni-una-voce-forte-e-riconoscibile-della-politica-italiana/</guid>
-<pubDate>Fri, 11 Sep 2026 12:44:01 +0000</pubDate>
-<description>Funerali di Stato per Emma Bonino. “Saranno in forma laica”. Camera ardente domenica e lunedì in Campidoglio La storica leader del Partito radicale è morta a 78 anni Alle esequie della storica leader Radicale sono attesi rappresentanti istituzionali, politici, cittadini, esponenti della società civile Redazione web Cos’è il microcitoma polmonare, il tumore combattuto da Emma Bonino Meloni: “Voce riconoscibile della politica italiana”</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VWYF7VXNIBDC5BXRHRQR4AWDGY.jpg?smart=true&amp;auth=6bc4e8715d0f2d01d0f2775d4a265c88c479e7d028b50f6f84969f8745ea8e66&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
