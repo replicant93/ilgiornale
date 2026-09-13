@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 05:31:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 05:46:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Houthi, colpita una base militare saudita con missili e droni. Oltre 1.400 yemeniti in fuga verso Gibuti</title>
+<link>https://www.ilgiornale.it/diretta/guerra/houthi-colpita-una-base-militare-saudita-con-missili-e-droni-oltre-1400-yemeniti-in-fuga-verso-gibuti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/houthi-colpita-una-base-militare-saudita-con-missili-e-droni-oltre-1400-yemeniti-in-fuga-verso-gibuti/</guid>
+<pubDate>Sun, 13 Sep 2026 05:38:03 +0000</pubDate>
+<description>DIRETTA Houthi, colpita una base militare saudita con missili e droni. Oltre 1.400 yemeniti in fuga verso Gibuti Il Mar Rosso è nelle loro mani: perché la guerra si può allargare I ribelli filo-iraniani rivendicano un attacco con missili balistici e droni, avanzano lungo la costa dello Yemen e rafforzano il controllo sullo strategico stretto di Bab el-Mandeb Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DE7HT7WABVBPBJIXRYNJ7ZG7JA.jpg?focal=2253%2C776&amp;auth=02b7e4784b149240551070dc7ea9debfa062d1bfb61efc00d4c611df770a0c7b&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>In un libro i riti gastronomici della morte</title>
 <link>https://www.ilgiornale.it/news/retrogusto/in-un-libro-i-riti-gastronomici-della-morte/</link>
@@ -791,14 +799,6 @@
 <pubDate>Fri, 11 Sep 2026 13:03:54 +0000</pubDate>
 <description>I periti del gip evidenziano criticità a Bolzano e nel post-trapianto. Nessuna responsabilità per Oppido e Bergonzoni nell’esecuzione dell’intervento al Monaldi. L’avvocato della famiglia: “La Procura valuti l’ipotesi di omicidio volontario” Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MPHGG3CHLRM4ND45UC3DNSHNIY.jpg?focal=1012%2C883&amp;auth=5dbd16dd0f325db48dcc9c49a701a69fe65c0e41ea126bb873befa4bee6e66d8&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Remigrazione? Per il cancelliere è pulizia etnica”. AfD denuncia Merz</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/remigrazione-per-il-cancelliere-e-pulizia-etnica-afd-denuncia-merz/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/remigrazione-per-il-cancelliere-e-pulizia-etnica-afd-denuncia-merz/</guid>
-<pubDate>Fri, 11 Sep 2026 12:49:19 +0000</pubDate>
-<description>In un discorso infuocato rivolto al gruppo parlamentare dell’AfD, Merz aveva affermato che milioni di immigrati lavoratori sono fondamentali per la società tedesca Francesca Salvatore</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/6O4TQIZLXVBK5KXY3W4QX7P6B4.jpg?focal=2065%2C855&amp;auth=a9c2d82846040b95d9559fe1082a6059aaece63100e5db636abbad911b51c85e&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
