@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 14:56:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 15:13:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>F1, Antonelli trionfa anche in Spagna. Leclerc quarto, Hamilton fuori</title>
+<link>https://www.ilgiornale.it/news/motori/f1-antonelli-trionfa-anche-in-spagna-leclerc-quarto-hamilton-fuori/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/f1-antonelli-trionfa-anche-in-spagna-leclerc-quarto-hamilton-fuori/</guid>
+<pubDate>Sun, 13 Sep 2026 14:58:57 +0000</pubDate>
+<description>Ennesimo capolavoro del bolognese che vince la sua ottava gara in stagione, allungando su Russell. Leclerc chiude quarto dopo aver guidato a lungo la gara: Hamilton fuori per un problema ai freni Luca Bocci Sorpresa Cagliari: in casa Dea la terza vittoria</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/6X2VXO5UARDN7NVTTYNJ5CTOBM.jpg?smart=true&amp;auth=d360010983711297597a831449c5c26cfba3d42fd50133f02bc8bc3c3910f6b8&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>“Riciclaggio? Possibilità concreta”. Da Giletti parla Chimutengo, ex socio di Lavitola</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/riciclaggio-possibilita-concreta-da-giletti-parla-chimutengo-ex-socio-di-lavitola-sul-carbon-credit/</link>
@@ -789,14 +797,6 @@
 <pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
 <description>Nico Spuntoni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/DOYRCUV6MNAQ3K56LKGMQKWJK4.jpg?focal=1723%2C739&amp;auth=d1480c99919049329e5c9deb9ea015170dfcc02b85ed97561b9a904dde7ba656&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Quella scelta di tradire il vero liberalismo</title>
-<link>https://www.ilgiornale.it/news/interni/quella-scelta-di-tradire-il-vero-liberalismo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/quella-scelta-di-tradire-il-vero-liberalismo/</guid>
-<pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
-<description>Paolo Guzzanti</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/PEZFPYG4J5A67FFK5Z66URIA2Y.jpg?focal=934%2C439&amp;auth=022e336975d155f314ccc4f9395fe3a5347ca4248ec31f1739d70753eec2bc0c&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
