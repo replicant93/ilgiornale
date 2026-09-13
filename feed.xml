@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 07:48:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 07:59:11 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Carney guarda all’Europa: il Canada pensa a un accordo di associazione con l’Ue</title>
@@ -14,6 +14,14 @@
 <pubDate>Sun, 13 Sep 2026 07:46:15 +0000</pubDate>
 <description>Dopo lo strappo commerciale con Washington, Ottawa esplora una partnership senza precedenti con Bruxelles. Sul tavolo l’opzione di “membro associato”. Ma il progetto è ancora tutto da costruire Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/URKV32NXXNP4HNV5FR233BHQHE.jpg?focal=1529%2C452&amp;auth=3b6d222b9713f6738b2fd98047c45b46d47da1005cd76a91a675d7dfffbabc8f&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Sofia Goggia rientra in anticipo in Italia: malore in Argentina, cosa è successo</title>
+<link>https://www.ilgiornale.it/news/sci/sofia-goggia-rientra-in-anticipo-in-italia-malore-in-argentina-cosa-e-successo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/sci/sofia-goggia-rientra-in-anticipo-in-italia-malore-in-argentina-cosa-e-successo/</guid>
+<pubDate>Sun, 13 Sep 2026 07:36:23 +0000</pubDate>
+<description>La sciatrice bergamasca ha accorciato di un paio di settimane la sua permanenza a Ushuaia dove si allenava in vista della stagione agonistica che partirà a ottobre Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3D26YSOKANKV5A2WXPZLCMAEVA.jpg?smart=true&amp;auth=0335646fb5b3944f87c1355e501b51454986c726a19d31fd1a1999e017bbd98e&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>L’aeroporto, il divorzio, la proposta a Parigi: la storia d’amore tra Ilary Blasi e Bastian Muller</title>
@@ -790,14 +798,6 @@
 <pubDate>Sat, 12 Sep 2026 04:01:49 +0000</pubDate>
 <description>Maria Guidotti</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MS6FWIREKBASVCKDZJNVD4I6AU.jpg?focal=1538%2C848&amp;auth=2dcc07ab3f13df7c4a6062af7adb2d35cc6949f4f346fbde5840c800b61c4590&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>I Fruttini di Lancusi arrivano a Milano con Matteo</title>
-<link>https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-a-milano-con-matteo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-a-milano-con-matteo/</guid>
-<pubDate>Sat, 12 Sep 2026 04:00:01 +0000</pubDate>
-<description>Retrogusto I Fruttini di Lancusi arrivano a Milano con Matteo Andrea Cuomo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/WVAKS7DGMNEUBFCCU5R46J23TI.jpg?smart=true&amp;auth=23c8a0e61176e210153a2d852f119b2655416399ff640f84842eda5fb907dd5f&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
