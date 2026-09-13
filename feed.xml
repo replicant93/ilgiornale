@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 12:51:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 13:11:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Venezia, si scontrano un taxi acqueo e una barca: donna dispersa, il marito gravissimo. Si erano sposati tre mesi fa</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/venezia-si-scontrano-un-taxi-acqueo-e-una-barca-donna-dispersa-il-marito-gravissimo-si-erano-sposati-tre-mesi-fa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/venezia-si-scontrano-un-taxi-acqueo-e-una-barca-donna-dispersa-il-marito-gravissimo-si-erano-sposati-tre-mesi-fa/</guid>
+<pubDate>Sun, 13 Sep 2026 13:04:10 +0000</pubDate>
+<description>Cronaca nera Venezia, si scontrano un taxi acqueo e una barca: donna dispersa, il marito gravissimo. Si erano sposati tre mesi fa L’incidente all’alba del 12 settembre. Da allora nessuna traccia di Gabriella Querino, che si trovava insieme al marito, Sean Michieli, ora ricoverato in Rianimazione Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/66INIVIV4NGV3GBZVLMSRUFAA4.jfif?smart=true&amp;auth=1d35c6f5c81e9f93de0e5b5d145877aa46a1168acedeeaa0d57398cbea65b842&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Nome in codice Redwood”: come una spia del Kgb tradì il suo Paese e cambiò il destino dell’Iran</title>
 <link>https://www.ilgiornale.it/news/esteri/nome-in-codice-redwood-come-una-spia-del-kgb-tradi-il-suo-paese-e-cambio-il-destino-delliran/</link>
@@ -788,14 +796,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-e-l11-settembre-in-guerra-per-vincere-vance-prove-da-leader/</guid>
 <pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
 <description>Islamisti e tolleranza zero: quello che l’Ue non capisce Il tycoon preferisce il Pentagono a New York Valeria Robecco</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZEKE34JXVBF6PHT6MS4YGVJZ2Y.jpg?focal=1914%2C797&amp;auth=6c62c1f55c9634ad31a7d35a4f12a4259978dc80fe572fc67ce548c61db356bc&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Islamisti e tolleranza zero: quello che l’Ue non capisce</title>
-<link>https://www.ilgiornale.it/news/politica-estera/islamisti-e-tolleranza-zero-quello-che-lue-non-capisce/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/islamisti-e-tolleranza-zero-quello-che-lue-non-capisce/</guid>
-<pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
-<description>Trump e l’11 settembre. “In guerra per vincere”. Vance, prove da leader Islamisti e tolleranza zero: quello che l’Ue non capisce Il tycoon preferisce il Pentagono a New York Valeria Robecco</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ZEKE34JXVBF6PHT6MS4YGVJZ2Y.jpg?focal=1914%2C797&amp;auth=6c62c1f55c9634ad31a7d35a4f12a4259978dc80fe572fc67ce548c61db356bc&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
