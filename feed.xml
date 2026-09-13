@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 13 Sep 2026 07:59:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 08:19:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Guerra in Ucraina, il Cremlino: “India e Cina si sono offerte di contribuire per porre fine al conflitto”</title>
+<link>https://www.ilgiornale.it/diretta/cronaca-internazionale/guerra-in-ucraina-il-cremlino-india-e-cina-si-sono-offerte-di-contribuire-per-porre-fine-al-conflitto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/cronaca-internazionale/guerra-in-ucraina-il-cremlino-india-e-cina-si-sono-offerte-di-contribuire-per-porre-fine-al-conflitto/</guid>
+<pubDate>Sun, 13 Sep 2026 08:01:53 +0000</pubDate>
+<description>Xi e Modi avrebbero offerto attivamente i loro “buoni uffici” Redazione web “Ci insegnano a sopravvivere e a combattere”: così Kiev colpisce Mosca anche in Africa</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3WOGVIRA6VAYFNVTENWJS26Y4M.jpg?smart=true&amp;auth=1df5908de0b9430581cc879f0cef1fcce5b3980a1577ab3435d081ae40f1deff&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Amodei e Altman, appello globale sull’IA: “Serve un coordinamento per fermare i rischi”</title>
+<link>https://www.ilgiornale.it/news/nuove-frontiere/amodei-e-altman-appello-globale-sullia-serve-un-coordinamento-per-fermare-i-rischi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/amodei-e-altman-appello-globale-sullia-serve-un-coordinamento-per-fermare-i-rischi/</guid>
+<pubDate>Sun, 13 Sep 2026 07:59:22 +0000</pubDate>
+<description>I big dell’IA tirano il freno: “Ora bisogna rallentare” Il fondatore di Anthropic interviene dopo l’allarme dell’ex ingegnere. I rivali Musk e Altman gli danno ragione, ma continua a correre il lancio di modelli Matilde Sperlinga Amodei e Altman, appello globale sull’IA: “Serve un coordinamento per fermare i rischi”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/2FGCWCC4CJAMJALM5FBNPEYFMM.PNG?focal=793%2C178&amp;auth=0e99d90f39ccdc1dcf0e6c9bdc69664b839ab3d75175fd6ee3160a8da8c14bcc&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Carney guarda all’Europa: il Canada pensa a un accordo di associazione con l’Ue</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/carney-guarda-alleuropa-il-canada-pensa-a-un-accordo-di-associazione-con-lue/</link>
@@ -782,22 +798,6 @@
 <pubDate>Sat, 12 Sep 2026 04:20:30 +0000</pubDate>
 <description>Il compositore che sconfisse l’avanguardia Gli italiani al Lido? Promossi ma con riserva Un documentario su Nino Rota, che con la sua musica cambiò il cinema Alessandro Gnocchi Per capire la Palestina non basta “Naza”, ma serve “Fauda”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/3SPAEYWZCNEV7GYEJZGN6AN75I.jpg?focal=1543%2C576&amp;auth=5ba2a77b0b29c9a2acab7e6658a154aa5dc5cddb21e29e39519339106a3c376e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Amorim nervi tesi. “Chiamate Fabregas”</title>
-<link>https://www.ilgiornale.it/news/calcio/amorim-nervi-tesi-chiamate-fabregas/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/amorim-nervi-tesi-chiamate-fabregas/</guid>
-<pubDate>Sat, 12 Sep 2026 04:15:56 +0000</pubDate>
-<description>Como, i padroni stranieri che hanno capito gli italiani Il portoghese infastidito dopo le critiche post Juve al suo “calcio dominante” che ancora non si vede Franco Ordine</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/JMM5B5FPUNG6LLVQJ76XZRPDDU.jpg?focal=1782%2C820&amp;auth=4d7cf85c1181e6c5d7eb3ca25b6f26276acf89d82e90ff6380fe0c58c7086447&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Misano promette scintille: duello Bez-Marquez</title>
-<link>https://www.ilgiornale.it/news/motori/misano-promette-scintille-duello-bez-marquez/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/misano-promette-scintille-duello-bez-marquez/</guid>
-<pubDate>Sat, 12 Sep 2026 04:01:49 +0000</pubDate>
-<description>Maria Guidotti</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MS6FWIREKBASVCKDZJNVD4I6AU.jpg?focal=1538%2C848&amp;auth=2dcc07ab3f13df7c4a6062af7adb2d35cc6949f4f346fbde5840c800b61c4590&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
