@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 09:14:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 09:34:20 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Modena, dopo lo scoop del Giornale finisce sotto accusa il modello emiliano di integrazione: “Rotto il silenzio, la sinistra preferisce la verità più comoda”</title>
+<link>https://www.ilgiornale.it/news/interni/modena-dopo-lo-scoop-del-giornale-finisce-sotto-accusa-il-modello-emiliano-di-integrazione-rotto-il-silenzio-la-sinistra-preferisce-la-verita-piu-comoda/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/modena-dopo-lo-scoop-del-giornale-finisce-sotto-accusa-il-modello-emiliano-di-integrazione-rotto-il-silenzio-la-sinistra-preferisce-la-verita-piu-comoda/</guid>
+<pubDate>Mon, 14 Sep 2026 09:30:25 +0000</pubDate>
+<description>Renzi spiazza il Campo largo. “Il killer che ha ucciso non è solo un folle” Troppi i casi di radicalizzazione in Emilia-Romagna: i video in cui El Koudri minaccia l’Italia prima di lanciarsi sulla folla sono la conferma di presupposti sbagliati di integrazione Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/BDFABXZOQJPSHGFDGMIX5PS7SU.png?focal=465%2C222&amp;auth=8cac4bf3aef8ce827f356af9c1b88555a663fb8e6b605c96024d7d3397aa1824&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Via Poma, parla la sorella di Simonetta Cesaroni: “Nell’ufficio c’era qualcuno nascosto”</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/via-poma-parla-la-sorella-di-simonetta-cesaroni-nellufficio-cera-qualcuno-nascosto/</link>
@@ -787,14 +795,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/rallentare-lo-sviluppo-dei-modelli-ai-lallarme-del-ceo-di-anthropic-accolto-da-musk-e-dal-ceo-di-openai/</guid>
 <pubDate>Sat, 12 Sep 2026 20:00:25 +0000</pubDate>
 <description>L’intelligenza artificiale sta migliorando la sua capacità di rigenerazione e “se non controllato, tale processo potrebbe superare la nostra capacità di comprendere” Alessandra Corradi</description>
-</item>
-<item>
-<title>“Vergognoso attacco alla Meloni. Aspetto una tua risposta”. La rabbia di Robby Giusti, influencer “amico” di Vannacci</title>
-<link>https://www.ilgiornale.it/news/interni/vergognoso-attacco-alla-meloni-aspetto-una-tua-risposta-la-rabbia-di-robby-giusti-influencer-amico-di-vannacci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/vergognoso-attacco-alla-meloni-aspetto-una-tua-risposta-la-rabbia-di-robby-giusti-influencer-amico-di-vannacci/</guid>
-<pubDate>Sat, 12 Sep 2026 19:08:21 +0000</pubDate>
-<description>Robby Giusti punta il dito contro le pagine a sostegno del generale che hanno rivolto offese irripetibili alla presidente del Consiglio e pretende l’intervento del leader di FN Alessandra Corradi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NRVZLLMSBBFCBLJJ56IQCUSETA.png?smart=true&amp;auth=d8de96c232ae7e9176ca6389c41cea7573f0c810557044902f4e483ad1b850c1&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
