@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 18:00:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 18:26:01 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Colpisce la porta con una mazzetta, poi minaccia il marito: “Togliti di mezzo”. Incubo stalking per Sabrina Ferilli</title>
+<link>https://www.ilgiornale.it/news/attualita/colpisce-la-porta-con-una-mazzetta-poi-minaccia-il-marito-togliti-di-mezzo-incubo-stalking-per-sabrina-ferilli/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/colpisce-la-porta-con-una-mazzetta-poi-minaccia-il-marito-togliti-di-mezzo-incubo-stalking-per-sabrina-ferilli/</guid>
+<pubDate>Mon, 14 Sep 2026 18:09:01 +0000</pubDate>
+<description>L’attrice dopo sei anni si è trovata di nuovo nel mirino di uno stalker, arrivato a colpire la porta della sua abitazione e a minacciare Flavio Cattaneo Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JMNEBHBAJJI23CTWRCWU64RCNI.jpg?smart=true&amp;auth=03b74540fa3777d6b806eb34d994cf4d3bd3abbd7a26ca3112c5f09bbeca9da5&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La preghiera islamica e “Allah akbar” durante l’ora di religione: scoppia la polemica in Svezia</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/la-preghiera-islamica-e-allah-akbar-durante-lora-di-religione-scoppia-la-polemica-in-svezia/</link>
@@ -786,14 +794,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/societa/ricordati-di-non-odiare-e-prega-di-non-farlo-mai/</guid>
 <pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Società Ricordati di non odiare e prega di non farlo mai Don Luigi Maria Epicoco</description>
-</item>
-<item>
-<title>Parla Lady Lavitola: “Valter e Ranucci insieme senza telefoni dopo l’attentato”</title>
-<link>https://www.ilgiornale.it/news/interni/parla-lady-lavitola-valter-e-ranucci-insieme-senza-telefoni-dopo-lattentato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/parla-lady-lavitola-valter-e-ranucci-insieme-senza-telefoni-dopo-lattentato/</guid>
-<pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
-<description>Il faro degli investigatori sui contatti tra i due dopo il 4 luglio L’ex compagna dieci ore dai pm: “Mai saputo nulla della bomba. L’ho scoperto soltanto il giorno dopo l’esplosione” Pasquale Napolitano , Giulia Sorrentino De Luca sfotte la sinistra: “Lo avete beatificato” Ecco il link tra Report e i servizi segreti. Quel documento mostrato in tv e poi sparito</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FL7KRW2FBJHYRKR2ATQSF3Z3D4.jpg?focal=1512%2C633&amp;auth=70cf5f13ba108ca8fec2427782767289d1b9a4e9d46df53d138112b7e655fd33&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
