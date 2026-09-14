@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 16:32:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 16:53:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bus travolge studente il primo giorno di scuola: 18enne gravissimo</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/bus-travolge-studente-il-primo-giorno-di-scuola-18enne-gravissimo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/bus-travolge-studente-il-primo-giorno-di-scuola-18enne-gravissimo/</guid>
+<pubDate>Mon, 14 Sep 2026 16:27:34 +0000</pubDate>
+<description>L’impatto è avvenuto al termine delle lezioni scolastiche: trasportato in codice rosso in ospedale, ecco cosa è successo in provincia di Lecco Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TBVKQJJW6VGY5KNNSR765LBPAQ.jpg?smart=true&amp;auth=4a2b73cd518512f8c2d5e3c91e003e6eb38bdd342cd2be3702e34dd7ec991cfb&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Trump contro i big dell’AI: “Rallentare? È una cospirazione malata”. E pure Pechino inclaza: “Allarmismo”</title>
 <link>https://www.ilgiornale.it/news/politica-estera/trump-contro-i-big-dellai-rallentare-e-una-cospirazione-malata-e-pure-pechino-inclaza-allarmismo/</link>
@@ -787,14 +795,6 @@
 <pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
 <description>DIRETTA Houthi, colpita una base militare in Arabia Saudita con missili e droni. Oltre 1.400 yemeniti in fuga verso Gibuti Così in 36 ore hanno sconvolto il Medio Oriente Redazione web Attacco dall’Iraq all’oleodotto saudita. E l’avanzata Houthi spaventa il Golfo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/DE7HT7WABVBPBJIXRYNJ7ZG7JA.jpg?focal=2253%2C776&amp;auth=02b7e4784b149240551070dc7ea9debfa062d1bfb61efc00d4c611df770a0c7b&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Al G20 o a Mosca: scontro sul vertice Zelensky-Putin</title>
-<link>https://www.ilgiornale.it/news/politica/al-g20-o-a-mosca-scontro-sul-vertice-zelensky-putin/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/al-g20-o-a-mosca-scontro-sul-vertice-zelensky-putin/</guid>
-<pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
-<description>Guerra in Ucraina, il Cremlino: “India e Cina si sono offerte di contribuire per porre fine al conflitto” Al G20 o a Mosca: scontro sul vertice Zelensky-Putin Xi e Modi avrebbero offerto attivamente i loro “buoni uffici” Redazione web Sfida Brics su dazi e guerre (ma Xi vede Modi e non Vladimir)</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3WOGVIRA6VAYFNVTENWJS26Y4M.jpg?smart=true&amp;auth=1df5908de0b9430581cc879f0cef1fcce5b3980a1577ab3435d081ae40f1deff&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
