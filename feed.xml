@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 16:53:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 17:10:29 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La base segreta dei droni russi spunta dal nulla: il piano di Putin per cambiare la guerra nei cieli</title>
+<link>https://www.ilgiornale.it/news/guerra/la-base-segreta-dei-droni-russi-spunta-dal-nulla-il-piano-di-putin-per-cambiare-la-guerra-nei-cieli/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/la-base-segreta-dei-droni-russi-spunta-dal-nulla-il-piano-di-putin-per-cambiare-la-guerra-nei-cieli/</guid>
+<pubDate>Mon, 14 Sep 2026 17:07:39 +0000</pubDate>
+<description>Trump: “Stop ai raid su obiettivi energetici, c’è l’ok di Mosca e Kiev”. L’Ue: “L’attacco al treno un messaggio per spaventare l’occidente” La base segreta dei droni russi spunta dal nulla: il piano di Putin per cambiare la guerra nei cieli In Ucraina la guerra non si arresta, un attacco russo conta tre morti e sette feriti. Nel frattempo Mosca conquista altro territorio. Merz e Kallas ancora al fianco di Zelensky: “Dobbiamo dimostrare che non abbiamo paura”. L’Europa pensa ad un ruolo sempre più centrale nell’Artico Redazione web DIRETTA</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/UWINE3EBXFA3VA4J5S6WTCPZ5Q.jpg?smart=true&amp;auth=c2145a3943f75f14583943a18211cbbc30a5712b4696e631706b120544da87d3&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Bus travolge studente il primo giorno di scuola: 18enne gravissimo</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/bus-travolge-studente-il-primo-giorno-di-scuola-18enne-gravissimo/</link>
@@ -787,14 +795,6 @@
 <pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
 <description>La sua associazione: “Non andate in ospedale, serve tranquillità”. La nota di Tajani Francesco Curridori</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/GEXWQBJZXNGVXLPYXERWIMMSYU.jpg?focal=1467%2C762&amp;auth=8edd3f0681e62f15fc5503c13ede8b59d7d0fa0a426d39686cc28dbc0824f13c&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Attacco dall’Iraq all’oleodotto saudita. E l’avanzata Houthi spaventa il Golfo</title>
-<link>https://www.ilgiornale.it/news/guerra/attacco-dalliraq-alloleodotto-saudita-e-lavanzata-houthi-spaventa-il-golfo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/attacco-dalliraq-alloleodotto-saudita-e-lavanzata-houthi-spaventa-il-golfo/</guid>
-<pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
-<description>DIRETTA Houthi, colpita una base militare in Arabia Saudita con missili e droni. Oltre 1.400 yemeniti in fuga verso Gibuti Così in 36 ore hanno sconvolto il Medio Oriente Redazione web Attacco dall’Iraq all’oleodotto saudita. E l’avanzata Houthi spaventa il Golfo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/DE7HT7WABVBPBJIXRYNJ7ZG7JA.jpg?focal=2253%2C776&amp;auth=02b7e4784b149240551070dc7ea9debfa062d1bfb61efc00d4c611df770a0c7b&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
