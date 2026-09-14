@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 14:56:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 15:15:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Guardie giurate contro i migranti nel Regno Unito: la soluzione d’emergenza per tutelare le donne nell’Essex</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/guardie-giurate-contro-i-migranti-nel-regno-unito-la-soluzione-demergenza-per-tutelare-le-donne-nellessex/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/guardie-giurate-contro-i-migranti-nel-regno-unito-la-soluzione-demergenza-per-tutelare-le-donne-nellessex/</guid>
+<pubDate>Mon, 14 Sep 2026 14:50:53 +0000</pubDate>
+<description>Sono stati arruolati dei vigilantes per controllare il territorio ed evitare che i migranti molestino le donne, ormai restie a uscire di casa quando gli stranieri vengono fatti uscire dai centri di accoglienza Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/N4THLS6LKBOVJJ5TKMBZ3JWHHU.jpg?focal=1269%2C301&amp;auth=4ff362fac41d9339916facb64877894badc28f30c63ac281e15b3cffec4ac7df&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>“Risposami o vai in carcere”: l’ultimatum dell’ex marito a Nessy Guerra bloccata in Egitto</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/risposami-o-vai-in-carcere-lultimatum-dellex-marito-a-nessy-guerra-bloccata-in-egitto/</link>
@@ -787,14 +795,6 @@
 <pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
 <description>Guerra in Ucraina, il Cremlino: “India e Cina si sono offerte di contribuire per porre fine al conflitto” Al G20 o a Mosca: scontro sul vertice Zelensky-Putin Xi e Modi avrebbero offerto attivamente i loro “buoni uffici” Redazione web Sfida Brics su dazi e guerre (ma Xi vede Modi e non Vladimir)</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/3WOGVIRA6VAYFNVTENWJS26Y4M.jpg?smart=true&amp;auth=1df5908de0b9430581cc879f0cef1fcce5b3980a1577ab3435d081ae40f1deff&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Verso il midterm: un leader forte fa la differenza per i repubblicani</title>
-<link>https://www.ilgiornale.it/news/politica-estera/verso-il-midterm-un-leader-forte-fa-la-differenza-per-i-repubblicani/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/verso-il-midterm-un-leader-forte-fa-la-differenza-per-i-repubblicani/</guid>
-<pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
-<description>Trump vuole un’Irlanda unita: “Succederà prima o poi”. E Londra frena Verso il midterm: un leader forte fa la differenza per i repubblicani Da Dublino il presidente americano rompe una cautela durata decenni sulla questione nordirlandese. Il governo britannico: nessun referendum finché non ci sarà una maggioranza favorevole Francesca Salvatore</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TXJWDX3TONBI5AVKKTJ42TLK2I.jpg?smart=true&amp;auth=cc7cfe68ee07c858d791219a448624e87ad9b837e0cf68c4df88c3ffd9ed9eba&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
