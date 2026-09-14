@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 12:16:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 12:40:01 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Papa Leone cancella i tagli di Francesco e toglie il blocco degli stipendi in Vaticano</title>
+<link>https://www.ilgiornale.it/news/vaticano/papa-leone-cancella-i-tagli-di-francesco-e-toglie-il-blocco-degli-stipendi-in-vaticano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/vaticano/papa-leone-cancella-i-tagli-di-francesco-e-toglie-il-blocco-degli-stipendi-in-vaticano/</guid>
+<pubDate>Mon, 14 Sep 2026 12:35:10 +0000</pubDate>
+<description>Prevost cancella i tagli imposti dal predecessore al tempo della pandemia. Sorridono dipendenti e cardinali Nico Spuntoni</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NTLICBIRM5G4BMH72ZJOOEGVXM.jpg?smart=true&amp;auth=a1999477e2864f6f3e26bbb75e7a66d15f22cbc66bfddd829a598373341661f0&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>“La malattia può partire dal giorno prima”. Occhio alla data sul certificato, cosa ha detto l’Inps</title>
+<link>https://www.ilgiornale.it/news/economia/la-malattia-puo-partire-dal-giorno-prima-occhio-alla-data-sul-certificato-cosa-ha-detto-linps/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/economia/la-malattia-puo-partire-dal-giorno-prima-occhio-alla-data-sul-certificato-cosa-ha-detto-linps/</guid>
+<pubDate>Mon, 14 Sep 2026 12:32:41 +0000</pubDate>
+<description>Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NH3A2VHDUFIONNDGGHKMR3OULE.png?focal=354%2C169&amp;auth=475ad3d944e0c9340f29891b5d7a10d305c4185b58ca5752f88074e6e8ca12c5&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Beppe Grillo prepara il ritorno in campo con un nuovo partito e attacca Conte: “Movimento zero stelle”</title>
 <link>https://www.ilgiornale.it/news/interni/beppe-grillo-prepara-il-ritorno-in-campo-con-un-nuovo-partito-e-attacca-conte-movimento-zero-stelle/</link>
@@ -780,22 +796,6 @@
 <pubDate>Sun, 13 Sep 2026 08:26:18 +0000</pubDate>
 <description>Modena, è terrorismo. Sinistra ammutolita e il sindaco attacca noi “Odio e dinamica stragista. Il metodo è quello dell’Isis” I video dell’attentatore smontano la tesi dei problemi psichici Giuseppe Alberto Falci “Questo Paese va distrutto”. Poi l’attentato. Ecco le minacce nei video choc di El Koudri La verità che dobbiamo alle vittime</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/5NRFE6QRRFMGTBFIPBNOU7ZRG4.jpg?smart=true&amp;auth=ff09d145c3c3f3299aeba80ea15221ce0c56f9ad7ee60f6eed15a245c569a23b&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>La verità che dobbiamo alle vittime</title>
-<link>https://www.ilgiornale.it/news/interni/la-verita-che-dobbiamo-alle-vittime/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-verita-che-dobbiamo-alle-vittime/</guid>
-<pubDate>Sun, 13 Sep 2026 08:23:59 +0000</pubDate>
-<description>commento Interni La verità che dobbiamo alle vittime Fausto Biloslavo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FNJ3W3GFCQBNTBIYV3HJGRLPCDA.png?smart=true&amp;auth=ceaf50a579bd1c88f5145e5697844ec18c719128d8eafdbd10bbad913602ef63&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Bergamo, caos in centro: clochard barricato sul tetto dell’ex scuola lancia tegole contro la polizia</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/bergamo-caos-in-centro-clochard-barricato-sul-tetto-dellex-scuola-lancia-tegole-contro-la-polizia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/bergamo-caos-in-centro-clochard-barricato-sul-tetto-dellex-scuola-lancia-tegole-contro-la-polizia/</guid>
-<pubDate>Sun, 13 Sep 2026 08:20:10 +0000</pubDate>
-<description>Il lancio di oggetti ha costretto le autorità a blindare l’area, provocando pesanti ripercussioni sulla viabilità urbana. Serata di altissima tensione Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OMDTPVUB2BAAXATYDBZIC33WBU.jfif?smart=true&amp;auth=950630a0d6debb14b3c967d3e28faaa8ae774b52f29b16d2d938c3c867f47ece&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
