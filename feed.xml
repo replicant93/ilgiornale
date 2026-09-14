@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 20:17:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 20:33:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Superpetroliera in fiamme a sud di Hormuz: “Ha urtato mine navali”. L’annuncio dei pasdaran</title>
+<link>https://www.ilgiornale.it/news/guerra/superpetroliera-in-fiamme-a-sud-di-hormuz-ha-urtato-mine-navali-lannuncio-dei-pasdaran/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/superpetroliera-in-fiamme-a-sud-di-hormuz-ha-urtato-mine-navali-lannuncio-dei-pasdaran/</guid>
+<pubDate>Mon, 14 Sep 2026 20:20:09 +0000</pubDate>
+<description>Le Guardie Rivoluzionarie identificano la nave come “Algaya” e sostengono che l’incendio sia ormai fuori controllo. Lo Stretto resta sotto sorveglianza iraniana Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YSIJF6W67FKUBHY2EBQRLOCO2I.jpg?smart=true&amp;auth=161e2e8e9d2a6981b7998ff79c644ef427e56eb8de348312ee11fc2843c9e789&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La tessera di Sigfrido, il segugio Ranucci e il Papa: quindi, oggi…</title>
 <link>https://www.ilgiornale.it/news/quindi-oggi/la-tessera-di-sigfrido-il-segugio-ranucci-e-il-papa-quindi-oggi/</link>
@@ -789,13 +797,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/nuovo-codice-della-strada-stop-alle-maxi-multe-per-ritardato-pagamento-via-le-maggiorazioni/</guid>
 <pubDate>Sun, 13 Sep 2026 11:37:55 +0000</pubDate>
 <description>Federico Garau</description>
-</item>
-<item>
-<title>Fondo pensione casalinghi: come funziona</title>
-<link>https://www.ilgiornale.it/news/cittadini/fondo-pensione-casalinghi-come-funziona/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/fondo-pensione-casalinghi-come-funziona/</guid>
-<pubDate>Sun, 13 Sep 2026 11:36:50 +0000</pubDate>
-<description>Stefano Damiano</description>
 </item>
 </channel>
 </rss>
