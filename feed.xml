@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 08:51:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 09:14:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Via Poma, parla la sorella di Simonetta Cesaroni: “Nell’ufficio c’era qualcuno nascosto”</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/via-poma-parla-la-sorella-di-simonetta-cesaroni-nellufficio-cera-qualcuno-nascosto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/via-poma-parla-la-sorella-di-simonetta-cesaroni-nellufficio-cera-qualcuno-nascosto/</guid>
+<pubDate>Mon, 14 Sep 2026 08:53:39 +0000</pubDate>
+<description>A 36 anni dall’omicidio, Paola Cesaroni torna a parlare della sorella Simonetta e dei tanti interrogativi rimasti senza risposta: dalle tracce di sangue scomparse allo sconosciuto che le disse “Il peggio deve ancora venire”. Intanto la Procura è tornata a indagare Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TASZX22LCRBPZCPOHU7ZL6UZOM.jpg?focal=2119%2C547&amp;auth=e4a3c7e4ade096f1a791012e01177964e08e24010735f391bc23fd83026c02be&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Reddito di cittadinanza, quei 188mila ex beneficiari “spariti” dai radar</title>
 <link>https://www.ilgiornale.it/news/politica-economica/reddito-di-cittadinanza-quei-188mila-ex-beneficiari-spariti-dai-radar/</link>
@@ -787,14 +795,6 @@
 <pubDate>Sat, 12 Sep 2026 19:08:21 +0000</pubDate>
 <description>Robby Giusti punta il dito contro le pagine a sostegno del generale che hanno rivolto offese irripetibili alla presidente del Consiglio e pretende l’intervento del leader di FN Alessandra Corradi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NRVZLLMSBBFCBLJJ56IQCUSETA.png?smart=true&amp;auth=d8de96c232ae7e9176ca6389c41cea7573f0c810557044902f4e483ad1b850c1&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Venezia 83, Leone d’Oro per il miglior film a “Woman Unknown” della regista danese May el-Toukhy. Tutti i premi</title>
-<link>https://www.ilgiornale.it/news/cinema/venezia-83-tutti-i-vincitori-dal-leone-dargento-a-possible-love-alla-coppa-volpi-per-mathilde-arcel/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/venezia-83-tutti-i-vincitori-dal-leone-dargento-a-possible-love-alla-coppa-volpi-per-mathilde-arcel/</guid>
-<pubDate>Sat, 12 Sep 2026 19:03:32 +0000</pubDate>
-<description>A Possible Love di Lee Chang-dong il Gran Premio della Giuria, mentre Naza conquista il Premio Speciale Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2JF2DCY4BZHW7KYC2DTP2TGLJ4.jpg?smart=true&amp;auth=36ef27e7ab22f0508a2145ce5d4379328bccff69cf9882ad28a031bb5cc1610f&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
