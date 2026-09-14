@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 08:14:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 08:34:30 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Etna in eruzione, è allerta rossa per la nube di cenere: voli sospesi all’aeroporto di Catania</title>
+<link>https://www.ilgiornale.it/news/nazionale/etna-in-eruzione-e-allerta-rossa-per-la-nube-di-cenere-voli-sospesi-allaeroporto-di-catania/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/etna-in-eruzione-e-allerta-rossa-per-la-nube-di-cenere-voli-sospesi-allaeroporto-di-catania/</guid>
+<pubDate>Mon, 14 Sep 2026 08:21:22 +0000</pubDate>
+<description>La cenere vulcanica, spinta dai venti in direzione sud, costringe nuovamente alla chiusura di uno spazio aereo: ecco cosa accade allo scalo etneo Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RFYGCW5AQFKMDIR5O6JMYFFPAU.jpg?focal=1672%2C1424&amp;auth=04fed305cfde4fd4d285180da4b3b20c3f0c8459b572539ac130993601545b57&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Matrimonio Ilary Blasi e Bastian Muller: prima il ricevimento sulla terrazza, poi il “sì” nella notte</title>
 <link>https://www.ilgiornale.it/news/personaggi/matrimonio-ilary-blasi-e-bastian-muller-prima-il-ricevimento-sulla-terrazza-poi-il-si-nella-notte/</link>
@@ -787,14 +795,6 @@
 <pubDate>Sat, 12 Sep 2026 18:11:36 +0000</pubDate>
 <description>Un tempo per parte tra Lazio e Milan, nell’anticipo della 4/a giornata di Serie A Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VV6NXF4HIJFVVA4YKXBJSHL27A.jpg?smart=true&amp;auth=2af087935f6961ee9a8ad2724ca5be1152340c54a4fa6a36da87cf85c99a1b21&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Trump vuole un’Irlanda unita: “Succederà prima o poi”. E Londra frena</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/trump-vuole-unirlanda-unita-succedera-prima-o-poi-e-londra-frena/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/trump-vuole-unirlanda-unita-succedera-prima-o-poi-e-londra-frena/</guid>
-<pubDate>Sat, 12 Sep 2026 16:00:05 +0000</pubDate>
-<description>Da Dublino il presidente americano rompe una cautela durata decenni sulla questione nordirlandese. Il governo britannico: nessun referendum finché non ci sarà una maggioranza favorevole Francesca Salvatore</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TXJWDX3TONBI5AVKKTJ42TLK2I.jpg?smart=true&amp;auth=cc7cfe68ee07c858d791219a448624e87ad9b837e0cf68c4df88c3ffd9ed9eba&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
