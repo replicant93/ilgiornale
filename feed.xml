@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 07:33:29 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 07:51:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Modena, Renzi spiazza il Campo largo. “Il killer che ha ucciso non è solo un folle”</title>
+<link>https://www.ilgiornale.it/news/interni/modena-renzi-spiazza-il-campo-largo-il-killer-che-ha-ucciso-non-e-solo-un-folle/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/modena-renzi-spiazza-il-campo-largo-il-killer-che-ha-ucciso-non-e-solo-un-folle/</guid>
+<pubDate>Mon, 14 Sep 2026 07:50:12 +0000</pubDate>
+<description>Lo scoop del Giornale su El Koudri scuote la politica. Il centrodestra: “Fare chiarezza” Altro che gesto isolato, come sostiene il sindaco dem Mezzetti. Il leader di Italia Viva squarcia il velo di ipocrisia della sinistra: “Non accetto ricostruzioni semplicistiche. Il centrodestra compatto respinge il tentativo di derubricarlo come frutto di disagio mentale Francesco Giubilei</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5C52D35DU5BMDJ2GZX4RLFSW5I.JPG?smart=true&amp;auth=8adf32c34a42bb01d67176455b575a4dd74c76852b47d1909b2d17bd79051903&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Us Open, Zverev è campione ma… non se ne accorge. Shelton sconfitto in 4 set, cosa è successo</title>
+<link>https://www.ilgiornale.it/news/tennis/us-open-zverev-e-campione-ma-non-se-ne-accorge-shelton-sconfitto-in-4-set-cosa-e-successo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/us-open-zverev-e-campione-ma-non-se-ne-accorge-shelton-sconfitto-in-4-set-cosa-e-successo/</guid>
+<pubDate>Mon, 14 Sep 2026 07:49:04 +0000</pubDate>
+<description>Dopo il Roland Garros, il tedesco conquista anche Flushing Meadows battendo Ben Shelton: a 29 anni si prende il secondo Slam della carriera in appena tre mesi e si lascia alle spalle l’etichetta di “migliore a non aver mai vinto un Major” Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JJJUW2VMTNCANHGAMX4QJVP4TU.jpg?focal=1465%2C647&amp;auth=97903e89f5141866fb57d21d542a26f03e803e1288908fd75f4d9056b9c866ef&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Cercava il martirio con la jihad: il giudice spagnolo lo libera dopo due anni</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/cercava-il-martirio-con-la-jihad-il-giudice-spagnolo-lo-libera-dopo-due-anni/</link>
@@ -779,22 +795,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/fumare-alla-guida-occhio-alla-stangata-in-quali-casi-arriva-la-sanzione-e-quando-raddoppia/</guid>
 <pubDate>Sat, 12 Sep 2026 14:33:47 +0000</pubDate>
 <description>Federico Garau</description>
-</item>
-<item>
-<title>FdI all’attacco sul caso El Koudri: “Troppa fretta della sinistra”</title>
-<link>https://www.ilgiornale.it/news/politica/fdi-allattacco-sul-caso-el-koudri-troppa-fretta-della-sinistra/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/fdi-allattacco-sul-caso-el-koudri-troppa-fretta-della-sinistra/</guid>
-<pubDate>Sat, 12 Sep 2026 13:52:31 +0000</pubDate>
-<description>Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/H6PYNI465NPMLO2YO6HG5YV2HQ.jpg?smart=true&amp;auth=115eb970e1fe59cc9b2a4f734ed168de75ca901b4c50d590823685ffe704ca49&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Fascista” e “fai la fine di Mussolini”: il doppio standard sull’odio contro la destra</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/fascista-e-fai-la-fine-di-mussolini-il-doppio-standard-sullodio-contro-la-destra/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/fascista-e-fai-la-fine-di-mussolini-il-doppio-standard-sullodio-contro-la-destra/</guid>
-<pubDate>Sat, 12 Sep 2026 13:32:38 +0000</pubDate>
-<description>Negli atti dell’inchiesta sul commento rivolto alla consigliera di FdI emerge un passaggio che fa discutere, il Gip parla espressamente di “augurio di una morte violenta”, ma esclude l’istigazione a delinquere. Scoccia: “La mia battaglia non è soltanto personale” Giulia Bernardini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CKKIMC5ZINB4HG3VCH6CPVCXJU.jpg?smart=true&amp;auth=7e4ddae0995bcb985f22be7add276b0ed0c1efb65f62a261d869ffa2c773830b&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
