@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 04:33:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 04:50:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La città verde si è un po’ “scolorita”</title>
+<link>https://www.ilgiornale.it/news/interni/la-citta-verde-si-e-un-po-scolorita/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-citta-verde-si-e-un-po-scolorita/</guid>
+<pubDate>Mon, 14 Sep 2026 04:39:13 +0000</pubDate>
+<description>commento Interni La città verde si è un po’ “scolorita” Antonio Ruzzo</description>
+</item>
 <item>
 <title>Mostra di Venezia, Israele minaccia la revoca della cittadinanza ai registi di Naza: “Traditori”</title>
 <link>https://www.ilgiornale.it/news/politica-estera/mostra-di-venezia-israele-minaccia-la-revoca-della-cittadinanza-ai-registi-di-naza-traditori/</link>
@@ -790,14 +797,6 @@
 <pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
 <description>La realtà oltre il woke</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>L’Antimafia e le solite trame rosse</title>
-<link>https://www.ilgiornale.it/news/interni/lantimafia-e-le-solite-trame-rosse/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lantimafia-e-le-solite-trame-rosse/</guid>
-<pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Interni L’Antimafia e le solite trame rosse Felice Manti</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FEEV4BNTHUJPMXPEDJIVOBIQOFQ.jpg?smart=true&amp;auth=db8d1ec80e7b9db27f7beb320f45714df4fffc4f3387771581baeecbf33245b7&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
