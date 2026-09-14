@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 20:49:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:01:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pioggia di gol a San Siro: l’Inter supera in rimonta 5-3 l’Udinese e raggiunge la Roma in vetta</title>
+<link>https://www.ilgiornale.it/news/calcio/pioggia-di-gol-a-san-siro-linter-supera-in-rimonta-5-3-ludinese-e-raggiunge-la-roma-in-vetta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/pioggia-di-gol-a-san-siro-linter-supera-in-rimonta-5-3-ludinese-e-raggiunge-la-roma-in-vetta/</guid>
+<pubDate>Mon, 14 Sep 2026 20:54:49 +0000</pubDate>
+<description>Il Como non si ferma più: Parma sconfitto 2-1, Lariani a due punti dal primato in classifica Sotto di due gol, i nerazzurri trovano il pari già nel primo tempo. La ripresa è tutta interista. Segnano Thuram, Esposito e Bonny. Nel recupero Gueye fissa il 5-3 finale Antonio Prisco</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LXAYTG44MRAEXJFZAT3ZPVJZZI.jfif?smart=true&amp;auth=99bf535a4901b740e77b839652ab7b0ff2e3421bfc8d6f43430024b97c793f34&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Sparati pallini di plastica con arma ad aria compressa da una finestra: una donna colpita al braccio</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/sparati-pallini-di-plastica-con-arma-ad-aria-compressa-da-una-finestra-una-donna-colpita-al-braccio/</link>
@@ -790,14 +798,6 @@
 <pubDate>Sun, 13 Sep 2026 13:04:10 +0000</pubDate>
 <description>Cronaca nera Venezia, si scontrano un taxi acqueo e una barca: donna dispersa, il marito gravissimo. Si erano sposati tre mesi fa L’incidente all’alba del 12 settembre. Da allora nessuna traccia di Gabriella Querino, che si trovava insieme al marito, Sean Michieli, ora ricoverato in Rianimazione Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/66INIVIV4NGV3GBZVLMSRUFAA4.jfif?smart=true&amp;auth=1d35c6f5c81e9f93de0e5b5d145877aa46a1168acedeeaa0d57398cbea65b842&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Nome in codice Redwood”: come una spia del Kgb tradì il suo Paese e cambiò il destino dell’Iran</title>
-<link>https://www.ilgiornale.it/news/esteri/nome-in-codice-redwood-come-una-spia-del-kgb-tradi-il-suo-paese-e-cambio-il-destino-delliran/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/esteri/nome-in-codice-redwood-come-una-spia-del-kgb-tradi-il-suo-paese-e-cambio-il-destino-delliran/</guid>
-<pubDate>Sun, 13 Sep 2026 12:09:59 +0000</pubDate>
-<description>DIRETTA Houthi, colpita una base militare in Arabia Saudita con missili e droni. Oltre 1.400 yemeniti in fuga verso Gibuti Così in 36 ore hanno sconvolto il Medio Oriente Redazione web “Nome in codice Redwood”: come una spia del Kgb tradì il suo Paese e cambiò il destino dell’Iran</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/DE7HT7WABVBPBJIXRYNJ7ZG7JA.jpg?focal=2253%2C776&amp;auth=02b7e4784b149240551070dc7ea9debfa062d1bfb61efc00d4c611df770a0c7b&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
