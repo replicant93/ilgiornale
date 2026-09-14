@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 14 Sep 2026 14:20:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 14:38:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>“Risposami o vai in carcere”: l’ultimatum dell’ex marito a Nessy Guerra bloccata in Egitto</title>
@@ -554,6 +554,13 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/B7CBEUY7G5FNPIIYUGVJZYP7HQ.jpg?smart=true&amp;auth=4a550d588d8140ee09a0097cf80bb6b5cb47a008291e1f636a383c0f8aaff214&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Modena Opens in new window</title>
+<link>https://www.ilgiornale.it/news/interni/crolla-il-castello-ideologico-della-sinistra-lo-scoop-del-giornale-su-el-koudri-scuote-la-politica/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/crolla-il-castello-ideologico-della-sinistra-lo-scoop-del-giornale-su-el-koudri-scuote-la-politica/</guid>
+<pubDate>Sun, 13 Sep 2026 18:03:31 +0000</pubDate>
+<description>Modena Opens in new window</description>
+</item>
+<item>
 <title>Ma Trump: "Paure infondate"</title>
 <link>https://www.ilgiornale.it/news/politica-estera/trump-contro-i-freni-allai-non-rallentiamo-sono-paure-infondate/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-contro-i-freni-allai-non-rallentiamo-sono-paure-infondate/</guid>
@@ -788,14 +795,6 @@
 <pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
 <description>Trump vuole un’Irlanda unita: “Succederà prima o poi”. E Londra frena Verso il midterm: un leader forte fa la differenza per i repubblicani Da Dublino il presidente americano rompe una cautela durata decenni sulla questione nordirlandese. Il governo britannico: nessun referendum finché non ci sarà una maggioranza favorevole Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TXJWDX3TONBI5AVKKTJ42TLK2I.jpg?smart=true&amp;auth=cc7cfe68ee07c858d791219a448624e87ad9b837e0cf68c4df88c3ffd9ed9eba&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Pensioni, occhio alla data del 15 settembre: ecco cosa fare per non rischiare di vedersi tagliare l’assegno</title>
-<link>https://www.ilgiornale.it/news/cittadini/pensioni-occhio-alla-data-del-15-settembre-ecco-cosa-fare-per-non-rischiare-di-vedersi-tagliare-lassegno/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/pensioni-occhio-alla-data-del-15-settembre-ecco-cosa-fare-per-non-rischiare-di-vedersi-tagliare-lassegno/</guid>
-<pubDate>Sun, 13 Sep 2026 09:55:59 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/AXZT5F2QVZPP7N3BGTGZBT6BOQ.jpg?smart=true&amp;auth=d8487b78d1b256062e5faac00026290f2a6fe684e6d123beb55dde8a8d7c3d8a&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
