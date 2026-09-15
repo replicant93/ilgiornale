@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 17:46:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 17:56:35 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Salis l’ha sparata enorme, clamoroso sondaggio Afd e Ranucci: quindi, oggi…</title>
+<link>https://www.ilgiornale.it/news/quindi-oggi/salis-lha-sparata-enorme-clamoroso-sondaggio-afd-e-ranucci-quindi-oggi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/quindi-oggi/salis-lha-sparata-enorme-clamoroso-sondaggio-afd-e-ranucci-quindi-oggi/</guid>
+<pubDate>Tue, 15 Sep 2026 17:51:46 +0000</pubDate>
+<description>Quindi oggi Salis l’ha sparata enorme, clamoroso sondaggio Afd e Ranucci: quindi, oggi… Giuseppe De Lorenzo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/PYDGO37PYJNZNL6JXDETF2UOTU.jpg?smart=true&amp;auth=6315225b3dc1ca695eb7a81bd65d0e7df868f74fd4cd89e6156cc6e03187fa29&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>La Cina teme l’intelligenza artificiale: l’allarme dei servizi segreti su deepfake, spionaggio e guerra</title>
 <link>https://www.ilgiornale.it/news/politica-estera/la-cina-teme-lintelligenza-artificiale-lallarme-dei-servizi-segreti-su-deepfake-spionaggio-e-guerra/</link>
@@ -791,14 +799,6 @@
 <pubDate>Mon, 14 Sep 2026 10:46:30 +0000</pubDate>
 <description>Il giudice di sorveglianza ha rigettato la richiesta dei legali del gioielliere che avevano chiesto il differimento della pena o i domiciliari in attesa di una decisione di Mattarella Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ASQNN2MR4RBUDKGGQ55JKSBV3M.jpg?smart=true&amp;auth=e2cad9016c71691a33c136c06c318a9ba1a8220f72607655b6d686294892488f&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Dalle cure impossibili al ”Cytotron". Il grande miraggio vale 400 miliardi</title>
-<link>https://www.ilgiornale.it/news/attualita/dalle-cure-impossibili-al-cytotron-il-grande-miraggio-vale-400-miliardi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/dalle-cure-impossibili-al-cytotron-il-grande-miraggio-vale-400-miliardi/</guid>
-<pubDate>Mon, 14 Sep 2026 10:41:59 +0000</pubDate>
-<description>Farmaci truffa, terapie senza fondamento scientifico e costi esorbitanti per le famiglie dei malati. In Messico il macchinario “ripara-cervello” dei bimbi disabili. I medici: “Stimolazioni transcraniche non efficaci” Maria Sorbi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NW2UHUIQMJANPPY6J2PUZ4LQKE.jpg?focal=1138%2C1024&amp;auth=71b12e9ea9d90e1596b757bd329b446856e61379873c0af23c26e6d72fb95c82&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
