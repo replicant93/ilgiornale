@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 08:21:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 08:44:14 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Apple, sbarca in Italia iOS 27: tutte le novità e la lista dei dispositivi compatibili</title>
+<link>https://www.ilgiornale.it/news/mobile/apple-sbarca-in-italia-ios-27-tutte-le-novita-e-la-lista-dei-dispositivi-compatibili/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/apple-sbarca-in-italia-ios-27-tutte-le-novita-e-la-lista-dei-dispositivi-compatibili/</guid>
+<pubDate>Tue, 15 Sep 2026 08:38:13 +0000</pubDate>
+<description>Siri AI, la nuova generazione di Apple Intelligence, potenti controlli parentali e un’ampia gamma di miglioramenti software sono già disponibili su tutti i prodotti Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/OMBNLEC4KNOEZHWL33ZJ3P2OPQ.jpg?smart=true&amp;auth=00182b6e7320811ddb21303c1887862b06dde21342639c9c24de0a1931d9f584&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Bere caffè o tè bollenti aumenta di 3 volte il rischio di tumore: ecco quali sono i pericoli e come evitarli</title>
 <link>https://www.ilgiornale.it/news/benessere/bere-caffe-o-te-bollenti-aumenta-di-3-volte-il-rischio-di-tumore-ecco-quali-sono-i-pericoli-e-come-evitarli/</link>
@@ -792,13 +800,6 @@
 <pubDate>Mon, 14 Sep 2026 06:05:59 +0000</pubDate>
 <description>Retrogusto Pata Negra, una questione di taglio Andrea Cuomo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/4EKM3NKYKFE6JBWRP6ZZR3LMJA.jpeg?focal=702%2C457&amp;auth=63ec5b1357f60885b8c7317da5f1c36851ca6f251421b511e8edb850cf636790&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Venezia, il sesso batte il merito</title>
-<link>https://www.ilgiornale.it/news/cinema/venezia-il-sesso-batte-il-merito/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/venezia-il-sesso-batte-il-merito/</guid>
-<pubDate>Mon, 14 Sep 2026 05:59:16 +0000</pubDate>
-<description>commento Cinema Venezia, il sesso batte il merito Alessandro Gnocchi</description>
 </item>
 </channel>
 </rss>
