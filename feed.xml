@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 05:51:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 06:16:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il certificato di malattia diventa retroattivo</title>
+<link>https://www.ilgiornale.it/news/interni/il-certificato-di-malattia-diventa-retroattivo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-certificato-di-malattia-diventa-retroattivo/</guid>
+<pubDate>Tue, 15 Sep 2026 06:15:30 +0000</pubDate>
+<description>Interni Il certificato di malattia diventa retroattivo Maria Sorbi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/2O65M7SGO5LGNA7SNZE6L2X3RU.png?smart=true&amp;auth=543ecd6971822fef38845e93047da3a7becab2c3fccdc6de4944585a7266be09&amp;width=788&amp;height=443" medium="image" />
+</item>
 <item>
 <title>Fondi e zona grigia dei dossier Ue: i conti in tasca a Vannacci e i suoi</title>
 <link>https://www.ilgiornale.it/news/interni/fondi-e-zona-grigia-dei-dossier-ue-i-conti-in-tasca-a-vannacci-e-i-suoi/</link>
@@ -790,14 +798,6 @@
 <pubDate>Sun, 13 Sep 2026 14:58:57 +0000</pubDate>
 <description>Ennesimo capolavoro del bolognese che vince la sua ottava gara in stagione, allungando su Russell. Leclerc chiude quarto dopo aver guidato a lungo la gara: Hamilton fuori per un problema ai freni Luca Bocci Sorpresa Cagliari: in casa Dea la terza vittoria</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/6X2VXO5UARDN7NVTTYNJ5CTOBM.jpg?smart=true&amp;auth=d360010983711297597a831449c5c26cfba3d42fd50133f02bc8bc3c3910f6b8&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Torino, rissa con machete: due feriti gravi e uno ha perso un dito</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/torino-rissa-con-machete-due-feriti-gravi-e-uno-ha-perso-un-dito/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/torino-rissa-con-machete-due-feriti-gravi-e-uno-ha-perso-un-dito/</guid>
-<pubDate>Sun, 13 Sep 2026 14:40:28 +0000</pubDate>
-<description>Nella notte è scoppiata l’ennesima rissa nei giardini Madre Teresa di Calcutta a Torino Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/66SWJ7YPPFCU3P7YXOJKNG33B4.png?smart=true&amp;auth=46b2ca779be91fd119978a067e17d3f3c39688fb6a27f644e9752ad4fc482e56&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
