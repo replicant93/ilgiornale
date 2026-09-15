@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 10:20:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 10:35:12 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Problema psichico? Pazzi di Hallah</title>
@@ -723,6 +723,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/BDFABXZOQJPSHGFDGMIX5PS7SU.png?focal=465%2C222&amp;auth=8cac4bf3aef8ce827f356af9c1b88555a663fb8e6b605c96024d7d3397aa1824&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
+<title>Renzi spiazza il Campo largo. “Il killer che ha ucciso non è solo un folle”</title>
+<link>https://www.ilgiornale.it/news/interni/modena-renzi-spiazza-il-campo-largo-il-killer-che-ha-ucciso-non-e-solo-un-folle/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/modena-renzi-spiazza-il-campo-largo-il-killer-che-ha-ucciso-non-e-solo-un-folle/</guid>
+<pubDate>Mon, 14 Sep 2026 09:29:20 +0000</pubDate>
+<description>“Ce l’ha con noi italiani”. La rabbia dello chef ferito gravemente da El Koudri Renzi spiazza il Campo largo. “Il killer che ha ucciso non è solo un folle” Ermanno Muccini tutt’oggi non può tornare a lavorare per le gravi ferite causate da El Koudri e chiede verità: “Neppure chi è malato commetterebbe un gesto simile” Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/AP6QHD5R4VEDBARLLEGOIEFJJA.jpg?smart=true&amp;auth=7338d967bef7e06ea349d8e722f867625c1c4cba91c0114f337d354e0e9f30f5&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
 <title>Il bel tempo ha i giorni contati: quando tornano piogge e temporali</title>
 <link>https://www.ilgiornale.it/news/meteo-e-clima/il-bel-tempo-ha-i-giorni-contati-quando-tornano-piogge-e-temporali/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/meteo-e-clima/il-bel-tempo-ha-i-giorni-contati-quando-tornano-piogge-e-temporali/</guid>
@@ -792,14 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/7302026-corsa-alla-dichiarazione-entro-il-30-settembre-cosa-controllare-come-funzionano-rimborsi-e-debiti-e-cosa-succede-a-chi-salta-la-scadenza/</guid>
 <pubDate>Mon, 14 Sep 2026 07:56:49 +0000</pubDate>
 <description>Valentina Menassi</description>
-</item>
-<item>
-<title>Trieste, 29enne pakistana rifiuta il matrimonio combinato: “Vogliono tagliarmi la gola”</title>
-<link>https://www.ilgiornale.it/news/cronache/trieste-29enne-pakistana-rifiuta-il-matrimonio-combinato-vogliono-tagliarmi-la-gola/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/trieste-29enne-pakistana-rifiuta-il-matrimonio-combinato-vogliono-tagliarmi-la-gola/</guid>
-<pubDate>Mon, 14 Sep 2026 07:56:23 +0000</pubDate>
-<description>Arrivata a Trieste per un dottorato di ricerca, una 29enne pakistana rompe il silenzio e denuncia i familiari Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7KOBQOCLN5LU3GXGWQWDERU6NM.jpg?focal=973%2C711&amp;auth=ac83f315e35d86d2061fd6663d04d08cbd2c782142391c6f3b4beb2893ed4692&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
