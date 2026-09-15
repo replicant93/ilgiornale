@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 17:29:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 17:46:40 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La Cina teme l’intelligenza artificiale: l’allarme dei servizi segreti su deepfake, spionaggio e guerra</title>
+<link>https://www.ilgiornale.it/news/politica-estera/la-cina-teme-lintelligenza-artificiale-lallarme-dei-servizi-segreti-su-deepfake-spionaggio-e-guerra/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/la-cina-teme-lintelligenza-artificiale-lallarme-dei-servizi-segreti-su-deepfake-spionaggio-e-guerra/</guid>
+<pubDate>Tue, 15 Sep 2026 17:30:08 +0000</pubDate>
+<description>Pechino chiede più controllo sui modelli stranieri, ma non può rallentare: algoritmi e dati sono ormai decisivi anche nella sfida militare con gli Usa Federico Giuliani</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DFF2HKMS35GIXO6YUPNB4ZPDTU.jpg?smart=true&amp;auth=c50865613f939abc93beda2f141e37e4adfcd98dd4c09da2d0da29d293fba47f&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“Tajani e Meloni non sono all’altezza, decisione su Schengen vergognosa”. L’attacco del ministro di Sanchez al governo italiano</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/tajani-e-meloni-non-sono-allaltezza-lattacco-del-ministro-di-sanchez-al-governo-italiano/</link>
@@ -791,14 +799,6 @@
 <pubDate>Mon, 14 Sep 2026 10:41:59 +0000</pubDate>
 <description>Farmaci truffa, terapie senza fondamento scientifico e costi esorbitanti per le famiglie dei malati. In Messico il macchinario “ripara-cervello” dei bimbi disabili. I medici: “Stimolazioni transcraniche non efficaci” Maria Sorbi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NW2UHUIQMJANPPY6J2PUZ4LQKE.jpg?focal=1138%2C1024&amp;auth=71b12e9ea9d90e1596b757bd329b446856e61379873c0af23c26e6d72fb95c82&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Garlasco, lo scenario paradossale. Il rischio di delitto senza colpevole</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-lo-scenario-paradossale-il-rischio-di-delitto-senza-colpevole/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-lo-scenario-paradossale-il-rischio-di-delitto-senza-colpevole/</guid>
-<pubDate>Mon, 14 Sep 2026 10:38:37 +0000</pubDate>
-<description>Tra una manciata di giorni la Procura dovrà chiudere le indagini su Sempio, ma poi servirà una nuova sentenza. Tutti i dubbi della famiglia Poggi. Che non crede alla riabilitazione di Stasi Rita Cavallaro , Luca Fazzo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/U7NJPIEICJPQTPBEBLG7QFMMVM.jpg?smart=true&amp;auth=9517658132f75a51a09466964183e5308806f1d8b32a225358a8f95ad6235540&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
