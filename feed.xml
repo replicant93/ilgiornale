@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 04:13:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 04:34:05 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Da Crans a scuola per una vita normale</title>
+<link>https://www.ilgiornale.it/news/nazionale/da-crans-a-scuola-per-una-vita-normale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/da-crans-a-scuola-per-una-vita-normale/</guid>
+<pubDate>Tue, 15 Sep 2026 04:22:21 +0000</pubDate>
+<description>commento Nazionale Da Crans a scuola per una vita normale Serena Coppetti</description>
+</item>
 <item>
 <title>Cucchi, i novant’anni di un’istituzione milanese</title>
 <link>https://www.ilgiornale.it/news/retrogusto/cucchi-i-novantanni-di-unistituzione-milanese/</link>
@@ -790,14 +797,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-salis-paga-soltanto-labbonamento-in-palestra-e-pure-fratoianni-la-scarica/</guid>
 <pubDate>Sun, 13 Sep 2026 14:14:10 +0000</pubDate>
 <description>Ilaria Salis Opens in new window</description>
-</item>
-<item>
-<title>Gli Houthi minacciano la rotta del Golfo Persico: ecco perché è a rischio un altro punto marittimo cruciale per il greggio</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/gli-houthi-minacciano-la-rotta-del-golfo-persico-ecco-perche-e-a-rischio-un-altro-punto-marittimo-cruciale-per-il-greggio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/gli-houthi-minacciano-la-rotta-del-golfo-persico-ecco-perche-e-a-rischio-un-altro-punto-marittimo-cruciale-per-il-greggio/</guid>
-<pubDate>Sun, 13 Sep 2026 13:53:01 +0000</pubDate>
-<description>DIRETTA Houthi, colpita una base militare in Arabia Saudita con missili e droni. Tajani: “Nostri militari in sicurezza” Così in 36 ore hanno sconvolto il Medio Oriente I ribelli filo-iraniani rivendicano l’attacco, avanzano lungo la costa dello Yemen e rafforzano il controllo sullo strategico stretto di Bab el-Mandeb Redazione web Gli Houthi minacciano la rotta del Golfo Persico: ecco perché è a rischio un altro punto marittimo cruciale per il greggio</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/DE7HT7WABVBPBJIXRYNJ7ZG7JA.jpg?focal=2253%2C776&amp;auth=02b7e4784b149240551070dc7ea9debfa062d1bfb61efc00d4c611df770a0c7b&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
