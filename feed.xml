@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 07:58:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 08:21:27 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bere caffè o tè bollenti aumenta di 3 volte il rischio di tumore: ecco quali sono i pericoli e come evitarli</title>
+<link>https://www.ilgiornale.it/news/benessere/bere-caffe-o-te-bollenti-aumenta-di-3-volte-il-rischio-di-tumore-ecco-quali-sono-i-pericoli-e-come-evitarli/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/bere-caffe-o-te-bollenti-aumenta-di-3-volte-il-rischio-di-tumore-ecco-quali-sono-i-pericoli-e-come-evitarli/</guid>
+<pubDate>Tue, 15 Sep 2026 08:16:12 +0000</pubDate>
+<description>Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/PLFOK7IABVAYJC7URZ6CVZJY7Y.jpg?focal=1034%2C782&amp;auth=7974dfd9f9d7ee33b0ca6b06bdd8922b8e81bb559f97fbd6016688bb0e537758&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Emmy Awards 2026, trionfano Widow’s Bay e The Pitt. Matthew Rhys entra nella storia</title>
+<link>https://www.ilgiornale.it/news/tv/emmy-awards-2026-trionfano-widows-bay-e-the-pitt-matthew-rhys-entra-nella-storia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tv/emmy-awards-2026-trionfano-widows-bay-e-the-pitt-matthew-rhys-entra-nella-storia/</guid>
+<pubDate>Tue, 15 Sep 2026 07:56:50 +0000</pubDate>
+<description>Dalla quinta vittoria consecutiva di Jean Smart al doppio trionfo di Matthew Rhys, passando per le conferme di The Pitt e i riconoscimenti a Rhea Seehorn, Michael J. Fox e Mariska Hargitay: tutti i protagonisti della 78ª edizione degli Emmy Awards Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/J336P3CP5FGLPG6GXGML5TEMUY.jpg?focal=1273%2C517&amp;auth=0d71b8e062d898b78d3bc8d42392f7addc8761d5edfb741327d7b9471ced4507&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Quindici minori stranieri contro uno: 17enne di Porto San Giorgio malmenato per futili motivi</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/quindici-minori-stranieri-contro-uno-17enne-di-porto-san-giorgio-malmenato-per-futili-motivi/</link>
@@ -783,22 +799,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/venezia-il-sesso-batte-il-merito/</guid>
 <pubDate>Mon, 14 Sep 2026 05:59:16 +0000</pubDate>
 <description>commento Cinema Venezia, il sesso batte il merito Alessandro Gnocchi</description>
-</item>
-<item>
-<title>Da Modric a Diego Moreira. Amorim e le scelte giuste</title>
-<link>https://www.ilgiornale.it/news/calcio/da-modric-a-diego-moreira-amorim-e-le-scelte-giuste/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/da-modric-a-diego-moreira-amorim-e-le-scelte-giuste/</guid>
-<pubDate>Mon, 14 Sep 2026 05:54:33 +0000</pubDate>
-<description>Franco Ordine</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/F7LHQNWGOFEQTJLSC37PJLOKHY.jpg?focal=2781%2C2044&amp;auth=28221ec9a4104a3e3578e72c87a7d02c9da738bf1ec0c8f3bd97a753c7b8a9a3&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>L’ex Adzic al 94’ affonda la Juve</title>
-<link>https://www.ilgiornale.it/news/calcio/lex-adzic-al-94-affonda-la-juve/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/lex-adzic-al-94-affonda-la-juve/</guid>
-<pubDate>Mon, 14 Sep 2026 05:46:35 +0000</pubDate>
-<description>Il montenegrino in prestito al Sassuolo segna la rete decisiva. Inutile la doppia rimonta con i primi gol di Zhegrova Domenico Latagliata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZMRTNDGRGFGLRGP53ZJANDOPGQ.jpg?focal=3600%2C2195&amp;auth=d11e7097c80b747ded80cac12f7c76474275174053066451d7de36506fe7b3a0&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
