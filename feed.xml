@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 11:22:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 11:41:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Roma, l’incubo cecchino a Prati, parla la vittima: “Ho sentito un colpo e poi il sangue. Fermatelo, ci sono i bambini”</title>
@@ -22,6 +22,14 @@
 <pubDate>Tue, 15 Sep 2026 11:15:19 +0000</pubDate>
 <description>Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BGERUFL2UZB2XKD6S66TNUOE5U.png?smart=true&amp;auth=808526becdc2982ba452185ecaa68daf2bf68fbe93070969b3c11454ea892043&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>L’ultimo saluto a Emma Bonino. I funerali di Stato laici con Meloni e Mattarella</title>
+<link>https://www.ilgiornale.it/news/politica/lultimo-saluto-a-emma-bonino-i-funerali-di-stato-laici-con-meloni-e-mattarella/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/lultimo-saluto-a-emma-bonino-i-funerali-di-stato-laici-con-meloni-e-mattarella/</guid>
+<pubDate>Tue, 15 Sep 2026 11:02:24 +0000</pubDate>
+<description>Le esequie si tengono nella sala della Protomoteca. In piazza del Campidoglio montato un maxi schermo per i cittadini che vogliono assistere. Il capo dello Stato accompagnerà il feretro all’uscita Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/6QKT7VNXRBCALBEZWGAZWIEKAY.jpg?smart=true&amp;auth=0e0f9690815cc1c8d66125ec9fd684dd3537c89067de41d554b5e62a574f1d5c&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>Anche Santoro scarica Ranucci: “Imperdonabile che non abbia preso le distanze da Lavitola”</title>
@@ -791,14 +799,6 @@
 <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
 <description>Francesco Giubilei</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/AC77SA2FCBF4VGH3IDCYXZUPXA.jpg?focal=444%2C581&amp;auth=a39ff331755e52f5b7d61926395dac89aeba4eb53cb30a709d4d18750d762ca5&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Sigfrido alle crociate: “Faccio causa alla Rai, voglio tornare”</title>
-<link>https://www.ilgiornale.it/news/interni/sigfrido-alle-crociate-faccio-causa-alla-rai-voglio-tornare/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/sigfrido-alle-crociate-faccio-causa-alla-rai-voglio-tornare/</guid>
-<pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
-<description>Ranucci attacca il Giornale, ma non smentisce. Il rapporto col faccendiere e i soldi: ecco le prove Le rivelazioni di lady Lavitola Di fronte all’ennesima accusa di falso, resta l’assenza di contestazioni nel merito. Dalle chat con il faccendiere fino ai verbali di Natalia Potenza, messaggi ed elementi economici sono ora al vaglio degli inquirenti Giulia Sorrentino , Pasquale Napolitano Sigfrido alle crociate: “Faccio causa alla Rai, voglio tornare”</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3HTIL52E7NC5HACUDY5YS3LIMQ.jpg?focal=2194%2C1660&amp;auth=a7f151b2b49b1f6495165b7b51864eba2fc7502d65d38dc88174ef3ac60143ac&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
