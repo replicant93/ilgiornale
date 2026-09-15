@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 12:56:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 13:16:14 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>“Entro nel potere per essere l’antisistema”. Ora Corona si butta in politica</title>
@@ -14,6 +14,14 @@
 <pubDate>Tue, 15 Sep 2026 12:13:31 +0000</pubDate>
 <description>L’ex re dei paparazzi lancia il suo movimento liberale e antisistema: “Io, il nuovo Berlusconi. Se supero il 3% sono caz.. amari per tutti” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/E7XCKNFFOVISTBAQDSMINWINMI.png?smart=true&amp;auth=090d0b2a68e26ddae970db4f672bba6e213d5d428965c159987154eb56052af4&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Il leader di FN attacca l'inchiesta de Il Giornale. Ma non chiarisce</title>
+<link>https://www.ilgiornale.it/news/interni/vannacci-attacca-linchiesta-de-il-giornale-e-non-risponde-ai-conti-che-non-tornano/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/vannacci-attacca-linchiesta-de-il-giornale-e-non-risponde-ai-conti-che-non-tornano/</guid>
+<pubDate>Tue, 15 Sep 2026 11:54:25 +0000</pubDate>
+<description>Le inchieste del Giornale La fotografia del Generale Esclusivo - Vannacci ai raggi X. I conti che non tornano del generale “super fetecchia” Il leader di FN attacca l'inchiesta de Il Giornale. Ma non chiarisce Ecco la mappa dei fondi e le zone d’ombra di Futuro Nazionale. Dagli imprenditori delle ferrovie all’edilizia fino ai lobbisti, tutti gli interessi dell’europarlamentare finiti nei dossier a Bruxelles. E torna di moda quel soprannome con cui divenne famoso all’Accademia militare Lirio Abbate</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/M2L4P52YENBK3H2U4BN26NQLHU.jpg?focal=957%2C911&amp;auth=a934f6daa37f0a64867b1b2506581b403972cba32a950d38620fca3ffaf8b2bb&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>Roma, l’incubo cecchino a Prati, parla la vittima: “Ho sentito un colpo e poi il sangue. Fermatelo, ci sono i bambini”</title>
@@ -791,14 +799,6 @@
 <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
 <description>Scuola, Valditara agli studenti: “Il nuovo anno nel segno del rispetto”. Salvini: “Godetevi ogni campanella” Ritorno tra i banchi, anche per i reduci di Crans Il ministro dell’Istruzione indica rispetto, impegno e merito come pilastri della scuola: “Dobbiamo sradicare bullismo, violenza contro le donne, discriminazione e odio”. Il vicepremier: “Vivete senza paura” Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TJHXTDWREJFFDMCABWBBGH3VWY.jpg?focal=1605%2C762&amp;auth=b8312890d818edeb17daeb1411419a6a3acd2e81aa144fa7cd9ceed9bac75957&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>La Sharia detta legge nelle nostre città. E sostituisce i giudici</title>
-<link>https://www.ilgiornale.it/news/magistratura/la-sharia-detta-legge-nelle-nostre-citta-e-sostituisce-i-giudici/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/la-sharia-detta-legge-nelle-nostre-citta-e-sostituisce-i-giudici/</guid>
-<pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
-<description>Modena, dopo lo scoop del Giornale finisce sotto accusa il modello emiliano di integrazione: “Rotto il silenzio, la sinistra preferisce la verità più comoda” Renzi spiazza il Campo largo. “Il killer che ha ucciso non è solo un folle” Francesca Galici La Sharia detta legge nelle nostre città. E sostituisce i giudici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BDFABXZOQJPSHGFDGMIX5PS7SU.png?focal=465%2C222&amp;auth=8cac4bf3aef8ce827f356af9c1b88555a663fb8e6b605c96024d7d3397aa1824&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
