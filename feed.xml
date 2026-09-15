@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 06:39:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 06:58:02 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tensione Russia-Nato, caccia italiani abbattono un drone nello spazio aereo lituano. E una fregata di Mosca sfiora con due bengala un elicottero danese</title>
+<link>https://www.ilgiornale.it/diretta/guerra/tensione-russia-nato-caccia-italiani-abbattono-un-drone-nello-spazio-aereo-lituano-e-una-fregata-di-mosca-sfiora-con-due-bengala-un-elicottero-danese/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/tensione-russia-nato-caccia-italiani-abbattono-un-drone-nello-spazio-aereo-lituano-e-una-fregata-di-mosca-sfiora-con-due-bengala-un-elicottero-danese/</guid>
+<pubDate>Tue, 15 Sep 2026 06:36:04 +0000</pubDate>
+<description>La base segreta dei droni russi spunta dal nulla: il piano di Putin per cambiare la guerra nei cieli Sciami di droni abbattuti nella notte dalle difese di entrambi i Paesi. Le forze di Putin prendono di mira distributori e ferrovie di Kiev Redazione web DIRETTA</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/BRTFX2NNVVJDXBWA2S63IUBDWQ.jpg?smart=true&amp;auth=2a30230744b7f12caef1d87cc36358c5895023499fa778a58ed69f252c227dc1&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Il certificato di malattia diventa retroattivo</title>
 <link>https://www.ilgiornale.it/news/interni/il-certificato-di-malattia-diventa-retroattivo/</link>
@@ -788,14 +796,6 @@
 <pubDate>Mon, 14 Sep 2026 04:00:00 +0000</pubDate>
 <description>Taipei aumenta missili e sistemi avanzati, ma carenza di personale e scarsa integrazione con gli Usa restano i punti più critici della sua difesa Federico Giuliani</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MRZZQFYOJ5KE3H5RC66CQTIJPU.jpg?smart=true&amp;auth=ede0d1badf83c07cc0d0750638356039327314023ea3018515add324cf2fa56e&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Mostra di Venezia, Israele minaccia la revoca della cittadinanza ai registi di Naza: “Traditori”</title>
-<link>https://www.ilgiornale.it/news/politica-estera/mostra-di-venezia-israele-minaccia-la-revoca-della-cittadinanza-ai-registi-di-naza-traditori/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/mostra-di-venezia-israele-minaccia-la-revoca-della-cittadinanza-ai-registi-di-naza-traditori/</guid>
-<pubDate>Sun, 13 Sep 2026 20:39:47 +0000</pubDate>
-<description>L’“obbligo” di premiare sempre un film pro Pal Ben Gvir attacca: “Siete una vergogna, andatevene”. Il ministro della Cultura pronto a intervenire Redazione web Il leone è femmina. Vince a sorpresa “Woman unknown”. Italia zero tituli Ma quanto sono “fragili” e “deboli” i film italiani</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TV2PIQD5RFGOZBJRXB7VQBPS4A.jpg?focal=1210%2C748&amp;auth=50275b4298faf497e781fb24991a209e5e95205c039d457c93aa1725b8e1c3cc&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
