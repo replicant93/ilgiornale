@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 14:32:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 14:50:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pensioni di reversibilità: ecco come cambiano gli importi degli assegni e le soglie dal 2027</title>
+<link>https://www.ilgiornale.it/news/previdenza-e-pensioni/pensioni-di-reversibilita-ecco-come-cambiano-gli-importi-degli-assegni-e-le-soglie-dal-2027/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/previdenza-e-pensioni/pensioni-di-reversibilita-ecco-come-cambiano-gli-importi-degli-assegni-e-le-soglie-dal-2027/</guid>
+<pubDate>Tue, 15 Sep 2026 14:10:55 +0000</pubDate>
+<description>Federico Garau</description>
+</item>
 <item>
 <title>Revolut, hacker si fingono autorità italiana: sottratti i dati di centinaia di clienti</title>
 <link>https://www.ilgiornale.it/news/truffe/revolut-hacker-si-fingono-autorita-italiana-sottratti-i-dati-di-centinaia-di-clienti/</link>
@@ -792,14 +799,6 @@
 <pubDate>Mon, 14 Sep 2026 10:21:40 +0000</pubDate>
 <description>Le rivelazioni di lady Lavitola Di fronte all’ennesima accusa di falso, resta l’assenza di contestazioni nel merito. Dalle chat con il faccendiere fino ai verbali di Natalia Potenza, messaggi ed elementi economici sono ora al vaglio degli inquirenti Giulia Sorrentino , Pasquale Napolitano Sigfrido alle crociate: “Faccio causa alla Rai, voglio tornare”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/3HTIL52E7NC5HACUDY5YS3LIMQ.jpg?focal=2194%2C1660&amp;auth=a7f151b2b49b1f6495165b7b51864eba2fc7502d65d38dc88174ef3ac60143ac&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Il fratello della vittima: “Per El Koudri vorrei l’ergastolo"</title>
-<link>https://www.ilgiornale.it/news/attualita/per-el-koudri-vorrei-lergastolo-ho-capito-subito-che-era-attentato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/per-el-koudri-vorrei-lergastolo-ho-capito-subito-che-era-attentato/</guid>
-<pubDate>Mon, 14 Sep 2026 10:20:32 +0000</pubDate>
-<description>Altri deliri nei video. “Distruggiamo la Lombardia. I veneti? Sono ratti” Il fratello della vittima: “Per El Koudri vorrei l’ergastolo" Nei filmati El Koudri se la prende con ebrei e americani. “Voglio vendetta. L’Italia va distrutta” Fausto Biloslavo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/Z2LHUQTACZOW3DT2G4XEU5RMOY.jpg?focal=1821%2C809&amp;auth=cb4348249d53dbd1a06d4370bfafa52f01f0e4c76eaf21d4385cdeb63184da89&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
