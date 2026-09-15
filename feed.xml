@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 08:44:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 09:00:14 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Dormire a pancia in giù fa bene o male?</title>
+<link>https://www.ilgiornale.it/news/benessere/dormire-a-pancia-in-giu-fa-bene-o-male/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/dormire-a-pancia-in-giu-fa-bene-o-male/</guid>
+<pubDate>Tue, 15 Sep 2026 08:51:33 +0000</pubDate>
+<description>Mariangela Cutrone</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/X2ZMOSUQEVHK5GTQTGFS2U3P4E.jpg?focal=537%2C413&amp;auth=a69a90cb0b0a6b6079a71c01ae5068b9518c249cb5940daff72cff597c52a1ed&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Apple, sbarca in Italia iOS 27: tutte le novità e la lista dei dispositivi compatibili</title>
 <link>https://www.ilgiornale.it/news/mobile/apple-sbarca-in-italia-ios-27-tutte-le-novita-e-la-lista-dei-dispositivi-compatibili/</link>
@@ -762,6 +770,13 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/77TZFNEIEBP57D3QJVHWPRSMJ4.jpg?focal=269%2C124&amp;auth=44e6224d0e80ab41a7bc9d9c2a7dfb37cccfa42de9b21143facd7f03a5434685&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
+<title>Venezia, il sesso batte il merito</title>
+<link>https://www.ilgiornale.it/news/cinema/venezia-il-sesso-batte-il-merito/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cinema/venezia-il-sesso-batte-il-merito/</guid>
+<pubDate>Mon, 14 Sep 2026 07:11:51 +0000</pubDate>
+<description>commento Cinema Venezia, il sesso batte il merito Alessandro Gnocchi</description>
+</item>
+<item>
 <title>Avvelenate con la ricina: la prof amica di Gianni Di Vita ascoltata per la terza volta per quattro ore</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/avvelenate-con-la-ricina-la-prof-amica-di-gianni-di-vita-ascoltata-per-la-terza-volta-per-quattro-ore/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/avvelenate-con-la-ricina-la-prof-amica-di-gianni-di-vita-ascoltata-per-la-terza-volta-per-quattro-ore/</guid>
@@ -784,22 +799,6 @@
 <pubDate>Mon, 14 Sep 2026 06:09:01 +0000</pubDate>
 <description>Dario Murri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/GIEMW5KTIBLC3ABFQIAH3VY7U4.jpg?smart=true&amp;auth=b071f6de51c6fcdd6716366a2c9ecdd171ce75833ca34f6205ae9840708e752c&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Ranucci attacca il Giornale, ma non smentisce. Il rapporto con Lavitola e i soldi: ecco le prove</title>
-<link>https://www.ilgiornale.it/news/interni/ranucci-ci-attacca-ma-non-smentisce-ma-noi-rispondiamo-con-le-carte-e-i-fatti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ranucci-ci-attacca-ma-non-smentisce-ma-noi-rispondiamo-con-le-carte-e-i-fatti/</guid>
-<pubDate>Mon, 14 Sep 2026 06:07:50 +0000</pubDate>
-<description>“Riciclaggio? Possibilità concreta”. Da Giletti parla l'ex socio di Valter Di fronte all’ennesima accusa di falso, resta l’assenza di contestazioni nel merito. Dalle chat con il faccendiere fino ai verbali di Natalia Potenza, messaggi ed elementi economici sono ora al vaglio degli inquirenti Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3HTIL52E7NC5HACUDY5YS3LIMQ.jpg?focal=2194%2C1660&amp;auth=a7f151b2b49b1f6495165b7b51864eba2fc7502d65d38dc88174ef3ac60143ac&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Pata Negra, una questione di taglio</title>
-<link>https://www.ilgiornale.it/news/retrogusto/pata-negra-una-questione-di-taglio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/pata-negra-una-questione-di-taglio/</guid>
-<pubDate>Mon, 14 Sep 2026 06:05:59 +0000</pubDate>
-<description>Retrogusto Pata Negra, una questione di taglio Andrea Cuomo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/4EKM3NKYKFE6JBWRP6ZZR3LMJA.jpeg?focal=702%2C457&amp;auth=63ec5b1357f60885b8c7317da5f1c36851ca6f251421b511e8edb850cf636790&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
