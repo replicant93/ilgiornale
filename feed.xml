@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 09:59:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 10:20:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Problema psichico? Pazzi di Hallah</title>
+<link>https://www.ilgiornale.it/news/interni/problema-psichico-pazzi-di-hallah/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/problema-psichico-pazzi-di-hallah/</guid>
+<pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+<description>commento Interni Problema psichico? Pazzi di Hallah Francesco Maria Del Vigo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FWWFOIN5YVZIT7LBOWSPW5YGTP4.jpg?smart=true&amp;auth=ded598ad789150760e4e703703a10876227e6217e9efcb7b5aec9586ef26b413&amp;width=100&amp;height=100" medium="image" />
+</item>
+<item>
+<title>Disertiamo la resistenza</title>
+<link>https://www.ilgiornale.it/news/giu-la-maschera/disertiamo-la-resistenza/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/disertiamo-la-resistenza/</guid>
+<pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+<description>Giù la maschera Disertiamo la resistenza Luigi Mascheroni</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/WXNQVXMHRRCTLEU73XUK6H66SU.jpg?smart=true&amp;auth=64858ac9256692d025871f666ffb982eed795f0e5a595ae151162e17e5a92f6c&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Legge elettorale, ok del senato con 113 voti favorevoli. Scintille dalle opposizioni</title>
 <link>https://www.ilgiornale.it/news/interni/legge-elettorale-al-via-la-discussione-in-senato-scintille-dai-5s/</link>
@@ -784,22 +800,6 @@
 <pubDate>Mon, 14 Sep 2026 07:56:23 +0000</pubDate>
 <description>Arrivata a Trieste per un dottorato di ricerca, una 29enne pakistana rompe il silenzio e denuncia i familiari Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/7KOBQOCLN5LU3GXGWQWDERU6NM.jpg?focal=973%2C711&amp;auth=ac83f315e35d86d2061fd6663d04d08cbd2c782142391c6f3b4beb2893ed4692&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Modena, Renzi spiazza il Campo largo. “Il killer che ha ucciso non è solo un folle”</title>
-<link>https://www.ilgiornale.it/news/interni/modena-renzi-spiazza-il-campo-largo-il-killer-che-ha-ucciso-non-e-solo-un-folle/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/modena-renzi-spiazza-il-campo-largo-il-killer-che-ha-ucciso-non-e-solo-un-folle/</guid>
-<pubDate>Mon, 14 Sep 2026 07:50:12 +0000</pubDate>
-<description>Lo scoop del Giornale su El Koudri scuote la politica. Il centrodestra: “Fare chiarezza” Altro che gesto isolato, come sostiene il sindaco dem Mezzetti. Il leader di Italia Viva squarcia il velo di ipocrisia della sinistra: “Non accetto ricostruzioni semplicistiche. Il centrodestra compatto respinge il tentativo di derubricarlo come frutto di disagio mentale Francesco Giubilei</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/5C52D35DU5BMDJ2GZX4RLFSW5I.JPG?smart=true&amp;auth=8adf32c34a42bb01d67176455b575a4dd74c76852b47d1909b2d17bd79051903&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Us Open, Zverev è campione ma… non se ne accorge. Shelton sconfitto in 4 set, cosa è successo</title>
-<link>https://www.ilgiornale.it/news/tennis/us-open-zverev-e-campione-ma-non-se-ne-accorge-shelton-sconfitto-in-4-set-cosa-e-successo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/us-open-zverev-e-campione-ma-non-se-ne-accorge-shelton-sconfitto-in-4-set-cosa-e-successo/</guid>
-<pubDate>Mon, 14 Sep 2026 07:49:04 +0000</pubDate>
-<description>Dopo il Roland Garros, il tedesco conquista anche Flushing Meadows battendo Ben Shelton: a 29 anni si prende il secondo Slam della carriera in appena tre mesi e si lascia alle spalle l’etichetta di “migliore a non aver mai vinto un Major” Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/JJJUW2VMTNCANHGAMX4QJVP4TU.jpg?focal=1465%2C647&amp;auth=97903e89f5141866fb57d21d542a26f03e803e1288908fd75f4d9056b9c866ef&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
