@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 15 Sep 2026 13:33:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 13:50:50 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Torino, il commesso del minimarket andrà in carcere. La decisione del Riesame</title>
@@ -22,6 +22,14 @@
 <pubDate>Tue, 15 Sep 2026 13:21:38 +0000</pubDate>
 <description>Legge elettorale, ok del Senato con 113 voti favorevoli. Scintille dalle opposizioni Dal premio di maggioranza ai capilista bloccati: tutto quello che c’è da sapere sullo Stabilicum Il presidente La Russa ha richiamato all’ordine per un cartello sulle “preferenze farlocche” mostrato in Aula dalle opposizioni Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/WXOYDPA3DFGCRJBLQLKLVQ2S2Y.jpg?focal=1143%2C1207&amp;auth=37de851c5394645caed7ff82d533a40b33dcd2565172365f3e641dadcd5a9fa0&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Tfr, Meloni smonta la bufala del Pd: “Non hanno neanche letto il provvedimento”</title>
+<link>https://www.ilgiornale.it/news/interni/tfr-meloni-smonta-la-bufala-del-pd-non-hanno-neanche-letto-il-provvedimento/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/tfr-meloni-smonta-la-bufala-del-pd-non-hanno-neanche-letto-il-provvedimento/</guid>
+<pubDate>Tue, 15 Sep 2026 12:58:37 +0000</pubDate>
+<description>Morani e Benifei accusano il governo di aver cancellato la clausola di salvaguardia. Ma la norma è stata semplicemente riscritta nel nuovo Testo unico Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VZQZNN2NFBGSVJ6SOFD2VG7PRE.jpg?focal=1651%2C649&amp;auth=ca58d3e3fc4da73780068eae1213692dbaf5bac20ff3caa6e74df62cba4fa4a1&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>“Entro nel potere per essere l’antisistema”. Ora Corona si butta in politica</title>
@@ -791,14 +799,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/societa/figli-e-scuola-riprodursi-e-eroico/</guid>
 <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Società Figli e scuola: riprodursi è eroico Francesca Albergotti</description>
-</item>
-<item>
-<title>Ilaria Salis e quella distanza tra le parole e i fatti</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/ilaria-salis-e-quella-distanza-tra-le-parole-e-i-fatti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/ilaria-salis-e-quella-distanza-tra-le-parole-e-i-fatti/</guid>
-<pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
-<description>La stanza di Feltri Ilaria Salis e quella distanza tra le parole e i fatti Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/PYDGO37PYJNZNL6JXDETF2UOTU.jpg?focal=1160%2C624&amp;auth=6315225b3dc1ca695eb7a81bd65d0e7df868f74fd4cd89e6156cc6e03187fa29&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
