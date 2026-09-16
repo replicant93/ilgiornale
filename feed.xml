@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 06:20:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 06:46:02 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Chosen Brick, la cyber-offensiva iraniana contro dissidenti e giornalisti</title>
+<link>https://www.ilgiornale.it/news/guerra/chosen-brick-la-cyber-offensiva-iraniana-contro-dissidenti-e-giornalisti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/chosen-brick-la-cyber-offensiva-iraniana-contro-dissidenti-e-giornalisti/</guid>
+<pubDate>Wed, 16 Sep 2026 06:19:14 +0000</pubDate>
+<description>Un advisory congiunto di Regno Unito, Stati Uniti e Paesi Bassi descrive una campagna di cyber-spionaggio basata su spear-phishing, ingegneria sociale e malware per Windows Marco Pizzorno</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GJETKWDBIZJ6XNOFUGN2NT7LMY.jpg?smart=true&amp;auth=576158f062c93ebe2db27ac262fd1e475e4251db7a6e1af5e0ce44695f90baf9&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“Il Parkinson va riconosciuto prima che arrivino i sintomi”</title>
 <link>https://www.ilgiornale.it/news/farmaci-e-terapie/il-parkinson-va-riconosciuto-prima-che-arrivino-i-sintomi/</link>
@@ -787,14 +795,6 @@
 <pubDate>Mon, 14 Sep 2026 18:32:56 +0000</pubDate>
 <description>Altra vittoria per la Roma: 2-0 al Torino grazie ai gol di Malen e Pisilli Tre vittorie in quattro partite in campionato, la squadra di Fabregas mostra solidità e sostanza. Non bene gli emiliani che rimangono con un solo punto in classifica Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/D6VU4G55NJARDJOFG6A4GGPW24.jpg?smart=true&amp;auth=c1c526427c799b15c21ef5c2ee28bc0df8ee03f93a0947ebd2478763dee1837f&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Ramy, depositata la consulenza della difesa dell’amico: “Ci fu un contatto tra lo scooter e i carabinieri”</title>
-<link>https://www.ilgiornale.it/news/cronache/ramy-depositata-la-consulenza-della-difesa-dellamico-ci-fu-un-contatto-tra-lo-scooter-e-i-carabinieri/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronache/ramy-depositata-la-consulenza-della-difesa-dellamico-ci-fu-un-contatto-tra-lo-scooter-e-i-carabinieri/</guid>
-<pubDate>Mon, 14 Sep 2026 18:27:10 +0000</pubDate>
-<description>Cronache Ramy, depositata la consulenza della difesa dell’amico: “Ci fu un contatto tra lo scooter e i carabinieri” Il 24 settembre l’udienza preliminare per Fares Bouzidi, che guidava il T-Max, e per i sette carabinieri. L’incidente nel novembre 2024 causò la morte del 19enne Ramy Elgaml a Milano Manuela Messina</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/32IKQNCINZNRFCUIC6FGDY42ZQ.jpg?smart=true&amp;auth=911cc0b7b6e4b55cc02795cfb1fdb035e7eaed96f847519f701e465bb127ca6f&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
