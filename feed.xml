@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 12:28:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 12:50:22 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Test sui magistrati. Ecco come nel mondo si controlla la "saggezza" di chi deve giudicare</title>
+<link>https://www.ilgiornale.it/news/politica/test-sui-magistrati-ecco-nel-mondo-si-controlla-saggezza-chi-2300589.html</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/test-sui-magistrati-ecco-nel-mondo-si-controlla-saggezza-chi-2300589.html</guid>
+<pubDate>Wed, 16 Sep 2026 12:47:49 +0000</pubDate>
+<description>Il Csm approva la delibera sui test psicoattitudinali per i magistrati Test sui magistrati. Ecco come nel mondo si controlla la "saggezza" di chi deve giudicare La prova orale del prossimo concorso si svolgerà anche con le nuove disposizioni Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JQFGVPW3EVPFDOL7XUM2XEKH2I.jpg?smart=true&amp;auth=47b9bf7ce37458edf8999ad40ded90f31344363ab38d8367e69d1c0531cccffd&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Infezioni ospedaliere: la strategia efficace è multimodale, il ruolo importante dei nuovi DPI tessili</title>
+<link>https://www.ilgiornale.it/news/salute/infezioni-ospedaliere-la-strategia-efficace-e-multimodale-il-ruolo-importante-dei-nuovi-dpi-tessili/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/salute/infezioni-ospedaliere-la-strategia-efficace-e-multimodale-il-ruolo-importante-dei-nuovi-dpi-tessili/</guid>
+<pubDate>Wed, 16 Sep 2026 12:43:00 +0000</pubDate>
+<description>Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/THPXVZ2C6JBU3FEWZNDOEOLUM4.png?smart=true&amp;auth=b48348c2b809609898f133c3a8609adab876493e0b40d7cbe9c40b4816cc8265&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Pace fatta tra Leonardo Maria Del Vecchio e la sua compagna Sara Soldati</title>
 <link>https://www.ilgiornale.it/news/attualita/pace-fatta-tra-leonardo-maria-del-vecchio-e-la-sua-compagna-sara-soldati/</link>
@@ -782,22 +798,6 @@
 <pubDate>Tue, 15 Sep 2026 08:38:13 +0000</pubDate>
 <description>Siri AI, la nuova generazione di Apple Intelligence, potenti controlli parentali e un’ampia gamma di miglioramenti software sono già disponibili su tutti i prodotti Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OMBNLEC4KNOEZHWL33ZJ3P2OPQ.jpg?smart=true&amp;auth=00182b6e7320811ddb21303c1887862b06dde21342639c9c24de0a1931d9f584&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Bere caffè o tè bollenti aumenta di 3 volte il rischio di tumore: ecco quali sono i pericoli e come evitarli</title>
-<link>https://www.ilgiornale.it/news/benessere/bere-caffe-o-te-bollenti-aumenta-di-3-volte-il-rischio-di-tumore-ecco-quali-sono-i-pericoli-e-come-evitarli/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/bere-caffe-o-te-bollenti-aumenta-di-3-volte-il-rischio-di-tumore-ecco-quali-sono-i-pericoli-e-come-evitarli/</guid>
-<pubDate>Tue, 15 Sep 2026 08:16:12 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/PLFOK7IABVAYJC7URZ6CVZJY7Y.jpg?focal=1034%2C782&amp;auth=7974dfd9f9d7ee33b0ca6b06bdd8922b8e81bb559f97fbd6016688bb0e537758&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Emmy Awards 2026, trionfano Widow’s Bay e The Pitt. Matthew Rhys entra nella storia</title>
-<link>https://www.ilgiornale.it/news/tv/emmy-awards-2026-trionfano-widows-bay-e-the-pitt-matthew-rhys-entra-nella-storia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/tv/emmy-awards-2026-trionfano-widows-bay-e-the-pitt-matthew-rhys-entra-nella-storia/</guid>
-<pubDate>Tue, 15 Sep 2026 07:56:50 +0000</pubDate>
-<description>Dalla quinta vittoria consecutiva di Jean Smart al doppio trionfo di Matthew Rhys, passando per le conferme di The Pitt e i riconoscimenti a Rhea Seehorn, Michael J. Fox e Mariska Hargitay: tutti i protagonisti della 78ª edizione degli Emmy Awards Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/J336P3CP5FGLPG6GXGML5TEMUY.jpg?focal=1273%2C517&amp;auth=0d71b8e062d898b78d3bc8d42392f7addc8761d5edfb741327d7b9471ced4507&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
