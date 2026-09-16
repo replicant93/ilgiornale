@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 17:15:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 17:30:19 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Lo “schiaffo” del Vaticano a Macron: niente apparizioni pubbliche con Leone XIV</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/lo-schiaffo-del-vaticano-a-macron-niente-apparizioni-pubbliche-con-leone-xiv/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/lo-schiaffo-del-vaticano-a-macron-niente-apparizioni-pubbliche-con-leone-xiv/</guid>
+<pubDate>Wed, 16 Sep 2026 17:27:03 +0000</pubDate>
+<description>Dal Vaticano è stato bloccato ogni tentativo di trasformare la visita apostolica del Santo Padre a Parigi Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HPXQNHTDTVKJHLUG4H6XRCKJKM.jpg?focal=1857%2C445&amp;auth=b9a2a0b445c486a96d74c7a792f731d1f3dbf1adf9d697413e37247dc8ea898b&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Ecco le misure varate dal Cdm per il sostegno economico. Meloni: “Sui carburanti misure di contenimento ma in forme più contenute”</title>
+<link>https://www.ilgiornale.it/news/interni/ecco-le-misure-varate-dal-cdm-per-il-sostegno-economico-meloni-sui-carburanti-misure-di-contenimento-ma-in-forme-piu-contenute/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/ecco-le-misure-varate-dal-cdm-per-il-sostegno-economico-meloni-sui-carburanti-misure-di-contenimento-ma-in-forme-piu-contenute/</guid>
+<pubDate>Wed, 16 Sep 2026 17:21:31 +0000</pubDate>
+<description>Non solo l’abolizione del bollo: ecco tutti gli interventi del governo nel nuovo decreto legge Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/P3NVIQJORBCQJEKTQTWEAWJUPM.jpg?focal=2798%2C1524&amp;auth=0615349aded0f62310fb50ca680dba19e4e050b16ac048b992e3b8658295d868&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Nuova Hyundai TUCSON Dark Line, a settembre con Anticipo 0 e Interessi 0</title>
 <link>https://www.ilgiornale.it/news/auto-moto-motori/nuova-hyundai-tucson-dark-line-in-promozione/</link>
@@ -781,22 +797,6 @@
 <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
 <description>Giù la maschera Disertiamo la resistenza Luigi Mascheroni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/WXNQVXMHRRCTLEU73XUK6H66SU.jpg?smart=true&amp;auth=64858ac9256692d025871f666ffb982eed795f0e5a595ae151162e17e5a92f6c&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Taglio accise decisivo sui prezzi</title>
-<link>https://www.ilgiornale.it/news/attualita/taglio-accise-decisivo-sui-prezzi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/taglio-accise-decisivo-sui-prezzi/</guid>
-<pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
-<description>Carburanti, la mappa dei prezzi città per città. Ecco dove risparmiare sul pieno Taglio accise decisivo sui prezzi Maglia nera per Milano dove in zona Amendola il diesel arriva fino a 2,76 euro al litro. Per trovare rifornimenti più convenienti bisogna arrivare a Imola, dove verde e gasolio si fermano a 1,78 euro Matilde Sperlinga</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/P3NVIQJORBCQJEKTQTWEAWJUPM.jpg?smart=true&amp;auth=0615349aded0f62310fb50ca680dba19e4e050b16ac048b992e3b8658295d868&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Toni, look e gesti: la metamorfosi di Elly per ambire a Chigi</title>
-<link>https://www.ilgiornale.it/news/interni/toni-look-e-gesti-la-metamorfosi-di-elly-per-ambire-a-chigi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/toni-look-e-gesti-la-metamorfosi-di-elly-per-ambire-a-chigi/</guid>
-<pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
-<description>Valeria Braghieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FVU4PLTYHJHNJDMHPX33EVD4T4.jpg?focal=2367%2C772&amp;auth=ce319cbd21113d0e760f88930a458bb139bf5fed2df829ac8d4743aaf1d19ca1&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
