@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 08:51:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 09:12:45 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Si finge guida turistica e violenta un 17enne: arrestato il custode degli scavi di Pompei</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/si-finge-guida-turistica-e-violenta-un-17enne-arrestato-il-custode-degli-scavi-di-pompei/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/si-finge-guida-turistica-e-violenta-un-17enne-arrestato-il-custode-degli-scavi-di-pompei/</guid>
+<pubDate>Wed, 16 Sep 2026 08:59:04 +0000</pubDate>
+<description>I fatti risalgono allo scorso 16 agosto. Lo avrebbe convinto a seguirlo con la scusa di visitare una “domus” non aperta al pubblico Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/C2JBIFNMCBGLRPLPJDDJW5S4PQ.jpg?smart=true&amp;auth=21ec8759c019dcf1d28019d765b1a91093ec6184b114179991f5dbc949302e17&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>L’allarme, il decollo immediato e l’abbattimento: così i caccia italiani hanno intercettato il drone in Lituania</title>
 <link>https://www.ilgiornale.it/news/guerra/lallarme-il-decollo-immediato-e-labbattimento-cosi-i-caccia-italiani-hanno-intercettato-il-drone-in-lituania/</link>
@@ -787,14 +795,6 @@
 <pubDate>Tue, 15 Sep 2026 04:00:01 +0000</pubDate>
 <description>Dario Murri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/UDASQWMTDZMT7IALVJYP3VDYJI.jpg?smart=true&amp;auth=fd9575d5d24741305bcb2409e9d47bef3de1abf2ec5994c7f246fb07bb5c0ca7&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Pioggia di gol a San Siro: l’Inter supera in rimonta 5-3 l’Udinese e raggiunge la Roma in vetta</title>
-<link>https://www.ilgiornale.it/news/calcio/pioggia-di-gol-a-san-siro-linter-supera-in-rimonta-5-3-ludinese-e-raggiunge-la-roma-in-vetta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/pioggia-di-gol-a-san-siro-linter-supera-in-rimonta-5-3-ludinese-e-raggiunge-la-roma-in-vetta/</guid>
-<pubDate>Mon, 14 Sep 2026 20:54:49 +0000</pubDate>
-<description>Il Como non si ferma più: Parma sconfitto 2-1, Lariani a due punti dal primato in classifica Sotto di due gol, i nerazzurri trovano il pari già nel primo tempo. La ripresa è tutta interista. Segnano Thuram, Esposito e Bonny. Nel recupero Gueye fissa il 5-3 finale Antonio Prisco</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LXAYTG44MRAEXJFZAT3ZPVJZZI.jfif?smart=true&amp;auth=99bf535a4901b740e77b839652ab7b0ff2e3421bfc8d6f43430024b97c793f34&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
