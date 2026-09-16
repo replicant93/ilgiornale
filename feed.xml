@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 07:57:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 08:18:33 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>False certificazioni mediche per stranieri nei Cpr, perquisiti oltre 20 studi medici</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/false-certificazioni-mediche-per-stranieri-nei-cpr-perquisiti-oltre-20-studi-medici/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/false-certificazioni-mediche-per-stranieri-nei-cpr-perquisiti-oltre-20-studi-medici/</guid>
+<pubDate>Wed, 16 Sep 2026 08:05:42 +0000</pubDate>
+<description>L’inchiesta è la prosecuzione di una più ampia dei mesi scorsi della procura di Ravenna: quali sono le accuse Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TNWGHKBG5FPSRKN2KPUMRC4SS4.jpg?smart=true&amp;auth=0ad23639c2f23ed17a4a91c7ece3771599c77075b47cc029ad7cab6c9f55e2e5&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Pneumatico si stacca e danneggia il motore, la cabina dell’aereo collassa e passeggeri che gridano terrorizzati</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/pneumatico-si-stacca-e-danneggia-il-motore-la-cabina-dellaereo-collassa-e-passeggeri-che-gridano-terrorizzati/</link>
@@ -787,14 +795,6 @@
 <pubDate>Mon, 14 Sep 2026 19:58:06 +0000</pubDate>
 <description>L’esclusiva di Quarta Repubblica: il messaggio scritto il giorno dopo l’attacco alle Torri Gemelle all’avvocato Francesco Brizzi Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JT6TWKTLZRDZLM6M33BIXBJJVU.png?smart=true&amp;auth=d1a655d782f5e824fbf6509ea499f787bacc1904659a74861bd629cfda67625e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>L’abbattimento in Iran, la fuga dai pasdaran e il misterioso salvataggio: la storia di “Bravo Dude 44”</title>
-<link>https://www.ilgiornale.it/news/guerra/labbattimento-in-iran-la-fuga-dai-pasdaran-e-il-misterioso-salvataggio-la-storia-di-bravo-dude-44/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/labbattimento-in-iran-la-fuga-dai-pasdaran-e-il-misterioso-salvataggio-la-storia-di-bravo-dude-44/</guid>
-<pubDate>Mon, 14 Sep 2026 19:56:27 +0000</pubDate>
-<description>Il pilota Usa precipitò dopo l’abbattimento del suo F-15 e riuscì a sfuggire alle ricerche iraniane. Sul recupero restano però dettagli segreti e molti dubbi Francesca Salvatore</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/YUSU3HIGNRMTJGIGRIWTKZWFHY.jpg?smart=true&amp;auth=c7711a4f39c7632da6a082de1575963f654e0e12de23617686e97801aaede7b7&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
