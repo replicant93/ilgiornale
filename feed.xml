@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 19:11:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 19:30:33 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Come capire se la propria auto pagherà ancora il bollo</title>
+<link>https://www.ilgiornale.it/news/cittadini/come-capire-se-la-propria-auto-paghera-ancora-il-bollo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/come-capire-se-la-propria-auto-paghera-ancora-il-bollo/</guid>
+<pubDate>Wed, 16 Sep 2026 19:11:33 +0000</pubDate>
+<description>Il governo abolisce il bollo per le auto di piccola e media potenza e per tutte le moto. Meloni: “Cancellata una delle tasse più odiate dagli italiani” Le origini, le modifiche e le proposte (inascoltate) di Berlusconi Il provvedimento riguarderà le auto con potenza fino a 80 kW (pari a circa 109 CV) e i motocicli. Ogni cittadino avrà diritto a una sola agevolazione. Si parte dal 2027: ecco tutto quello che c’è da sapere Redazione web Quali sono i modelli di auto che non pagheranno più il bollo e quali continueranno a pagare Come capire se la propria auto pagherà ancora il bollo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/K6LCWU4ZWZGJVKHN2AFI7DV32A.png?smart=true&amp;auth=398074a225bce1f1b7586514b6c03551c9d59f20783e3af3ed0f395934ae9119&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Svolta nel caso del cecchino di Prati: il sospettato si è costituito</title>
 <link>https://www.ilgiornale.it/news/nazionale/svolta-nel-caso-del-cecchino-di-prati-il-sospettato-si-e-costituito/</link>
@@ -789,14 +797,6 @@
 <pubDate>Tue, 15 Sep 2026 10:34:57 +0000</pubDate>
 <description>Il Comune stanzia gli ultimi 500mila euro del bando da 5 milioni favorendo in graduatoria chi ha esperienze “green” alle spalle. Il ruolo della vicesindaca Clancy, che lanciò Ilaria Salis in Europa Francesco Boezi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/EDXL6XYLSBLNRPUV3TXLOZMJTQ.jpg?smart=true&amp;auth=4e52951b90769cbc4dad4d7b6fd7f5a13a55fe7088d7ab4ecf908caaa2bd904e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il Pd assolve l'attentatore. E i riformisti si sfilano dall’allarme di Renzi</title>
-<link>https://www.ilgiornale.it/news/interni/attentato-di-modena-il-pd-assolve-el-koudri-e-i-riformisti-si-sfilano-dallallarme-di-renzi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/attentato-di-modena-il-pd-assolve-el-koudri-e-i-riformisti-si-sfilano-dallallarme-di-renzi/</guid>
-<pubDate>Tue, 15 Sep 2026 10:31:12 +0000</pubDate>
-<description>“Ce l’ha con noi italiani”. La rabbia dello chef ferito gravemente da El Koudri Il Pd assolve l'attentatore. E i riformisti si sfilano dall’allarme di Renzi Ermanno Muccini tutt’oggi non può tornare a lavorare per le gravi ferite causate da El Koudri e chiede verità: “Neppure chi è malato commetterebbe un gesto simile” Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/AP6QHD5R4VEDBARLLEGOIEFJJA.jpg?smart=true&amp;auth=7338d967bef7e06ea349d8e722f867625c1c4cba91c0114f337d354e0e9f30f5&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
