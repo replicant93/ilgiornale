@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 21:01:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 21:23:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Europa amara per il Milan: due svarioni difensivi costano lo 0-2 contro il Benfica</title>
+<link>https://www.ilgiornale.it/news/calcio/europa-amara-per-il-milan-due-svarioni-difensivi-costano-lo-0-2-contro-il-benfica/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/europa-amara-per-il-milan-due-svarioni-difensivi-costano-lo-0-2-contro-il-benfica/</guid>
+<pubDate>Wed, 16 Sep 2026 20:58:48 +0000</pubDate>
+<description>Debutto da dimenticare per l’undici di Amorim in Europa League: il big match con i portoghesi vede i rossoneri pagare carissimo gli errori difensivi e sprecare le poche occasioni create in avanti Luca Bocci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/O45HHI43GJHCRKQYCYB4HJJJQQ.jpg?smart=true&amp;auth=5281291d7c45beae2a2eca9f9d6d63e5e47cf4b389b99a40ba1772294da4b055&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Come capire se la propria auto pagherà ancora il bollo</title>
 <link>https://www.ilgiornale.it/news/cittadini/come-capire-se-la-propria-auto-paghera-ancora-il-bollo/</link>
@@ -789,14 +797,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bonus-casa-fino-a-500-euro-al-mese-per-i-genitori-separati-reddito-affitto-e-immobili-chi-potra-ottenere-laiuto/</guid>
 <pubDate>Tue, 15 Sep 2026 10:37:39 +0000</pubDate>
 <description>Valentina Menassi</description>
-</item>
-<item>
-<title>Sei di sinistra e ambientalista? A Bologna di “regalano” casa</title>
-<link>https://www.ilgiornale.it/news/interni/lultima-della-bologna-rossa-case-ai-militanti-ambientalisti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lultima-della-bologna-rossa-case-ai-militanti-ambientalisti/</guid>
-<pubDate>Tue, 15 Sep 2026 10:34:57 +0000</pubDate>
-<description>Il Comune stanzia gli ultimi 500mila euro del bando da 5 milioni favorendo in graduatoria chi ha esperienze “green” alle spalle. Il ruolo della vicesindaca Clancy, che lanciò Ilaria Salis in Europa Francesco Boezi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/EDXL6XYLSBLNRPUV3TXLOZMJTQ.jpg?smart=true&amp;auth=4e52951b90769cbc4dad4d7b6fd7f5a13a55fe7088d7ab4ecf908caaa2bd904e&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
