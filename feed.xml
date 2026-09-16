@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 09:12:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 09:32:35 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Roggero Opens in new window</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/roggero-ogni-vita-merita-rispetto-avrei-dovuto-riflettere-prima-di-sparare-oggi-ludienza-a-milano-per-chiedere-il-differimento-pena/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/roggero-ogni-vita-merita-rispetto-avrei-dovuto-riflettere-prima-di-sparare-oggi-ludienza-a-milano-per-chiedere-il-differimento-pena/</guid>
+<pubDate>Wed, 16 Sep 2026 09:29:00 +0000</pubDate>
+<description>Roggero Opens in new window</description>
+</item>
 <item>
 <title>Si finge guida turistica e violenta un 17enne: arrestato il custode degli scavi di Pompei</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/si-finge-guida-turistica-e-violenta-un-17enne-arrestato-il-custode-degli-scavi-di-pompei/</link>
@@ -787,14 +794,6 @@
 <pubDate>Tue, 15 Sep 2026 04:00:01 +0000</pubDate>
 <description>Sovrapproduzione, imprese in perdita e casse locali in affanno: Pechino cerca un nuovo equilibrio mentre il resto del mondo alza dazi e barriere Federico Giuliani</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/XBXTHJMT35PNRARWHJ5RQOPAJM.jpg?smart=true&amp;auth=54bb98c076fa2bc9d7c0b4296a603b13c663cb48f255e40cdeabafb26f52d8d7&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Bonus asilo nido, cambia tutto con la nuova banca dati Inps: cosa devono sapere le famiglie</title>
-<link>https://www.ilgiornale.it/news/cittadini/bonus-asilo-nido-cambia-tutto-con-la-nuova-banca-dati-inps-cosa-devono-sapere-le-famiglie/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bonus-asilo-nido-cambia-tutto-con-la-nuova-banca-dati-inps-cosa-devono-sapere-le-famiglie/</guid>
-<pubDate>Tue, 15 Sep 2026 04:00:01 +0000</pubDate>
-<description>Dario Murri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/UDASQWMTDZMT7IALVJYP3VDYJI.jpg?smart=true&amp;auth=fd9575d5d24741305bcb2409e9d47bef3de1abf2ec5994c7f246fb07bb5c0ca7&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
