@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 03:57:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 04:17:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Come prendersi cura delle proprie arterie: 8 domande da porsi</title>
+<link>https://www.ilgiornale.it/news/benessere/come-prendersi-cura-delle-proprie-arterie-8-domande-da-porsi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/come-prendersi-cura-delle-proprie-arterie-8-domande-da-porsi/</guid>
+<pubDate>Wed, 16 Sep 2026 04:00:01 +0000</pubDate>
+<description>Francesca Bocchi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5IAG4Z2TEFBNRNL3QCHHUZP4XQ.jfif?focal=1143%2C522&amp;auth=975ba999aff3cc52bd8ec52918fdad870bcd8e75e5b8253acaff213c2ff74e79&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Tavolo Unico, l’antidoto alla ristorazione della condivisione</title>
+<link>https://www.ilgiornale.it/news/retrogusto/tavolo-unico-lantidoto-alla-ristorazione-della-condivisione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/tavolo-unico-lantidoto-alla-ristorazione-della-condivisione/</guid>
+<pubDate>Wed, 16 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Tavolo Unico, l’antidoto alla ristorazione della condivisione Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/O6Q47JFEX5BCFGBQ3CNW4OHVI4.jpg?focal=4194%2C2669&amp;auth=ffb12e677f297849c66967e9a54b277e1f81c2532f3dbcf3aec3de41a2abe989&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Kennedy Center, chiusura a tempo indeterminato: tra rischio bancarotta, crolli e la battaglia sul nome di Trump</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/kennedy-center-chiusura-a-tempo-indeterminato-tra-rischio-bancarotta-crolli-e-la-battaglia-sul-nome-di-trump/</link>
@@ -783,22 +799,6 @@
 <pubDate>Mon, 14 Sep 2026 12:56:35 +0000</pubDate>
 <description>Dopo 24 anni di assenza, la coupé giapponese ritorna in una veste full hybrid da 184 CV. Guida precisa e coinvolgente, ma spazio posteriore quasi simbolico e prezzo tutt’altro che leggero. Da record i consumi. Daniele Villa</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OIWCQUDANVHFHPKNKXRMVPCEVM.jpeg?smart=true&amp;auth=f7b760af43a4187b3c60de6d7346d5fdce969e669ecec420bd85b476692a7e28&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Bmw, la nuova X5 pronta a lasciare il segno</title>
-<link>https://www.ilgiornale.it/news/sport/bmw-la-nuova-x5-pronta-a-lasciare-il-segno/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/sport/bmw-la-nuova-x5-pronta-a-lasciare-il-segno/</guid>
-<pubDate>Mon, 14 Sep 2026 12:51:04 +0000</pubDate>
-<description>Pierluigi Bonora</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GMGHLA5QUJDOFFXG7SHHXNCGRE.jpg?smart=true&amp;auth=18dbd783ccec16256b0e44d69dc885dfc0b2eddb8d555bfa590e8bbfd3f052a6&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Papa Leone cancella i tagli di Francesco e toglie il blocco degli stipendi in Vaticano</title>
-<link>https://www.ilgiornale.it/news/vaticano/papa-leone-cancella-i-tagli-di-francesco-e-toglie-il-blocco-degli-stipendi-in-vaticano/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/vaticano/papa-leone-cancella-i-tagli-di-francesco-e-toglie-il-blocco-degli-stipendi-in-vaticano/</guid>
-<pubDate>Mon, 14 Sep 2026 12:35:10 +0000</pubDate>
-<description>Prevost cancella i tagli imposti dal predecessore al tempo della pandemia. Sorridono dipendenti e cardinali Nico Spuntoni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NTLICBIRM5G4BMH72ZJOOEGVXM.jpg?smart=true&amp;auth=a1999477e2864f6f3e26bbb75e7a66d15f22cbc66bfddd829a598373341661f0&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
