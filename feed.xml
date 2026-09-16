@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 05:41:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 05:56:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Il Parkinson va riconosciuto prima che arrivino i sintomi”</title>
+<link>https://www.ilgiornale.it/news/farmaci-e-terapie/il-parkinson-va-riconosciuto-prima-che-arrivino-i-sintomi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/farmaci-e-terapie/il-parkinson-va-riconosciuto-prima-che-arrivino-i-sintomi/</guid>
+<pubDate>Wed, 16 Sep 2026 05:39:34 +0000</pubDate>
+<description>Camilla Golzi Saporiti</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/BGCBM5HFJNDO7N7G2AHNQP7BZQ.jpg?focal=1244%2C996&amp;auth=b807f482a94157ddf3a2ea75376a9008a81afe4972b360277575818c4dfac5b4&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Calabresi, lo scatto e l’effetto non voluto</title>
 <link>https://www.ilgiornale.it/news/interni/calabresi-lo-scatto-e-leffetto-non-voluto/</link>
@@ -787,14 +795,6 @@
 <pubDate>Mon, 14 Sep 2026 18:27:10 +0000</pubDate>
 <description>Cronache Ramy, depositata la consulenza della difesa dell’amico: “Ci fu un contatto tra lo scooter e i carabinieri” Il 24 settembre l’udienza preliminare per Fares Bouzidi, che guidava il T-Max, e per i sette carabinieri. L’incidente nel novembre 2024 causò la morte del 19enne Ramy Elgaml a Milano Manuela Messina</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/32IKQNCINZNRFCUIC6FGDY42ZQ.jpg?smart=true&amp;auth=911cc0b7b6e4b55cc02795cfb1fdb035e7eaed96f847519f701e465bb127ca6f&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Molestie di Torino, il bengalese ora vuole seguire il corso per “uomini maltrattanti”: ecco di cosa si tratta</title>
-<link>https://www.ilgiornale.it/news/nazionale/molestie-di-torino-il-bengalese-ora-vuole-seguire-il-corso-per-uomini-maltrattanti-ecco-di-cosa-si-tratta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/molestie-di-torino-il-bengalese-ora-vuole-seguire-il-corso-per-uomini-maltrattanti-ecco-di-cosa-si-tratta/</guid>
-<pubDate>Mon, 14 Sep 2026 18:24:36 +0000</pubDate>
-<description>Il tribunale del Riesame si è riservato di decidere ma l’associazione nazionale anti-pedofilia ha deciso di costituirsi parte civile: “È astuta questa mossa, probabilmente suggerita dal legale dell’imputato” Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VQR5INE26ZCKNAECX3VV2G6JNU.jpg?smart=true&amp;auth=bc46fa47bf769f8c7546b96b82789ae7e729995a08e883ed3232d2f176ad89c6&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
