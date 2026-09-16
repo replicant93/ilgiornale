@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 12:50:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 13:13:44 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Milano, operaio sale per protesta su una gru: era senza stipendio da mesi</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/milano-operaio-sale-per-protesta-su-una-gru-era-senza-stipendio-da-mesi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/milano-operaio-sale-per-protesta-su-una-gru-era-senza-stipendio-da-mesi/</guid>
+<pubDate>Wed, 16 Sep 2026 12:57:57 +0000</pubDate>
+<description>Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FI7GHGJRBBI2VA2TQTQXCLB7BI.jpg?smart=true&amp;auth=d7ebbf7bc8257964b9e4cd278a2caee16aaad7aa1e45626ccff9ae621e4adce8&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Test sui magistrati. Ecco come nel mondo si controlla la "saggezza" di chi deve giudicare</title>
 <link>https://www.ilgiornale.it/news/politica/test-sui-magistrati-ecco-nel-mondo-si-controlla-saggezza-chi-2300589.html</link>
@@ -22,6 +30,14 @@
 <pubDate>Wed, 16 Sep 2026 12:43:00 +0000</pubDate>
 <description>Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/THPXVZ2C6JBU3FEWZNDOEOLUM4.png?smart=true&amp;auth=b48348c2b809609898f133c3a8609adab876493e0b40d7cbe9c40b4816cc8265&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Bimba di 2 anni morta in ospedale dopo un mal di pancia: tre medici indagati</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/bimba-di-2-anni-morta-in-ospedale-dopo-un-mal-di-pancia-tre-medici-indagati/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/bimba-di-2-anni-morta-in-ospedale-dopo-un-mal-di-pancia-tre-medici-indagati/</guid>
+<pubDate>Wed, 16 Sep 2026 12:40:35 +0000</pubDate>
+<description>Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/R52DTCEMSVBNBNAO6R4DEHDVTU.png?smart=true&amp;auth=717a39e030b5a1b050d7b2c8dfac83af94d03211636758c82e442fa146566075&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Pace fatta tra Leonardo Maria Del Vecchio e la sua compagna Sara Soldati</title>
@@ -782,22 +798,6 @@
 <pubDate>Tue, 15 Sep 2026 08:51:33 +0000</pubDate>
 <description>Mariangela Cutrone</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/X2ZMOSUQEVHK5GTQTGFS2U3P4E.jpg?focal=537%2C413&amp;auth=a69a90cb0b0a6b6079a71c01ae5068b9518c249cb5940daff72cff597c52a1ed&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Assunzioni in base a razza e sesso: il woke costa 25 milioni di dollari al colosso della consulenza</title>
-<link>https://www.ilgiornale.it/news/societa/assunzioni-in-base-a-razza-e-sesso-il-woke-costa-25-milioni-di-dollari-al-colosso-della-consulenza/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/assunzioni-in-base-a-razza-e-sesso-il-woke-costa-25-milioni-di-dollari-al-colosso-della-consulenza/</guid>
-<pubDate>Tue, 15 Sep 2026 08:47:21 +0000</pubDate>
-<description>Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/647GW34WBJO2JHIIPBDT5PXPWM.jpg?smart=true&amp;auth=26c5fdd24d01bc0460eb4fb16ad49058cfba8384f0be20c9abfe0d320424bb54&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Apple, sbarca in Italia iOS 27: tutte le novità e la lista dei dispositivi compatibili</title>
-<link>https://www.ilgiornale.it/news/mobile/apple-sbarca-in-italia-ios-27-tutte-le-novita-e-la-lista-dei-dispositivi-compatibili/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/apple-sbarca-in-italia-ios-27-tutte-le-novita-e-la-lista-dei-dispositivi-compatibili/</guid>
-<pubDate>Tue, 15 Sep 2026 08:38:13 +0000</pubDate>
-<description>Siri AI, la nuova generazione di Apple Intelligence, potenti controlli parentali e un’ampia gamma di miglioramenti software sono già disponibili su tutti i prodotti Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OMBNLEC4KNOEZHWL33ZJ3P2OPQ.jpg?smart=true&amp;auth=00182b6e7320811ddb21303c1887862b06dde21342639c9c24de0a1931d9f584&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
