@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 13:13:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 13:33:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bollo auto, sconto progressivo sulla tassa: le novità</title>
+<link>https://www.ilgiornale.it/news/cittadini/bollo-auto-sconto-progressivo-sulla-tassa-le-novita/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bollo-auto-sconto-progressivo-sulla-tassa-le-novita/</guid>
+<pubDate>Wed, 16 Sep 2026 13:29:22 +0000</pubDate>
+<description>Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VGSRRF6Q3FMERN7YDJDGHSPGDQ.jpg?smart=true&amp;auth=8b03f4fb54db7da9e23afae95624c856e3fc8f9d9f70322e80f4fa8b53e7be55&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Omicidio Carol Maltesi, ergastolo per Davide Fontana. “Riconosciuta la premeditazione”</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-carol-maltesi-ergastolo-per-davide-fontana-riconosciuta-la-premeditazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-carol-maltesi-ergastolo-per-davide-fontana-riconosciuta-la-premeditazione/</guid>
+<pubDate>Wed, 16 Sep 2026 13:23:21 +0000</pubDate>
+<description>Cronaca giudiziaria Omicidio Carol Maltesi, ergastolo per Davide Fontana. “Riconosciuta la premeditazione” La decisione oggi nel processo d’appello “ter” a Milano davanti alla corte d’Assise d’appello di Milano Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NK67VUSM4BOEFLEZ3ACRFYGUNE.jpg?smart=true&amp;auth=950466cf29b6ec4f432ded7e43a9654a8893b824e2c4c3989c21ec828bb76a4b&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Milano, operaio sale per protesta su una gru: era senza stipendio da mesi</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/milano-operaio-sale-per-protesta-su-una-gru-era-senza-stipendio-da-mesi/</link>
@@ -782,22 +798,6 @@
 <pubDate>Tue, 15 Sep 2026 09:23:13 +0000</pubDate>
 <description>Le rivelazioni di lady Lavitola I legali del giornalista chiedono la revoca della rimozione e il reintegro alla conduzione del programma Redazione web Sigfrido alle crociate: “Faccio causa alla Rai, voglio tornare”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BZMJFEWWRFGZ7I6KVI2DFXULZU.jpg?focal=1519%2C700&amp;auth=230021256afb22ca5164c61003e8711721ecb90c20fa5ab1b665d19e00bbc2d0&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“Ce l’ha con noi italiani”. La rabbia dello chef ferito gravemente da El Koudri</title>
-<link>https://www.ilgiornale.it/news/terrorismo/ce-lha-con-noi-italiani-la-rabbia-dello-chef-ferito-gravemente-da-el-koudri/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/terrorismo/ce-lha-con-noi-italiani-la-rabbia-dello-chef-ferito-gravemente-da-el-koudri/</guid>
-<pubDate>Tue, 15 Sep 2026 09:06:12 +0000</pubDate>
-<description>Renzi spiazza il Campo largo. “Il killer che ha ucciso non è solo un folle” Ermanno Muccini tutt’oggi non può tornare a lavorare per le gravi ferite causate da El Koudri e chiede verità: “Neppure chi è malato commetterebbe un gesto simile” Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/AP6QHD5R4VEDBARLLEGOIEFJJA.jpg?smart=true&amp;auth=7338d967bef7e06ea349d8e722f867625c1c4cba91c0114f337d354e0e9f30f5&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Dormire a pancia in giù fa bene o male?</title>
-<link>https://www.ilgiornale.it/news/benessere/dormire-a-pancia-in-giu-fa-bene-o-male/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/dormire-a-pancia-in-giu-fa-bene-o-male/</guid>
-<pubDate>Tue, 15 Sep 2026 08:51:33 +0000</pubDate>
-<description>Mariangela Cutrone</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/X2ZMOSUQEVHK5GTQTGFS2U3P4E.jpg?focal=537%2C413&amp;auth=a69a90cb0b0a6b6079a71c01ae5068b9518c249cb5940daff72cff597c52a1ed&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
