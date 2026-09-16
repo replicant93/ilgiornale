@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 13:52:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 14:13:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Cdm abolisce bollo auto e moto. Meloni: “Cancella una delle tasse piu odiate dagli italiani”</title>
+<link>https://www.ilgiornale.it/news/cittadini/il-cdm-abolisce-bollo-auto-e-moto-meloni-cancella-una-delle-tasse-piu-odiate-dagli-italiani/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/il-cdm-abolisce-bollo-auto-e-moto-meloni-cancella-una-delle-tasse-piu-odiate-dagli-italiani/</guid>
+<pubDate>Wed, 16 Sep 2026 14:10:56 +0000</pubDate>
+<description>L’esenzione vale anche per i motocicli, ma ogni cittadino avra diritto a una sola agevolazione Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/BXHLMHSFAJJNDLHTAQRYRCJUIY.jpg?smart=true&amp;auth=a9184a38e7cfc7ea7f3a89ef8e39f2f4e2fde3bacc6d82765699b0e0264f1a9e&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Bollo auto, sconto progressivo sulla tassa: le novità</title>
 <link>https://www.ilgiornale.it/news/cittadini/bollo-auto-sconto-progressivo-sulla-tassa-le-novita/</link>
@@ -790,14 +798,6 @@
 <pubDate>Tue, 15 Sep 2026 09:26:24 +0000</pubDate>
 <description>Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BLW5LOYS3RNDBNYGHXISHZOHZU.jpg?smart=true&amp;auth=397001b7d874c3d42adae1992c22543694ecde2c7d6ebfb5b89439edd4d97ee8&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Ranucci passa alla vie legali: depositato il ricorso urgente contro la rimozione da Report</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/ranucci-passa-alla-vie-legali-depositato-il-ricorso-urgente-contro-la-rimozione-da-report/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/ranucci-passa-alla-vie-legali-depositato-il-ricorso-urgente-contro-la-rimozione-da-report/</guid>
-<pubDate>Tue, 15 Sep 2026 09:23:13 +0000</pubDate>
-<description>Le rivelazioni di lady Lavitola I legali del giornalista chiedono la revoca della rimozione e il reintegro alla conduzione del programma Redazione web Sigfrido alle crociate: “Faccio causa alla Rai, voglio tornare”</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BZMJFEWWRFGZ7I6KVI2DFXULZU.jpg?focal=1519%2C700&amp;auth=230021256afb22ca5164c61003e8711721ecb90c20fa5ab1b665d19e00bbc2d0&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
