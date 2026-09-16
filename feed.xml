@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 09:50:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 10:02:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La ricerca accelera: nuove cure e diagnosi più precoci</title>
+<link>https://www.ilgiornale.it/news/farmaci-e-terapie/la-ricerca-accelera-nuove-cure-e-diagnosi-piu-precoci/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/farmaci-e-terapie/la-ricerca-accelera-nuove-cure-e-diagnosi-piu-precoci/</guid>
+<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+<description>Camilla Golzi Saporiti</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ZMD4B5BU3ZK6PFARNBATYEHEUI.jpg?smart=true&amp;auth=9362922caadd384f138af6340dd65fef17f608a9795f1a47266c22baf5b1a4a9&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Roggero Opens in new window</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/roggero-ogni-vita-merita-rispetto-avrei-dovuto-riflettere-prima-di-sparare-oggi-ludienza-a-milano-per-chiedere-il-differimento-pena/</link>
@@ -786,14 +794,6 @@
 <pubDate>Tue, 15 Sep 2026 04:00:01 +0000</pubDate>
 <description>Retrogusto Cucchi, i novant’anni di un’istituzione milanese Andrea Cuomo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BQ7UEXUVUVHENH5X5W3OTZA6BM.jpg?focal=722%2C860&amp;auth=9005a27069c9372aa43c42e4250624cd44d24e26d99db312a66d9292546ae58a&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>La Cina ha spinto il suo modello al limite: il rebus economico che può diventare un problema globale</title>
-<link>https://www.ilgiornale.it/news/politica-estera/la-cina-ha-spinto-il-suo-modello-al-limite-il-rebus-economico-che-puo-diventare-un-problema-globale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/la-cina-ha-spinto-il-suo-modello-al-limite-il-rebus-economico-che-puo-diventare-un-problema-globale/</guid>
-<pubDate>Tue, 15 Sep 2026 04:00:01 +0000</pubDate>
-<description>Sovrapproduzione, imprese in perdita e casse locali in affanno: Pechino cerca un nuovo equilibrio mentre il resto del mondo alza dazi e barriere Federico Giuliani</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/XBXTHJMT35PNRARWHJ5RQOPAJM.jpg?smart=true&amp;auth=54bb98c076fa2bc9d7c0b4296a603b13c663cb48f255e40cdeabafb26f52d8d7&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
