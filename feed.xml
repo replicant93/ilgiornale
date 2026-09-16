@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 16 Sep 2026 14:13:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 14:32:24 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ex Ilva, le imprese dell’indotto congelano i licenziamenti: stop fino alla sentenza della Cassazione</title>
+<link>https://www.ilgiornale.it/news/aziende/ex-ilva-lindotto-congela-i-licenziamenti-stop-fino-alla-sentenza-della-cassazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/ex-ilva-lindotto-congela-i-licenziamenti-stop-fino-alla-sentenza-della-cassazione/</guid>
+<pubDate>Wed, 16 Sep 2026 14:15:26 +0000</pubDate>
+<description>Le imprese accolgono la sollecitazione dell’esecutivo e rinviano le decisioni sulle uscite in attesa del prossimo passaggio giudiziario Valentina Menassi</description>
+</item>
 <item>
 <title>Il Cdm abolisce bollo auto e moto. Meloni: “Cancella una delle tasse piu odiate dagli italiani”</title>
 <link>https://www.ilgiornale.it/news/cittadini/il-cdm-abolisce-bollo-auto-e-moto-meloni-cancella-una-delle-tasse-piu-odiate-dagli-italiani/</link>
@@ -790,14 +797,6 @@
 <pubDate>Tue, 15 Sep 2026 09:54:37 +0000</pubDate>
 <description>Il presidente La Russa ha richiamato all’ordine per un cartello sulle “preferenze farlocche” mostrato in Aula dalle opposizioni Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/EVQMOTOKOBBEHMDFVNW6XQB3PU.jpg?focal=1419%2C881&amp;auth=f359753b46a6d91ce7900362418c627c00b52b8e70d12f2abbd52a2432fd7cf2&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Putt...”. Elena Morali aggredita e insultata a Milano: cosa è successo</title>
-<link>https://www.ilgiornale.it/news/nazionale/putt-elena-morali-aggredita-e-insultata-a-milano-cosa-e-successo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/putt-elena-morali-aggredita-e-insultata-a-milano-cosa-e-successo/</guid>
-<pubDate>Tue, 15 Sep 2026 09:26:24 +0000</pubDate>
-<description>Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BLW5LOYS3RNDBNYGHXISHZOHZU.jpg?smart=true&amp;auth=397001b7d874c3d42adae1992c22543694ecde2c7d6ebfb5b89439edd4d97ee8&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
