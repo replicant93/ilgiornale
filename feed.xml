@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 04:57:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 05:17:01 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Reflusso gastroesofageo: come si diagnostica e quali esami possono essere utili</title>
+<link>https://www.ilgiornale.it/news/benessere/reflusso-gastroesofageo-come-si-diagnostica-e-quali-esami-possono-essere-utili/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/reflusso-gastroesofageo-come-si-diagnostica-e-quali-esami-possono-essere-utili/</guid>
+<pubDate>Thu, 17 Sep 2026 05:00:00 +0000</pubDate>
+<description>Luca Romano</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/N5UHTX7YDFG3ZP5Z5LGW7PP3SE.jpg?focal=359%2C43&amp;auth=040ad018f61c9ee9483613ee3937f247b968e43f4761d451806cc0fe2cef7b03&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Quella difesa del presepe e delle radici</title>
 <link>https://www.ilgiornale.it/news/attualita/quella-difesa-del-presepe-e-delle-radici/</link>
@@ -789,14 +797,6 @@
 <pubDate>Tue, 15 Sep 2026 11:02:24 +0000</pubDate>
 <description>Le esequie si tengono nella sala della Protomoteca. In piazza del Campidoglio montato un maxi schermo per i cittadini che vogliono assistere. Il capo dello Stato accompagnerà il feretro all’uscita Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/6QKT7VNXRBCALBEZWGAZWIEKAY.jpg?smart=true&amp;auth=0e0f9690815cc1c8d66125ec9fd684dd3537c89067de41d554b5e62a574f1d5c&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Anche Santoro scarica Ranucci: “Imperdonabile che non abbia preso le distanze da Lavitola”</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/anche-santoro-scarica-ranucci-imperdonabile-che-non-abbia-preso-le-distanze-da-lavitola/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/anche-santoro-scarica-ranucci-imperdonabile-che-non-abbia-preso-le-distanze-da-lavitola/</guid>
-<pubDate>Tue, 15 Sep 2026 10:46:13 +0000</pubDate>
-<description>Le tre donne del caso Report tra gelosie, abusi e “codice rosso” Le tre donne del caso Report tra gelosie, abusi e “codice rosso” Chiesto il protocollo per Lady Lavitola. Avviso a Sigfrido: “Non nomini mio figlio, è anche minore” Pasquale Napolitano Anche Santoro scarica Ranucci: “Imperdonabile che non abbia preso le distanze da Lavitola” Ranucci promoter per Lavitola. L’indagine sul caso carbon credit</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7VXT2I2OK5GCVKM76MXLT2RL6I.jpg?focal=779%2C514&amp;auth=8954977edb139ddb8822cb834c552580e166ba344228f41a621679d26dad3cd5&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
