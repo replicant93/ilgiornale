@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 20:57:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 21:17:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La Juventus demolisce il Nec per 5-0 al debutto in Europa League</title>
+<link>https://www.ilgiornale.it/news/calcio/la-juventus-demolisce-il-nec-per-5-0-al-debutto-in-europa-league/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-juventus-demolisce-il-nec-per-5-0-al-debutto-in-europa-league/</guid>
+<pubDate>Thu, 17 Sep 2026 21:00:43 +0000</pubDate>
+<description>Reazione d’orgoglio dell’undici di Spalletti dopo il tonfo inaspettato a Sassuolo che prende a pallonate i malcapitati olandesi allo Stadium. Prima rete in bianconero sia per Alajbegovic che per Woltemade Luca Bocci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QML3ZBCGYZC7LBAQVRKFP7IZ6M.jpg?focal=1477%2C504&amp;auth=7008b7d80d6112dac48f984b34450dfac662bd85537cfd78c22e6a5664face32&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Siamo i nipoti del comunismo”. Così i giovani Pd vogliono “distruggere il capitalismo”</title>
 <link>https://www.ilgiornale.it/news/interni/siamo-i-nipoti-del-comunismo-cosi-i-giovani-pd-vogliono-distruggere-il-capitalismo/</link>
@@ -789,14 +797,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/ex-ilva-lindotto-congela-i-licenziamenti-stop-fino-alla-sentenza-della-cassazione/</guid>
 <pubDate>Wed, 16 Sep 2026 14:15:26 +0000</pubDate>
 <description>Le imprese accolgono la sollecitazione dell’esecutivo e rinviano le decisioni sulle uscite in attesa del prossimo passaggio giudiziario Valentina Menassi</description>
-</item>
-<item>
-<title>Il Cdm abolisce bollo auto e moto. Meloni: “Cancella una delle tasse piu odiate dagli italiani”</title>
-<link>https://www.ilgiornale.it/news/cittadini/il-cdm-abolisce-bollo-auto-e-moto-meloni-cancella-una-delle-tasse-piu-odiate-dagli-italiani/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/il-cdm-abolisce-bollo-auto-e-moto-meloni-cancella-una-delle-tasse-piu-odiate-dagli-italiani/</guid>
-<pubDate>Wed, 16 Sep 2026 14:10:56 +0000</pubDate>
-<description>L’esenzione vale anche per i motocicli, ma ogni cittadino avra diritto a una sola agevolazione Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BXHLMHSFAJJNDLHTAQRYRCJUIY.jpg?smart=true&amp;auth=a9184a38e7cfc7ea7f3a89ef8e39f2f4e2fde3bacc6d82765699b0e0264f1a9e&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
