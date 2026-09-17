@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 13:41:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 13:57:40 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ceuta, il Parlamento europeo condanna Sanchez e si schiera con l’Italia</title>
+<link>https://www.ilgiornale.it/news/europa/ceuta-il-parlamento-europeo-condanna-sanchez-e-si-schiera-con-litalia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/ceuta-il-parlamento-europeo-condanna-sanchez-e-si-schiera-con-litalia/</guid>
+<pubDate>Thu, 17 Sep 2026 13:51:50 +0000</pubDate>
+<description>“Attorno a Ceuta nuclei della jihad”. Così Tajani rivendica la sospensione di Schengen con la Spagna Bocciato l’emendamento dei Socialisti e democratici che stigmatizzava la chiusura delle frontiere italiane con la spagna dopo l’invasione di fine luglio Francesca Galici “Sono con i residenti ma ho dedicato un pensiero agli immigrati”. Mbappé si giustifica ma è bufera</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/B7CBEUY7G5FNPIIYUGVJZYP7HQ.jpg?smart=true&amp;auth=4a550d588d8140ee09a0097cf80bb6b5cb47a008291e1f636a383c0f8aaff214&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>La rabbia per il caro carburanti incendia la Francia: bloccati porti e depositi di petrolio, così torna l’ombra dei Gilet gialli</title>
 <link>https://www.ilgiornale.it/news/politica/la-rabbia-per-il-caro-carburanti-incendia-la-francia-bloccati-porti-e-depositi-di-petrolio-cosi-torna-lombra-dei-gilet-gialli/</link>
@@ -789,14 +797,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/bologna-un-paradiso-per-i-rom-due-milioni-spesi-zero-incassati/</guid>
 <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
 <description>I Giovani “disertori” spaccano il Pd. Padri nobili indignati La Giunta Lepore paga utenze e progetti per le “aree sosta” mentre le famiglie nomadi non versano un euro. Il caso dei centri minorili senza controlli: droga, coltelli e risse contro gli agenti Francesco Boezi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2DLKPBC6JVBFFNE42VGWX2E3OA.jpg?focal=1360%2C672&amp;auth=76bd024223bdee04b94c46b73c2d3e4d53a8f4cb3d8c733fcc5c1155ee379eda&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>I Giovani “disertori” spaccano il Pd. Padri nobili indignati</title>
-<link>https://www.ilgiornale.it/news/interni/i-giovani-disertori-spaccano-il-pd-padri-nobili-indignati/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/i-giovani-disertori-spaccano-il-pd-padri-nobili-indignati/</guid>
-<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-<description>Bologna: un paradiso per i rom. Due milioni spesi, zero incassati I Giovani “disertori” spaccano il Pd. Padri nobili indignati La Giunta Lepore paga utenze e progetti per le “aree sosta” mentre le famiglie nomadi non versano un euro. Il caso dei centri minorili senza controlli: droga, coltelli e risse contro gli agenti Francesco Boezi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/2DLKPBC6JVBFFNE42VGWX2E3OA.jpg?focal=1360%2C672&amp;auth=76bd024223bdee04b94c46b73c2d3e4d53a8f4cb3d8c733fcc5c1155ee379eda&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
