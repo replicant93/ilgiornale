@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 14:18:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 14:34:23 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pugno in faccia e speronamento a un carabiniere: ma il pm chiede di archiviare per la tenuità del fatto</title>
+<link>https://www.ilgiornale.it/news/nazionale/pugno-in-faccia-e-speronamento-a-un-carabiniere-ma-il-pm-chiede-di-archiviare-per-la-tenuita-del-fatto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/pugno-in-faccia-e-speronamento-a-un-carabiniere-ma-il-pm-chiede-di-archiviare-per-la-tenuita-del-fatto/</guid>
+<pubDate>Thu, 17 Sep 2026 14:31:04 +0000</pubDate>
+<description>Il militare ha avuto 12 giorni di prognosi e la macchina danneggiata dall’aggressione Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GOJYZQYKVBA7VC3HOBF6YBKRQ4.jpg?focal=1003%2C1062&amp;auth=4a663df653af38b324e112ad5560a8239ab98ebc921bd9ac1c47ff1fd6cae357&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Il racconto del rabbino Zamak al Giornale: “Loro non sono più forti”</title>
+<link>https://www.ilgiornale.it/news/attualita/il-racconto-del-rabbino-zamak-al-giornale-loro-non-sono-piu-forti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/il-racconto-del-rabbino-zamak-al-giornale-loro-non-sono-piu-forti/</guid>
+<pubDate>Thu, 17 Sep 2026 14:25:36 +0000</pubDate>
+<description>I responsabili dell'aggressione. Ecco chi sono: guarda il video Hanno tutti e tre appena 18 e 20 anni, origini nordafricane e precedenti alle spalle. La Digos li ha individuati anche grazie al video girato dallo stesso rabbino. Per uno è scattato l’arresto per tentata rapina aggravata dall’odio antisemita, gli altri due sono stati denunciati a piede libero Paola Fucilieri</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NLTGDML5GVFOJCR2Y2WUEG65BM.jpeg?focal=676%2C719&amp;auth=4f00eec136b2e08686b48469489dc1658d55ab403183478945d7fb50bb814220&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Codice della strada, stretta anche sui pedoni: gli errori costeranno carissimo</title>
 <link>https://www.ilgiornale.it/news/cittadini/codice-della-strada-stretta-anche-sui-pedoni-gli-errori-costeranno-carissimo/</link>
@@ -782,22 +798,6 @@
 <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Magistratura Il buonsenso che corregge un’ingiustizia Francesco Maria Del Vigo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FWWFOIN5YVZIT7LBOWSPW5YGTP4.jpg?smart=true&amp;auth=ded598ad789150760e4e703703a10876227e6217e9efcb7b5aec9586ef26b413&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Loro sono la crème de la crème</title>
-<link>https://www.ilgiornale.it/news/giu-la-maschera/loro-sono-la-creme-de-la-creme/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/loro-sono-la-creme-de-la-creme/</guid>
-<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-<description>Giù la maschera Loro sono la crème de la crème Luigi Mascheroni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/QM2UAZG7AZIZ7FLCKR4NAUU5DE.jpg?smart=true&amp;auth=242208eddc90347bfa663113eb13458dda849c44cab69d5d251ed811da910194&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>La giustizia alla fine arriva ma lo fa troppo piano</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/la-giustizia-alla-fine-arriva-ma-lo-fa-troppo-piano/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/la-giustizia-alla-fine-arriva-ma-lo-fa-troppo-piano/</guid>
-<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-<description>La stanza di Feltri La giustizia alla fine arriva ma lo fa troppo piano Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FYMECJXVQFMCHPNO2YXKCATGHQ.jpg?focal=2023%2C3851&amp;auth=d47a63d9724e4d5b49c221185948f5789a603fe99909f2306c4b2f47fe3d5268&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
