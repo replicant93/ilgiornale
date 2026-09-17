@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 04:24:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 04:42:25 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Quella difesa del presepe e delle radici</title>
+<link>https://www.ilgiornale.it/news/attualita/quella-difesa-del-presepe-e-delle-radici/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/quella-difesa-del-presepe-e-delle-radici/</guid>
+<pubDate>Thu, 17 Sep 2026 04:30:14 +0000</pubDate>
+<description>commento Attualità Quella difesa del presepe e delle radici Giannino della Frattina</description>
+</item>
 <item>
 <title>Europa amara per il Milan: due svarioni difensivi costano lo 0-2 contro il Benfica</title>
 <link>https://www.ilgiornale.it/news/calcio/europa-amara-per-il-milan-due-svarioni-difensivi-costano-lo-0-2-contro-il-benfica/</link>
@@ -790,13 +797,6 @@
 <pubDate>Tue, 15 Sep 2026 10:46:13 +0000</pubDate>
 <description>Le tre donne del caso Report tra gelosie, abusi e “codice rosso” Le tre donne del caso Report tra gelosie, abusi e “codice rosso” Chiesto il protocollo per Lady Lavitola. Avviso a Sigfrido: “Non nomini mio figlio, è anche minore” Pasquale Napolitano Anche Santoro scarica Ranucci: “Imperdonabile che non abbia preso le distanze da Lavitola” Ranucci promoter per Lavitola. L’indagine sul caso carbon credit</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/7VXT2I2OK5GCVKM76MXLT2RL6I.jpg?focal=779%2C514&amp;auth=8954977edb139ddb8822cb834c552580e166ba344228f41a621679d26dad3cd5&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Bonus casa fino a 500 euro al mese per i genitori separati: reddito, affitto e immobili, chi potrà ottenere l’aiuto</title>
-<link>https://www.ilgiornale.it/news/cittadini/bonus-casa-fino-a-500-euro-al-mese-per-i-genitori-separati-reddito-affitto-e-immobili-chi-potra-ottenere-laiuto/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bonus-casa-fino-a-500-euro-al-mese-per-i-genitori-separati-reddito-affitto-e-immobili-chi-potra-ottenere-laiuto/</guid>
-<pubDate>Tue, 15 Sep 2026 10:37:39 +0000</pubDate>
-<description>Valentina Menassi</description>
 </item>
 </channel>
 </rss>
