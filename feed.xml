@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 09:17:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 09:33:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’Ue approva il divieto dei social per gli under 13: cosa prevede il Kids Act</title>
+<link>https://www.ilgiornale.it/news/tecnologia/lue-approva-il-divieto-dei-social-per-gli-under-13-cosa-prevede-il-kids-act/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tecnologia/lue-approva-il-divieto-dei-social-per-gli-under-13-cosa-prevede-il-kids-act/</guid>
+<pubDate>Thu, 17 Sep 2026 09:17:35 +0000</pubDate>
+<description>Bruxelles stringe su piattaforme, videogiochi e chatbot: controlli dei genitori, verifica dell’età e nuovi obblighi per le Big Tech Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Y5BFCXLHUZJRDP62LITVD2UG4Y.jpg?focal=380%2C206&amp;auth=1be6c07949ccdf67e770cb7da713b8e5d403f35e909d5d7685a88171534c4ed6&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Sono con i residenti ma ho dedicato un pensiero agli immigrati”. Mbappé si giustifica ma è bufera</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/sono-con-la-gente-di-ceuta-ma-ho-dedicato-un-pensiero-agli-immigrati-mbappe-si-giustifica-ma-e-bufera/</link>
@@ -786,14 +794,6 @@
 <pubDate>Wed, 16 Sep 2026 04:00:01 +0000</pubDate>
 <description>Retrogusto Tavolo Unico, l’antidoto alla ristorazione della condivisione Andrea Cuomo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/O6Q47JFEX5BCFGBQ3CNW4OHVI4.jpg?focal=4194%2C2669&amp;auth=ffb12e677f297849c66967e9a54b277e1f81c2532f3dbcf3aec3de41a2abe989&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Navi Usa, scontri e razzi: alta tensione nelle acque dell’Indo-Pacifico</title>
-<link>https://www.ilgiornale.it/news/difesa/navi-usa-scontri-e-razzi-alta-tensione-nelle-acque-dellindo-pacifico/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/navi-usa-scontri-e-razzi-alta-tensione-nelle-acque-dellindo-pacifico/</guid>
-<pubDate>Wed, 16 Sep 2026 04:00:01 +0000</pubDate>
-<description>L’esercito cinese ha sparato razzi luminosi vicino a un aereo filippino che operava vicino alle barriere coralline di Subi e Mischief. Gli Usa si affidano invece alla propria Guardia Costiera per rafforzare la presenza nel Pacifico occidentale Federico Giuliani</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OTMZP6HKOFOAJM6DZ7NETSMGD4.jpg?smart=true&amp;auth=6cd579145377b567f3e7c4b925a2aca4bdff926ab55fbbd8d14257e5617c98ba&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
