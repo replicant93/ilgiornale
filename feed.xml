@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 06:00:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 06:29:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La lunga ombra dei sicari di Putin</title>
+<link>https://www.ilgiornale.it/news/guerra/la-lunga-ombra-dei-sicari-del-cremlino-per-lfbi-le-spie-di-putin-sono-pronte-a-uccidere-in-america/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/la-lunga-ombra-dei-sicari-del-cremlino-per-lfbi-le-spie-di-putin-sono-pronte-a-uccidere-in-america/</guid>
+<pubDate>Thu, 17 Sep 2026 06:23:24 +0000</pubDate>
+<description>Meloni: “Italia ha posizione chiara sull’Ucraina, da Mosca nervosismo”. Il Cremlino: “Se l’Europa ci attacca, la guerra sarà breve” La lunga ombra dei sicari di Putin Redazione web La lunga ombra dei sicari di Putin</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/7B77TSRZCBFNTKRMPHXWGD7QBQ.jpg?focal=2172%2C943&amp;auth=f232edde95ca2725713ff2b4d11e254c91854a397a25181fa6ae550fe2522fe0&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>“Divieto graduale di velo islamico”. Il piano di Marine Le Pen per il futuro della Francia</title>
+<link>https://www.ilgiornale.it/news/politica-estera/divieto-graduale-di-velo-islamico-la-proposta-di-marine-le-pen-se-vincesse-la-corsa-alleliseo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/divieto-graduale-di-velo-islamico-la-proposta-di-marine-le-pen-se-vincesse-la-corsa-alleliseo/</guid>
+<pubDate>Thu, 17 Sep 2026 06:18:44 +0000</pubDate>
+<description>Politica estera “Divieto graduale di velo islamico”. Il piano di Marine Le Pen per il futuro della Francia Tra gli obiettivi della candidata del Rassemblement National anche “mettere al bando Fratelli Musulmani” Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YC3UP37AQ5IYZKMCHXHQHGELWE.jpg?smart=true&amp;auth=02c936538330925a4a6156835cc010c4f1c5a77fa3c4d768b36f51e6f02a9d5a&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>L’Ue apre al Canada. Trump minaccia “dazi molto pesanti”</title>
 <link>https://www.ilgiornale.it/news/politica-estera/lue-apre-al-canada-trump-minaccia-dazi-molto-pesanti/</link>
@@ -781,22 +797,6 @@
 <pubDate>Tue, 15 Sep 2026 11:15:19 +0000</pubDate>
 <description>Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BGERUFL2UZB2XKD6S66TNUOE5U.png?smart=true&amp;auth=808526becdc2982ba452185ecaa68daf2bf68fbe93070969b3c11454ea892043&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Legge elettorale, ok del Senato con 113 voti favorevoli. Scintille dalle opposizioni</title>
-<link>https://www.ilgiornale.it/news/interni/legge-elettorale-al-via-la-discussione-in-senato-scintille-dai-5s/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/legge-elettorale-al-via-la-discussione-in-senato-scintille-dai-5s/</guid>
-<pubDate>Tue, 15 Sep 2026 11:07:22 +0000</pubDate>
-<description>Interni Legge elettorale, ok del Senato con 113 voti favorevoli. Scintille dalle opposizioni Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/WXOYDPA3DFGCRJBLQLKLVQ2S2Y.jpg?focal=1143%2C1207&amp;auth=37de851c5394645caed7ff82d533a40b33dcd2565172365f3e641dadcd5a9fa0&amp;width=2327&amp;height=1308" medium="image" />
-</item>
-<item>
-<title>Famiglia nel bosco, il sindaco: “Dal Comune 75mila euro per la casa famiglia”</title>
-<link>https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-il-sindaco-dal-comune-75mila-euro-per-la-casa-famiglia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-il-sindaco-dal-comune-75mila-euro-per-la-casa-famiglia/</guid>
-<pubDate>Tue, 15 Sep 2026 11:04:29 +0000</pubDate>
-<description>I tre bambini tornano per alcune ore nel paese dove vivevano con i genitori. Il Comune sta pagando 7.500 euro al mese per la casa-famiglia: in dieci mesi la spesa ha raggiunto 75mila euro Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/XMEDX5TVDFOCVCWDL4NJRKIFQA.jpg?focal=1475%2C327&amp;auth=8817cdc0e02a29dfa4cae709f017c10fc9de8c8ad008f82aea4f84d6d5d5f8f3&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
