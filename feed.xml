@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 11:16:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 11:31:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Nuova Hyundai TUCSON Dark Line, a settembre con Anticipo 0 e Interessi 0</title>
@@ -299,6 +299,14 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/sei-nuovi-casi-di-comportamento-imprevisto-o-preoccupante-openai-lancia-lallarme-sullintelligenza-artificiale/</guid>
 <pubDate>Thu, 17 Sep 2026 07:32:06 +0000</pubDate>
 <description>Anche il Ceo della società, Sam Altman, ha proposto di rallentare lo sviluppo dell’IA viste le numerose problematiche degli ultimi tempi Alessandro Ferro</description>
+</item>
+<item>
+<title>Cosa c’è dietro la rivelazione degli Usa</title>
+<link>https://www.ilgiornale.it/news/difesa/abbiamo-armi-nello-spazio-cosa-ce-dietro-la-rivelazione-degli-usa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/abbiamo-armi-nello-spazio-cosa-ce-dietro-la-rivelazione-degli-usa/</guid>
+<pubDate>Thu, 17 Sep 2026 07:03:18 +0000</pubDate>
+<description>“Le truppe si preparino a combattere intorno alla Luna”. La rivelazione del Pentagono sulle guerre stellari Cosa c’è dietro la rivelazione degli Usa Washington ammette per la prima volta di avere armi già in orbita. E ora il capo degli Stati Maggiori parla di forze pronte a combattere fino allo spazio cislunare Francesca Salvatore</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YH4XEIWU5FKOXD43JAXE7QGAJM.png?smart=true&amp;auth=a35b1f225ffcbe3e89a49fa94be87ea5e92234fe5f0dea3cf84db1434435b23f&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Dalla Terra alla Luna, il Pentagono prepara la guerra nello spazio</title>
@@ -790,13 +798,6 @@
 <pubDate>Wed, 16 Sep 2026 09:54:29 +0000</pubDate>
 <description>L’eurodeputata di Avs definisce la città “un residuo del colonialismo europeo”. Susanna Ceccardi e Lara Magoni la stroncano: “La storia non la fa lei” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MXYOLUEXQFNRLH6YWD4ETPYUZY.jpg?smart=true&amp;auth=098d2d3ff5aa1c13ab17879751c14c094d8ba4938a3eeb5f53d0b09006302688&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Roggero Opens in new window</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/roggero-ogni-vita-merita-rispetto-avrei-dovuto-riflettere-prima-di-sparare-oggi-ludienza-a-milano-per-chiedere-il-differimento-pena/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/roggero-ogni-vita-merita-rispetto-avrei-dovuto-riflettere-prima-di-sparare-oggi-ludienza-a-milano-per-chiedere-il-differimento-pena/</guid>
-<pubDate>Wed, 16 Sep 2026 09:29:00 +0000</pubDate>
-<description>Roggero Opens in new window</description>
 </item>
 </channel>
 </rss>
