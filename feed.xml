@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 07:33:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 07:50:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Sei nuovi casi di comportamento imprevisto o preoccupante”: OpenAI lancia l’allarme sull’intelligenza artificiale</title>
+<link>https://www.ilgiornale.it/news/nuove-frontiere/sei-nuovi-casi-di-comportamento-imprevisto-o-preoccupante-openai-lancia-lallarme-sullintelligenza-artificiale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/sei-nuovi-casi-di-comportamento-imprevisto-o-preoccupante-openai-lancia-lallarme-sullintelligenza-artificiale/</guid>
+<pubDate>Thu, 17 Sep 2026 07:32:06 +0000</pubDate>
+<description>Anche il Ceo della società, Sam Altman, ha proposto di rallentare lo sviluppo dell’IA viste le numerose problematiche degli ultimi tempi Alessandro Ferro</description>
+</item>
 <item>
 <title>Dalla Terra alla Luna, il Pentagono prepara la guerra nello spazio</title>
 <link>https://www.ilgiornale.it/news/esteri/dalla-terra-alla-luna-il-pentagono-prepara-la-guerra-nello-spazio/</link>
@@ -788,13 +795,6 @@
 <pubDate>Tue, 15 Sep 2026 15:12:55 +0000</pubDate>
 <description>Si tratta di un 44enne che durante la detenzione ha minacciato di morte il personale della polizia penitenziaria Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/LQ62IFU5NBBLNKNEW26NITBD6I.png?smart=true&amp;auth=72253d22c1e24ab0411e68ecc5584b8d9a671cd9f365e21e54daaeb84a3caf65&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Pensioni di reversibilità: ecco come cambiano gli importi degli assegni e le soglie dal 2027</title>
-<link>https://www.ilgiornale.it/news/previdenza-e-pensioni/pensioni-di-reversibilita-ecco-come-cambiano-gli-importi-degli-assegni-e-le-soglie-dal-2027/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/previdenza-e-pensioni/pensioni-di-reversibilita-ecco-come-cambiano-gli-importi-degli-assegni-e-le-soglie-dal-2027/</guid>
-<pubDate>Tue, 15 Sep 2026 14:10:55 +0000</pubDate>
-<description>Federico Garau</description>
 </item>
 </channel>
 </rss>
