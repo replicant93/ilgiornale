@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 13:57:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 14:18:49 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Codice della strada, stretta anche sui pedoni: gli errori costeranno carissimo</title>
+<link>https://www.ilgiornale.it/news/cittadini/codice-della-strada-stretta-anche-sui-pedoni-gli-errori-costeranno-carissimo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/codice-della-strada-stretta-anche-sui-pedoni-gli-errori-costeranno-carissimo/</guid>
+<pubDate>Thu, 17 Sep 2026 14:01:31 +0000</pubDate>
+<description>Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/6GPJTOEIXFFO5DLR3MUP65XHII.jpg?focal=1048%2C384&amp;auth=bf74f6b6ff10748dfe59565fc76992c49baa70fd368e66efd709ed98978497c2&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Ceuta, il Parlamento europeo condanna Sanchez e si schiera con l’Italia</title>
 <link>https://www.ilgiornale.it/news/europa/ceuta-il-parlamento-europeo-condanna-sanchez-e-si-schiera-con-litalia/</link>
@@ -790,14 +798,6 @@
 <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
 <description>La stanza di Feltri La giustizia alla fine arriva ma lo fa troppo piano Vittorio Feltri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FYMECJXVQFMCHPNO2YXKCATGHQ.jpg?focal=2023%2C3851&amp;auth=d47a63d9724e4d5b49c221185948f5789a603fe99909f2306c4b2f47fe3d5268&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Bologna: un paradiso per i rom. Due milioni spesi, zero incassati</title>
-<link>https://www.ilgiornale.it/news/interni/bologna-un-paradiso-per-i-rom-due-milioni-spesi-zero-incassati/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/bologna-un-paradiso-per-i-rom-due-milioni-spesi-zero-incassati/</guid>
-<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-<description>I Giovani “disertori” spaccano il Pd. Padri nobili indignati La Giunta Lepore paga utenze e progetti per le “aree sosta” mentre le famiglie nomadi non versano un euro. Il caso dei centri minorili senza controlli: droga, coltelli e risse contro gli agenti Francesco Boezi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2DLKPBC6JVBFFNE42VGWX2E3OA.jpg?focal=1360%2C672&amp;auth=76bd024223bdee04b94c46b73c2d3e4d53a8f4cb3d8c733fcc5c1155ee379eda&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
