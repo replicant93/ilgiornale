@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 19:29:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 19:43:11 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Siamo i nipoti del comunismo”. Così i giovani Pd vogliono “distruggere il capitalismo”</title>
+<link>https://www.ilgiornale.it/news/interni/siamo-i-nipoti-del-comunismo-cosi-i-giovani-pd-vogliono-distruggere-il-capitalismo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/siamo-i-nipoti-del-comunismo-cosi-i-giovani-pd-vogliono-distruggere-il-capitalismo/</guid>
+<pubDate>Thu, 17 Sep 2026 19:28:35 +0000</pubDate>
+<description>Interni “Siamo i nipoti del comunismo”. Così i giovani Pd vogliono “distruggere il capitalismo” La nuova Schlein va oltre Elly: un’altra mina sul Campo largo Marco Rocco De Luca rivendica l’eredità comunista e attacca Stati Uniti, sionismo e liberismo. Nuova polemica sulla generazione emergente del Pd dopo la sparata di Virginia Libero Massimo Balsamo Ciampi usato dalla sinistra e tradito sulla Patria</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QOTYCORFSZAHPOHEILQB2S74RI.png?focal=772%2C374&amp;auth=6eb507f263910c629726d565d1aedbccc24d7956d3e89971c26ed9d8a7fc98f7&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Re Carlo risponde alle accuse di Charles Spencer nel libro su Diana: “Il dolore di un fratello può offuscare la ragione”</title>
 <link>https://www.ilgiornale.it/news/personaggi/re-carlo-risponde-alle-accuse-di-charles-spencer-nel-libro-su-diana-il-dolore-di-un-fratello-puo-offuscare-la-ragione/</link>
@@ -789,14 +797,6 @@
 <pubDate>Wed, 16 Sep 2026 14:10:56 +0000</pubDate>
 <description>L’esenzione vale anche per i motocicli, ma ogni cittadino avra diritto a una sola agevolazione Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BXHLMHSFAJJNDLHTAQRYRCJUIY.jpg?smart=true&amp;auth=a9184a38e7cfc7ea7f3a89ef8e39f2f4e2fde3bacc6d82765699b0e0264f1a9e&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Bollo auto, sconto progressivo sulla tassa: le novità</title>
-<link>https://www.ilgiornale.it/news/cittadini/bollo-auto-sconto-progressivo-sulla-tassa-le-novita/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bollo-auto-sconto-progressivo-sulla-tassa-le-novita/</guid>
-<pubDate>Wed, 16 Sep 2026 13:29:22 +0000</pubDate>
-<description>Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VGSRRF6Q3FMERN7YDJDGHSPGDQ.jpg?smart=true&amp;auth=8b03f4fb54db7da9e23afae95624c856e3fc8f9d9f70322e80f4fa8b53e7be55&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
