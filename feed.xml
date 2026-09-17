@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 05:49:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 06:00:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’Ue apre al Canada. Trump minaccia “dazi molto pesanti”</title>
+<link>https://www.ilgiornale.it/news/politica-estera/lue-apre-al-canada-trump-minaccia-dazi-molto-pesanti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/lue-apre-al-canada-trump-minaccia-dazi-molto-pesanti/</guid>
+<pubDate>Thu, 17 Sep 2026 05:55:34 +0000</pubDate>
+<description>Von der Leyen, il discorso sullo stato dell’Unione: “Ultranazionalisti e russi vogliono frantumare l’Europa. Avanti con il sostegno all’Ucraina, Ceuta è Europa. Stop social sotto i 13 anni” Nel suo discorso von der Leyen apre all’ipotesi del Canada come primo membro associato dell’Unione. Il presidente Usa minaccia ritorsioni Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Y4JAZOR6HFMGNLXIU4LCCLEBVU.jpg?focal=772%2C124&amp;auth=06a3118c8f998dd8a48c255c99b9a2ba90c730708eb26d9194f3222e25714931&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Reflusso gastroesofageo: come si diagnostica e quali esami possono essere utili</title>
 <link>https://www.ilgiornale.it/news/benessere/reflusso-gastroesofageo-come-si-diagnostica-e-quali-esami-possono-essere-utili/</link>
@@ -789,14 +797,6 @@
 <pubDate>Tue, 15 Sep 2026 11:04:29 +0000</pubDate>
 <description>I tre bambini tornano per alcune ore nel paese dove vivevano con i genitori. Il Comune sta pagando 7.500 euro al mese per la casa-famiglia: in dieci mesi la spesa ha raggiunto 75mila euro Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/XMEDX5TVDFOCVCWDL4NJRKIFQA.jpg?focal=1475%2C327&amp;auth=8817cdc0e02a29dfa4cae709f017c10fc9de8c8ad008f82aea4f84d6d5d5f8f3&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>L’ultimo saluto a Emma Bonino. I funerali di Stato laici con Meloni e Mattarella</title>
-<link>https://www.ilgiornale.it/news/politica/lultimo-saluto-a-emma-bonino-i-funerali-di-stato-laici-con-meloni-e-mattarella/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/lultimo-saluto-a-emma-bonino-i-funerali-di-stato-laici-con-meloni-e-mattarella/</guid>
-<pubDate>Tue, 15 Sep 2026 11:02:24 +0000</pubDate>
-<description>Le esequie si tengono nella sala della Protomoteca. In piazza del Campidoglio montato un maxi schermo per i cittadini che vogliono assistere. Il capo dello Stato accompagnerà il feretro all’uscita Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/6QKT7VNXRBCALBEZWGAZWIEKAY.jpg?smart=true&amp;auth=0e0f9690815cc1c8d66125ec9fd684dd3537c89067de41d554b5e62a574f1d5c&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
