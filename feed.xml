@@ -5,8 +5,23 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 14:34:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 14:49:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nuova Kia EV2 Long Range: come va l’elettrica da 453 km di autonomia</title>
+<link>https://www.ilgiornale.it/news/auto-moto-motori/nuova-kia-ev2-long-range-come-va-lelettrica-da-453-km-di-autonomia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/nuova-kia-ev2-long-range-come-va-lelettrica-da-453-km-di-autonomia/</guid>
+<pubDate>Thu, 17 Sep 2026 14:46:38 +0000</pubDate>
+<description>Valentina Menassi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/D3ZPT3432VBTTKVU5FSDR6FOJ4.jfif?focal=975%2C705&amp;auth=af7c46be86e618e09bdd65114a9427b65bdeb362920ac2ff80f066ce5b28430f&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Taglio del cuneo sulle pensioni: requisiti, importi e calcolo degli arretrati</title>
+<link>https://www.ilgiornale.it/news/cittadini/taglio-del-cuneo-sulle-pensioni-di-ottobre-requisiti-importi-e-calcolo-degli-arretrati/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/taglio-del-cuneo-sulle-pensioni-di-ottobre-requisiti-importi-e-calcolo-degli-arretrati/</guid>
+<pubDate>Thu, 17 Sep 2026 14:42:59 +0000</pubDate>
+<description>Federico Garau</description>
+</item>
 <item>
 <title>Pugno in faccia e speronamento a un carabiniere: ma il pm chiede di archiviare per la tenuità del fatto</title>
 <link>https://www.ilgiornale.it/news/nazionale/pugno-in-faccia-e-speronamento-a-un-carabiniere-ma-il-pm-chiede-di-archiviare-per-la-tenuita-del-fatto/</link>
@@ -782,22 +797,6 @@
 <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
 <description>Camilla Golzi Saporiti</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ZMD4B5BU3ZK6PFARNBATYEHEUI.jpg?smart=true&amp;auth=9362922caadd384f138af6340dd65fef17f608a9795f1a47266c22baf5b1a4a9&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Emma ha cambiato un Paese che l’ha cambiata</title>
-<link>https://www.ilgiornale.it/news/interni/emma-ha-cambiato-un-paese-che-lha-cambiata/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/emma-ha-cambiato-un-paese-che-lha-cambiata/</guid>
-<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Interni Emma ha cambiato un Paese che l’ha cambiata Filippo Facci</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2F3HVFMH7JMFL5PB2RLDPDA32HTE.jpg?smart=true&amp;auth=5fafc1fb93f37d3b5f3175d5762059fba1bdd1e991f2cca5f517ddb4577aae79&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Il buonsenso che corregge un’ingiustizia</title>
-<link>https://www.ilgiornale.it/news/magistratura/il-buonsenso-che-corregge-uningiustizia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/il-buonsenso-che-corregge-uningiustizia/</guid>
-<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Magistratura Il buonsenso che corregge un’ingiustizia Francesco Maria Del Vigo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FWWFOIN5YVZIT7LBOWSPW5YGTP4.jpg?smart=true&amp;auth=ded598ad789150760e4e703703a10876227e6217e9efcb7b5aec9586ef26b413&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
