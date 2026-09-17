@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 17 Sep 2026 06:29:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 06:50:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Fondazione Prada riscopre le sue origini con i drink di Savage</title>
+<link>https://www.ilgiornale.it/news/retrogusto/fondazione-prada-riscopre-le-sue-origini-con-i-drink-di-savage/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/fondazione-prada-riscopre-le-sue-origini-con-i-drink-di-savage/</guid>
+<pubDate>Thu, 17 Sep 2026 06:33:32 +0000</pubDate>
+<description>Retrogusto Fondazione Prada riscopre le sue origini con i drink di Savage Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5E6YC542BVBY7FCOUB4DF3PL6Q.jpg?smart=true&amp;auth=736c04ef18080374186aa97f9171c0b1d9f99469651e8a47185e39565bf28ea5&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>La lunga ombra dei sicari di Putin</title>
 <link>https://www.ilgiornale.it/news/guerra/la-lunga-ombra-dei-sicari-del-cremlino-per-lfbi-le-spie-di-putin-sono-pronte-a-uccidere-in-america/</link>
@@ -789,14 +797,6 @@
 <pubDate>Tue, 15 Sep 2026 11:19:13 +0000</pubDate>
 <description>Ricoverata al Cto per l’estrazione del piombo, la giornalista Cristina Stillitano rompe il silenzio dopo l’agguato in via della Giuliana Federico Garau</description>
 <media:content url="https://cloudfront-eu-central-1.images.arcpublishing.com/ilgiornale/T4I2R6RODBGZZHMCBVN2AHIDR4.png" medium="image" />
-</item>
-<item>
-<title>Pugni in faccia e poi la rapina: direttore di Novella 2000 aggredito a Milano da tre ventenni</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/pugni-in-faccia-e-poi-la-rapina-direttore-di-novella-2000-aggredito-a-milano-da-tre-ventenni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/pugni-in-faccia-e-poi-la-rapina-direttore-di-novella-2000-aggredito-a-milano-da-tre-ventenni/</guid>
-<pubDate>Tue, 15 Sep 2026 11:15:19 +0000</pubDate>
-<description>Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BGERUFL2UZB2XKD6S66TNUOE5U.png?smart=true&amp;auth=808526becdc2982ba452185ecaa68daf2bf68fbe93070969b3c11454ea892043&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
