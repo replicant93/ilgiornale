@@ -5,8 +5,23 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 18 Sep 2026 03:59:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 04:19:22 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’addio a Mantica, la destra e la storia</title>
+<link>https://www.ilgiornale.it/news/nazionale/laddio-a-mantica-la-destra-e-la-storia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/laddio-a-mantica-la-destra-e-la-storia/</guid>
+<pubDate>Fri, 18 Sep 2026 04:18:40 +0000</pubDate>
+<description>commento Nazionale L’addio a Mantica, la destra e la storia Giannino della Frattina</description>
+</item>
+<item>
+<title>Le pizzerie migliori al mondo? Sono a Londra e a New York</title>
+<link>https://www.ilgiornale.it/news/retrogusto/le-pizzerie-migliori-al-mondo-sono-a-londra-e-a-new-york/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/le-pizzerie-migliori-al-mondo-sono-a-londra-e-a-new-york/</guid>
+<pubDate>Fri, 18 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Le pizzerie migliori al mondo? Sono a Londra e a New York Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LRUP4GR5LVBSDF2HXBMZEOYM5E.png?smart=true&amp;auth=9f5a2ef78bb8502cef64f35a03c2c9cf1e53ddecb151b4d46b3116ae17dab0df&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>La Juventus demolisce il Nec per 5-0 al debutto in Europa League</title>
 <link>https://www.ilgiornale.it/news/calcio/la-juventus-demolisce-il-nec-per-5-0-al-debutto-in-europa-league/</link>
@@ -782,21 +797,6 @@
 <pubDate>Wed, 16 Sep 2026 14:49:22 +0000</pubDate>
 <description>Federico Giuliani</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BNLC6S33J5HUTK56LNHBWYCP6E.jpg?smart=true&amp;auth=e322a6ed5fbeafd2d317b5f2eb043676de98ba6092ca1c4ab83368145e8dbdc6&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Usa-Cina, scoppia il caso delle “navi spia”: cosa avrebbero scoperto gli americani</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/usa-cina-scoppia-il-caso-delle-navi-spia-cosa-avrebbero-scoperto-gli-americani/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/usa-cina-scoppia-il-caso-delle-navi-spia-cosa-avrebbero-scoperto-gli-americani/</guid>
-<pubDate>Wed, 16 Sep 2026 14:46:41 +0000</pubDate>
-<description>Federico Giuliani</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/PIWDGGVKNBJIFLZIN44FXBP6GI.jpg?smart=true&amp;auth=985da25537fb5f5929355ec6402781d17183ad353b99b3c5fcd4b0632615d418&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Ex Ilva, le imprese dell’indotto congelano i licenziamenti: stop fino alla sentenza della Cassazione</title>
-<link>https://www.ilgiornale.it/news/aziende/ex-ilva-lindotto-congela-i-licenziamenti-stop-fino-alla-sentenza-della-cassazione/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/ex-ilva-lindotto-congela-i-licenziamenti-stop-fino-alla-sentenza-della-cassazione/</guid>
-<pubDate>Wed, 16 Sep 2026 14:15:26 +0000</pubDate>
-<description>Le imprese accolgono la sollecitazione dell’esecutivo e rinviano le decisioni sulle uscite in attesa del prossimo passaggio giudiziario Valentina Menassi</description>
 </item>
 </channel>
 </rss>
