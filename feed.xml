@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 18 Sep 2026 20:14:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 20:30:40 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Diffondono fake news”. Trump bandisce CNN, Politico e MS NOW dalla Casa Bianca</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/diffondono-fake-news-trump-bandisce-cnn-politico-e-ms-now-dalla-casa-bianca/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/diffondono-fake-news-trump-bandisce-cnn-politico-e-ms-now-dalla-casa-bianca/</guid>
+<pubDate>Fri, 18 Sep 2026 20:24:35 +0000</pubDate>
+<description>Il presidente degli Stati Uniti ha annunciato il bando “con effetto immediato”. Poi un altro monito: “Seguiranno altri media” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3RDIAN6KTZG6XHKKJWIAWYCUSE.jpg?focal=1407%2C636&amp;auth=4bb7e6d8ffeeeba2513524c8ee2cfd3c46663fb7ee11c3372c04405b1dcb132a&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>ProPal, centri sociali e islamisti: il carrozzone della nuova sinistra in piazza per gli abusivi dello Spin Time</title>
 <link>https://www.ilgiornale.it/news/interni/propal-centri-sociali-e-islamisti-il-carrozzone-della-nuova-sinistra-in-piazza-per-gli-abusivi-dello-spin-time/</link>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 17 Sep 2026 14:25:36 +0000</pubDate>
 <description>I responsabili dell'aggressione. Ecco chi sono: guarda il video Hanno tutti e tre appena 18 e 20 anni, origini nordafricane e precedenti alle spalle. La Digos li ha individuati anche grazie al video girato dallo stesso rabbino. Per uno è scattato l’arresto per tentata rapina aggravata dall’odio antisemita, gli altri due sono stati denunciati a piede libero Paola Fucilieri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NLTGDML5GVFOJCR2Y2WUEG65BM.jpeg?focal=676%2C719&amp;auth=4f00eec136b2e08686b48469489dc1658d55ab403183478945d7fb50bb814220&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Codice della strada, stretta anche sui pedoni: gli errori costeranno carissimo</title>
-<link>https://www.ilgiornale.it/news/cittadini/codice-della-strada-stretta-anche-sui-pedoni-gli-errori-costeranno-carissimo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/codice-della-strada-stretta-anche-sui-pedoni-gli-errori-costeranno-carissimo/</guid>
-<pubDate>Thu, 17 Sep 2026 14:01:31 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/6GPJTOEIXFFO5DLR3MUP65XHII.jpg?focal=1048%2C384&amp;auth=bf74f6b6ff10748dfe59565fc76992c49baa70fd368e66efd709ed98978497c2&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
