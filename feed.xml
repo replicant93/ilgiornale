@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 18 Sep 2026 19:56:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 20:14:21 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>ProPal, centri sociali e islamisti: il carrozzone della nuova sinistra in piazza per gli abusivi dello Spin Time</title>
+<link>https://www.ilgiornale.it/news/interni/propal-centri-sociali-e-islamisti-il-carrozzone-della-nuova-sinistra-in-piazza-per-gli-abusivi-dello-spin-time/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/propal-centri-sociali-e-islamisti-il-carrozzone-della-nuova-sinistra-in-piazza-per-gli-abusivi-dello-spin-time/</guid>
+<pubDate>Fri, 18 Sep 2026 20:09:28 +0000</pubDate>
+<description>Oltre 200 realtà si riuniranno nella capitale per sfidare quella che vedono come una “barbarie”, ovvero la lotta contro le occupazioni abusive Francesca Galici , Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RWJJ3RJROFHFJJRG245C5RMBIQ.jpg?focal=2476%2C727&amp;auth=ee17e45ec20d0241eb5f2736487c5831dd5109e10204cf44ee35dc028ef4f1c2&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Maranza, attentato a Ranucci, estremismo e crisi demografica: l’evento Fenix di Gioventù Nazionale</title>
 <link>https://www.ilgiornale.it/news/interni/maranza-attentato-a-ranucci-estremismo-e-crisi-demografica-levento-fenix-di-gioventu-nazionale/</link>
@@ -792,14 +800,6 @@
 <pubDate>Thu, 17 Sep 2026 14:01:31 +0000</pubDate>
 <description>Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/6GPJTOEIXFFO5DLR3MUP65XHII.jpg?focal=1048%2C384&amp;auth=bf74f6b6ff10748dfe59565fc76992c49baa70fd368e66efd709ed98978497c2&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Ceuta, il Parlamento europeo condanna Sanchez e si schiera con l’Italia</title>
-<link>https://www.ilgiornale.it/news/europa/ceuta-il-parlamento-europeo-condanna-sanchez-e-si-schiera-con-litalia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/ceuta-il-parlamento-europeo-condanna-sanchez-e-si-schiera-con-litalia/</guid>
-<pubDate>Thu, 17 Sep 2026 13:51:50 +0000</pubDate>
-<description>“Attorno a Ceuta nuclei della jihad”. Così Tajani rivendica la sospensione di Schengen con la Spagna Bocciato l’emendamento dei Socialisti e democratici che stigmatizzava la chiusura delle frontiere italiane con la spagna dopo l’invasione di fine luglio Francesca Galici “Sono con i residenti ma ho dedicato un pensiero agli immigrati”. Mbappé si giustifica ma è bufera</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/B7CBEUY7G5FNPIIYUGVJZYP7HQ.jpg?smart=true&amp;auth=4a550d588d8140ee09a0097cf80bb6b5cb47a008291e1f636a383c0f8aaff214&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
