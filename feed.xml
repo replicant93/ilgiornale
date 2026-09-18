@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 18 Sep 2026 09:23:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 09:40:27 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Lo spray urticante, poi le coltellate alla prof in classe. L’aggressione choc del 13enne a Roma</title>
+<link>https://www.ilgiornale.it/news/nazionale/lo-spray-urticante-poi-le-coltellate-alla-prof-in-classe-laggressione-choc-del-13enne-a-roma/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/lo-spray-urticante-poi-le-coltellate-alla-prof-in-classe-laggressione-choc-del-13enne-a-roma/</guid>
+<pubDate>Fri, 18 Sep 2026 09:24:07 +0000</pubDate>
+<description>Paura alla scuola media Giovanni Verga, in zona Collatina: lo studente avrebbe spruzzato lo spray al peperoncino sul volto dell’insegnante per poi ferirla con un coltello. La docente è sotto choc ma non è in pericolo di vita. Indagano i carabinieri Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/KTE32XHJPNEKJMYA4YE2A4T7HA.png?smart=true&amp;auth=6b16c723dbf9eaa5b571c5e424eae79c2b734a1426a0eeedc19e0744ea50803b&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Roma - Inter finisce con nove gol</title>
 <link>https://www.ilgiornale.it/news/calcio/roma-inter-finisce-con-nove-gol/</link>
@@ -792,13 +800,6 @@
 <pubDate>Thu, 17 Sep 2026 07:39:56 +0000</pubDate>
 <description>Marco Pizzorno</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/KJ7KN4LSK5HVJNBC7E4CLODN2M.jpg?focal=424%2C367&amp;auth=f1eff1d2fe6be335d7669649bbc9b5cee504ad018ea9522e10fda7fba63c6aa7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Sei nuovi casi di comportamento imprevisto o preoccupante”: OpenAI lancia l’allarme sull’intelligenza artificiale</title>
-<link>https://www.ilgiornale.it/news/nuove-frontiere/sei-nuovi-casi-di-comportamento-imprevisto-o-preoccupante-openai-lancia-lallarme-sullintelligenza-artificiale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nuove-frontiere/sei-nuovi-casi-di-comportamento-imprevisto-o-preoccupante-openai-lancia-lallarme-sullintelligenza-artificiale/</guid>
-<pubDate>Thu, 17 Sep 2026 07:32:06 +0000</pubDate>
-<description>Anche il Ceo della società, Sam Altman, ha proposto di rallentare lo sviluppo dell’IA viste le numerose problematiche degli ultimi tempi Alessandro Ferro</description>
 </item>
 </channel>
 </rss>
