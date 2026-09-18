@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 18 Sep 2026 15:22:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 15:40:50 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Allarme sicurezza a Rozzano: le ronde dei residenti e la “caccia” agli immigrati</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/allarme-sicurezza-a-rozzano-le-ronde-dei-residenti-e-la-caccia-agli-immigrati/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/allarme-sicurezza-a-rozzano-le-ronde-dei-residenti-e-la-caccia-agli-immigrati/</guid>
+<pubDate>Fri, 18 Sep 2026 15:37:38 +0000</pubDate>
+<description>La protesta dei residenti contro l’escalation di microcriminalità si trasforma in ronde notturne e scontri di strada Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YYLB2KU2I5LJ7E4LGLIPO4PDY4.jpg?smart=true&amp;auth=23e87d230a225d755933a8b4fd97729cde6c73bd3ea4686d8a9b2b5b899df2fb&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Fermato per atteggiamento molesto, marocchino esce dalla Questura e distrugge cinque auto: arrestato</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/fermato-per-atteggiamento-molesto-marocchino-esce-dalla-questura-e-distrugge-cinque-auto-arrestato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/fermato-per-atteggiamento-molesto-marocchino-esce-dalla-questura-e-distrugge-cinque-auto-arrestato/</guid>
+<pubDate>Fri, 18 Sep 2026 15:28:17 +0000</pubDate>
+<description>Un suo connazionale con precedenti come danneggiamento, violenza e minaccia a pubblico ufficiale e ubriachezza è stato rimpatriato dalla questura di Avellino Alessandra Corradi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FZY6MGPWGNLJ3L25J2VTOVJZZA.jpg?smart=true&amp;auth=eb0de342788e30315010092e96a56528b407f08b7c940ae0247687b15f9bc5e4&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Warren Buffett passa il testimone dopo 60 anni: il figlio Howard alla guida del board di Berkshire</title>
 <link>https://www.ilgiornale.it/news/aziende/warren-buffett-passa-il-testimone-dopo-60-anni-il-figlio-howard-alla-guida-del-board-di-berkshire/</link>
@@ -786,22 +802,6 @@
 <pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
 <description>A cura di Tommaso Cerno</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>La fermezza paradigma dell’Italia</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/la-fermezza-paradigma-dellitalia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/la-fermezza-paradigma-dellitalia/</guid>
-<pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Politica internazionale La fermezza paradigma dell’Italia Francesco Maria Del Vigo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FWWFOIN5YVZIT7LBOWSPW5YGTP4.jpg?smart=true&amp;auth=ded598ad789150760e4e703703a10876227e6217e9efcb7b5aec9586ef26b413&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Riscopriamo il diritto di avere (anche) torto</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/riscopriamo-il-diritto-di-avere-anche-torto/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/riscopriamo-il-diritto-di-avere-anche-torto/</guid>
-<pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
-<description>La stanza di Feltri Riscopriamo il diritto di avere (anche) torto Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/5KEFG4HBUNG5THTP3MTDQHRK5E.jpg?smart=true&amp;auth=d385e6434b5eafec367c2b4f2a41c106fccb4314adf86b102dd4056a430d78e9&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
