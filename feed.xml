@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 18 Sep 2026 12:44:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 12:58:19 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Inchiesta arbitri, chiesta l’archiviazione anche per le bussate in sala Var. “Nessuna frode”</title>
@@ -14,6 +14,14 @@
 <pubDate>Fri, 18 Sep 2026 12:26:28 +0000</pubDate>
 <description>Le partite al centro dell’indagine risalgono sia al 2024 che 2025: l’8 marzo 2025 durante Salernitana-Modena di Serie B, la Udinese-Parma di Serie A dell’1 marzo 2025, e Inter-Hellas Verona del 6 Gennaio 2024 Manuela Messina</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/QC6KKLYKQFMGRDJO7FFN6ERXZ4.jpg?smart=true&amp;auth=dce3da1573aee6d0319572c1d1d8018b52c9710aea7f473ab9adc3a2d9548b8e&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Kia Picanto GT Line: la più piccola che non vuole fare la piccola</title>
+<link>https://www.ilgiornale.it/news/auto-moto-motori/kia-picanto-gt-line-la-piu-piccola-che-non-vuole-fare-la-piccola/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/kia-picanto-gt-line-la-piu-piccola-che-non-vuole-fare-la-piccola/</guid>
+<pubDate>Fri, 18 Sep 2026 12:11:36 +0000</pubDate>
+<description>Daniele Villa</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/IP56Y2FRARCCJGCSQ5AN4VWEAA.jfif?focal=1023%2C648&amp;auth=8e2e1b9065347c79165e5bfc1f331619e88fe86373b50c5a14c8acc0d00afece&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>Energia, inflazione e tassi: Giorgetti fa il punto sull’azione italiana per il prossimo autunno</title>
@@ -794,13 +802,6 @@
 <pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
 <description>Da La7 a Santoro, gli “amici” lo mollano La Rai processa le frasi di Ranucci. E adesso rischia il licenziamento Dopo Vauro tocca a Formigli e all’ex scudiero Mottola: “È stato un ingenuo” Felice Manti Anche Santoro scarica Ranucci: “Imperdonabile che non abbia preso le distanze da Lavitola” Ranucci promoter per Lavitola. L’indagine sul caso carbon credit</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/LJLMY37ZBZHSJAUUEWX37WHRIY.jpg?focal=2337%2C1737&amp;auth=5598bd17ee911731ce8f250db2dd437adfe92efcca458687fa12f6c12e0491b6&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Il Csm svuota i test psicologici alle toghe</title>
-<link>https://www.ilgiornale.it/news/magistratura/il-csm-svuota-i-test-psicologici-alle-toghe/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/il-csm-svuota-i-test-psicologici-alle-toghe/</guid>
-<pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
-<description>L’astensione dei consiglieri laici di centrodestra, le valutazioni slittano al 2028. “Non si diagnosticano patologie” Anna Maria Greco</description>
 </item>
 </channel>
 </rss>
