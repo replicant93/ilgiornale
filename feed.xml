@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 18 Sep 2026 20:30:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 20:47:24 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cupola di Hamas in Italia, chiuse le indagini preliminari: nessuna archiviazione. E ora si scava nella rete di Hannoun</title>
+<link>https://www.ilgiornale.it/news/terrorismo/cupola-di-hamas-in-italia-chiuse-le-indagini-preliminari-nessuna-archiviazione-e-ora-si-scava-nella-rete-di-hannoun/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/terrorismo/cupola-di-hamas-in-italia-chiuse-le-indagini-preliminari-nessuna-archiviazione-e-ora-si-scava-nella-rete-di-hannoun/</guid>
+<pubDate>Fri, 18 Sep 2026 20:36:03 +0000</pubDate>
+<description>Le indagini sono state chiuse per sei dei sette presunti terroristi finiti in carcere nove mesi fa. E in procedimento connesso, gli inquirenti stanno passando al vaglio la galassia di soggetti che hanno aiutato a portare a termine il disegno degli uomini vicini ad Hamas Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LIHXR2U2TRIKLG2F7IV6ZR6MCQ.jpg?smart=true&amp;auth=417eec91820647d80f371ae7f94bdc8bcc20ab7429b7251f91b9d0d0c92a46a3&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Come prevenire quotidianamente il morbo di Alzheimer?</title>
+<link>https://www.ilgiornale.it/news/salute/come-prevenire-quotidianamente-il-morbo-di-alzheimer/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/salute/come-prevenire-quotidianamente-il-morbo-di-alzheimer/</guid>
+<pubDate>Fri, 18 Sep 2026 20:34:37 +0000</pubDate>
+<description>Francesca Bocchi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RP44X3EJRNBEZO57A5JLOVU5ZY.jpg?focal=1080%2C635&amp;auth=2d5f300d849ab5a6081622dbbd5861489006e6350c853281cd6937c19c78f79a&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>“Diffondono fake news”. Trump bandisce CNN, Politico e MS NOW dalla Casa Bianca</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/diffondono-fake-news-trump-bandisce-cnn-politico-e-ms-now-dalla-casa-bianca/</link>
@@ -784,22 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/taglio-del-cuneo-sulle-pensioni-di-ottobre-requisiti-importi-e-calcolo-degli-arretrati/</guid>
 <pubDate>Thu, 17 Sep 2026 14:42:59 +0000</pubDate>
 <description>Federico Garau</description>
-</item>
-<item>
-<title>Pugno in faccia e speronamento a un carabiniere: ma il pm chiede di archiviare per la tenuità del fatto</title>
-<link>https://www.ilgiornale.it/news/nazionale/pugno-in-faccia-e-speronamento-a-un-carabiniere-ma-il-pm-chiede-di-archiviare-per-la-tenuita-del-fatto/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/pugno-in-faccia-e-speronamento-a-un-carabiniere-ma-il-pm-chiede-di-archiviare-per-la-tenuita-del-fatto/</guid>
-<pubDate>Thu, 17 Sep 2026 14:31:04 +0000</pubDate>
-<description>Il militare ha avuto 12 giorni di prognosi e la macchina danneggiata dall’aggressione Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GOJYZQYKVBA7VC3HOBF6YBKRQ4.jpg?focal=1003%2C1062&amp;auth=4a663df653af38b324e112ad5560a8239ab98ebc921bd9ac1c47ff1fd6cae357&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Il racconto del rabbino Zamak al Giornale: “Loro non sono più forti”</title>
-<link>https://www.ilgiornale.it/news/attualita/il-racconto-del-rabbino-zamak-al-giornale-loro-non-sono-piu-forti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/il-racconto-del-rabbino-zamak-al-giornale-loro-non-sono-piu-forti/</guid>
-<pubDate>Thu, 17 Sep 2026 14:25:36 +0000</pubDate>
-<description>I responsabili dell'aggressione. Ecco chi sono: guarda il video Hanno tutti e tre appena 18 e 20 anni, origini nordafricane e precedenti alle spalle. La Digos li ha individuati anche grazie al video girato dallo stesso rabbino. Per uno è scattato l’arresto per tentata rapina aggravata dall’odio antisemita, gli altri due sono stati denunciati a piede libero Paola Fucilieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NLTGDML5GVFOJCR2Y2WUEG65BM.jpeg?focal=676%2C719&amp;auth=4f00eec136b2e08686b48469489dc1658d55ab403183478945d7fb50bb814220&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
