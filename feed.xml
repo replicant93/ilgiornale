@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 18 Sep 2026 07:48:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 07:59:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Identificati come minori ma maggiorenni”. L’accusa dell’Andalusia al governo spagnolo</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/identificati-come-minori-ma-maggiorenni-laccusa-del-governatore-dellandalusia-al-governo-spagnolo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/identificati-come-minori-ma-maggiorenni-laccusa-del-governatore-dellandalusia-al-governo-spagnolo/</guid>
+<pubDate>Fri, 18 Sep 2026 07:43:01 +0000</pubDate>
+<description>Il Parlamento europeo condanna Sanchez e si schiera con l’Italia Secondo lui, Madrid ha cercato di far entrare 700 migranti “dalla porta di servizio” Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TBFS4S7KABGXVEDGRCM75H2W5U.jpg?focal=1629%2C900&amp;auth=f34c0b9412d0ed74d79d25433da6bc0a0b7321e2137c46f4437c9948a3bc8ff5&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Lepas L8, il SUV plug-in da 279 CV punta su dotazione e abitacolo</title>
 <link>https://www.ilgiornale.it/news/auto-moto-motori/lepas-l8-il-suv-plug-in-da-279-cv-punta-su-dotazione-e-abitacolo/</link>
@@ -791,14 +799,6 @@
 <pubDate>Thu, 17 Sep 2026 05:37:24 +0000</pubDate>
 <description>Europa amara per il Milan: due svarioni difensivi costano lo 0-2 contro il Benfica Il calcio indecifrabile di Amorim Debutto da dimenticare per l’undici di Amorim in Europa League: il big match con i portoghesi vede i rossoneri pagare carissimo gli errori difensivi e sprecare le poche occasioni create in avanti Luca Bocci</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/O45HHI43GJHCRKQYCYB4HJJJQQ.jpg?smart=true&amp;auth=5281291d7c45beae2a2eca9f9d6d63e5e47cf4b389b99a40ba1772294da4b055&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Malagò, il fuoco amico e lo zampino della politica</title>
-<link>https://www.ilgiornale.it/news/storie/malago-il-fuoco-amico-e-lo-zampino-della-politica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/storie/malago-il-fuoco-amico-e-lo-zampino-della-politica/</guid>
-<pubDate>Thu, 17 Sep 2026 05:36:28 +0000</pubDate>
-<description>Franco Ordine</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TLDGQBZFXZIBBESOX63NY6UMLU.jpg?focal=1162%2C486&amp;auth=a86b22b5f41e4132367ae56eadc5c6ab9fd9d00ec022a97ce3654bf7324116d5&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
