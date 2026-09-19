@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 06:17:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 06:36:22 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Scudetti, Coppe dei Campioni e la staffetta di Messico ’70: tutte le imprese</title>
+<link>https://www.ilgiornale.it/news/calcio/scudetti-coppe-dei-campioni-e-la-staffetta-di-messico-70-le-imprese-di-sandro-mazzola/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/scudetti-coppe-dei-campioni-e-la-staffetta-di-messico-70-le-imprese-di-sandro-mazzola/</guid>
+<pubDate>Sat, 19 Sep 2026 06:32:53 +0000</pubDate>
+<description>Calcio Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni Scudetti, Coppe dei Campioni e la staffetta di Messico ’70: tutte le imprese Lo ha annunciato il club nerazzurro in una nota: “Uno dei più grandi calciatori della storia” Redazione web L'intervista: “Il dribbling perfetto? Come una bella donna”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LYVLNAI6YJPCRLOHNPCOIGCI7Y.jpg?focal=2271%2C1317&amp;auth=31bf684c880ed0082c69ff693f8092efdd44888bff3f65437af94c7c297bb0e7&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Esclusivo - 18 milioni per Hamas con la finta beneficenza: ecco le carte che incastrano la cellula italiana</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/esclusivo-18-milioni-per-hamas-con-la-finta-beneficenza-ecco-le-carte-che-incastrano-la-cellula-italiana/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 17 Sep 2026 16:07:00 +0000</pubDate>
 <description>L’ex garante riappare nel podcast di Fedez e Mr. Marra e spara a zero sul Movimento: “Di progressista ha solo la paralisi della mente” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VDLWRSBEQZLLZHURKGBX4IWVOY.jpg?focal=2167%2C1080&amp;auth=304e360106b9c2f18f072ba7c1ac41f682b2d5fbf43dd8db8a5725bce3b8ffde&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Bab el-Mandeb sotto attacco, l’Italia muove la Marina. Crosetto: “Garantiremo il transito delle nostre navi”</title>
-<link>https://www.ilgiornale.it/news/politica-estera/bab-el-mandeb-sotto-attacco-litalia-muove-le-navi-della-marina-crosetto-garantiremo-il-transito-delle-nostre-navi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/bab-el-mandeb-sotto-attacco-litalia-muove-le-navi-della-marina-crosetto-garantiremo-il-transito-delle-nostre-navi/</guid>
-<pubDate>Thu, 17 Sep 2026 16:06:55 +0000</pubDate>
-<description>La crisi si somma alle tensioni a Hormuz e minaccia rotte, prezzi e approvvigionamenti. Il ministro: “Difendere il mare significa proteggere economia e famiglie” Chiara Clausi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BU7DE7QJYZBY7KW2UDV3KYXOSU.png?smart=true&amp;auth=d74fefa35443924506d9a496edea76f99b9699607854f8c12ff2027a62a561c4&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
