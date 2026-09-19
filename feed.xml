@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 12:16:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 12:35:46 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’arte, il sorriso e gli applausi: Vittorio Sgarbi si riprende la scena nella sua Ferrara</title>
+<link>https://www.ilgiornale.it/news/arte-e-storia/larte-il-sorriso-e-gli-applausi-vittorio-sgarbi-si-riprende-la-scena-nella-sua-ferrara/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/arte-e-storia/larte-il-sorriso-e-gli-applausi-vittorio-sgarbi-si-riprende-la-scena-nella-sua-ferrara/</guid>
+<pubDate>Sat, 19 Sep 2026 12:18:24 +0000</pubDate>
+<description>Il ritorno a Palazzo dei Diamanti per la mostra da Monet a Kandinsky. La sorella Elisabetta: “Un applauso pieno di affetto e di gratitudine” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ORFQVEY6NZA3JEN4ICMXCSHHC4.jpeg?smart=true&amp;auth=59c431fef7379b2470d06fc9a0551cd460228a7631c310207e04510e4cf560c5&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Prof accoltellata, verifiche sul cellulare del 13enne. Il Tribunale dei minori apre un’istruttoria</title>
 <link>https://www.ilgiornale.it/news/nazionale/prof-accoltellata-verifiche-sul-cellulare-del-13enne-il-tribunale-dei-minori-apre-unistruttoria/</link>
@@ -793,14 +801,6 @@
 <pubDate>Fri, 18 Sep 2026 10:14:48 +0000</pubDate>
 <description>Il governo cinese ha ampliato i controlli sui viaggi all’estero per proteggere segreti, tecnologie e competenze strategiche Federico Giuliani</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/LHQCDN3FQVBFVBB7ZSVVQ6SHTU.jpg?smart=true&amp;auth=5a3059fe99bc64407de8455f5adc7b40d6e401f740abe1e772db2b45ca1c8151&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Edith Bruck: “Questo odio è senza fine”</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/provo-un-grande-dolore-lodio-che-ho-visto-non-finisce-mai/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/provo-un-grande-dolore-lodio-che-ho-visto-non-finisce-mai/</guid>
-<pubDate>Fri, 18 Sep 2026 10:09:56 +0000</pubDate>
-<description>Il rabbino aggredito dai maranza. “Non scendiamo al loro livello” Aggressione antisemita, parla Edith Bruck: “Non riesco nemmeno più a indignarmi” Hoara Borselli</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HOP3WR4HI5DP7ISXN5RDTTLZZM.jpg?focal=525%2C454&amp;auth=d45fa9f695a91b288cac5049ead7b076e4553a76556183e73e81f12611b58a41&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
