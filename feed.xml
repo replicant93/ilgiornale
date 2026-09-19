@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 21:29:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 21:41:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Guardate il tg dopo”. Spunta un video con i folli minuti del 13enne prima di accoltellare la prof</title>
+<link>https://www.ilgiornale.it/news/nazionale/guardate-il-tg-dopo-spunta-un-video-con-i-folli-minuti-del-13enne-prima-di-accoltellare-la-prof/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/guardate-il-tg-dopo-spunta-un-video-con-i-folli-minuti-del-13enne-prima-di-accoltellare-la-prof/</guid>
+<pubDate>Sat, 19 Sep 2026 21:09:08 +0000</pubDate>
+<description>Prof accoltellata, verifiche sul cellulare del 13enne. Il Tribunale dei minori apre un’istruttoria Casco da bicicletta, guanti, occhiali da softair e coltelli: è così che si presenta la clip di 3 minuti che è stata caricata su un sito vietato ai minori Francesca Galici Il marito: “In galera lui e i suoi”. Salvata da un alunno congolese Si cercano i partecipanti alla diretta streaming</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/AUYKBFMB6JECHE5IMDQ5XYJFJA.jpg?smart=true&amp;auth=879ec8faf7fa32220bd6baaa6e99a1fbb51f6b1032d3f3e20044ce5e36451523&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Dagli storici Pooh al rap di Anna, una grande festa della musica</title>
 <link>https://www.ilgiornale.it/news/musica/dagli-storici-pooh-al-rap-di-anna-una-grande-festa-della-musica/</link>
@@ -793,14 +801,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/imu-e-tari-cambiano-dichiarazioni-e-scadenze-comunicazioni-online-90-giorni-per-la-tassa-rifiuti-e-nuovi-termini-per-i-rimborsi-cosa-prevede-la-riforma/</guid>
 <pubDate>Fri, 18 Sep 2026 15:25:40 +0000</pubDate>
 <description>Valentina Menassi</description>
-</item>
-<item>
-<title>“Stati Uniti peggio di Al Qaeda”. È bufera sull’influencer dem Hasan Piker</title>
-<link>https://www.ilgiornale.it/news/politica-estera/stati-uniti-peggio-di-al-qaeda-e-bufera-sullinfluencer-dem-hasan-piker/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/stati-uniti-peggio-di-al-qaeda-e-bufera-sullinfluencer-dem-hasan-piker/</guid>
-<pubDate>Fri, 18 Sep 2026 14:13:11 +0000</pubDate>
-<description>Lo streamer rilancia le accuse contro Washington mentre i repubblicani usano il suo legame con il candidato in Michigan negli spot elettorali Alberto Bellotto</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/JYE3TSM4UZCH7EFRW4S52OQ7OA.jpg?smart=true&amp;auth=3d569476b62d7ed1f869bae3e86e8daae8cdac75e50d00f155bba295e2e9d691&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
