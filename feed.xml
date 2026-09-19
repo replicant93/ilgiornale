@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 05:43:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 05:57:02 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L'intervista: “Il dribbling perfetto? Come una bella donna”</title>
+<link>https://www.ilgiornale.it/news/mazzola-dribbling-perfetto-bella-donna-853608.html</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/mazzola-dribbling-perfetto-bella-donna-853608.html</guid>
+<pubDate>Sat, 19 Sep 2026 05:47:23 +0000</pubDate>
+<description>Calcio Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni L'intervista: “Il dribbling perfetto? Come una bella donna” Lo ha annunciato il club nerazzurro in una nota: “Uno dei più grandi calciatori della storia” Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LYVLNAI6YJPCRLOHNPCOIGCI7Y.jpg?focal=2271%2C1317&amp;auth=31bf684c880ed0082c69ff693f8092efdd44888bff3f65437af94c7c297bb0e7&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni</title>
 <link>https://www.ilgiornale.it/news/calcio/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 17 Sep 2026 15:30:11 +0000</pubDate>
 <description>Luca Romano</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/LZFJT2BAZ5EXRNBAEXD5JPCBNI.jpeg?focal=565%2C195&amp;auth=ec20a8dc79b318a4e3b88a31aad7ed26b9054b39c808a3d92d0b07339409c4e4&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Hamilton smentisce le voci sulla Ferrari: “Mai chiesto di sostituire nessuno”</title>
-<link>https://www.ilgiornale.it/news/motori/hamilton-smentisce-le-voci-sulla-ferrari-mai-chiesto-di-sostituire-nessuno/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/hamilton-smentisce-le-voci-sulla-ferrari-mai-chiesto-di-sostituire-nessuno/</guid>
-<pubDate>Thu, 17 Sep 2026 15:21:59 +0000</pubDate>
-<description>Un momento buio per la Ferrari e ricostruzioni false circa il futuro di alcune figure del team del pilota. Facciamo chiarezza Francesco Bertoli</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3YOFYGN25FAV5NVQFVN7GPQGKY.jpg?focal=2424%2C919&amp;auth=88dd5024bd9facefbf46f5b320cadd5507f15cf8ce39799166e99f42aca6211e&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
