@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 03:47:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 03:58:37 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>All’Olimpico quasi un gala di chiusura</title>
+<link>https://www.ilgiornale.it/news/calcio/allolimpico-quasi-un-gala-di-chiusura/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/allolimpico-quasi-un-gala-di-chiusura/</guid>
+<pubDate>Sat, 19 Sep 2026 03:55:48 +0000</pubDate>
+<description>commento Calcio All’Olimpico quasi un gala di chiusura Tony Damascelli</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FBMBKS24BURILLIA2NWA2M6JJF4.png?smart=true&amp;auth=350d7bf71fde71ed635a596675930a58bc764773eada92ba38c667f237b390f7&amp;width=100&amp;height=100" medium="image" />
+</item>
 <item>
 <title>Cupola di Hamas in Italia, chiuse le indagini preliminari: nessuna archiviazione. E ora si scava nella rete di Hannoun</title>
 <link>https://www.ilgiornale.it/news/terrorismo/cupola-di-hamas-in-italia-chiuse-le-indagini-preliminari-nessuna-archiviazione-e-ora-si-scava-nella-rete-di-hannoun/</link>
@@ -793,13 +801,6 @@
 <pubDate>Thu, 17 Sep 2026 14:46:38 +0000</pubDate>
 <description>Valentina Menassi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/D3ZPT3432VBTTKVU5FSDR6FOJ4.jfif?focal=975%2C705&amp;auth=af7c46be86e618e09bdd65114a9427b65bdeb362920ac2ff80f066ce5b28430f&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Taglio del cuneo sulle pensioni: requisiti, importi e calcolo degli arretrati</title>
-<link>https://www.ilgiornale.it/news/cittadini/taglio-del-cuneo-sulle-pensioni-di-ottobre-requisiti-importi-e-calcolo-degli-arretrati/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/taglio-del-cuneo-sulle-pensioni-di-ottobre-requisiti-importi-e-calcolo-degli-arretrati/</guid>
-<pubDate>Thu, 17 Sep 2026 14:42:59 +0000</pubDate>
-<description>Federico Garau</description>
 </item>
 </channel>
 </rss>
