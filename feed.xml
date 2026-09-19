@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 03:58:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 04:17:20 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il viaggio di un Barolo dalle Langhe a Bangkok</title>
+<link>https://www.ilgiornale.it/news/retrogusto/il-viaggio-di-un-barolo-dalle-langhe-a-bangkok/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/il-viaggio-di-un-barolo-dalle-langhe-a-bangkok/</guid>
+<pubDate>Sat, 19 Sep 2026 04:00:00 +0000</pubDate>
+<description>Retrogusto Il viaggio di un Barolo dalle Langhe a Bangkok Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/N73CTVK3TVD7BMHAQGT3YXBGKY.jpg?smart=true&amp;auth=3fb97fe1bdaff8286864257935832605b7e575c9b75615ec4ddf4edc1ad0afcb&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>All’Olimpico quasi un gala di chiusura</title>
 <link>https://www.ilgiornale.it/news/calcio/allolimpico-quasi-un-gala-di-chiusura/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 17 Sep 2026 15:16:56 +0000</pubDate>
 <description>Nelle motivazioni della pm di Ravenna c’è tutto il monte informazioni, incluse le chat, raccolto per la richiesta di perquisizione su 23 medici in tutta Italia Francesca Galici , Giulia Sorrentino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OFTQMLKWKRHONNPZJ3FBJ42654.jpg?focal=1574%2C1194&amp;auth=0b5cc5b7dd19d24921bbe59f13a1dfa6a03a70352245b0965afe97a713e7e112&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Nuova Kia EV2 Long Range: come va l’elettrica da 453 km di autonomia</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/nuova-kia-ev2-long-range-come-va-lelettrica-da-453-km-di-autonomia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/nuova-kia-ev2-long-range-come-va-lelettrica-da-453-km-di-autonomia/</guid>
-<pubDate>Thu, 17 Sep 2026 14:46:38 +0000</pubDate>
-<description>Valentina Menassi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/D3ZPT3432VBTTKVU5FSDR6FOJ4.jfif?focal=975%2C705&amp;auth=af7c46be86e618e09bdd65114a9427b65bdeb362920ac2ff80f066ce5b28430f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
