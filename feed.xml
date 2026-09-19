@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 12:35:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 12:50:48 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Da tutta Italia per difendere l’illegalità dello Spin Time: la manifestazione contro la liberazione dell’edificio occupato</title>
+<link>https://www.ilgiornale.it/news/politica/da-tutta-italia-per-difendere-lillegalita-dello-spin-time-la-manifestazione-contro-la-liberazione-delledificio-occupato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/da-tutta-italia-per-difendere-lillegalita-dello-spin-time-la-manifestazione-contro-la-liberazione-delledificio-occupato/</guid>
+<pubDate>Sat, 19 Sep 2026 12:41:29 +0000</pubDate>
+<description>Politica Da tutta Italia per difendere l’illegalità dello Spin Time: la manifestazione contro la liberazione dell’edificio occupato ProPal, centri sociali e islamisti in difesa di Spin Time Sono previste sigle da tutta Italia per manifestare contro la liberazione dell’edificio: alto rischio di scontri Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/4WES6SZSYNBEZC4LVFSSIR3SBQ.jpg?smart=true&amp;auth=db6d125ea1a956e385daac573a6780d570ea2f1b858132f6757cb743257f4e98&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>L’arte, il sorriso e gli applausi: Vittorio Sgarbi si riprende la scena nella sua Ferrara</title>
 <link>https://www.ilgiornale.it/news/arte-e-storia/larte-il-sorriso-e-gli-applausi-vittorio-sgarbi-si-riprende-la-scena-nella-sua-ferrara/</link>
@@ -793,14 +801,6 @@
 <pubDate>Fri, 18 Sep 2026 10:36:25 +0000</pubDate>
 <description>Edoardo Barbanera</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BD5FUTAYY5GIHPQEFUTOJTRGBQ.jpg?focal=2443%2C681&amp;auth=abfe72a376f7c6ab7ef38bfb18bcb1b85fac92d9065d74f503b9d2b04d965c03&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Segreti di Stato e tecnologie avanzate: cosa c’è dietro la stretta di Xi sui viaggi all’estero</title>
-<link>https://www.ilgiornale.it/news/politica-estera/segreti-di-stato-e-tecnologie-avanzate-cosa-ce-dietro-la-stretta-di-xi-sui-viaggi-allestero/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/segreti-di-stato-e-tecnologie-avanzate-cosa-ce-dietro-la-stretta-di-xi-sui-viaggi-allestero/</guid>
-<pubDate>Fri, 18 Sep 2026 10:14:48 +0000</pubDate>
-<description>Il governo cinese ha ampliato i controlli sui viaggi all’estero per proteggere segreti, tecnologie e competenze strategiche Federico Giuliani</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LHQCDN3FQVBFVBB7ZSVVQ6SHTU.jpg?smart=true&amp;auth=5a3059fe99bc64407de8455f5adc7b40d6e401f740abe1e772db2b45ca1c8151&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
