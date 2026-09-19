@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 09:32:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 09:46:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Il maschile inclusivo è discriminazione”. Ai Comuni arriva il corso sulle parole “giuste”</title>
+<link>https://www.ilgiornale.it/news/politica/il-maschile-inclusivo-e-discriminazione-ai-comuni-arriva-il-corso-sulle-parole-giuste/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/il-maschile-inclusivo-e-discriminazione-ai-comuni-arriva-il-corso-sulle-parole-giuste/</guid>
+<pubDate>Sat, 19 Sep 2026 09:44:49 +0000</pubDate>
+<description>Politica “Il maschile inclusivo è discriminazione”. Ai Comuni arriva il corso sulle parole “giuste” Anci Veneto organizza quattro ore di formazione sul linguaggio di genere nella Pubblica amministrazione: nel mirino l’uso esclusivo del maschile, ma anche atti, mail e immagini istituzionali Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CVPYXBGPNBE45CRE625EKTVFBU.jfif?smart=true&amp;auth=b2fdb8e6474c46a1aeb473518cf0bd3bf8851d08496a20f3f3e9a6b66be82df8&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Allarme CGIA: il debito delle famiglie italiane sfiora i 178 miliardi di euro</title>
+<link>https://www.ilgiornale.it/news/cittadini/allarme-cgia-il-debito-delle-famiglie-italiane-sfiora-i-178-miliardi-di-euro/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/allarme-cgia-il-debito-delle-famiglie-italiane-sfiora-i-178-miliardi-di-euro/</guid>
+<pubDate>Sat, 19 Sep 2026 09:37:20 +0000</pubDate>
+<description>Cittadini Allarme CGIA: il debito delle famiglie italiane sfiora i 178 miliardi di euro Il nuovo report dell’associazione scatta una fotografia preoccupante sui bilanci domestici in Italia: ecco che cosa è emerso Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HQV4SKQM7ZMKLPMCTB5N3E3TQE.jpg?smart=true&amp;auth=b93274f2958834777a00b673ecd24424153536cace44d1259d01e5fd81752e3e&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Il cordoglio di Meloni e della politica: “Perdiamo un grande campione”</title>
 <link>https://www.ilgiornale.it/news/calcio/mazzola-il-cordoglio-di-meloni-e-della-politica-perdiamo-un-grande-campione/</link>
@@ -784,22 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/lvmh-un-patto-segreto-per-la-scalata-a-hermes/</guid>
 <pubDate>Fri, 18 Sep 2026 05:56:56 +0000</pubDate>
 <description>Marcello Astorri</description>
-</item>
-<item>
-<title>Fed, ira Trump per i tassi. Il dollaro sull’ottovolante</title>
-<link>https://www.ilgiornale.it/news/politica-economica/fed-ira-trump-per-i-tassi-il-dollaro-sullottovolante/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/fed-ira-trump-per-i-tassi-il-dollaro-sullottovolante/</guid>
-<pubDate>Fri, 18 Sep 2026 05:56:23 +0000</pubDate>
-<description>Sofia Fraschini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3WQXSPPR2FDSNKGN3Y5UMCQIRM.jpg?focal=1086%2C753&amp;auth=858d8fcbfbe78f48b6c2cdc92957fa0e82f728df92ec9678e7fd6ac23b3865e1&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Jasmine Trinca, anticapitalista in Prada</title>
-<link>https://www.ilgiornale.it/news/gossip/jasmine-trinca-anticapitalista-in-prada/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/gossip/jasmine-trinca-anticapitalista-in-prada/</guid>
-<pubDate>Fri, 18 Sep 2026 05:52:15 +0000</pubDate>
-<description>Roberto Alessi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CD44PAAIIZEMJOK6IH5N6O46LM.jpg?smart=true&amp;auth=a9f0526701c11683960d070c7253c44d5a155c9ee12fc7072a28764252ef561f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
