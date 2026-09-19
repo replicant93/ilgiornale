@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 07:29:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 07:43:15 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il genio nerazzurro che inseguiva l’impossibile</title>
+<link>https://www.ilgiornale.it/news/calcio/mazzola-il-genio-nerazzurro-che-inseguiva-limpossibile/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/mazzola-il-genio-nerazzurro-che-inseguiva-limpossibile/</guid>
+<pubDate>Sat, 19 Sep 2026 07:29:52 +0000</pubDate>
+<description>Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NNTLOURFWVD5DMJMLF4IGBFGJY.jpg?focal=2459%2C872&amp;auth=02d6025d016f83ff17781ad3586a7c5d7813b751533aa5faac0588023330d24f&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Sandro Mazzola, le frasi più iconiche della sua carriera</title>
+<link>https://www.ilgiornale.it/news/calcio/sandro-mazzola-le-frasi-piu-iconiche-della-sua-carriera/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/sandro-mazzola-le-frasi-piu-iconiche-della-sua-carriera/</guid>
+<pubDate>Sat, 19 Sep 2026 07:24:25 +0000</pubDate>
+<description>Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CUVRAKTHPRANLDVZKAOS5TFRBA.jpg?focal=1286%2C964&amp;auth=387bfeec81df9e19bdc90f7c89a8b3160386aca8a3a392e70a5b645b87a922d2&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Groenlandia, Trump annuncia l’accordo: “Controllo permanente sulla sicurezza”</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/groenlandia-trump-annuncia-laccordo-controllo-permanente-sulla-sicurezza/</link>
@@ -784,22 +800,6 @@
 <pubDate>Fri, 18 Sep 2026 05:16:24 +0000</pubDate>
 <description>DIRETTA Jet russi violano i cieli della Lituania e gli Eurofighter italiani li fanno uscire dallo spazio Nato. Il Pentagono valuta il maxi-ritiro di truppe dall’Europa Caccia e 2.300 uomini: così l'Italia difende il fianco Est della Nato Mosca aumenta la pressione sul Baltico, Meloni: “Putin provoca per cercare l’escalation”. E intanto gli Usa studiano il taglio fino a 40mila militari dal continente: sarebbe il più grande dalla Guerra Fredda Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/USHAG463D5NYTJ5JP6FOVII5QE.jpg?smart=true&amp;auth=d928253bedb929481fe01920640aed75454c5e21718512e0ce5990836e79b47e&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Jet russi violano i cieli della Lituania e gli Eurofighter italiani li fanno uscire dallo spazio Nato. Il Pentagono valuta il maxi-ritiro di truppe dall’Europa</title>
-<link>https://www.ilgiornale.it/diretta/guerra/jet-russi-violano-i-cieli-della-lituania-e-gli-eurofighter-italiani-li-fanno-uscire-dallo-spazio-nato-il-pentagono-valuta-il-maxi-ritiro-di-truppe-dalleuropa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/jet-russi-violano-i-cieli-della-lituania-e-gli-eurofighter-italiani-li-fanno-uscire-dallo-spazio-nato-il-pentagono-valuta-il-maxi-ritiro-di-truppe-dalleuropa/</guid>
-<pubDate>Fri, 18 Sep 2026 05:12:09 +0000</pubDate>
-<description>DIRETTA Jet russi violano i cieli della Lituania e gli Eurofighter italiani li fanno uscire dallo spazio Nato. Il Pentagono valuta il maxi-ritiro di truppe dall’Europa Caccia e 2.300 uomini: così l'Italia difende il fianco Est della Nato Mosca aumenta la pressione sul Baltico, Meloni: “Putin provoca per cercare l’escalation”. E intanto gli Usa studiano il taglio fino a 40mila militari dal continente: sarebbe il più grande dalla Guerra Fredda Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/USHAG463D5NYTJ5JP6FOVII5QE.jpg?smart=true&amp;auth=d928253bedb929481fe01920640aed75454c5e21718512e0ce5990836e79b47e&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>L’aria europea fa sorridere la Juve</title>
-<link>https://www.ilgiornale.it/news/calcio/laria-europea-fa-sorridere-la-juve/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/laria-europea-fa-sorridere-la-juve/</guid>
-<pubDate>Fri, 18 Sep 2026 05:03:58 +0000</pubDate>
-<description>Tony Damascelli</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GT6DPQXSJZHHXJZXOKPLCALJLA.jpg?focal=1664%2C456&amp;auth=766dc53b05e1566b4cc38019eec5627c5d1a573d7d580c9b3b53f552b5e071ef&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
