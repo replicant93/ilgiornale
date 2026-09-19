@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 09:46:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 09:58:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Probiotici: sei alimenti da mangiare per farne il pieno per rinforzare l’organismo</title>
+<link>https://www.ilgiornale.it/news/over/probiotici-sei-alimenti-da-mangiare-per-farne-il-pieno-per-rinforzare-lorganismo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/over/probiotici-sei-alimenti-da-mangiare-per-farne-il-pieno-per-rinforzare-lorganismo/</guid>
+<pubDate>Sat, 19 Sep 2026 09:51:00 +0000</pubDate>
+<description>Mariangela Cutrone</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FKBEBHQILNB5HCOUOR73WM32QI.jfif?focal=1318%2C629&amp;auth=7031e8106377ff128288dcb2fddb3cb2d6150919d5243b05c1df8f4bc1aced9a&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>“Il maschile inclusivo è discriminazione”. Ai Comuni arriva il corso sulle parole “giuste”</title>
 <link>https://www.ilgiornale.it/news/politica/il-maschile-inclusivo-e-discriminazione-ai-comuni-arriva-il-corso-sulle-parole-giuste/</link>
@@ -792,13 +800,6 @@
 <link>https://www.ilgiornale.it/news/aziende/beretta-lancia-lopa-per-salire-in-ruger/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/beretta-lancia-lopa-per-salire-in-ruger/</guid>
 <pubDate>Fri, 18 Sep 2026 05:58:57 +0000</pubDate>
-<description>Marcello Astorri</description>
-</item>
-<item>
-<title>Lvmh, un patto segreto per la scalata a Hermès</title>
-<link>https://www.ilgiornale.it/news/aziende/lvmh-un-patto-segreto-per-la-scalata-a-hermes/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/lvmh-un-patto-segreto-per-la-scalata-a-hermes/</guid>
-<pubDate>Fri, 18 Sep 2026 05:56:56 +0000</pubDate>
 <description>Marcello Astorri</description>
 </item>
 </channel>
