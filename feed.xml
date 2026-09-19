@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 08:15:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:31:49 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tutti i grandi colpi da dirigente dell’Inter</title>
+<link>https://www.ilgiornale.it/news/calcio/mazzola-re-del-mercato-tutti-i-grandi-colpi-da-dirigente-dellinter/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/mazzola-re-del-mercato-tutti-i-grandi-colpi-da-dirigente-dellinter/</guid>
+<pubDate>Sat, 19 Sep 2026 08:27:09 +0000</pubDate>
+<description>Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni Guarda le foto Lo ha annunciato il club nerazzurro in una nota: “Uno dei più grandi calciatori della storia” Redazione web Tutti i grandi colpi da dirigente dell’Inter L'intervista: “Il dribbling perfetto? Come una bella donna”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/32MHAOQ35FHJBCS3J4V6SRNWVE.jpg?focal=1592%2C340&amp;auth=db204e77b72820335eb0ceaf30e8e2f82f2da398b291d4073f6b0200adc9b90d&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Il genio nerazzurro che inseguiva l’impossibile</title>
 <link>https://www.ilgiornale.it/news/calcio/mazzola-il-genio-nerazzurro-che-inseguiva-limpossibile/</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 18 Sep 2026 05:28:55 +0000</pubDate>
 <description>Nella notte tra il 13 e il 14 settembre 1942 centinaia di commandos e Royal Marines tentarono di sorprendere il porto di Tobruk. Doveva essere un’incursione da manuale per distruggere i depositi di carburante dell’Asse, ma si rivelò una bruciante sconfitta per gli inglesi Davide Bartoccini</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/HDDJS4RYJNCT3ATI4VT7NC7ET4.jpg?smart=true&amp;auth=667d15429d91d331c53039c8ae78c89cbaf4f988f3a7daa5470321f1f8de14ee&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Caccia e 2.300 uomini: così l'Italia difende il fianco Est della Nato</title>
-<link>https://www.ilgiornale.it/news/difesa/eurofighter-italiani-in-volo-sul-baltico-cosi-roma-difende-il-fianco-est-della-nato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/eurofighter-italiani-in-volo-sul-baltico-cosi-roma-difende-il-fianco-est-della-nato/</guid>
-<pubDate>Fri, 18 Sep 2026 05:16:24 +0000</pubDate>
-<description>DIRETTA Jet russi violano i cieli della Lituania e gli Eurofighter italiani li fanno uscire dallo spazio Nato. Il Pentagono valuta il maxi-ritiro di truppe dall’Europa Caccia e 2.300 uomini: così l'Italia difende il fianco Est della Nato Mosca aumenta la pressione sul Baltico, Meloni: “Putin provoca per cercare l’escalation”. E intanto gli Usa studiano il taglio fino a 40mila militari dal continente: sarebbe il più grande dalla Guerra Fredda Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/USHAG463D5NYTJ5JP6FOVII5QE.jpg?smart=true&amp;auth=d928253bedb929481fe01920640aed75454c5e21718512e0ce5990836e79b47e&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
