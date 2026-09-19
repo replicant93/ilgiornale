@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 10:57:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 11:15:38 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Anche Apollo è “patriarcale”: le femministe vogliono cambiare il logo del ministero della Cultura</title>
+<link>https://www.ilgiornale.it/news/attualita/anche-apollo-e-patriarcale-le-femministe-vogliono-cambiare-il-logo-del-ministero-della-cultura/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/anche-apollo-e-patriarcale-le-femministe-vogliono-cambiare-il-logo-del-ministero-della-cultura/</guid>
+<pubDate>Sat, 19 Sep 2026 11:03:19 +0000</pubDate>
+<description>Una petizione con oltre seicento firme chiede un simbolo “pienamente inclusivo” per il Mic. Pd e M5s aprono alla proposta: nel mirino il profilo tratto dal capolavoro di Bernini Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RHIMP2LSLRGCDHMQRYLJUFDPIY.jpeg?focal=284%2C228&amp;auth=81b989d88a6bc8cc323aee44f61e5cfd46e5ef04a1cb2333888b9f6ff2b93645&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>“La odiava per i debiti”. Prof aggredita a scuola: spray e tre coltellate. In diretta su Telegram</title>
 <link>https://www.ilgiornale.it/news/politica/la-odiava-per-i-debiti-prof-aggredita-a-scuola-spray-e-tre-coltellate-in-diretta-su-telegram/</link>
@@ -793,14 +801,6 @@
 <pubDate>Fri, 18 Sep 2026 10:00:00 +0000</pubDate>
 <description>La stanza di Feltri Il pacifismo vero non può essere diserzione Vittorio Feltri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NNPEYJY4VRAOZCR6RA6S64BTKM.jpg?focal=405%2C712&amp;auth=69d272df25acb56c4c5d2d9e7ca7c2b84cc9b3b26f622ee04a895c7eed3c2359&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Il cecchino, il rapitore, lo stupratore. Ma l’unico in carcere è Roggero</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/il-cecchino-il-rapitore-lo-stupratore-ma-lunico-in-carcere-e-roggero/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/il-cecchino-il-rapitore-lo-stupratore-ma-lunico-in-carcere-e-roggero/</guid>
-<pubDate>Fri, 18 Sep 2026 10:00:00 +0000</pubDate>
-<description>Hanno ferito donne, terrorizzato bambine, rappresentato un pericolo sociale, ma sono a piede libero. La galera è scattata solo per il gioielliere che ha cercato di difendere la famiglia. Le strane pieghe della giustizia Stefano Zurlo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZH3WILOTZBETJAT35SSEEBLA2Q.jpg?focal=1753%2C543&amp;auth=d8357a3cec14e58aa91e85ade19450c5635bb9114bd0679f5f251ad6970e092f&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
