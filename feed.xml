@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 05:57:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 06:17:35 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Esclusivo - 18 milioni per Hamas con la finta beneficenza: ecco le carte che incastrano la cellula italiana</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/esclusivo-18-milioni-per-hamas-con-la-finta-beneficenza-ecco-le-carte-che-incastrano-la-cellula-italiana/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/esclusivo-18-milioni-per-hamas-con-la-finta-beneficenza-ecco-le-carte-che-incastrano-la-cellula-italiana/</guid>
+<pubDate>Sat, 19 Sep 2026 06:07:54 +0000</pubDate>
+<description>Cronaca giudiziaria Esclusivo - 18 milioni per Hamas con la finta beneficenza: ecco le carte che incastrano la cellula italiana Cupola di Hamas in Italia, chiuse le indagini preliminari: nessuna archiviazione. E ora si scava nella rete di Hannoun I soldi raccolti con la finta scusa delle beneficenza sarebbero infatti quasi il triplo rispetto all’ipotesi iniziale: Hannoun avrebbe inviato circa 18 milioni di euro Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LIHXR2U2TRIKLG2F7IV6ZR6MCQ.jpg?smart=true&amp;auth=417eec91820647d80f371ae7f94bdc8bcc20ab7429b7251f91b9d0d0c92a46a3&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>L'intervista: “Il dribbling perfetto? Come una bella donna”</title>
 <link>https://www.ilgiornale.it/news/mazzola-dribbling-perfetto-bella-donna-853608.html</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 17 Sep 2026 16:06:55 +0000</pubDate>
 <description>La crisi si somma alle tensioni a Hormuz e minaccia rotte, prezzi e approvvigionamenti. Il ministro: “Difendere il mare significa proteggere economia e famiglie” Chiara Clausi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BU7DE7QJYZBY7KW2UDV3KYXOSU.png?smart=true&amp;auth=d74fefa35443924506d9a496edea76f99b9699607854f8c12ff2027a62a561c4&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Family care introduce la medicina narrativa nella formazione delle badanti: al via i corsi gratuiti</title>
-<link>https://www.ilgiornale.it/news/benessere/family-care-introduce-la-medicina-narrativa-nella-formazione-delle-badanti-al-via-i-corsi-gratuiti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/benessere/family-care-introduce-la-medicina-narrativa-nella-formazione-delle-badanti-al-via-i-corsi-gratuiti/</guid>
-<pubDate>Thu, 17 Sep 2026 15:30:11 +0000</pubDate>
-<description>Luca Romano</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LZFJT2BAZ5EXRNBAEXD5JPCBNI.jpeg?focal=565%2C195&amp;auth=ec20a8dc79b318a4e3b88a31aad7ed26b9054b39c808a3d92d0b07339409c4e4&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
