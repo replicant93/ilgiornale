@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 04:58:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 05:15:44 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni</title>
+<link>https://www.ilgiornale.it/news/calcio/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni/</guid>
+<pubDate>Sat, 19 Sep 2026 05:09:11 +0000</pubDate>
+<description>Calcio Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni Lo ha annunciato il club nerazzurro in una nota: “Uno dei più grandi calciatori della storia” Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LYVLNAI6YJPCRLOHNPCOIGCI7Y.jpg?focal=2271%2C1317&amp;auth=31bf684c880ed0082c69ff693f8092efdd44888bff3f65437af94c7c297bb0e7&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Il viaggio di un Barolo dalle Langhe a Bangkok</title>
 <link>https://www.ilgiornale.it/news/retrogusto/il-viaggio-di-un-barolo-dalle-langhe-a-bangkok/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 17 Sep 2026 15:21:59 +0000</pubDate>
 <description>Un momento buio per la Ferrari e ricostruzioni false circa il futuro di alcune figure del team del pilota. Facciamo chiarezza Francesco Bertoli</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/3YOFYGN25FAV5NVQFVN7GPQGKY.jpg?focal=2424%2C919&amp;auth=88dd5024bd9facefbf46f5b320cadd5507f15cf8ce39799166e99f42aca6211e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Dobbiamo opporci tutti”. Per il pm una “rete organizzata” di medici contro i Cpr</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/dobbiamo-opporci-tutti-per-il-pm-una-rete-organizzata-di-medici-contro-i-cpr/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/dobbiamo-opporci-tutti-per-il-pm-una-rete-organizzata-di-medici-contro-i-cpr/</guid>
-<pubDate>Thu, 17 Sep 2026 15:16:56 +0000</pubDate>
-<description>Nelle motivazioni della pm di Ravenna c’è tutto il monte informazioni, incluse le chat, raccolto per la richiesta di perquisizione su 23 medici in tutta Italia Francesca Galici , Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OFTQMLKWKRHONNPZJ3FBJ42654.jpg?focal=1574%2C1194&amp;auth=0b5cc5b7dd19d24921bbe59f13a1dfa6a03a70352245b0965afe97a713e7e112&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
