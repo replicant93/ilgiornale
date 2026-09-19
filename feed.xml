@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 19 Sep 2026 08:31:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:48:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bollette, quel nuovo spread che colpisce luce e gas</title>
+<link>https://www.ilgiornale.it/news/affari-doro/bollette-quel-nuovo-spread-che-colpisce-luce-e-gas/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/affari-doro/bollette-quel-nuovo-spread-che-colpisce-luce-e-gas/</guid>
+<pubDate>Sat, 19 Sep 2026 08:46:41 +0000</pubDate>
+<description>Affari d'oro Bollette, quel nuovo spread che colpisce luce e gas Marcello Zacché</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YWDJALCRRJIWLBKUXLQTZGP2T4.jpg?focal=708%2C346&amp;auth=033c7dcead24db6691e99adaab7689c3cfb62bf819cf55e33a41cfebedc78ecb&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Tutti i grandi colpi da dirigente dell’Inter</title>
 <link>https://www.ilgiornale.it/news/calcio/mazzola-re-del-mercato-tutti-i-grandi-colpi-da-dirigente-dellinter/</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 18 Sep 2026 05:51:11 +0000</pubDate>
 <description>Il promettente attore italiano, snobbato dai “soliti noti”, è al momento l’interprete nostrano più famoso nel resto del mondo per la bellissima serie Netflix Roberto Alessi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/4IUYQUJAG5HBFEKWHDFV7OX5AQ.jpg?focal=1022%2C478&amp;auth=aa4ae319b0a3a57d98e26963ad7e72b370a0d9ebf44a46c88a24c294f1c8abeb&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La lunga notte di Tobruk: quando i marò italiani sconfissero i Royal Marines</title>
-<link>https://www.ilgiornale.it/news/storia/la-lunga-notte-di-tobruk-quando-i-maro-italiani-sconfissero-i-royal-marines/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/storia/la-lunga-notte-di-tobruk-quando-i-maro-italiani-sconfissero-i-royal-marines/</guid>
-<pubDate>Fri, 18 Sep 2026 05:28:55 +0000</pubDate>
-<description>Nella notte tra il 13 e il 14 settembre 1942 centinaia di commandos e Royal Marines tentarono di sorprendere il porto di Tobruk. Doveva essere un’incursione da manuale per distruggere i depositi di carburante dell’Asse, ma si rivelò una bruciante sconfitta per gli inglesi Davide Bartoccini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HDDJS4RYJNCT3ATI4VT7NC7ET4.jpg?smart=true&amp;auth=667d15429d91d331c53039c8ae78c89cbaf4f988f3a7daa5470321f1f8de14ee&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
