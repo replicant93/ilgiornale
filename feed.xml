@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 12:16:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 12:35:59 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Frode da 30mila euro”, la Boccia nei guai</title>
+<link>https://www.ilgiornale.it/news/interni/frode-da-30mila-euro-la-boccia-nei-guai/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/frode-da-30mila-euro-la-boccia-nei-guai/</guid>
+<pubDate>Sun, 20 Sep 2026 12:23:31 +0000</pubDate>
+<description>Interni “Frode da 30mila euro”, la Boccia nei guai La vittima è un pilota dell’Aeronautica. La lady del caso Sangiuliano, che figurava come imprenditrice, risulta nullatenente Rita Cavallaro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HW62255KAFJIPPP2RVC6XJJNRI.jpg?smart=true&amp;auth=bcbaea9500ab7a886c76d2692eed809f5470624a34ebb372b118aa3a5bd0f362&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Piccoli comunisti (ri)crescono. I giovani dem sempre più rossi</title>
 <link>https://www.ilgiornale.it/news/interni/piccoli-comunisti-ricrescono-i-giovani-dem-sempre-piu-rossi/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sat, 19 Sep 2026 07:29:52 +0000</pubDate>
 <description>Giulia Sorrentino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NNTLOURFWVD5DMJMLF4IGBFGJY.jpg?focal=2459%2C872&amp;auth=02d6025d016f83ff17781ad3586a7c5d7813b751533aa5faac0588023330d24f&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Sandro Mazzola, le frasi più iconiche della sua carriera</title>
-<link>https://www.ilgiornale.it/news/calcio/sandro-mazzola-le-frasi-piu-iconiche-della-sua-carriera/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/sandro-mazzola-le-frasi-piu-iconiche-della-sua-carriera/</guid>
-<pubDate>Sat, 19 Sep 2026 07:24:25 +0000</pubDate>
-<description>Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CUVRAKTHPRANLDVZKAOS5TFRBA.jpg?focal=1286%2C964&amp;auth=387bfeec81df9e19bdc90f7c89a8b3160386aca8a3a392e70a5b645b87a922d2&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
