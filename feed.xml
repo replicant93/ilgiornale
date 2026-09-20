@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 08:32:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 08:47:54 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A Pontida è il giorno della Lega: sul Pratone militanti divisi su Salvini</title>
+<link>https://www.ilgiornale.it/news/governo/a-pontida-e-il-giorno-della-lega-sul-pratone-militanti-divisi-su-salvini/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/a-pontida-e-il-giorno-della-lega-sul-pratone-militanti-divisi-su-salvini/</guid>
+<pubDate>Sun, 20 Sep 2026 08:31:48 +0000</pubDate>
+<description>In attesa che il segretario salga sul palco della Lega per la festa tradizionale, i militanti si dividono le t-shirt “Io sto con Matteo” e “Lega Nord fino alla morte” Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TODVSW3LGVFZ7JMKAYMVKAJZFM.jpg?focal=1467%2C1395&amp;auth=6ad2a2c5debe7dbbaa34491831a7bfd21a248d98ea2954c0c81dd96fea4a4fec&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Dottrina accelerazionista: cos’è l’ideologia dietro al caso dell’accoltellatore 13enne a Roma</title>
 <link>https://www.ilgiornale.it/news/nazionale/dottrina-accelerazionista-cose-lideologia-dietro-al-caso-dellaccoltellatore-13enne-a-roma/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 18 Sep 2026 18:31:38 +0000</pubDate>
 <description>Groenlandia, Trump annuncia l’accordo: “Controllo permanente sulla sicurezza” L’accordo vieterebbe qualsiasi base non Nato, limitando la possibilità per gli avversari di effettuare investimenti e limitando l’influenza di Cina e Russia Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/GHLHWF7VZ5EKTOI53KHHHHKNHI.jpg?smart=true&amp;auth=f246c2dc27d256c1a0049cba512c88f41ca21abff66caebd09bc5eb077c855a8&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Agente morto dopo l’inseguimento, il 26enne albanese rischia il processo. “Fuga pericolosa e morte come conseguenza di altro reato”</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/agente-morto-dopo-linseguimento-il-26enne-albanese-rischia-il-processo-fuga-pericolosa-e-morte-come-conseguenza-di-altro-reato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/agente-morto-dopo-linseguimento-il-26enne-albanese-rischia-il-processo-fuga-pericolosa-e-morte-come-conseguenza-di-altro-reato/</guid>
-<pubDate>Fri, 18 Sep 2026 18:26:39 +0000</pubDate>
-<description>Cronaca giudiziaria Agente morto dopo l’inseguimento, il 26enne albanese rischia il processo. “Fuga pericolosa e morte come conseguenza di altro reato” La procura di Milano ha chiesto l’immediato per Genti Berisha. Non contestato l’omicidio stradale: dalla perizia cinematica è emerso che non c’è stato “nessun contatto” tra la moto di Imprezzabile, che lo inseguiva a 180 chilometri orari, e quella dell’uomo fuggito all’alt Manuela Messina</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OKRN76OY7BPEXLVJ2JUQXM73SY.jpg?smart=true&amp;auth=0c625b36dd92bc5531594e81be0b6c04cdc8fe67c8362466dbf97344a4bea7e5&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
