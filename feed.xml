@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 04:18:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 04:33:43 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sforza Fogliani rivoluzionario dell’idea liberale</title>
+<link>https://www.ilgiornale.it/news/letteratura/sforza-fogliani-rivoluzionario-dellidea-liberale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/letteratura/sforza-fogliani-rivoluzionario-dellidea-liberale/</guid>
+<pubDate>Sun, 20 Sep 2026 04:21:05 +0000</pubDate>
+<description>commento Letteratura Sforza Fogliani rivoluzionario dell’idea liberale Nicola Porro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2F4IQWR56DJNMK7KPL6TOYFZ3CRI.jpg?smart=true&amp;auth=a30939310dd89671b8eb8c62f34b512825ee872a44d654efbce5dad64d2ede1e&amp;width=100&amp;height=100" medium="image" />
+</item>
 <item>
 <title>Il Brunello di Montalcino 2021 di Eredi Fuligni è il vino italiano dell’anno</title>
 <link>https://www.ilgiornale.it/news/retrogusto/il-brunello-di-montalcino-2021-di-eredi-fuligni-e-il-vino-italiano-dellanno-2/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 18 Sep 2026 15:32:43 +0000</pubDate>
 <description>È scomparsa Graziella Bassi, la madre di Antonio Cabrini: dal primo provino alla Cremonese alle lettere inviate al figlio, il ricordo di una donna sempre ai margini dei riflettori Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/G5LX5MIVUJPEHA433OW2M5ECJI.jpg?smart=true&amp;auth=26710a4ba9004639dad996160e6fbdb2f82e935abe0c656078d29e964e4bf66a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Fermato per atteggiamento molesto, marocchino esce dalla Questura e distrugge cinque auto: arrestato</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/fermato-per-atteggiamento-molesto-marocchino-esce-dalla-questura-e-distrugge-cinque-auto-arrestato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/fermato-per-atteggiamento-molesto-marocchino-esce-dalla-questura-e-distrugge-cinque-auto-arrestato/</guid>
-<pubDate>Fri, 18 Sep 2026 15:28:17 +0000</pubDate>
-<description>Un suo connazionale con precedenti come danneggiamento, violenza e minaccia a pubblico ufficiale e ubriachezza è stato rimpatriato dalla questura di Avellino Alessandra Corradi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FZY6MGPWGNLJ3L25J2VTOVJZZA.jpg?smart=true&amp;auth=eb0de342788e30315010092e96a56528b407f08b7c940ae0247687b15f9bc5e4&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
