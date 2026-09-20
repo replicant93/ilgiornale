@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 11:15:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 11:29:50 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Piccoli comunisti (ri)crescono. I giovani dem sempre più rossi</title>
@@ -167,6 +167,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/IAKXNENFJJBRTLHZU5VULODIRE.jpg?focal=1367%2C672&amp;auth=9a54d2ca174ec431b75caacad66198540f05f0a850c585daa1cf6cbbc8d4f057&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Il figlio d’oro di Valentino: classe, serpentine e gol</title>
+<link>https://www.ilgiornale.it/news/calcio/il-figlio-doro-di-valentino-classe-serpentine-e-gol/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-figlio-doro-di-valentino-classe-serpentine-e-gol/</guid>
+<pubDate>Sun, 20 Sep 2026 09:22:13 +0000</pubDate>
+<description>Il pianto di Rivera: “Rivali in campo ma nella vita nessuna staffetta” Baffo e maglia numero 8. Ha vinto tutto con la Grande Inter di Herrera. La rivalità con il 10 milanista segna un’epoca. È stato un campione moderno: molto rapido, dribbling elettrico e tocco di palla Tony Damascelli Tutti i grandi colpi da dirigente dell’Inter Il cordoglio di Meloni e della politica: “Perdiamo un grande campione”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Z7MXA5USG5BDLJX3NAZA7BMIRM.jpg?focal=750%2C485&amp;auth=54607d7d6b8e3e5923a0b105828215b62fed66f1a04d6a713528c351eb191f94&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
 <title>Il report falso fatto dall’IA, la nave in Medio Oriente e le armi nucleari: così si è sfiorata la guerra tra Usa e Cina</title>
 <link>https://www.ilgiornale.it/news/guerra/il-report-falso-fatto-dallia-la-nave-in-medio-oriente-e-le-armi-nucleari-cosi-si-e-sfiorata-la-guerra-tra-usa-e-cina/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/il-report-falso-fatto-dallia-la-nave-in-medio-oriente-e-le-armi-nucleari-cosi-si-e-sfiorata-la-guerra-tra-usa-e-cina/</guid>
@@ -260,6 +268,22 @@
 <pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
 <description>Retrogusto Il Brunello di Montalcino 2021 di Eredi Fuligni è il vino italiano dell’anno Andrea Cuomo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/RO24JQJXZZEGPLIE6I2IN2Z4QI.jpeg?smart=true&amp;auth=203ba004aaa33cc659b006e57ac3611b9f3e1050c6d9ddad59a51f93fede8a93&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>La seconda vita da dirigente: portò Rummenigge all’Inter</title>
+<link>https://www.ilgiornale.it/news/calcio/la-seconda-vita-da-dirigente-porto-rummenigge-allinter/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-seconda-vita-da-dirigente-porto-rummenigge-allinter/</guid>
+<pubDate>Sun, 20 Sep 2026 04:48:48 +0000</pubDate>
+<description>Franco Ordine</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/S7Y7ERE7ZVCPPNSXWQYSOADAUQ.jpg?focal=928%2C372&amp;auth=5db911cf4233ce93d4d1c37590e9fd88db148e66a0060d41bb7d0b819d0c9dbc&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Il pianto di Rivera: “Rivali in campo ma nella vita nessuna staffetta”</title>
+<link>https://www.ilgiornale.it/news/calcio/il-pianto-di-rivera-rivali-in-campo-ma-nella-vita-nessuna-staffetta/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-pianto-di-rivera-rivali-in-campo-ma-nella-vita-nessuna-staffetta/</guid>
+<pubDate>Sun, 20 Sep 2026 04:42:43 +0000</pubDate>
+<description>Il figlio d’oro di Valentino: classe, serpentine e gol Il pianto di Rivera: “Rivali in campo ma nella vita nessuna staffetta” Baffo e maglia numero 8. Ha vinto tutto con la Grande Inter di Herrera. La rivalità con il 10 milanista segna un’epoca. È stato un campione moderno: molto rapido, dribbling elettrico e tocco di palla Tony Damascelli Tutti i grandi colpi da dirigente dell’Inter Il cordoglio di Meloni e della politica: “Perdiamo un grande campione”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Z7MXA5USG5BDLJX3NAZA7BMIRM.jpg?focal=750%2C485&amp;auth=54607d7d6b8e3e5923a0b105828215b62fed66f1a04d6a713528c351eb191f94&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>Inutile riscoprire Atene se dimentichi il Vangelo</title>
@@ -779,29 +803,6 @@
 <pubDate>Sat, 19 Sep 2026 06:07:54 +0000</pubDate>
 <description>Cronaca giudiziaria Esclusivo - 18 milioni per Hamas con la finta beneficenza: ecco le carte che incastrano la cellula italiana Cupola di Hamas in Italia, chiuse le indagini preliminari: nessuna archiviazione. E ora si scava nella rete di Hannoun I soldi raccolti con la finta scusa delle beneficenza sarebbero infatti quasi il triplo rispetto all’ipotesi iniziale: Hannoun avrebbe inviato circa 18 milioni di euro Giulia Sorrentino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/LIHXR2U2TRIKLG2F7IV6ZR6MCQ.jpg?smart=true&amp;auth=417eec91820647d80f371ae7f94bdc8bcc20ab7429b7251f91b9d0d0c92a46a3&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>L'intervista: “Il dribbling perfetto? Come una bella donna”</title>
-<link>https://www.ilgiornale.it/news/mazzola-dribbling-perfetto-bella-donna-853608.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/mazzola-dribbling-perfetto-bella-donna-853608.html</guid>
-<pubDate>Sat, 19 Sep 2026 05:47:23 +0000</pubDate>
-<description>Calcio Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni L'intervista: “Il dribbling perfetto? Come una bella donna” Lo ha annunciato il club nerazzurro in una nota: “Uno dei più grandi calciatori della storia” Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LYVLNAI6YJPCRLOHNPCOIGCI7Y.jpg?focal=2271%2C1317&amp;auth=31bf684c880ed0082c69ff693f8092efdd44888bff3f65437af94c7c297bb0e7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni</title>
-<link>https://www.ilgiornale.it/news/calcio/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni/</guid>
-<pubDate>Sat, 19 Sep 2026 05:09:11 +0000</pubDate>
-<description>Calcio Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni Lo ha annunciato il club nerazzurro in una nota: “Uno dei più grandi calciatori della storia” Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LYVLNAI6YJPCRLOHNPCOIGCI7Y.jpg?focal=2271%2C1317&amp;auth=31bf684c880ed0082c69ff693f8092efdd44888bff3f65437af94c7c297bb0e7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Trevi, al via l’offerta di Webuild. Perché la Cdp è pronta a dire sì</title>
-<link>https://www.ilgiornale.it/news/aziende/trevi-al-via-lofferta-di-webuild-perche-la-cdp-e-pronta-a-dire-si/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/trevi-al-via-lofferta-di-webuild-perche-la-cdp-e-pronta-a-dire-si/</guid>
-<pubDate>Sat, 19 Sep 2026 04:32:51 +0000</pubDate>
-<description>Sofia Fraschini</description>
 </item>
 </channel>
 </rss>
