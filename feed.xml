@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 18:47:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 18:58:54 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La melina di Schlein e Calabresi per non parlare di nulla</title>
+<link>https://www.ilgiornale.it/news/interni/la-melina-di-schlein-e-calabresi-per-non-parlare-di-nulla/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-melina-di-schlein-e-calabresi-per-non-parlare-di-nulla/</guid>
+<pubDate>Sun, 20 Sep 2026 18:55:28 +0000</pubDate>
+<description>E Schlein sfida ancora Giuseppi: “Sulle armi a Kiev non siamo d’accordo” Né la segretaria Pd, né il giornalista si sbilanciano. È il segno che le trattative sono ancora in corso e che soprattutto nulla è ancora deciso sulla partita milanese Giuseppe Alberto Falci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GQCANZTUFZCHJJFL4AUBRAOKEU.jpg?smart=true&amp;auth=f0913275d6d396e7c0e946a831813ff52fb5636c7c63d4e211931710a3976bd3&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La denuncia, la relazione del papà con la negoziante, il ritrovamento: cosa non torna nel caso delle sorelline scomparse</title>
 <link>https://www.ilgiornale.it/news/nazionale/cosa-non-torna-nel-caso-delle-sorelline-scomparse-benedetta-e-domitilla-allontanate-anche-dal-papa-insieme-ai-quattro-fratelli/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
 <description>Patricia Tagliaferri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/CWV5YNTYUBDV3KFZYTVNZVIFKU.jpg?focal=1228%2C944&amp;auth=2cdcb718aede3ab8c32386123746349c00b301f25fe0617e48293d72686e3cbc&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Affondo di Tajani sui giallorossi. “Un’accozzaglia divisa su tutto”</title>
-<link>https://www.ilgiornale.it/news/interni/affondo-di-tajani-sui-giallorossi-unaccozzaglia-divisa-su-tutto/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/affondo-di-tajani-sui-giallorossi-unaccozzaglia-divisa-su-tutto/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>Scommessa di Fdi: “Avanti fino alla fine”. Arianna: “Difendere la sovranità umana” Affondo di Tajani sui giallorossi. “Un’accozzaglia divisa su tutto” A Fenix, festa di Gioventù nazionale, si guarda al voto come un appuntamento lontano: “Ma occhio agli incidenti di aula”. La responsabile della segreteria politica sull’avvento dell’Intelligenza artificiale: “L’Italia può guidare il processo ma senza divieti” Francesco Boezi Ecco il programma di Conte: canne libere e sesso a scuola “Il premio elettorale al 42% è un golpe”. Ma loro lo votarono al 40</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3ETKAERGWVG2NGJKT2SK63GALE.jpg?focal=600%2C153&amp;auth=f198787b484935f278c387ea0af5331b09d4da4d29d95bb4d39efb95497dfe1d&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
