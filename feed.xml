@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 20:11:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 20:30:16 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il voto in una regione chiave tra sviluppo industriale e AfD</title>
+<link>https://www.ilgiornale.it/news/politica-estera/il-voto-in-una-regione-chiave-tra-lo-sviluppo-industriale-e-la-spinta-dellafd/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/il-voto-in-una-regione-chiave-tra-lo-sviluppo-industriale-e-la-spinta-dellafd/</guid>
+<pubDate>Sun, 20 Sep 2026 20:20:23 +0000</pubDate>
+<description>Francesca Salvatore</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CESDZECCLBASDABCRSQ4OXVQKI.jpg?smart=true&amp;auth=b9551764163a97a4d422f4dc130be3c6cb4ce046a65c990452d2a9d9d000c532&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Espropri sulle case e programma pro-Islam: chi è Elif Eralp, la “Mamdani” di Berlino</title>
 <link>https://www.ilgiornale.it/news/politica-estera/espropri-sulle-case-e-programma-pro-islam-chi-e-elif-eralp-la-mamdani-di-berlino/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
 <description>Gli antagonisti contro i Cpr al fianco di “dottor Invasione” Arriva la stretta: “Basta con la sanatoria delle okkupazioni” Nuova manifestazione per il medico Nicola Cocco, indagato a Ravenna per il caso dei certificati falsi pro migranti. Già nel 2009 contestava il decreto Maroni. Solidarietà della Salis. La Lega denuncia Francesco Giubilei ProPal, centri sociali e islamisti: il carrozzone della nuova sinistra in piazza per gli abusivi dello Spin Time Il Comune di Monfalcone vince e ottiene le chiavi del centro islamico: “Regnavano illegalità e abusi”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OFTQMLKWKRHONNPZJ3FBJ42654.jpg?smart=true&amp;auth=0b5cc5b7dd19d24921bbe59f13a1dfa6a03a70352245b0965afe97a713e7e112&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il marito: “In galera lui e i suoi”. Salvata da un alunno congolese</title>
-<link>https://www.ilgiornale.it/news/nazionale/il-marito-in-galera-lui-e-i-suoi-salvata-da-un-alunno-congolese/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-marito-in-galera-lui-e-i-suoi-salvata-da-un-alunno-congolese/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>“La odiava per i debiti”. Prof aggredita a scuola: spray e tre coltellate. In diretta su Telegram Il marito: “In galera lui e i suoi”. Salvata da un alunno congolese Il 13enne riprendeva l’azione con il telefono montato su un casco. L’aveva annunciata sui social. Caccia a chi guardava il video live Stefano Vladovich La docente: “Ho avuto paura di morire, ma ho già perdonato il ragazzo"</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OPQLVDE6HBDELJ7HQJMSD33SCQ.jpg?focal=1367%2C479&amp;auth=265a03f2693eb730bafedf94b5a3a8653cfb1cdab3e153e031b8207de51a2155&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
