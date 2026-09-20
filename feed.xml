@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 19:51:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 20:11:11 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Espropri sulle case e programma pro-Islam: chi è Elif Eralp, la “Mamdani” di Berlino</title>
+<link>https://www.ilgiornale.it/news/politica-estera/espropri-sulle-case-e-programma-pro-islam-chi-e-elif-eralp-la-mamdani-di-berlino/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/espropri-sulle-case-e-programma-pro-islam-chi-e-elif-eralp-la-mamdani-di-berlino/</guid>
+<pubDate>Sun, 20 Sep 2026 20:00:03 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ZYBC4UA7RRA7DE4NKUPBNOSOW4.jpg?smart=true&amp;auth=5cb746e41268a01073a1ecb48a7f03a4cd596cf9cf245ed8e0d1a7d0a4f59b0d&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>La melina di Schlein e Calabresi per non parlare di nulla</title>
 <link>https://www.ilgiornale.it/news/interni/la-melina-di-schlein-e-calabresi-per-non-parlare-di-nulla/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
 <description>“La odiava per i debiti”. Prof aggredita a scuola: spray e tre coltellate. In diretta su Telegram Il marito: “In galera lui e i suoi”. Salvata da un alunno congolese Il 13enne riprendeva l’azione con il telefono montato su un casco. L’aveva annunciata sui social. Caccia a chi guardava il video live Stefano Vladovich La docente: “Ho avuto paura di morire, ma ho già perdonato il ragazzo"</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OPQLVDE6HBDELJ7HQJMSD33SCQ.jpg?focal=1367%2C479&amp;auth=265a03f2693eb730bafedf94b5a3a8653cfb1cdab3e153e031b8207de51a2155&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Schivo e fan delle armi”. Il precedente di marzo a Trescore</title>
-<link>https://www.ilgiornale.it/news/nazionale/schivo-e-fan-delle-armi-il-precedente-di-marzo-a-trescore/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/schivo-e-fan-delle-armi-il-precedente-di-marzo-a-trescore/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>Patricia Tagliaferri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CWV5YNTYUBDV3KFZYTVNZVIFKU.jpg?focal=1228%2C944&amp;auth=2cdcb718aede3ab8c32386123746349c00b301f25fe0617e48293d72686e3cbc&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
