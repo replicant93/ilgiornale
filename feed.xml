@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 11:29:50 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 11:42:16 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Piccoli comunisti (ri)crescono. I giovani dem sempre più rossi</title>
@@ -773,6 +773,13 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/CUVRAKTHPRANLDVZKAOS5TFRBA.jpg?focal=1286%2C964&amp;auth=387bfeec81df9e19bdc90f7c89a8b3160386aca8a3a392e70a5b645b87a922d2&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
+<title>Mazzola Opens in new window</title>
+<link>https://www.ilgiornale.it/news/calcio/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni/</guid>
+<pubDate>Sat, 19 Sep 2026 07:18:37 +0000</pubDate>
+<description>Mazzola Opens in new window</description>
+</item>
+<item>
 <title>Groenlandia, Trump annuncia l’accordo: “Controllo permanente sulla sicurezza”</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/groenlandia-trump-annuncia-laccordo-controllo-permanente-sulla-sicurezza/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/groenlandia-trump-annuncia-laccordo-controllo-permanente-sulla-sicurezza/</guid>
@@ -795,14 +802,6 @@
 <pubDate>Sat, 19 Sep 2026 06:32:53 +0000</pubDate>
 <description>Calcio Addio a Sandro Mazzola, la bandiera dell’Inter aveva 83 anni Scudetti, Coppe dei Campioni e la staffetta di Messico ’70: tutte le imprese Lo ha annunciato il club nerazzurro in una nota: “Uno dei più grandi calciatori della storia” Redazione web L'intervista: “Il dribbling perfetto? Come una bella donna”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/LYVLNAI6YJPCRLOHNPCOIGCI7Y.jpg?focal=2271%2C1317&amp;auth=31bf684c880ed0082c69ff693f8092efdd44888bff3f65437af94c7c297bb0e7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Esclusivo - 18 milioni per Hamas con la finta beneficenza: ecco le carte che incastrano la cellula italiana</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/esclusivo-18-milioni-per-hamas-con-la-finta-beneficenza-ecco-le-carte-che-incastrano-la-cellula-italiana/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/esclusivo-18-milioni-per-hamas-con-la-finta-beneficenza-ecco-le-carte-che-incastrano-la-cellula-italiana/</guid>
-<pubDate>Sat, 19 Sep 2026 06:07:54 +0000</pubDate>
-<description>Cronaca giudiziaria Esclusivo - 18 milioni per Hamas con la finta beneficenza: ecco le carte che incastrano la cellula italiana Cupola di Hamas in Italia, chiuse le indagini preliminari: nessuna archiviazione. E ora si scava nella rete di Hannoun I soldi raccolti con la finta scusa delle beneficenza sarebbero infatti quasi il triplo rispetto all’ipotesi iniziale: Hannoun avrebbe inviato circa 18 milioni di euro Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LIHXR2U2TRIKLG2F7IV6ZR6MCQ.jpg?smart=true&amp;auth=417eec91820647d80f371ae7f94bdc8bcc20ab7429b7251f91b9d0d0c92a46a3&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
