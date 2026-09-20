@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 16:58:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 17:15:29 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>E Schlein sfida ancora Giuseppi: “Sulle armi a Kiev non siamo d’accordo”</title>
+<link>https://www.ilgiornale.it/news/interni/schlein-tira-dritto-e-sfida-ancora-conte-sulle-armi-a-kiev-non-siamo-daccordo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/schlein-tira-dritto-e-sfida-ancora-conte-sulle-armi-a-kiev-non-siamo-daccordo/</guid>
+<pubDate>Sun, 20 Sep 2026 17:07:46 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YDPXYDMULZHPXACYLMKNI3WEQM.jpg?smart=true&amp;auth=f380b00c984a653a317945a5373c85e1cca79225aa352436770fca2d616f98a3&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Germania, seggi chiusi in Meclemburgo-Pomerania. AfD in testa con il 38%</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/germania-seggi-chiusi-in-meclemburgo-pomerania-afd-in-testa-con-il-38/</link>
@@ -794,14 +802,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/governo/giorgetti-alla-ue-taglio-del-bollo-coi-risparmi-pnrr-sono-soldi-nostri/</guid>
 <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
 <description>La Lega raddoppia: rinviare lo stop degli Euro 5 Il ministro respinge i dubbi sull’uso dei fondi Extraprofitti, pressing su Bruxelles per la tassazione europea Marcello Astorri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CIHXIBLLJJECRNBAZCLPKVC7LA.jpg?focal=1686%2C905&amp;auth=57891a58b8c085f26409e303ddfa03c322f362dbe29e9636a30354dd5a6febe3&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>La Lega raddoppia: rinviare lo stop degli Euro 5</title>
-<link>https://www.ilgiornale.it/news/interni/la-lega-raddoppia-rinviare-lo-stop-degli-euro-5/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-lega-raddoppia-rinviare-lo-stop-degli-euro-5/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>Giorgetti alla Ue: “Taglio del bollo coi risparmi Pnrr Sono soldi nostri” La Lega raddoppia: rinviare lo stop degli Euro 5 Il ministro respinge i dubbi sull’uso dei fondi Extraprofitti, pressing su Bruxelles per la tassazione europea Marcello Astorri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/CIHXIBLLJJECRNBAZCLPKVC7LA.jpg?focal=1686%2C905&amp;auth=57891a58b8c085f26409e303ddfa03c322f362dbe29e9636a30354dd5a6febe3&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
