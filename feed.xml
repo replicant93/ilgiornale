@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 21:29:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 21:42:27 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Milan cala il tris: si sblocca Pulisic, a segno anche Rabiot e Diego Moreira</title>
+<link>https://www.ilgiornale.it/news/calcio/il-milan-cala-il-tris-si-sblocca-pulisic-a-segno-anche-rabiot-e-diego-moreira/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-milan-cala-il-tris-si-sblocca-pulisic-a-segno-anche-rabiot-e-diego-moreira/</guid>
+<pubDate>Sun, 20 Sep 2026 20:41:33 +0000</pubDate>
+<description>Convincente prestazione della squadra di Amorim che cancella la brutta prestazione in Europa League e si rilancia in Serie A Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QXNCIWFVSZCFNGCINQMPOTRRTM.jpg?smart=true&amp;auth=39024516ff1f89ac65556d0f8bf718f5496e119693a63fd050a6f388496abfb8&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Il voto in una regione chiave tra sviluppo industriale e AfD</title>
 <link>https://www.ilgiornale.it/news/politica-estera/il-voto-in-una-regione-chiave-tra-lo-sviluppo-industriale-e-la-spinta-dellafd/</link>
@@ -795,14 +803,6 @@
 <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
 <description>El Koudri, cade la teoria del pazzo. “Capace di intendere e volere” La città scopre l’orrore che i depistaggi Pd cercavano di nascondere. “Qui negano l’evidenza” Secondo le prime indiscrezioni gli esperti hanno escluso che il marocchino abbia agito per il suo disturbo psichiatrico. I parenti delle vittime: “Chiederemo che sia contestata l’aggravante terrorismo” Francesco Giubilei Il sindaco dem minimizza. Il centrodestra: “Chieda scusa”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/UUUYC7J2OJLRLLBIZQITTBYJB4.png?focal=1417%2C925&amp;auth=5e08f2c4e8141c43f41e86a4208f9cd4ffef418f703391bfc5b5aa2050a2fa8d&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Arriva la stretta: “Basta con la sanatoria delle okkupazioni”</title>
-<link>https://www.ilgiornale.it/news/interni/arriva-la-stretta-basta-con-la-sanatoria-delle-okkupazioni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/arriva-la-stretta-basta-con-la-sanatoria-delle-okkupazioni/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>Gli antagonisti contro i Cpr al fianco di “dottor Invasione” Arriva la stretta: “Basta con la sanatoria delle okkupazioni” Nuova manifestazione per il medico Nicola Cocco, indagato a Ravenna per il caso dei certificati falsi pro migranti. Già nel 2009 contestava il decreto Maroni. Solidarietà della Salis. La Lega denuncia Francesco Giubilei ProPal, centri sociali e islamisti: il carrozzone della nuova sinistra in piazza per gli abusivi dello Spin Time Il Comune di Monfalcone vince e ottiene le chiavi del centro islamico: “Regnavano illegalità e abusi”</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OFTQMLKWKRHONNPZJ3FBJ42654.jpg?smart=true&amp;auth=0b5cc5b7dd19d24921bbe59f13a1dfa6a03a70352245b0965afe97a713e7e112&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
