@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 04:59:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 05:17:10 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Esclusivo - Shalabayeva e la trappola di Stato. Il calvario del superpoliziotto per un sequestro inesistente</title>
+<link>https://www.ilgiornale.it/news/interni/esclusivo-shalabayeva-e-la-trappola-di-stato-il-calvario-del-superpoliziotto-per-un-sequestro-inesistente/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/esclusivo-shalabayeva-e-la-trappola-di-stato-il-calvario-del-superpoliziotto-per-un-sequestro-inesistente/</guid>
+<pubDate>Sun, 20 Sep 2026 05:12:50 +0000</pubDate>
+<description>Le inchieste del Giornale Esclusivo - Shalabayeva e la trappola di Stato. Il calvario del superpoliziotto per un sequestro inesistente Cortese arrestò Provenzano e da 13 anni è prigioniero del caso Shalabayeva. La colpa? Aver ricercato un latitante. Assolto e poi condannato, il 20 ottobre attende il secondo verdetto in Cassazione Lirio Abbate</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ITWYIMUGSND6DP6XY2SVKWIWSA.jpg?focal=1385%2C667&amp;auth=a9c87d282557e8e2dd3b28dfd66e4c221b968b221389e822d61ebcb44726175d&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Il Brunello di Montalcino 2021 di Eredi Fuligni è il vino italiano dell’anno</title>
+<link>https://www.ilgiornale.it/news/retrogusto/il-brunello-di-montalcino-2021-di-eredi-fuligni-e-il-vino-italiano-dellanno/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/il-brunello-di-montalcino-2021-di-eredi-fuligni-e-il-vino-italiano-dellanno/</guid>
+<pubDate>Sun, 20 Sep 2026 05:00:00 +0000</pubDate>
+<description>Retrogusto Il Brunello di Montalcino 2021 di Eredi Fuligni è il vino italiano dell’anno Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RO24JQJXZZEGPLIE6I2IN2Z4QI.jpeg?smart=true&amp;auth=203ba004aaa33cc659b006e57ac3611b9f3e1050c6d9ddad59a51f93fede8a93&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Sforza Fogliani rivoluzionario dell’idea liberale</title>
 <link>https://www.ilgiornale.it/news/letteratura/sforza-fogliani-rivoluzionario-dellidea-liberale/</link>
@@ -786,22 +802,6 @@
 <pubDate>Fri, 18 Sep 2026 15:37:38 +0000</pubDate>
 <description>La protesta dei residenti contro l’escalation di microcriminalità si trasforma in ronde notturne e scontri di strada Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YYLB2KU2I5LJ7E4LGLIPO4PDY4.jpg?smart=true&amp;auth=23e87d230a225d755933a8b4fd97729cde6c73bd3ea4686d8a9b2b5b899df2fb&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Addio al Superbollo? Cosa può cambiare e per quali auto: la soglia e i benefici per le casse dello Stato</title>
-<link>https://www.ilgiornale.it/news/cittadini/addio-al-superbollo-cosa-puo-cambiare-e-per-quali-auto-la-soglia-e-i-benefici-per-le-casse-dello-stato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/addio-al-superbollo-cosa-puo-cambiare-e-per-quali-auto-la-soglia-e-i-benefici-per-le-casse-dello-stato/</guid>
-<pubDate>Fri, 18 Sep 2026 15:34:44 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MXSQ6MFZRVFEHOEJPMUEVCJTE4.jpg?smart=true&amp;auth=b29d70bb83e88be63bcfc9155b0364312c28b346369d0f8c23b81c9bfd38c249&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Lutto in casa Cabrini: a 93 anni muore la madre del campione del mondo</title>
-<link>https://www.ilgiornale.it/news/sport/lutto-in-casa-cabrini-a-93-anni-muore-la-madre-del-campione-del-mondo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/sport/lutto-in-casa-cabrini-a-93-anni-muore-la-madre-del-campione-del-mondo/</guid>
-<pubDate>Fri, 18 Sep 2026 15:32:43 +0000</pubDate>
-<description>È scomparsa Graziella Bassi, la madre di Antonio Cabrini: dal primo provino alla Cremonese alle lettere inviate al figlio, il ricordo di una donna sempre ai margini dei riflettori Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/G5LX5MIVUJPEHA433OW2M5ECJI.jpg?smart=true&amp;auth=26710a4ba9004639dad996160e6fbdb2f82e935abe0c656078d29e964e4bf66a&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
