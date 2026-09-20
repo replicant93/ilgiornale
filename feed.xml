@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 20 Sep 2026 03:59:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 04:18:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Brunello di Montalcino 2021 di Eredi Fuligni è il vino italiano dell’anno</title>
+<link>https://www.ilgiornale.it/news/retrogusto/il-brunello-di-montalcino-2021-di-eredi-fuligni-e-il-vino-italiano-dellanno-2/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/il-brunello-di-montalcino-2021-di-eredi-fuligni-e-il-vino-italiano-dellanno-2/</guid>
+<pubDate>Sun, 20 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Il Brunello di Montalcino 2021 di Eredi Fuligni è il vino italiano dell’anno Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QD2YMYMGIZHETELZ6ELMSPRNEE.jpeg?smart=true&amp;auth=d3c2311ff3824eb5ea7627eea445bea633546053a7583746b47025c2a9de9a04&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>“Guardate il tg dopo”. Spunta un video con i folli minuti del 13enne prima di accoltellare la prof</title>
 <link>https://www.ilgiornale.it/news/nazionale/guardate-il-tg-dopo-spunta-un-video-con-i-folli-minuti-del-13enne-prima-di-accoltellare-la-prof/</link>
@@ -794,13 +802,6 @@
 <pubDate>Fri, 18 Sep 2026 15:28:17 +0000</pubDate>
 <description>Un suo connazionale con precedenti come danneggiamento, violenza e minaccia a pubblico ufficiale e ubriachezza è stato rimpatriato dalla questura di Avellino Alessandra Corradi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FZY6MGPWGNLJ3L25J2VTOVJZZA.jpg?smart=true&amp;auth=eb0de342788e30315010092e96a56528b407f08b7c940ae0247687b15f9bc5e4&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Imu e Tari, cambiano dichiarazioni e scadenze: comunicazioni online, 90 giorni per la tassa rifiuti e nuovi termini per i rimborsi. Cosa prevede la riforma</title>
-<link>https://www.ilgiornale.it/news/cittadini/imu-e-tari-cambiano-dichiarazioni-e-scadenze-comunicazioni-online-90-giorni-per-la-tassa-rifiuti-e-nuovi-termini-per-i-rimborsi-cosa-prevede-la-riforma/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/imu-e-tari-cambiano-dichiarazioni-e-scadenze-comunicazioni-online-90-giorni-per-la-tassa-rifiuti-e-nuovi-termini-per-i-rimborsi-cosa-prevede-la-riforma/</guid>
-<pubDate>Fri, 18 Sep 2026 15:25:40 +0000</pubDate>
-<description>Valentina Menassi</description>
 </item>
 </channel>
 </rss>
