@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 14:23:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 14:41:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Peccato che se la sia cavata”: sui social commenti choc sulla prof accoltellata. Ma la foto è quella sbagliata</title>
+<link>https://www.ilgiornale.it/news/nazionale/peccato-che-se-la-sia-cavata-sui-social-commenti-choc-sulla-prof-accoltellata-ma-la-foto-e-quella-sbagliata/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/peccato-che-se-la-sia-cavata-sui-social-commenti-choc-sulla-prof-accoltellata-ma-la-foto-e-quella-sbagliata/</guid>
+<pubDate>Mon, 21 Sep 2026 14:19:49 +0000</pubDate>
+<description>La docente accoltellata a Roma è stata prese di mira per le sue posizioni sull’immigrazione. Ma sui social spunta la foto errata: quella della docente aggredita in provincia di Bergamo Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/IQZUB3TMLRPBFFEIK2FSROHXAU.jpg?focal=1468%2C942&amp;auth=4ad57310d7b253d1b259e7bc2d1024339ce1d8da0ab2c266d6248f63495129c6&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Ceuta, l’omofobia che nessuno vuole vedere: la denuncia dei gay dopo l’arrivo dei migranti</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-lomofobia-che-nessuno-vuole-vedere-la-denuncia-dei-gay-dopo-larrivo-dei-migranti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-lomofobia-che-nessuno-vuole-vedere-la-denuncia-dei-gay-dopo-larrivo-dei-migranti/</guid>
+<pubDate>Mon, 21 Sep 2026 14:12:25 +0000</pubDate>
+<description>Insulti, paura e coppie costrette a cambiare abitudini: a Ceuta la comunità arcobaleno denuncia il prezzo del cortocircuito tra accoglienza, integrazione e diritti Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/B7CBEUY7G5FNPIIYUGVJZYP7HQ.jpg?smart=true&amp;auth=4a550d588d8140ee09a0097cf80bb6b5cb47a008291e1f636a383c0f8aaff214&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Altri guai per Sanchez: rinviata a giudizio la moglie. Il governo spagnolo: “Persecuzione e accanimento”</title>
 <link>https://www.ilgiornale.it/news/politica-estera/altri-guai-per-sanchez-rinviata-a-giudizio-la-moglie-il-governo-spagnolo-persecuzione-e-accanimento/</link>
@@ -786,21 +802,6 @@
 <pubDate>Sun, 20 Sep 2026 10:00:00 +0000</pubDate>
 <description>Campo largo militarizzato</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>Con il lavoro Nostro Signore affida all’uomo un po’ di mondo</title>
-<link>https://www.ilgiornale.it/news/societa/con-il-lavoro-nostro-signore-affida-alluomo-un-po-di-mondo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/con-il-lavoro-nostro-signore-affida-alluomo-un-po-di-mondo/</guid>
-<pubDate>Sun, 20 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Società Con il lavoro Nostro Signore affida all’uomo un po’ di mondo Don Luigi Maria Epicoco</description>
-</item>
-<item>
-<title>Altro che beneficenza: Hannoun ha inviato 18 milioni ad Hamas. In sei verso il processo</title>
-<link>https://www.ilgiornale.it/news/interni/altro-che-beneficenza-hannoun-ha-inviato-18-milioni-ad-hamas-in-sei-verso-il-processo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/altro-che-beneficenza-hannoun-ha-inviato-18-milioni-ad-hamas-in-sei-verso-il-processo/</guid>
-<pubDate>Sun, 20 Sep 2026 10:00:00 +0000</pubDate>
-<description>Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LIHXR2U2TRIKLG2F7IV6ZR6MCQ.jpg?focal=1608%2C524&amp;auth=417eec91820647d80f371ae7f94bdc8bcc20ab7429b7251f91b9d0d0c92a46a3&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
