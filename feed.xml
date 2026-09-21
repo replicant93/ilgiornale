@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 17:32:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 17:47:41 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Se il Comune acquista immobile nessuna regolarizzazione”. Emendamento FdI anti-occupazione</title>
+<link>https://www.ilgiornale.it/news/interni/se-il-comune-acquista-immobile-nessuna-regolarizzazione-emendamento-fdi-anti-occupazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/se-il-comune-acquista-immobile-nessuna-regolarizzazione-emendamento-fdi-anti-occupazione/</guid>
+<pubDate>Mon, 21 Sep 2026 17:43:43 +0000</pubDate>
+<description>Questo è il principio stabilito nell’emendamento presentato al Dl pubblica amministrazione dal vicepresidente della Camera Fabio Rampelli Francesco Curridori</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/UCKKK3Z6FJHPZPM5JRRFMAQQM4.jpg?focal=1344%2C460&amp;auth=0c989d5786b92cb2cfcc7f40427af1f8ed6ba91f29144d1de58c0c787561f77c&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Mattarella ad Amatrice inaugura l’anno scolastico: “L’IA non potrà mai sostituire i professori”. Poi il richiamo alla libertà: “È autentica solo se esiste per tutti”</title>
 <link>https://www.ilgiornale.it/news/quirinale/mattarella-ad-amatrice-inaugura-lanno-scolastico-lia-non-potra-mai-sostituire-i-professori-poi-il-ricordo-delle-poesie-e-il-si-nellinno/</link>
@@ -794,14 +802,6 @@
 <pubDate>Sun, 20 Sep 2026 14:04:32 +0000</pubDate>
 <description>La preghiera musulmana al Seraphicum di Roma Secondo il sito ufficiale rappresenta 22 associazioni islamiche della Capitale. Ma nelle pagine pubbliche non compare l’elenco completo delle sigle cui fanno riferimento Giulia Sorrentino</description>
 <media:content url="https://cloudfront-eu-central-1.images.arcpublishing.com/ilgiornale/T4I2R6RODBGZZHMCBVN2AHIDR4.png" medium="image" />
-</item>
-<item>
-<title>MotoGp, prima vittoria Ktm in Austria: Acosta batte Martin e Bezzecchi</title>
-<link>https://www.ilgiornale.it/news/motori/motogp-prima-vittoria-ktm-in-austria-acosta-batte-martin-e-bezzecchi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/motogp-prima-vittoria-ktm-in-austria-acosta-batte-martin-e-bezzecchi/</guid>
-<pubDate>Sun, 20 Sep 2026 13:47:20 +0000</pubDate>
-<description>Prima storica vittoria della scuderia austriaca nella gara di casa. Lo spagnolo della Ktm riesce ad avere la meglio sulle Aprilia ufficiali, che approfittano della giornata storta di Marquez e Bagnaia Luca Bocci</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZRCXSQHWZRCY5LGRHUTNDC5Z3I.jpg?smart=true&amp;auth=e314fe22484ceae8fce45fa71611d4641f6778972196897a392494d97d05fb88&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
