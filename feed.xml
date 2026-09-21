@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 19:46:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 19:57:22 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Caso Ranucci, i pm indagano sulla cena con Lavitola dell’affare immobiliare. L’imprenditore Pulcini sentito come testimone</title>
+<link>https://www.ilgiornale.it/news/nazionale/caso-ranucci-i-pm-indagano-sulla-cena-con-lavitola-dellaffare-immobiliare-limprenditore-pulcini-sentito-come-testimone/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/caso-ranucci-i-pm-indagano-sulla-cena-con-lavitola-dellaffare-immobiliare-limprenditore-pulcini-sentito-come-testimone/</guid>
+<pubDate>Mon, 21 Sep 2026 19:49:59 +0000</pubDate>
+<description>A cena dopo la bomba. Cianfoni contro Sigfrido: “La strega di tua moglie” L’immobiliarista ascoltato in procura può aiutare a ricostruire i rapporti tra il giornalista e il faccendiere. Parla l’ex compagna dell’indagato: “Abbiamo usato metodi duri” Pasquale Napolitano , Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HIXTVQCOCZGPNK3RYGCF45WHZA.jpg?focal=1543%2C772&amp;auth=5db9cddb32b701d7649f7346106d60eaa5302d2a0e70654cd0e0910d62786370&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Lega, Salvini incassa la fiducia e rilancia: “Al congresso mi aspetto un altro candidato”</title>
 <link>https://www.ilgiornale.it/news/governo/lega-salvini-incassa-la-fiducia-e-rilancia-al-congresso-mi-aspetto-un-altro-candidato/</link>
@@ -794,14 +802,6 @@
 <pubDate>Sun, 20 Sep 2026 16:15:22 +0000</pubDate>
 <description>Diciotto deputati e un lord scrivono al ministro della Difesa: “La vera pelle non è più giustificabile”. E il governo apre all’alternativa sintetica Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JKL75D5M6ZPEHIVKPKKOBYNTDE.jpg?focal=428%2C463&amp;auth=c7f94cb4c8da13ca8593e70a797f3a60c4a5e30d6a8432b458ca205171752e3d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il coro contro il burqa: “Levalo”. La Lega rilancia la guerra al velo</title>
-<link>https://www.ilgiornale.it/news/interni/pontida-il-coro-contro-il-burqa-levalo-la-lega-rilancia-la-guerra-al-velo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/pontida-il-coro-contro-il-burqa-levalo-la-lega-rilancia-la-guerra-al-velo/</guid>
-<pubDate>Sun, 20 Sep 2026 16:09:49 +0000</pubDate>
-<description>A Pontida è il giorno della Lega. Salvini: “Più militari nelle nostre città e no alle moschee”. E annuncia Congresso straordinario ad ottobre Il coro contro il burqa: “Levalo”. La Lega rilancia la guerra al velo “Io sto con Matteo” e “Lega Nord fino alla morte” si vede scritto sui cartelli tra la folla. Insieme al leader Matteo Salvini presenti sul palco da Giorgetti a Zaia fino a Romeo e Fontana. Il messaggio è chiaro: “Decidere insieme e marciare compatti” Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FB5XE2IUGZGRLMQUGNXTPHOKCI.jpg?focal=1509%2C778&amp;auth=a4ea4b7ed07cd642b1195215199ab7da61a514f23f081446568de79bb9dc29e4&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
