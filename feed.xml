@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 08:33:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 08:50:05 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Daniel Maldini, i test confermano: escluso totalmente l’uso di stupefacenti</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/daniel-maldini-i-test-confermano-escluso-totalmente-luso-di-stupefacenti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/daniel-maldini-i-test-confermano-escluso-totalmente-luso-di-stupefacenti/</guid>
+<pubDate>Mon, 21 Sep 2026 08:45:56 +0000</pubDate>
+<description>Nel campione prelevato dopo l’incidente a Milano e analizzato all’ospedale Niguarda non è stata rilevata la presenza né di Thc, la molecola della cannabis, né ketamina Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/667HCGCB6ZKWBJTBEQHAS6FWMA.jpg?smart=true&amp;auth=6f19386b93eb83ffd3d1a90c651b3dae24fcf0cd4df7ba96fcb8942de5a2a6f0&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Quella gonna ricorda il Ku Klux Klan”. Converse si piega alla follia woke e cancella lo spot</title>
 <link>https://www.ilgiornale.it/news/cultura-e-societa/quella-gonna-ricorda-il-ku-klux-klan-converse-si-piega-alla-follia-woke-e-cancella-lo-spot/</link>
@@ -793,14 +801,6 @@
 <pubDate>Sat, 19 Sep 2026 15:46:57 +0000</pubDate>
 <description>La (non) risposta della relatrice Onu al Giornale</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F09-19-2026%2Ft_1090ca26966c47d7ac9223151b92f016_name_file_640x360_600_v4_.jpg?smart=true&amp;auth=f0b790af9e0363f04ade61ec8a778c2f2ac8fb18282d382111f59a4f92afa09b&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Caltanissetta, ritrovate le due sorelline scomparse ieri: stanno bene</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/caltanissetta-scoparse-da-ieri-due-bambine-lappello-della-famiglia-chi-sa-qualcosa-ci-faccia-sapere/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/caltanissetta-scoparse-da-ieri-due-bambine-lappello-della-famiglia-chi-sa-qualcosa-ci-faccia-sapere/</guid>
-<pubDate>Sat, 19 Sep 2026 15:24:05 +0000</pubDate>
-<description>La maggiore ha 12 anni, la più piccola 8. Da ieri sera non si avevano più loro notizie. Il padre: “All’inizio ho pensato a una marachella, poi è diventata ansia e paura” Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ARV5YUCKL5HXNGMESO5QVFDGIM.jpeg?smart=true&amp;auth=01eef68b0683f77309da919194e2bdcd1870d7c41a662774af80cebbfdf0d196&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
