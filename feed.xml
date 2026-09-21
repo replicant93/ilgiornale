@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 07:50:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 08:14:05 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il bar a Torino, i precedenti e la banda di “trasfertisti”: chi era il rapinatore ucciso ad Alba</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/il-bar-a-torino-i-precedenti-e-la-banda-di-trasfertisti-chi-era-il-rapinatore-ucciso-ad-alba/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/il-bar-a-torino-i-precedenti-e-la-banda-di-trasfertisti-chi-era-il-rapinatore-ucciso-ad-alba/</guid>
+<pubDate>Mon, 21 Sep 2026 08:01:50 +0000</pubDate>
+<description>I ladri nel cortile e gli spari al buio: cos'è successo Si chiamava Gjovalin Lazri, 36enne di origini albanesi, l’uomo che si è introdotto in un casale a Baldissero D’Alba e che ha perso la vita dopo che il proprietario ha sparato al buio sentendo dei rumori in cortile in piena notte. Lascia una moglie e un bambino piccolo Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5VYU4ZC7DVABXLME5SS7KOVDWQ.jpg?smart=true&amp;auth=bc3f8bd16af2c716e2b5718a9122f089107fd9d0b224ea55a792deef771848c3&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Il MARE vista Duomo dei fratelli Capitaneo</title>
 <link>https://www.ilgiornale.it/news/retrogusto/il-mare-vista-duomo-dei-fratelli-capitaneo/</link>
@@ -793,14 +801,6 @@
 <pubDate>Sat, 19 Sep 2026 15:14:02 +0000</pubDate>
 <description>La Lega raddoppia: rinviare lo stop degli Euro 5 Dombrovskis conferma gli spazi di gestione della liquidità del Piano indicati dal ministro per finanziare l’esenzione del 2027. Resta da verificare la specifica operazione Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/6IUGLFONVVEG5JDHET3ZOHRHDE.jpg?smart=true&amp;auth=919bb20a9ca3cb174e653a400368fb50a217cbbcf4250058f02567feb7539f09&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Mazzola e quell’ultima telefonata di un’amicizia lunga una vita</title>
-<link>https://www.ilgiornale.it/news/calcio/mazzola-e-quellultima-telefonata-di-unamicizia-lunga-una-vita/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/mazzola-e-quellultima-telefonata-di-unamicizia-lunga-una-vita/</guid>
-<pubDate>Sat, 19 Sep 2026 14:23:22 +0000</pubDate>
-<description>Paola Fucilieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LB373R2QB5DZVGUGYURGPOME4E.jpg?smart=true&amp;auth=6d7523361577dc1741dba31621060ed6c100fb11b5efff60516fec729fae6ec0&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
