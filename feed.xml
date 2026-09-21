@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 15:45:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 15:57:49 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pensioni di reversibilità, aumenti dal 2027: quanto può salire l’assegno e chi avrà diritto alla rivalutazione</title>
+<link>https://www.ilgiornale.it/news/cittadini/pensioni-di-reversibilita-aumenti-dal-2027-quanto-puo-salire-lassegno-e-chi-avra-diritto-alla-rivalutazione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/pensioni-di-reversibilita-aumenti-dal-2027-quanto-puo-salire-lassegno-e-chi-avra-diritto-alla-rivalutazione/</guid>
+<pubDate>Mon, 21 Sep 2026 15:49:40 +0000</pubDate>
+<description>La percentuale definitiva sarà stabilita con il decreto ministeriale: con un aumento ipotetico del 2,9%, il minimo ordinario passerebbe dagli attuali 611,85 a circa 629,59 euro al mese Valentina Menassi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Y2SVBBPHERJ3DG3EBOPSPP4HBY.jpg?smart=true&amp;auth=bb615a381db0c28a0f9ffce4f2a68e11aea0282b292ec0c034e4b9433f1cd1dd&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>La frenata di Vannacci: il boom nei sondaggi è già finito?</title>
+<link>https://www.ilgiornale.it/news/parlamento/la-frenata-di-vannacci-il-boom-nei-sondaggi-e-gia-finito/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/la-frenata-di-vannacci-il-boom-nei-sondaggi-e-gia-finito/</guid>
+<pubDate>Mon, 21 Sep 2026 15:46:40 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/KGBA55RIAFDWLMTHB65VPYBMH4.jpg?focal=1703%2C1099&amp;auth=7f8e6b89e9b605bed84148629f7b1db6cd18bb85fa3536ba2c15ac2d0447d8a1&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>“Peccato che se la sia cavata”: sui social commenti choc sulla prof accoltellata. Ma la foto è quella sbagliata</title>
 <link>https://www.ilgiornale.it/news/nazionale/peccato-che-se-la-sia-cavata-sui-social-commenti-choc-sulla-prof-accoltellata-ma-la-foto-e-quella-sbagliata/</link>
@@ -786,22 +802,6 @@
 <pubDate>Sun, 20 Sep 2026 10:23:44 +0000</pubDate>
 <description>Cronaca locale Orrore a Milano, incidente mortale in moto: il figlio di Leone di Lernia muore decapitato Aveva 47 anni il videomaker e regista Davide Di Lernia, figlio del cantautore e conduttore Leone: l’ultimo ricordo pubblico lo ritrae impegnato in un evento musicale Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/SUDYICDGOFAETP52VHOOHDCACA.jpg?focal=1387%2C1188&amp;auth=517ff361d6e3a02ff677049f71de27a53d49eb50d016d92a04c67fa109fbe6c7&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Sorprende ladri nel cortile del suo casale: spara al buio e ne uccide uno</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/sorprende-ladri-nel-cortile-del-suo-casale-spara-al-buio-e-ne-uccide-uno/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/sorprende-ladri-nel-cortile-del-suo-casale-spara-al-buio-e-ne-uccide-uno/</guid>
-<pubDate>Sun, 20 Sep 2026 10:13:48 +0000</pubDate>
-<description>I malviventi si sono introdotti nel cortile di un casale a Baldissero d’Alba: il proprietario ha esploso alcuni colpi di pistola uccidendone uno Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/R4V3XD245NOC3EGKYF7KEIIEZI.jpg?smart=true&amp;auth=5997cceced8736d3a39b5f4d1538b330267e64e029eb2a71f8b911573b59e6fa&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Campo largo militarizzato</title>
-<link>https://www.ilgiornale.it/news/interni/campo-largo-militarizzato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/campo-largo-militarizzato/</guid>
-<pubDate>Sun, 20 Sep 2026 10:00:00 +0000</pubDate>
-<description>Campo largo militarizzato</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
 </item>
 </channel>
 </rss>
