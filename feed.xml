@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 09:23:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 09:41:10 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Camicia in raso effetto seta, la nuova ossessione dell’autunno</title>
+<link>https://www.ilgiornale.it/news/over/camicia-in-raso-effetto-seta-la-nuova-ossessione-dellautunno/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/over/camicia-in-raso-effetto-seta-la-nuova-ossessione-dellautunno/</guid>
+<pubDate>Mon, 21 Sep 2026 09:21:03 +0000</pubDate>
+<description>Mariangela Cutrone</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5EWDOHR6UVFW7EOYP3OHPLWWBY.jfif?smart=true&amp;auth=9b1075cdbff709e694ffbb75e87834526d3b937301b64dc94d10714f2b3534d2&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Medici, 380 euro in più per chi subisce aggressioni: la novità in contratto</title>
 <link>https://www.ilgiornale.it/news/cittadini/medici-380-euro-in-piu-per-chi-subisce-aggressioni-la-novita-in-contratto/</link>
@@ -793,14 +801,6 @@
 <pubDate>Sat, 19 Sep 2026 20:22:04 +0000</pubDate>
 <description>Francesca Bocchi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/HN77FDJTMZHZ5FLODDIVO5FHFI.jpg?smart=true&amp;auth=ad08992beb321a2d383734e5e85d004c2c3db340042983ce82891f5303859c0f&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>La Roma si illude e va avanti di due gol, poi Lautaro la riprende. Finisce 2-2 all’Olimpico</title>
-<link>https://www.ilgiornale.it/news/calcio/la-roma-si-illude-e-va-avanti-di-due-gol-poi-lautaro-la-riprende-finisce-2-2-allolimpico/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/la-roma-si-illude-e-va-avanti-di-due-gol-poi-lautaro-la-riprende-finisce-2-2-allolimpico/</guid>
-<pubDate>Sat, 19 Sep 2026 19:43:27 +0000</pubDate>
-<description>Meglio i giallorossi nel primo tempo, avanti 2-0 grazie alla doppietta di Koné. L’Inter si sveglia nella ripresa e trova il pari grazie a due gol di Lautaro Martinez Antonio Prisco</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NHMJRMRPHBBPDBNMQVXJ47NVE4.jpg?smart=true&amp;auth=8ada0107a663626b747e95d09449d459f4f10ed7d236ad765e2b4d1d1bae4b35&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
