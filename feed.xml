@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 11:35:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 11:49:24 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Grillo da Fedez: “Non ho potere o facoltà di fondare un partito. Mio figlio studia da penalista per gridare la sua innocenza”</title>
+<link>https://www.ilgiornale.it/news/interni/non-ho-potere-o-facolta-di-fondare-un-partito-con-casaleggio-non-ci-siamo-mai-candidati-grillo-senza-freni-da-fedez/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/non-ho-potere-o-facolta-di-fondare-un-partito-con-casaleggio-non-ci-siamo-mai-candidati-grillo-senza-freni-da-fedez/</guid>
+<pubDate>Mon, 21 Sep 2026 11:38:21 +0000</pubDate>
+<description>L’Elevato, ex garante del M5s, nel podcast di Fedez ha parlato di tutto, dalla sua stagione artistica fino alla politica, con passaggi anche su Conte e sull’attuale Movimento Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/G6A2CKOOFRFFTB5ESL5M5LSU44.png?smart=true&amp;auth=eae6b7529a5237cb24a36773e62d78fccddfbe4206521da5e6e51924917fe174&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Violenta un dodicenne e poi gli offre la merenda. L’orrore al parco dell’Arrivore a Torino</title>
 <link>https://www.ilgiornale.it/news/nazionale/violenta-un-dodicenne-e-poi-gli-offre-la-merenda-lorrore-al-parco-dellarrivore-a-torino/</link>
@@ -792,14 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/nelle-chat-dei-13enni-i-killer-diventano-eroi-gli-accelerazionisti-muovono-i-piu-fragili/</guid>
 <pubDate>Sun, 20 Sep 2026 10:00:00 +0000</pubDate>
 <description>“Poi guardate il Tg”. Indagini sui video. Tolto ai genitori il minore di Roma Le dirette choc su “True crime community”. Ricostruite online location e strategie dei crimini di massa Maria Sorbi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OPQLVDE6HBDELJ7HQJMSD33SCQ.jpg?focal=1433%2C619&amp;auth=265a03f2693eb730bafedf94b5a3a8653cfb1cdab3e153e031b8207de51a2155&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Poi guardate il Tg”. Indagini sui video. Tolto ai genitori il minore di Roma</title>
-<link>https://www.ilgiornale.it/news/attualita/poi-guardate-il-tg-indagini-sui-video-tolto-ai-genitori-il-minore-di-roma/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/poi-guardate-il-tg-indagini-sui-video-tolto-ai-genitori-il-minore-di-roma/</guid>
-<pubDate>Sun, 20 Sep 2026 10:00:00 +0000</pubDate>
-<description>Nelle chat dei 13enni i killer diventano eroi. Gli “accelerazionisti” muovono i più fragili “Poi guardate il Tg”. Indagini sui video. Tolto ai genitori il minore di Roma Le dirette choc su “True crime community”. Ricostruite online location e strategie dei crimini di massa Maria Sorbi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OPQLVDE6HBDELJ7HQJMSD33SCQ.jpg?focal=1433%2C619&amp;auth=265a03f2693eb730bafedf94b5a3a8653cfb1cdab3e153e031b8207de51a2155&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
