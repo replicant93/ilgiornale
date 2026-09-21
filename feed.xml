@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 06:00:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 06:29:59 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Novità Lazio e turbamenti dei No-Lot</title>
@@ -16,11 +16,89 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FBMBKS24BURILLIA2NWA2M6JJF4.png?smart=true&amp;auth=350d7bf71fde71ed635a596675930a58bc764773eada92ba38c667f237b390f7&amp;width=100&amp;height=100" medium="image" />
 </item>
 <item>
+<title>Milan, meglio con i titolari</title>
+<link>https://www.ilgiornale.it/news/calcio/milan-meglio-con-i-titolari/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/milan-meglio-con-i-titolari/</guid>
+<pubDate>Mon, 21 Sep 2026 05:38:34 +0000</pubDate>
+<description>Milan, meglio con i titolari</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/I47IIYOE4NCYDLQK5QEFMYVEDM.jpg?focal=2800%2C765&amp;auth=d9b88139184b5b42cb1596b5c6fc3435e4ccdbeb92a2509a7c1250c3ffa9c91d&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Juve, questa è la strada</title>
+<link>https://www.ilgiornale.it/news/calcio/juve-questa-e-la-strada/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/juve-questa-e-la-strada/</guid>
+<pubDate>Mon, 21 Sep 2026 05:37:13 +0000</pubDate>
+<description>Non è ancora la squadra ideale per Spalletti, ma grandi passi avanti. Bene Kolo Muani e la difesa Domenico Latagliata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ULMFZI4CBVH6TPOLKLHKZRA72A.jpg?smart=true&amp;auth=6212897593c4da2cf90fd7917f667452b8231c893ab35951ed831064a6da5e09&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Ddl Nucleare, mercoledì atteso l’ok definitivo</title>
+<link>https://www.ilgiornale.it/news/politica-economica/ddl-nucleare-mercoledi-atteso-lok-definitivo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/ddl-nucleare-mercoledi-atteso-lok-definitivo/</guid>
+<pubDate>Mon, 21 Sep 2026 05:36:18 +0000</pubDate>
+<description>Gian Maria De Francesco</description>
+</item>
+<item>
+<title>Il Pnrr aiuta la manovra: oltre 5 miliardi da usare</title>
+<link>https://www.ilgiornale.it/news/politica-economica/il-pnrr-aiuta-la-manovra-oltre-5-miliardi-da-usare/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/il-pnrr-aiuta-la-manovra-oltre-5-miliardi-da-usare/</guid>
+<pubDate>Mon, 21 Sep 2026 05:05:28 +0000</pubDate>
+<description>Gian Maria De Francesco</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CIHXIBLLJJECRNBAZCLPKVC7LA.jpg?focal=1629%2C962&amp;auth=57891a58b8c085f26409e303ddfa03c322f362dbe29e9636a30354dd5a6febe3&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>​​L’Alzheimer ha cancellato tutto, non il ricordo del primo bacio</title>
+<link>https://www.ilgiornale.it/news/attualita/lalzheimer-ha-cancellato-tutto-non-il-ricordo-del-primo-bacio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/lalzheimer-ha-cancellato-tutto-non-il-ricordo-del-primo-bacio/</guid>
+<pubDate>Mon, 21 Sep 2026 05:00:00 +0000</pubDate>
+<description>Attualità ​​L’Alzheimer ha cancellato tutto, non il ricordo del primo bacio L’albero dei ricordi: 500 storie di memoria raccolte durante l’estate 2026 dalle 60 RSA della rete Anni Azzurri, distribuite in tutta Italia Maria Sorbi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/7S22F3L5AFED3FLEMLMOCBXIVM.jpg?smart=true&amp;auth=966ec36b9ed558b28381697d85747e052b9c1aa0476fb33540c76b8f5f2a95bb&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>La pazza e distratta Inter ora lascia la scena all’Italia</title>
+<link>https://www.ilgiornale.it/news/sport/la-pazza-e-distratta-inter-ora-lascia-la-scena-allitalia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/sport/la-pazza-e-distratta-inter-ora-lascia-la-scena-allitalia/</guid>
+<pubDate>Mon, 21 Sep 2026 04:50:18 +0000</pubDate>
+<description>Gianni Visnadi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/56WYKEIFGJHTNAJU5QCO72DZJQ.jpg?focal=2086%2C1102&amp;auth=17405f7f968eb875b657a88614746ecdb385db8b61d9bcbb699b608406935d08&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>La voce di Houellebecq: “Non sono un profeta ma con sottomissione...”</title>
+<link>https://www.ilgiornale.it/news/letteratura/la-voce-di-houellebecq-non-sono-un-profeta-ma-con-sottomissione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/letteratura/la-voce-di-houellebecq-non-sono-un-profeta-ma-con-sottomissione/</guid>
+<pubDate>Mon, 21 Sep 2026 04:48:35 +0000</pubDate>
+<description>Lo scrittore francese a Pordenonelegge: “Oggi ci sarebbero meno possibilità di pubblicare quel mio libro. L’estrema destra che avanza in Francia ha fatto diventare la sinistra ultra cattiva” Eleonora Barbieri</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/N3TGN6L63FG7PCODP3HT3QUP5U.jpg?focal=1538%2C843&amp;auth=556ec7f580c9a4e425a796cf516262b2aaf038fd395458eac3babc816c6c9bf7&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>A Pontida Salvini lancia Sardone. E lei chiede le primarie a destra</title>
+<link>https://www.ilgiornale.it/news/interni/a-pontida-salvini-lancia-sardone-e-lei-chiede-le-primarie-a-destra/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/a-pontida-salvini-lancia-sardone-e-lei-chiede-le-primarie-a-destra/</guid>
+<pubDate>Mon, 21 Sep 2026 04:15:27 +0000</pubDate>
+<description>Salvini a Pontida: “Più militari nelle nostre città e no alle moschee”. E annuncia Congresso straordinario ad ottobre Il coro contro il burqa: “Levalo” “Io sto con Matteo” e “Lega Nord fino alla morte” si vede scritto sui cartelli tra la folla. Insieme al leader Matteo Salvini presenti sul palco da Giorgetti a Zaia fino a Romeo e Fontana. Il messaggio è chiaro: “Decidere insieme e marciare compatti” Francesca Galici A Pontida Salvini lancia Sardone. E lei chiede le primarie a destra</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FB5XE2IUGZGRLMQUGNXTPHOKCI.jpg?focal=1509%2C778&amp;auth=a4ea4b7ed07cd642b1195215199ab7da61a514f23f081446568de79bb9dc29e4&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
 <title>C’è la moda: per 7 giorni indossate pazienza</title>
 <link>https://www.ilgiornale.it/news/attualita/ce-la-moda-per-7-giorni-indossate-pazienza/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/ce-la-moda-per-7-giorni-indossate-pazienza/</guid>
 <pubDate>Mon, 21 Sep 2026 04:08:52 +0000</pubDate>
 <description>commento Attualità C’è la moda: per 7 giorni indossate pazienza Serena Coppetti</description>
+</item>
+<item>
+<title>Condominio, quando è necessario entrare in casa per un guasto</title>
+<link>https://www.ilgiornale.it/news/cittadini/condominio-quando-e-necessario-entrare-in-casa-per-un-guasto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/condominio-quando-e-necessario-entrare-in-casa-per-un-guasto/</guid>
+<pubDate>Mon, 21 Sep 2026 04:00:01 +0000</pubDate>
+<description>Dario Murri</description>
+</item>
+<item>
+<title>I numeri dell’esercito cinese non tornano: cosa si nasconde davvero dietro le forze armate di Xi</title>
+<link>https://www.ilgiornale.it/news/esteri/i-numeri-dellesercito-cinese-non-tornano-cosa-si-nasconde-davvero-dietro-le-forze-armate-di-xi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/esteri/i-numeri-dellesercito-cinese-non-tornano-cosa-si-nasconde-davvero-dietro-le-forze-armate-di-xi/</guid>
+<pubDate>Mon, 21 Sep 2026 04:00:00 +0000</pubDate>
+<description>Mondo I numeri dell’esercito cinese non tornano: cosa si nasconde davvero dietro le forze armate di Xi Nel PLA gradi e ruoli non coincidono sempre con il comando sul campo: tra funzionari politici, tecnici e accademici, i confronti con gli eserciti occidentali diventano ingannevoli Federico Giuliani</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HPAGEFXWMNP7RLQRS7USHMWZQQ.jpg?smart=true&amp;auth=1bf5f2f836365cd499a24fd71771b016801b79c6d6acfc4d50336020b8d62f2f&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Il Milan cala il tris: si sblocca Pulisic, a segno anche Rabiot e Diego Moreira</title>
@@ -723,85 +801,6 @@
 <pubDate>Sat, 19 Sep 2026 11:03:19 +0000</pubDate>
 <description>Una petizione con oltre seicento firme chiede un simbolo “pienamente inclusivo” per il Mic. Pd e M5s aprono alla proposta: nel mirino il profilo tratto dal capolavoro di Bernini Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/RHIMP2LSLRGCDHMQRYLJUFDPIY.jpeg?focal=284%2C228&amp;auth=81b989d88a6bc8cc323aee44f61e5cfd46e5ef04a1cb2333888b9f6ff2b93645&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“La odiava per i debiti”. Prof aggredita a scuola: spray e tre coltellate. In diretta su Telegram</title>
-<link>https://www.ilgiornale.it/news/politica/la-odiava-per-i-debiti-prof-aggredita-a-scuola-spray-e-tre-coltellate-in-diretta-su-telegram/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/la-odiava-per-i-debiti-prof-aggredita-a-scuola-spray-e-tre-coltellate-in-diretta-su-telegram/</guid>
-<pubDate>Sat, 19 Sep 2026 10:44:06 +0000</pubDate>
-<description>Il marito: “In galera lui e i suoi”. Salvata da un alunno congolese Il 13enne riprendeva l’azione con il telefono montato su un casco. L’aveva annunciata sui social. Caccia a chi guardava il video live Stefano Vladovich La docente: “Ho avuto paura di morire, ma ho già perdonato il ragazzo"</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OPQLVDE6HBDELJ7HQJMSD33SCQ.jpg?focal=1367%2C479&amp;auth=265a03f2693eb730bafedf94b5a3a8653cfb1cdab3e153e031b8207de51a2155&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>E bandisce tre testate dalla Casa Bianca</title>
-<link>https://www.ilgiornale.it/news/politica-estera/e-trump-bandisce-tre-testate-dalla-casa-bianca/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/e-trump-bandisce-tre-testate-dalla-casa-bianca/</guid>
-<pubDate>Sat, 19 Sep 2026 10:33:38 +0000</pubDate>
-<description>Valeria Robecco</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/EW3BIUDYLFCX3JBH5U6CTVKTZU.jpg?focal=2795%2C1050&amp;auth=462acd5d6e72c9ee652634fe3b127686a4a6dda30545fe2ee1e8aca1b39a53fb&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>L'impegno tricolore negli scenari di crisi dal Golfo Persico a Gaza e il fianco Est della Nato</title>
-<link>https://www.ilgiornale.it/news/politica-internazionale/limpegno-tricolore-negli-scenari-di-crisi-dal-golfo-persico-a-gaza-e-il-fianco-est-della-nato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/limpegno-tricolore-negli-scenari-di-crisi-dal-golfo-persico-a-gaza-e-il-fianco-est-della-nato/</guid>
-<pubDate>Sat, 19 Sep 2026 10:29:58 +0000</pubDate>
-<description>Il Mar Rosso e Riad: snodi decisivi per l'economia italiana Sono 40 le missioni con i militari italiani schierati per la pace. I mille carabinieri chiesti dagli Usa nella Striscia l’ultimo caso di impegno Francesco De Palo Ottobre senza petrolio saudita. Macron convoca un G7 sull’energia</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MQHLAP53KVPODEUGMKTAITF4YI.jpg?focal=1311%2C894&amp;auth=0558412bec3125c92ddfe27946119480b1a146abdb193fe116b7ec50ce207848&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Scommessa di Fdi: “Avanti fino alla fine”. Arianna: “Difendere la sovranità umana”</title>
-<link>https://www.ilgiornale.it/news/interni/scommessa-di-fdi-avanti-fino-alla-fine-arianna-difendere-la-sovranita-umana/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/scommessa-di-fdi-avanti-fino-alla-fine-arianna-difendere-la-sovranita-umana/</guid>
-<pubDate>Sat, 19 Sep 2026 10:21:50 +0000</pubDate>
-<description>Affondo di Tajani sui giallorossi. “Un’accozzaglia divisa su tutto” A Fenix, festa di Gioventù nazionale, si guarda al voto come un appuntamento lontano: “Ma occhio agli incidenti di aula”. La responsabile della segreteria politica sull’avvento dell’Intelligenza artificiale: “L’Italia può guidare il processo ma senza divieti” Francesco Boezi Ecco il programma di Conte: canne libere e sesso a scuola “Il premio elettorale al 42% è un golpe”. Ma loro lo votarono al 40</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3ETKAERGWVG2NGJKT2SK63GALE.jpg?focal=600%2C153&amp;auth=f198787b484935f278c387ea0af5331b09d4da4d29d95bb4d39efb95497dfe1d&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Gli antagonisti contro i Cpr al fianco di “dottor Invasione”</title>
-<link>https://www.ilgiornale.it/news/interni/gli-antagonisti-contro-i-cpr-al-fianco-di-dottor-invasione/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/gli-antagonisti-contro-i-cpr-al-fianco-di-dottor-invasione/</guid>
-<pubDate>Sat, 19 Sep 2026 10:20:28 +0000</pubDate>
-<description>Arriva la stretta: “Basta con la sanatoria delle okkupazioni” Nuova manifestazione per il medico Nicola Cocco, indagato a Ravenna per il caso dei certificati falsi pro migranti. Già nel 2009 contestava il decreto Maroni. Solidarietà della Salis. La Lega denuncia Francesco Giubilei ProPal, centri sociali e islamisti: il carrozzone della nuova sinistra in piazza per gli abusivi dello Spin Time Il Comune di Monfalcone vince e ottiene le chiavi del centro islamico: “Regnavano illegalità e abusi”</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OFTQMLKWKRHONNPZJ3FBJ42654.jpg?smart=true&amp;auth=0b5cc5b7dd19d24921bbe59f13a1dfa6a03a70352245b0965afe97a713e7e112&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Mazzola e Facchetti, quella visita al bambino ferito nella strage di Piazza Fontana</title>
-<link>https://www.ilgiornale.it/news/attualita/mazzola-e-facchetti-quella-visita-al-bambino-ferito-nella-strage-di-piazza-fontana/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/mazzola-e-facchetti-quella-visita-al-bambino-ferito-nella-strage-di-piazza-fontana/</guid>
-<pubDate>Sat, 19 Sep 2026 10:06:22 +0000</pubDate>
-<description>Paola Fucilieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MJDYTTCCKBBN7MKD2IYQN4PAQY.jpg?focal=1103%2C325&amp;auth=ab97cd7b14fa555e9c5da987e4cbf9f079a439d90ba074174204809466030d98&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>In Russia partito il voto farsa. Putin “mangia” Nestlé e Auchan</title>
-<link>https://www.ilgiornale.it/news/politica-estera/in-russia-partito-il-voto-farsa-putin-mangia-nestle-e-auchan/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/in-russia-partito-il-voto-farsa-putin-mangia-nestle-e-auchan/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>Politica estera In Russia partito il voto farsa. Putin “mangia” Nestlé e Auchan Si vota per la Duma, tra esclusioni e boicottaggi il movimento dello Zar è senza rivali e nazionalizza le aziende straniere. Trump studia accordi commerciali col Cremlino per trovare un accordo Luigi Guelpa</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VMUNFAZLBFHCTOZWR3YI5WG6QI.jpg?focal=1381%2C562&amp;auth=7919c2d8605fa3d410a2ce678a2b8fd1310e6bad8cadbe9e4b18c22529431863&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Il pianeta delle scimmie</title>
-<link>https://www.ilgiornale.it/news/interni/il-pianeta-delle-scimmie/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-pianeta-delle-scimmie/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>Il pianeta delle scimmie</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>Aboliamo il bollo e manteniamo il buon senso</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/aboliamo-il-bollo-e-manteniamo-il-buon-senso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/aboliamo-il-bollo-e-manteniamo-il-buon-senso/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>La stanza di Feltri Aboliamo il bollo e manteniamo il buon senso Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/KA4VGXFYMFAPBNKQFQB5GFF7ZI.png?focal=1344%2C561&amp;auth=8ffcd5008855f59fe24ca816507ad01befc16bc93e3327bf585984decef2d2de&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Il caos social e il ruolo dei genitori</title>
-<link>https://www.ilgiornale.it/news/nazionale/il-caos-social-e-il-ruolo-dei-genitori/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-caos-social-e-il-ruolo-dei-genitori/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Nazionale Il caos social e il ruolo dei genitori Francesca Albergotti</description>
 </item>
 </channel>
 </rss>
