@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 18:37:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 18:53:46 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Rubio rilancia l’asse con Roma: “L’Italia è un grande partner”</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/rubio-rilancia-lasse-con-roma-litalia-e-un-grande-partner/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/rubio-rilancia-lasse-con-roma-litalia-e-un-grande-partner/</guid>
+<pubDate>Mon, 21 Sep 2026 18:40:53 +0000</pubDate>
+<description>Accordo con Tajani sui minerali critici: Italia e Stati Uniti rafforzano la cooperazione sulle catene di approvvigionamento Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/SPEF3XTB6BFYRNSTGFILSH6QPY.jpg?focal=1590%2C625&amp;auth=907359e22706b53154ada582de52ea946177fb7f17e364bd9142c8996e931968&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Onorato punta su Contarina, l’ex fedelissimo di Alemanno</title>
+<link>https://www.ilgiornale.it/news/interni/onorato-punta-su-contarina-lex-fedelissimo-di-alemanno/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/onorato-punta-su-contarina-lex-fedelissimo-di-alemanno/</guid>
+<pubDate>Mon, 21 Sep 2026 18:28:42 +0000</pubDate>
+<description>Vittorio Contarina è stato eletto coordinatore romano di Progetto Civico Italia con 1.167 voti. Nel 2013 era candidato nella lista civica di Alemanno alle Comunali. Ora guiderà nella Capitale il partito fondato da Onorato, nato per rafforzare l’area civica del centrosinistra Francesco Boezi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QNWEVNRWZRANBMJDQEMQOVFCKI.jpeg?focal=521%2C428&amp;auth=8ba6474207c9109abdf6624ab0dafaa8843e7899c5aaac48c31d986c59cd4c74&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Denise Cosco, la procura indaga per istigazione al suicidio, intanto la salma è ferma in obitorio da 11 giorni</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/denise-cosco-la-procura-indaga-per-istigazione-al-suicidio-intanto-la-salma-e-ferma-in-obitorio-da-11-giorni/</link>
@@ -786,22 +802,6 @@
 <pubDate>Sun, 20 Sep 2026 15:09:36 +0000</pubDate>
 <description>I fatti sono accaduti nel 2024 a Luserna San Giovanni, nel torinese. La donna ha subito la frattura delle gambe durante la violenza mentre l’aggressore potrebbe essere ritornato nel suo Paese Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YKYDUGHKJJI4FGN57B7AY7N5BE.jpg?smart=true&amp;auth=b9287e73db17937e5b6575be7718ebb2fb45488c43b2cb9cf0e35b0734b59ff4&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Occhio al segnale nero e giallo che compare lungo la strada: cosa indica e cosa si rischia</title>
-<link>https://www.ilgiornale.it/news/cittadini/occhio-al-segnale-nero-e-giallo-che-compare-lungo-la-strada-cosa-indica-e-cosa-si-rischia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/occhio-al-segnale-nero-e-giallo-che-compare-lungo-la-strada-cosa-indica-e-cosa-si-rischia/</guid>
-<pubDate>Sun, 20 Sep 2026 15:06:27 +0000</pubDate>
-<description>Anche se sono meno noti di altri, questi segnali a strisce diagonali sono importantissimi da riconoscere Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CJNO5XDP4VEQDNW4WHHVDRAIBE.jpg?smart=true&amp;auth=e00c64ed1ed25605aba0e9b62954da558fd80ed4046cac1dea4702fcc256534a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Roy Paci ricoverato d’urgenza, annullati i concerti: l’artista sarà operato</title>
-<link>https://www.ilgiornale.it/news/musica/roy-paci-ricoverato-durgenza-annullati-i-concerti-lartista-sara-operato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/roy-paci-ricoverato-durgenza-annullati-i-concerti-lartista-sara-operato/</guid>
-<pubDate>Sun, 20 Sep 2026 15:04:43 +0000</pubDate>
-<description>Musica Roy Paci ricoverato d’urgenza, annullati i concerti: l’artista sarà operato In un comunicato ufficiale di scuse lo staff di Paci ha fatto sapere che “la priorità assoluta è tutelare la sua salute” per questo sono state cancellate alcune date del suo tour Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MU5Q2RFUYRMHNGIMBWNBV3I73Q.jpg?smart=true&amp;auth=26a8e1eea88ddfda0442a4ab4f75dcb7a713c79f93cc73bf4b28405bd4aeeadf&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
