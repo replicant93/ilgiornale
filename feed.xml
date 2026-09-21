@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 05:49:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 06:00:34 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Novità Lazio e turbamenti dei No-Lot</title>
@@ -597,6 +597,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/HN77FDJTMZHZ5FLODDIVO5FHFI.jpg?smart=true&amp;auth=ad08992beb321a2d383734e5e85d004c2c3db340042983ce82891f5303859c0f&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
+<title>La città scopre l’orrore che i depistaggi Pd cercavano di nascondere. “Qui negano l’evidenza”</title>
+<link>https://www.ilgiornale.it/news/interni/la-citta-scopre-lorrore-che-i-depistaggi-pd-cercavano-di-nascondere-qui-negano-levidenza/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-citta-scopre-lorrore-che-i-depistaggi-pd-cercavano-di-nascondere-qui-negano-levidenza/</guid>
+<pubDate>Sat, 19 Sep 2026 17:35:14 +0000</pubDate>
+<description>Anche le Brigate Rosse tra le ricerche di Salim El Koudri. E sul web scriveva: “Ucciderò” El Koudri, cade la teoria del pazzo. “Capace di intendere e volere” Emergono nuovi dettagli sull’attentato di Modena: El Koudri online cercava informazioni sul terrorismo rosso italiano Francesca Galici La città scopre l’orrore che i depistaggi Pd cercavano di nascondere. “Qui negano l’evidenza” Il sindaco dem minimizza. Il centrodestra: “Chieda scusa”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MNIWRF2JMBFKVNI52GKP2SK7S4.jpg?focal=1325%2C727&amp;auth=3d810afcc0c733154f8f09a291f80014f3734a368a228011ea7ff65079060d40&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
 <title>“Non penso niente”. Albanese fa scena muta su Hannoun</title>
 <link>https://www.ilgiornale.it/news/interni/non-penso-niente-albanese-fa-scena-muta-su-hannoun/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/non-penso-niente-albanese-fa-scena-muta-su-hannoun/</guid>
@@ -794,14 +802,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-caos-social-e-il-ruolo-dei-genitori/</guid>
 <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Nazionale Il caos social e il ruolo dei genitori Francesca Albergotti</description>
-</item>
-<item>
-<title>El Koudri, cade la teoria del pazzo. “Capace di intendere e volere”</title>
-<link>https://www.ilgiornale.it/news/interni/el-koudri-cade-la-teoria-del-pazzo-capace-di-intendere-e-volere/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/el-koudri-cade-la-teoria-del-pazzo-capace-di-intendere-e-volere/</guid>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<description>La città scopre l’orrore che i depistaggi Pd cercavano di nascondere. “Qui negano l’evidenza” Secondo le prime indiscrezioni gli esperti hanno escluso che il marocchino abbia agito per il suo disturbo psichiatrico. I parenti delle vittime: “Chiederemo che sia contestata l’aggravante terrorismo” Francesco Giubilei Il sindaco dem minimizza. Il centrodestra: “Chieda scusa”</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/UUUYC7J2OJLRLLBIZQITTBYJB4.png?focal=1417%2C925&amp;auth=5e08f2c4e8141c43f41e86a4208f9cd4ffef418f703391bfc5b5aa2050a2fa8d&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
