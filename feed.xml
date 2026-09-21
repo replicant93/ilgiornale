@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 21 Sep 2026 21:17:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 21:32:10 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Boccia in tv da Giletti e il fango contro Il Giornale. Cerno: “Lei che mi spiega la parola frocio è peggio di quando ci spiegava la cultura”</title>
+<link>https://www.ilgiornale.it/news/interni/boccia-in-tv-da-giletti-e-il-fango-contro-il-giornale-cerno-lei-che-mi-spiega-la-parola-frocio-e-peggio-di-quando-ci-spiegava-la-cultura/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/boccia-in-tv-da-giletti-e-il-fango-contro-il-giornale-cerno-lei-che-mi-spiega-la-parola-frocio-e-peggio-di-quando-ci-spiegava-la-cultura/</guid>
+<pubDate>Mon, 21 Sep 2026 21:20:19 +0000</pubDate>
+<description>Secondo la donna, un messaggio pubblicato dal direttore non ha scatenato adeguata indignazione. La replica di Cerno: “Lo ripeto a grande voce” Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/AOTCVITYBBGIXO4ZOJ6B3RA2OQ.jpg?smart=true&amp;auth=6e73e9544220e407589a3099e206dec8e172add0e4c2f527b007915faf27fbaa&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Incidente stradale per Alberto Stefani mentre va al federale della Lega: “Il rischio è stato alto”</title>
 <link>https://www.ilgiornale.it/news/nazionale/incidente-stradale-per-alberto-stefani-mentre-va-al-federale-della-lega-il-rischio-e-stato-alto/</link>
@@ -794,14 +802,6 @@
 <pubDate>Sun, 20 Sep 2026 18:20:33 +0000</pubDate>
 <description>Snobbare o ignorare gli attacchi di Vincenzo De Luca è un errore marchiano. Per depotenziare i colpi dello Sceriffo esiste solo una strategia efficace: il “metodo Caivano”, ovvero rispondergli per le rime con la stessa sfacciataggine Domenico Giordano</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YFHE45IFLJB4HPCV7BNLONMDGY.jpg?focal=2704%2C959&amp;auth=a07d0da730f04d5195fd7ed1c5f9eb5e399d8c7eccd77c96fc5adb512ed9ef4d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>E Schlein sfida ancora Giuseppi: “Sulle armi a Kiev non siamo d’accordo”</title>
-<link>https://www.ilgiornale.it/news/interni/schlein-tira-dritto-e-sfida-ancora-conte-sulle-armi-a-kiev-non-siamo-daccordo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/schlein-tira-dritto-e-sfida-ancora-conte-sulle-armi-a-kiev-non-siamo-daccordo/</guid>
-<pubDate>Sun, 20 Sep 2026 17:07:46 +0000</pubDate>
-<description>Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/YDPXYDMULZHPXACYLMKNI3WEQM.jpg?smart=true&amp;auth=f380b00c984a653a317945a5373c85e1cca79225aa352436770fca2d616f98a3&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
