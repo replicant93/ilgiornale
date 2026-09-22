@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 14:23:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 14:43:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Di Pietro inchioda Ilaria Salis: “Ti sei fatta eleggere solo per l’immunità, fatti giudicare”</title>
+<link>https://www.ilgiornale.it/news/europa/di-pietro-inchioda-ilaria-salis-ti-sei-fatta-eleggere-solo-per-limmunita-fatti-giudicare/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/di-pietro-inchioda-ilaria-salis-ti-sei-fatta-eleggere-solo-per-limmunita-fatti-giudicare/</guid>
+<pubDate>Tue, 22 Sep 2026 14:26:58 +0000</pubDate>
+<description>L’ex pm di Mani Pulite attacca l’eurodeputata di Avs: “Il Parlamento non può diventare uno schermo. Ungheria o Italia, davanti al giudice bisogna andare” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LSCWQ2AFJNEIHCRGACW5VWWAGQ.png?focal=990%2C296&amp;auth=a546d09f810b035a9116fd9802be10ace4ec25b67d77d935ce18adbba57d8cfb&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La violenza degli stranieri dopo un semplice controllo: agenti circondati dal branco e aggrediti, due episodi in poche ore</title>
 <link>https://www.ilgiornale.it/news/attualita/la-violenza-degli-stranieri-dopo-un-semplice-controllo-agenti-circondati-dal-branco-e-aggrediti-due-episodi-in-poche-ore/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 21 Sep 2026 10:25:46 +0000</pubDate>
 <description>A cena dopo la bomba. Cianfoni contro Sigfrido: “La strega di tua moglie” Dal carcere Valter scrive una lettera a Natalia e cita i “finanziamenti della campagna elettorale” di cui il conduttore sapeva. Prima dell’arresto: “Basta che non si faccia male a Sigfrido. Io? Sono una merda” Pasquale Napolitano , Giulia Sorrentino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FL7KRW2FBJHYRKR2ATQSF3Z3D4.jpg?focal=1498%2C623&amp;auth=70cf5f13ba108ca8fec2427782767289d1b9a4e9d46df53d138112b7e655fd33&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>L’Europa e l’addio ai Monti</title>
-<link>https://www.ilgiornale.it/news/europa/leuropa-e-laddio-ai-monti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/leuropa-e-laddio-ai-monti/</guid>
-<pubDate>Mon, 21 Sep 2026 10:14:55 +0000</pubDate>
-<description>A cura di Tommaso Cerno</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
 </item>
 </channel>
 </rss>
