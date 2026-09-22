@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 04:00:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 04:19:19 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Masseto, arriva l’edizione 2023</title>
+<link>https://www.ilgiornale.it/news/retrogusto/masseto-arriva-ledizione-2023/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/masseto-arriva-ledizione-2023/</guid>
+<pubDate>Tue, 22 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Masseto, arriva l’edizione 2023 Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3I2TGBNDPBH4RFMFSUY654FNQE.jpg?focal=5126%2C4609&amp;auth=ef3973f096504068d056b654af52dbb7554f2a24ae22ca1bb485e42f7343e5f2&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Boccia in tv da Giletti e il fango contro Il Giornale. Cerno: “Lei che mi spiega la parola frocio è peggio di quando ci spiegava la cultura”</title>
 <link>https://www.ilgiornale.it/news/interni/boccia-in-tv-da-giletti-e-il-fango-contro-il-giornale-cerno-lei-che-mi-spiega-la-parola-frocio-e-peggio-di-quando-ci-spiegava-la-cultura/</link>
@@ -794,14 +802,6 @@
 <pubDate>Sun, 20 Sep 2026 18:32:28 +0000</pubDate>
 <description>Il pianto di Rivera: “Rivali in campo ma nella vita nessuna staffetta” L’episodio prima della partita con l’Atalanta. Un gruppo di ultrà juventini ha voltato le spalle alla commemorazione di uno dei più grandi calciatori dell’Inter scomparso nelle ultime ore Alessandro Ferro La seconda vita da dirigente: portò Rummenigge all’Inter Il genio nerazzurro che inseguiva l’impossibile</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FFDF53FL4FDCRDYCBIYBQHDFQA.jpg?smart=true&amp;auth=2c86a26c5c9856b49d3db52e69e62531e326e6e729582d3bda49663796481090&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Un consiglio a Bonelli da un “delucologo”: ecco come sopravvivere allo Sceriffo</title>
-<link>https://www.ilgiornale.it/news/interni/un-consiglio-a-bonelli-da-un-delucologo-ecco-come-sopravvivere-allo-sceriffo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/un-consiglio-a-bonelli-da-un-delucologo-ecco-come-sopravvivere-allo-sceriffo/</guid>
-<pubDate>Sun, 20 Sep 2026 18:20:33 +0000</pubDate>
-<description>Snobbare o ignorare gli attacchi di Vincenzo De Luca è un errore marchiano. Per depotenziare i colpi dello Sceriffo esiste solo una strategia efficace: il “metodo Caivano”, ovvero rispondergli per le rime con la stessa sfacciataggine Domenico Giordano</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/YFHE45IFLJB4HPCV7BNLONMDGY.jpg?focal=2704%2C959&amp;auth=a07d0da730f04d5195fd7ed1c5f9eb5e399d8c7eccd77c96fc5adb512ed9ef4d&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
