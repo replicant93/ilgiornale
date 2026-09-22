@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 14:58:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 15:18:13 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>In pensione sempre più tardi: a 67 anni e 8 mesi nel 2031. E per l’anticipata serviranno 44 anni e 6 mesi</title>
+<link>https://www.ilgiornale.it/news/previdenza-e-pensioni/in-pensione-sempre-piu-tardi-a-67-anni-e-8-mesi-nel-2031-e-per-lanticipata-serviranno-44-anni-e-6-mesi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/previdenza-e-pensioni/in-pensione-sempre-piu-tardi-a-67-anni-e-8-mesi-nel-2031-e-per-lanticipata-serviranno-44-anni-e-6-mesi/</guid>
+<pubDate>Tue, 22 Sep 2026 15:05:22 +0000</pubDate>
+<description>Le proiezioni della Ragioneria generale dello Stato aggiornano il percorso dei requisiti previdenziali dopo gli aumenti già previsti per il 2027 e il 2028 Valentina Menassi</description>
+</item>
 <item>
 <title>Madre e figlia brutalmente percosse per essersi ribellate a un matrimonio combinato: denunciato un pakistano</title>
 <link>https://www.ilgiornale.it/news/nazionale/madre-e-figlia-brutalmente-percosse-per-essersi-ribellate-a-un-matrimonio-combinato-denunciato-un-pakistano/</link>
@@ -795,14 +802,6 @@
 <pubDate>Mon, 21 Sep 2026 10:34:26 +0000</pubDate>
 <description>La denuncia è partita dopo il racconto del dodicenne alla madre. La Squadra mobile sta cercando di identificare e rintracciare il presunto responsabile. Sul caso è stato annunciato anche un presidio di Fratelli d’Italia Roberta Damiata</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/L5PS3SWNUZMP5EW3SAZENE6N74.jpg?focal=274%2C207&amp;auth=4c892322eb4248a2d4ac57d890c0033f037201f7c38fd3033749c6b20ac31bca&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Hogwarts torna in TV e finisce in tasca: la prova del realme 16 Pro Harry Potter Edition</title>
-<link>https://www.ilgiornale.it/news/mobile/hogwarts-torna-in-tv-e-finisce-in-tasca-la-prova-del-realme-16-pro-harry-potter-edition/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/mobile/hogwarts-torna-in-tv-e-finisce-in-tasca-la-prova-del-realme-16-pro-harry-potter-edition/</guid>
-<pubDate>Mon, 21 Sep 2026 10:30:00 +0000</pubDate>
-<description>Lo smartphone da collezione arriva mentre Warner Bros. prepara il ritorno televisivo di Harry Potter. Scocca, interfaccia e confezione cambiano completamente, l’hardware resta quello del modello standard e il prezzo raggiunge livelli da oggetto da collezione Luigi Melita</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BYOBXTH3DZFAVPSWKIDLZ76B5E.jpg?smart=true&amp;auth=1fba37e9f4bb146e2c5f95db09c43a03573ce734f3453d515621ccbf1fb5caa3&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
