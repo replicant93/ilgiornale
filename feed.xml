@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 05:33:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 05:48:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Una miseria figlia dell’oblio</title>
+<link>https://www.ilgiornale.it/news/calcio/una-miseria-figlia-delloblio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/una-miseria-figlia-delloblio/</guid>
+<pubDate>Tue, 22 Sep 2026 05:42:18 +0000</pubDate>
+<description>commento Calcio Una miseria figlia dell’oblio Felice Manti</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FEEV4BNTHUJPMXPEDJIVOBIQOFQ.jpg?smart=true&amp;auth=db8d1ec80e7b9db27f7beb320f45714df4fffc4f3387771581baeecbf33245b7&amp;width=100&amp;height=100" medium="image" />
+</item>
 <item>
 <title>Preparavano e testavano molotov, presi quattro giovanissimi antagonisti</title>
 <link>https://www.ilgiornale.it/news/nazionale/preparavano-e-testavano-molotov-presi-quattro-giovanissimi-antagonisti/</link>
@@ -793,14 +801,6 @@
 <pubDate>Sun, 20 Sep 2026 20:00:03 +0000</pubDate>
 <description>Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ZYBC4UA7RRA7DE4NKUPBNOSOW4.jpg?smart=true&amp;auth=5cb746e41268a01073a1ecb48a7f03a4cd596cf9cf245ed8e0d1a7d0a4f59b0d&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>La melina di Schlein e Calabresi per non parlare di nulla</title>
-<link>https://www.ilgiornale.it/news/interni/la-melina-di-schlein-e-calabresi-per-non-parlare-di-nulla/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-melina-di-schlein-e-calabresi-per-non-parlare-di-nulla/</guid>
-<pubDate>Sun, 20 Sep 2026 18:55:28 +0000</pubDate>
-<description>E Schlein sfida ancora Giuseppi: “Sulle armi a Kiev non siamo d’accordo” Né la segretaria Pd, né il giornalista si sbilanciano. È il segno che le trattative sono ancora in corso e che soprattutto nulla è ancora deciso sulla partita milanese Giuseppe Alberto Falci</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/GQCANZTUFZCHJJFL4AUBRAOKEU.jpg?smart=true&amp;auth=f0913275d6d396e7c0e946a831813ff52fb5636c7c63d4e211931710a3976bd3&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
