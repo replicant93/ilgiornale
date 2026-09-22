@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 11:56:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 12:17:06 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’analista arabo difende Meloni sul velo e inchioda la sinistra: “Più musulmana dei musulmani”</title>
+<link>https://www.ilgiornale.it/news/interni/lanalista-arabo-difende-meloni-sul-velo-e-inchioda-la-sinistra-piu-musulmana-dei-musulmani/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lanalista-arabo-difende-meloni-sul-velo-e-inchioda-la-sinistra-piu-musulmana-dei-musulmani/</guid>
+<pubDate>Tue, 22 Sep 2026 12:04:49 +0000</pubDate>
+<description>Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/M4ECZJTBUJJRTGAND5TJRPUKIE.jpg?smart=true&amp;auth=25ca0b9ea46149e3c628a01d178b194d8dc33e7c0f83f6016d24bb36484d447c&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Salvini: “Bloccare il Green Deal o l’Europa si suicida”</title>
 <link>https://www.ilgiornale.it/news/europa/salvini-bloccare-il-green-deal-o-leuropa-si-suicida/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
 <description>“Minacciato dal fan del generale”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/D7IYXNU57ZAX5HEQEMQ7ULY5GI.jpg?focal=1523%2C922&amp;auth=4da0044161e4533a38651880550da7e47a728221f0bfddec8ab4803447036346&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Moratoria contro i deepfake</title>
-<link>https://www.ilgiornale.it/news/governo/moratoria-contro-i-deepfake/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/moratoria-contro-i-deepfake/</guid>
-<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
-<description>Moratoria contro i deepfake</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/SALQIARRWNBTLDIPNFHPPWTZNI.jpg?focal=7117%2C2844&amp;auth=a7338e547fe29e994dae004410cca7ba7bc4a2df11ee4a7f79fcca5ad6d2a404&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
