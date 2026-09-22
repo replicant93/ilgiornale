@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 15:59:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 16:18:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Groenlandia, il patto che avvicina l’America all’Artico: due nuove basi Usa e lo stop a Cina e Russia</title>
@@ -503,6 +503,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/6FXWJYLDZJG2PBVETJY3V64HLY.jpg?focal=1821%2C515&amp;auth=4a89dafe29b51685b7eb9ea4a58a72237c9040bf2e68667e05251bea27e36242&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Il giro in monopattino, lo stupro, la merenda: l’orrore al parco</title>
+<link>https://www.ilgiornale.it/news/nazionale/violenta-un-dodicenne-e-poi-gli-offre-la-merenda-lorrore-al-parco-dellarrivore-a-torino/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/violenta-un-dodicenne-e-poi-gli-offre-la-merenda-lorrore-al-parco-dellarrivore-a-torino/</guid>
+<pubDate>Tue, 22 Sep 2026 07:40:55 +0000</pubDate>
+<description>Abusi su un 12enne a Torino, fermato l’autore: è un italiano di origini egiziane, ha confessato. La Lega: “Castrazione chimica” Il giro in monopattino, lo stupro, la merenda: l’orrore al parco Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/6FXWJYLDZJG2PBVETJY3V64HLY.jpg?focal=1821%2C515&amp;auth=4a89dafe29b51685b7eb9ea4a58a72237c9040bf2e68667e05251bea27e36242&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
 <title>Bonus casa: quali lavori conviene programmare entro fine anno e cosa cambia dal 2027</title>
 <link>https://www.ilgiornale.it/news/cittadini/bonus-casa-quali-lavori-conviene-programmare-entro-fine-anno-e-cosa-cambia-dal-2027/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bonus-casa-quali-lavori-conviene-programmare-entro-fine-anno-e-cosa-cambia-dal-2027/</guid>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 21 Sep 2026 14:12:25 +0000</pubDate>
 <description>Insulti, paura e coppie costrette a cambiare abitudini: a Ceuta la comunità arcobaleno denuncia il prezzo del cortocircuito tra accoglienza, integrazione e diritti Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/B7CBEUY7G5FNPIIYUGVJZYP7HQ.jpg?smart=true&amp;auth=4a550d588d8140ee09a0097cf80bb6b5cb47a008291e1f636a383c0f8aaff214&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Altri guai per Sanchez: rinviata a giudizio la moglie. Il governo spagnolo: “Persecuzione e accanimento”</title>
-<link>https://www.ilgiornale.it/news/politica-estera/altri-guai-per-sanchez-rinviata-a-giudizio-la-moglie-il-governo-spagnolo-persecuzione-e-accanimento/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/altri-guai-per-sanchez-rinviata-a-giudizio-la-moglie-il-governo-spagnolo-persecuzione-e-accanimento/</guid>
-<pubDate>Mon, 21 Sep 2026 13:48:10 +0000</pubDate>
-<description>Begona Gomez accusata di traffico di influenze e malversazione. Protesta la Moncloa Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HIUAYJU3DVMP3NYVXOPBLBRME4.jpg?smart=true&amp;auth=344d29cf622c2fada1629a8abc89106945c78a549fd4b03ce8419bae6ebcf740&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
