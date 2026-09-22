@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 18:57:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 19:15:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Famiglia nel bosco, finalmente insieme a Palmoli: il primo incontro sotto lo stesso tetto. Quali sono le prossime tappe</title>
+<link>https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-finalmente-insieme-a-palmoli-il-primo-incontro-sotto-lo-stesso-tetto-quali-sono-le-prossime-tappe/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-finalmente-insieme-a-palmoli-il-primo-incontro-sotto-lo-stesso-tetto-quali-sono-le-prossime-tappe/</guid>
+<pubDate>Tue, 22 Sep 2026 18:55:45 +0000</pubDate>
+<description>Primo incontro a cinque nella nuova abitazione dopo lo stop della scorsa settimana: appuntamento fondamentale il prossimo 3 novembre Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/WC2FGQY2BJARVGJWWV4P3MN7VI.jpg?smart=true&amp;auth=b8f841a6e31610afde8b5ce7f8f5db62d5ca50089991aedbfae3eabcbac40597&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Il terrorista di Modena riceveva il sussidio per l’università: a El Koudri 6.585 euro di borse di studio regionali</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/il-terrorista-di-modena-riceveva-il-sussidio-per-luniversita-a-el-koudri-6585-euro-di-borse-di-studio-regionali/</link>
@@ -793,14 +801,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/chico-forti-il-tribunale-concede-la-semiliberta/</guid>
 <pubDate>Mon, 21 Sep 2026 16:15:12 +0000</pubDate>
 <description>“Tutto il mio processo è stata una bugia” L’uomo, condannato all’ergastolo negli Usa per la morte di Dale Pike avvenuta nel 1998 a Miami, è detenuto a Verona dopo aver trascorso 25 anni di carcere in Florida Redazione web Ultim'ora</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/X26Z7GSQTNNUHPHZWCMZM37SFE.jpg?focal=675%2C164&amp;auth=13aecd7c5046f37ebf828302a3ab338d38aab520aae1b4ea3b59a239bd9b6e7f&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Tutto il mio processo è stata una bugia”</title>
-<link>https://www.ilgiornale.it/news/mondo/chico-forti-tutto-mio-processo-stata-bugia-1160478.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/mondo/chico-forti-tutto-mio-processo-stata-bugia-1160478.html</guid>
-<pubDate>Mon, 21 Sep 2026 16:10:56 +0000</pubDate>
-<description>Chico Forti, il tribunale concede la semilibertà: è il primo passo per chiedere la libertà condizionale “Tutto il mio processo è stata una bugia” L’uomo, condannato all’ergastolo negli Usa per la morte di Dale Pike avvenuta nel 1998 a Miami, è detenuto a Verona dopo aver trascorso 25 anni di carcere in Florida Redazione web Ultim'ora</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/X26Z7GSQTNNUHPHZWCMZM37SFE.jpg?focal=675%2C164&amp;auth=13aecd7c5046f37ebf828302a3ab338d38aab520aae1b4ea3b59a239bd9b6e7f&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
