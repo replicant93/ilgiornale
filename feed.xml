@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 05:18:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 05:33:23 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Preparavano e testavano molotov, presi quattro giovanissimi antagonisti</title>
+<link>https://www.ilgiornale.it/news/nazionale/preparavano-e-testavano-molotov-presi-quattro-giovanissimi-antagonisti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/preparavano-e-testavano-molotov-presi-quattro-giovanissimi-antagonisti/</guid>
+<pubDate>Tue, 22 Sep 2026 05:25:00 +0000</pubDate>
+<description>I ragazzi, vicini ai collettivi, vivevano tra Rimini e Bologna. Avrebbero anche provato le bottiglie incendiarie in un capannone nel Pesarese Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5JBQ7FEIY5MV5I7LPRBYAYMJIU.jpg?smart=true&amp;auth=3d1f8044fec50627aa0c5a2f7d998d803e75112ac3269f23da32e66ef2d556af&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>San Siro fa 100 anni il Comune lo dimentica</title>
 <link>https://www.ilgiornale.it/news/interni/san-siro-fa-100-anni-il-comune-lo-dimentica/</link>
@@ -793,14 +801,6 @@
 <pubDate>Sun, 20 Sep 2026 18:55:28 +0000</pubDate>
 <description>E Schlein sfida ancora Giuseppi: “Sulle armi a Kiev non siamo d’accordo” Né la segretaria Pd, né il giornalista si sbilanciano. È il segno che le trattative sono ancora in corso e che soprattutto nulla è ancora deciso sulla partita milanese Giuseppe Alberto Falci</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/GQCANZTUFZCHJJFL4AUBRAOKEU.jpg?smart=true&amp;auth=f0913275d6d396e7c0e946a831813ff52fb5636c7c63d4e211931710a3976bd3&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>La denuncia, la relazione del papà con la negoziante, il ritrovamento: cosa non torna nel caso delle sorelline scomparse</title>
-<link>https://www.ilgiornale.it/news/nazionale/cosa-non-torna-nel-caso-delle-sorelline-scomparse-benedetta-e-domitilla-allontanate-anche-dal-papa-insieme-ai-quattro-fratelli/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/cosa-non-torna-nel-caso-delle-sorelline-scomparse-benedetta-e-domitilla-allontanate-anche-dal-papa-insieme-ai-quattro-fratelli/</guid>
-<pubDate>Sun, 20 Sep 2026 18:35:57 +0000</pubDate>
-<description>Dopo il ritrovamento restano molti interrogativi sulla scomparsa delle sorelline. Benedetta e Domitilla, insieme ai quattro fratelli, sono state trasferite in una comunità protetta, in attesa di far luce sull’intera vicenda Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ARV5YUCKL5HXNGMESO5QVFDGIM.jpeg?smart=true&amp;auth=01eef68b0683f77309da919194e2bdcd1870d7c41a662774af80cebbfdf0d196&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
