@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 20:14:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 20:31:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Alessandro Di Battista: “Tornerò prestissimo, mi sento meglio”</title>
+<link>https://www.ilgiornale.it/news/politica/di-battista-tornero-prestissimo-mi-sento-meglio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/di-battista-tornero-prestissimo-mi-sento-meglio/</guid>
+<pubDate>Tue, 22 Sep 2026 20:18:51 +0000</pubDate>
+<description>Politica Alessandro Di Battista: “Tornerò prestissimo, mi sento meglio” L’ex deputato ha parlato in videocollegamento con La7: “I medici cubani mi hanno salvato la vita” Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JTZPCN3N4BFNNPVP7FH66DXPIA.jpeg?smart=true&amp;auth=ea013c9734e6e70f36253268e4f97c1b4645cc074bc19631d334250dd835f71c&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Violenza sessuale al Senato, la procura di Roma chiede l’archiviazione</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/violenza-sessuale-al-senato-la-procura-di-roma-chiede-larchiviazione/</link>
@@ -793,14 +801,6 @@
 <pubDate>Mon, 21 Sep 2026 17:43:43 +0000</pubDate>
 <description>Questo è il principio stabilito nell’emendamento presentato al Dl pubblica amministrazione dal vicepresidente della Camera Fabio Rampelli Francesco Curridori</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/UCKKK3Z6FJHPZPM5JRRFMAQQM4.jpg?focal=1344%2C460&amp;auth=0c989d5786b92cb2cfcc7f40427af1f8ed6ba91f29144d1de58c0c787561f77c&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Mattarella ad Amatrice inaugura l’anno scolastico: “L’IA non potrà mai sostituire i professori”. Poi il richiamo alla libertà: “È autentica solo se esiste per tutti”</title>
-<link>https://www.ilgiornale.it/news/quirinale/mattarella-ad-amatrice-inaugura-lanno-scolastico-lia-non-potra-mai-sostituire-i-professori-poi-il-ricordo-delle-poesie-e-il-si-nellinno/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/quirinale/mattarella-ad-amatrice-inaugura-lanno-scolastico-lia-non-potra-mai-sostituire-i-professori-poi-il-ricordo-delle-poesie-e-il-si-nellinno/</guid>
-<pubDate>Mon, 21 Sep 2026 17:17:24 +0000</pubDate>
-<description>Nel decennale del terremoto il capo dello Stato ha inaugurato l’anno scolastico dall’istituto Sergio Marchionne. Dai ricordi tra i banchi al futuro dell’intelligenza artificiale, fino al siparietto con una bambina sul “sì” alla fine dell’Inno Giulia Bernardini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7OS3CYYSW5HQFFSYPXB3N7NGF4.jpg?focal=1185%2C334&amp;auth=549a9f406f01cdedc082194882fd9840766df1818d52a86d68b53915f84bfd6e&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
