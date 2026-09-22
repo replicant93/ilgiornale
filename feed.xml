@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 13:50:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 14:01:45 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Attesa per l’intervento di Trump all’Onu: sul tavolo, la guerra in Ucraina, il nucelare iraniano e la Groenlandia</title>
+<link>https://www.ilgiornale.it/diretta/politica-estera/attesa-per-lintervento-di-trump-allonu-sul-tavolo-la-guerra-in-ucraina-il-nucelare-iraniano-e-la-groenlandia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/politica-estera/attesa-per-lintervento-di-trump-allonu-sul-tavolo-la-guerra-in-ucraina-il-nucelare-iraniano-e-la-groenlandia/</guid>
+<pubDate>Tue, 22 Sep 2026 13:56:32 +0000</pubDate>
+<description>Giornata fitta di incontri a New York: faccia a faccia con Zelensky e Takaichi, vertice con i Paesi del Golfo e colloquio informale con Delcy Rodríguez Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DFGXJHMQ6FAAFJNN4E7XH33S7Y.jpg?smart=true&amp;auth=8e7a0be7a624b69ed0c397e2bac245e9d55356ae38624b0d19946945b85e0f69&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Quando Sala diceva "Massimo 30% di alunni stranieri"</title>
 <link>https://www.ilgiornale.it/news/milano/e-sindaco-scopre-classi-ghetto-massimo-30-alunni-stranieri-1659703.html</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 21 Sep 2026 10:09:42 +0000</pubDate>
 <description>Quel filo “russo” che lega lo studio dell’avvocato Giuseppi Nel partito ne parlano sottovoce per non innervosire il presidente dei Cinque Stelle. Ma Delrio rompe gli indugi: “Lo ripeto da mesi, alto rischio soprattutto se si voterà on line” Augusto Minzolini La ricetta dei grillini? Quella della Grecia in bancarotta Autogol della destra vannacciana respinta dal popolo di Conte</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/2OPJ2MGO7RKFJOEHPCBBPYZVWY.jpg?focal=2083%2C1226&amp;auth=dc8592aa511db5fdac21c014a8c2929a3b196277ff72697e8907827d725d27dc&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Chi sogna la minigonna sotto il burqa</title>
-<link>https://www.ilgiornale.it/news/interni/chi-sogna-la-minigonna-sotto-il-burqa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/chi-sogna-la-minigonna-sotto-il-burqa/</guid>
-<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Interni Chi sogna la minigonna sotto il burqa Hoara Borselli</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FUCW7WQKGCNITPJXYAJX44653RE.png?smart=true&amp;auth=21cd9cfac7d336fc5ef6f4a8b15e10ada3cdbf29fd1ea91acd39cd76fe7e0fa8&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
