@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 16:35:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 16:49:20 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sfera Ebbasta gira il videoclip davanti al Cenacolo. Ed è subito polemica</title>
+<link>https://www.ilgiornale.it/news/musica/sfera-ebbasta-gira-il-videoclip-davanti-al-cenacolo-ed-e-subito-polemica/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/sfera-ebbasta-gira-il-videoclip-davanti-al-cenacolo-ed-e-subito-polemica/</guid>
+<pubDate>Tue, 22 Sep 2026 16:32:58 +0000</pubDate>
+<description>Musica Sfera Ebbasta gira il videoclip davanti al Cenacolo. Ed è subito polemica È il primo artista ad avere girato un video nel refettorio del convento di Santa Maria delle Grazie, a Milano, davanti all’Ultima Cena di Leonardo Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VXA2CR2GPRA2XEHCO6NL7B4KPA.png?smart=true&amp;auth=4be2a728830d7ed9a9d966168fd25e566743422d5564bccc2718097b2811f077&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Groenlandia, il patto che avvicina l’America all’Artico: due nuove basi Usa e lo stop a Cina e Russia</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/groenlandia-il-patto-che-avvicina-lamerica-allartico-due-nuove-basi-usa-e-lo-stop-a-cina-e-russia/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 21 Sep 2026 14:19:49 +0000</pubDate>
 <description>La docente accoltellata a Roma è stata prese di mira per le sue posizioni sull’immigrazione. Ma sui social spunta la foto errata: quella della docente aggredita in provincia di Bergamo Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/IQZUB3TMLRPBFFEIK2FSROHXAU.jpg?focal=1468%2C942&amp;auth=4ad57310d7b253d1b259e7bc2d1024339ce1d8da0ab2c266d6248f63495129c6&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Ceuta, l’omofobia che nessuno vuole vedere: la denuncia dei gay dopo l’arrivo dei migranti</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-lomofobia-che-nessuno-vuole-vedere-la-denuncia-dei-gay-dopo-larrivo-dei-migranti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-lomofobia-che-nessuno-vuole-vedere-la-denuncia-dei-gay-dopo-larrivo-dei-migranti/</guid>
-<pubDate>Mon, 21 Sep 2026 14:12:25 +0000</pubDate>
-<description>Insulti, paura e coppie costrette a cambiare abitudini: a Ceuta la comunità arcobaleno denuncia il prezzo del cortocircuito tra accoglienza, integrazione e diritti Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/B7CBEUY7G5FNPIIYUGVJZYP7HQ.jpg?smart=true&amp;auth=4a550d588d8140ee09a0097cf80bb6b5cb47a008291e1f636a383c0f8aaff214&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
