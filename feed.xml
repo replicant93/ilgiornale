@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 07:34:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 07:49:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Abusi su un dodicenne a Torino, fermato il presunto autore: è un ventenne italiano di origini egiziane</title>
+<link>https://www.ilgiornale.it/news/nazionale/abusi-su-un-dodicenne-a-torino-fermato-il-presunto-autore-e-un-ventenne-italiano-di-origini-egiziane/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/abusi-su-un-dodicenne-a-torino-fermato-il-presunto-autore-e-un-ventenne-italiano-di-origini-egiziane/</guid>
+<pubDate>Tue, 22 Sep 2026 07:43:34 +0000</pubDate>
+<description>Il giro in monopattino, lo stupro, la merenda: l’orrore al parco L’uomo avrebbe adescato la giovane vittima con la scusa di un giro in monopattino. Poi lo avrebbe portato nel parco dell’Arrivore dove sarebbe avvenuta la violenza. Prima di lasciarlo andare gli avrebbe offerto una merenda Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/6FXWJYLDZJG2PBVETJY3V64HLY.jpg?focal=1821%2C515&amp;auth=4a89dafe29b51685b7eb9ea4a58a72237c9040bf2e68667e05251bea27e36242&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Bonus casa: quali lavori conviene programmare entro fine anno e cosa cambia dal 2027</title>
 <link>https://www.ilgiornale.it/news/cittadini/bonus-casa-quali-lavori-conviene-programmare-entro-fine-anno-e-cosa-cambia-dal-2027/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 21 Sep 2026 05:38:34 +0000</pubDate>
 <description>Milan, meglio con i titolari</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/I47IIYOE4NCYDLQK5QEFMYVEDM.jpg?focal=2800%2C765&amp;auth=d9b88139184b5b42cb1596b5c6fc3435e4ccdbeb92a2509a7c1250c3ffa9c91d&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Juve, questa è la strada</title>
-<link>https://www.ilgiornale.it/news/calcio/juve-questa-e-la-strada/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/juve-questa-e-la-strada/</guid>
-<pubDate>Mon, 21 Sep 2026 05:37:13 +0000</pubDate>
-<description>Non è ancora la squadra ideale per Spalletti, ma grandi passi avanti. Bene Kolo Muani e la difesa Domenico Latagliata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ULMFZI4CBVH6TPOLKLHKZRA72A.jpg?smart=true&amp;auth=6212897593c4da2cf90fd7917f667452b8231c893ab35951ed831064a6da5e09&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
