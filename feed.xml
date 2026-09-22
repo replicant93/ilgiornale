@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 16:49:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 17:00:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Scomparse per 21 ore, nessun sequestro di persona: le due sorelline nascoste in un negozio per una challenge social</title>
+<link>https://www.ilgiornale.it/news/attualita/scomparse-per-21-ore-erano-nascoste-in-un-negozio-le-due-sorelline-imitavano-una-challenge-social/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/scomparse-per-21-ore-erano-nascoste-in-un-negozio-le-due-sorelline-imitavano-una-challenge-social/</guid>
+<pubDate>Tue, 22 Sep 2026 16:52:49 +0000</pubDate>
+<description>Le bambine, 8 e 12 anni, avevano deciso di trascorrere la notte nell’esercizio commerciale di San Cataldo dopo aver visto sui social video in cui influencer si nascondono nei negozi fino al mattino. La Procura esclude il coinvolgimento di terzi Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/XPIKACXP4BNYHDYFD5K47BHT3M.jpg?focal=477%2C101&amp;auth=c7366674ff03200364eb9bdf8e430efda90175546b790dbc8f91e3f3e4c0fe9f&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Sfera Ebbasta gira il videoclip davanti al Cenacolo. Ed è subito polemica</title>
 <link>https://www.ilgiornale.it/news/musica/sfera-ebbasta-gira-il-videoclip-davanti-al-cenacolo-ed-e-subito-polemica/</link>
@@ -794,14 +802,6 @@
 <pubDate>Mon, 21 Sep 2026 15:02:21 +0000</pubDate>
 <description>Cinque poliziotti sono rimasti feriti a Crotone, di cui due in modo serio con prognosi di 30 giorni: “Solo per miracolo un agente non si è ritrovato col cranio sfondato” Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/UODVZGDTMFDAVLOIZMV6ITTI4Y.png?focal=1004%2C632&amp;auth=cfe7989bb7285fd1a2b204875714d4b1309e89e83351e6a02d5446dae525c201&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Peccato che se la sia cavata”: sui social commenti choc sulla prof accoltellata. Ma la foto è quella sbagliata</title>
-<link>https://www.ilgiornale.it/news/nazionale/peccato-che-se-la-sia-cavata-sui-social-commenti-choc-sulla-prof-accoltellata-ma-la-foto-e-quella-sbagliata/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/peccato-che-se-la-sia-cavata-sui-social-commenti-choc-sulla-prof-accoltellata-ma-la-foto-e-quella-sbagliata/</guid>
-<pubDate>Mon, 21 Sep 2026 14:19:49 +0000</pubDate>
-<description>La docente accoltellata a Roma è stata prese di mira per le sue posizioni sull’immigrazione. Ma sui social spunta la foto errata: quella della docente aggredita in provincia di Bergamo Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/IQZUB3TMLRPBFFEIK2FSROHXAU.jpg?focal=1468%2C942&amp;auth=4ad57310d7b253d1b259e7bc2d1024339ce1d8da0ab2c266d6248f63495129c6&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
