@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 22 Sep 2026 11:22:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 11:40:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Salvini: “Bloccare il Green Deal o l’Europa si suicida”</title>
+<link>https://www.ilgiornale.it/news/europa/salvini-bloccare-il-green-deal-o-leuropa-si-suicida/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/europa/salvini-bloccare-il-green-deal-o-leuropa-si-suicida/</guid>
+<pubDate>Tue, 22 Sep 2026 11:30:13 +0000</pubDate>
+<description>Marco Leardi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/PCSI3HBEXFAP5FJNDUIKK5ICBU.jpg?focal=1596%2C624&amp;auth=2ed0f995f0cc979dd1f602a77e3549f7928f1bc02ce884816fa062c1021f9450&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Vannacci: “Gonna corta o lunga? Una donna la preferisco sempre senza”</title>
 <link>https://www.ilgiornale.it/news/nazionale/vannacci-gonna-corta-o-lunga-una-donna-la-preferisco-sempre-senza-gonna/</link>
@@ -795,14 +803,6 @@
 <pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
 <description>Moratoria contro i deepfake</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/SALQIARRWNBTLDIPNFHPPWTZNI.jpg?focal=7117%2C2844&amp;auth=a7338e547fe29e994dae004410cca7ba7bc4a2df11ee4a7f79fcca5ad6d2a404&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>A cena dopo la bomba. Cianfoni contro Sigfrido: “La strega di tua moglie”</title>
-<link>https://www.ilgiornale.it/news/magistratura/a-cena-dopo-la-bomba-cianfoni-contro-sigfrido-la-strega-di-tua-moglie/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/a-cena-dopo-la-bomba-cianfoni-contro-sigfrido-la-strega-di-tua-moglie/</guid>
-<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
-<description>Lavitola all’ex: “Cercano i soldi della candidatura di Ranucci” A cena dopo la bomba. Cianfoni contro Sigfrido: “La strega di tua moglie” Dal carcere Valter scrive una lettera a Natalia e cita i “finanziamenti della campagna elettorale” di cui il conduttore sapeva. Prima dell’arresto: “Basta che non si faccia male a Sigfrido. Io? Sono una merda” Pasquale Napolitano , Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FL7KRW2FBJHYRKR2ATQSF3Z3D4.jpg?focal=1498%2C623&amp;auth=70cf5f13ba108ca8fec2427782767289d1b9a4e9d46df53d138112b7e655fd33&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
