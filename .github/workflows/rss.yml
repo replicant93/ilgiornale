@@ -1,4 +1,4 @@
-name: Aggiorna RSS Il Giornale
+name: Aggiorna e pubblica RSS Il Giornale
 
 on:
   schedule:
@@ -7,30 +7,57 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: rss-update-and-deploy
+  cancel-in-progress: true
 
 jobs:
-  update-rss:
+  update-and-deploy:
     runs-on: ubuntu-latest
 
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
-      - name: Scarica repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Configura Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Installa dipendenze
-        run: pip install requests beautifulsoup4 feedgen
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: Genera RSS
+      - name: Generate RSS
         run: python generate_rss.py
 
-      - name: Salva il feed
+      - name: Save RSS state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed.xml articles.json
-          git diff --cached --quiet || git commit -m "Aggiorna feed RSS"
-          git push
+
+          if git diff --quiet -- articles.json; then
+            echo "Nessuna modifica al database degli articoli."
+          else
+            git add articles.json feed.xml
+            git commit -m "Aggiorna feed RSS"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
