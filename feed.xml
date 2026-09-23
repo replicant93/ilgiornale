@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 06:59:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 07:19:51 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Vanessa Incontrada e Rossano Laurini, matrimonio in Toscana: dall’incontro a Follonica all’altare</title>
+<link>https://www.ilgiornale.it/news/personaggi/vanessa-incontrada-e-rossano-laurini-matrimonio-in-toscana-dallincontro-a-follonica-allaltare/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/vanessa-incontrada-e-rossano-laurini-matrimonio-in-toscana-dallincontro-a-follonica-allaltare/</guid>
+<pubDate>Wed, 23 Sep 2026 07:02:39 +0000</pubDate>
+<description>Dopo quasi vent’anni di storia, una separazione e il ritorno in coppia, Vanessa Incontrada e Rossano Laurini hanno scelto di sposarsi in Toscana Novella Toloni</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/XSK7YOBV4VH6XC6JFRKGNSUWSQ.jpg?focal=389%2C266&amp;auth=cc25e03f5ae80bd2cb03b867406098fcbb4a193b7ebc5f82710289c2af8652e9&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Tragedia al Colosseo, operaio di 22 anni muore dopo una caduta di 10 metri. Il ministro Giuli: “Siamo sgomenti e storditi”</title>
 <link>https://www.ilgiornale.it/news/nazionale/tragedia-al-colosseo-operaio-di-22-anni-muore-dopo-una-caduta-di-10-metri-il-ministro-giuli-siamo-sgomenti-e-storditi/</link>
@@ -794,14 +802,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/inter-la-risposta-allo-stadium-applausi-alla-delegazione-juve/</guid>
 <pubDate>Tue, 22 Sep 2026 05:40:29 +0000</pubDate>
 <description>Oltraggio a Mazzola. Subito l’indagine Figc Inter, la risposta allo Stadium: applausi alla delegazione Juve Tutti contro gli ultrà Juve. Oggi il giudice sportivo: multa o chiusura della curva. La Russa: “Tifosi di spalle? Stupidità umana”. Malagò: “Società vittima” Marcello Di Dio</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FFDF53FL4FDCRDYCBIYBQHDFQA.jpg?smart=true&amp;auth=2c86a26c5c9856b49d3db52e69e62531e326e6e729582d3bda49663796481090&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Oltraggio a Mazzola. Subito l’indagine Figc</title>
-<link>https://www.ilgiornale.it/news/calcio/oltraggio-a-mazzola-subito-lindagine-figc/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/oltraggio-a-mazzola-subito-lindagine-figc/</guid>
-<pubDate>Tue, 22 Sep 2026 05:39:05 +0000</pubDate>
-<description>Inter, la risposta allo Stadium: applausi alla delegazione Juve Tutti contro gli ultrà Juve. Oggi il giudice sportivo: multa o chiusura della curva. La Russa: “Tifosi di spalle? Stupidità umana”. Malagò: “Società vittima” Marcello Di Dio</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FFDF53FL4FDCRDYCBIYBQHDFQA.jpg?smart=true&amp;auth=2c86a26c5c9856b49d3db52e69e62531e326e6e729582d3bda49663796481090&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
