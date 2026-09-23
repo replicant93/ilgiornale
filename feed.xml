@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 08:01:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 08:24:30 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Mistero sulla delegazione cinese: il rebus dei manager e gli uomini chiave</title>
+<link>https://www.ilgiornale.it/news/politica-estera/xi-vola-negli-usa-ma-e-mistero-sulla-sua-delegazione-il-rebus-dei-manager-cinesi-e-gli-uomini-chiave-al-suo-fianco/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/xi-vola-negli-usa-ma-e-mistero-sulla-sua-delegazione-il-rebus-dei-manager-cinesi-e-gli-uomini-chiave-al-suo-fianco/</guid>
+<pubDate>Wed, 23 Sep 2026 08:20:55 +0000</pubDate>
+<description>L’allarme sull’Ia, l’ombra di nuovi dazi e l’accoglienza tra caccia e bombardieri: i dossier sul tavolo del vertice Trump-Xi Mistero sulla delegazione cinese: il rebus dei manager e gli uomini chiave Dalla tregua tariffaria alla sfida tecnologica, fino alle terre rare: Washington e Pechino cercano un equilibrio per evitare una nuova escalation Federico Giuliani</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JYQO2K55TVDH5GIFQT2OFPEPSU.jpg?smart=true&amp;auth=cddb4975184b1bdd44dc9e6149e055f164f86a66e9ecf50a3d046a0307941edf&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>L’allarme sull’Ia, l’ombra di nuovi dazi e l’accoglienza tra caccia e bombardieri: i dossier sul tavolo del vertice Trump-Xi</title>
 <link>https://www.ilgiornale.it/news/politica-estera/lallarme-sullia-lombra-di-nuovi-dazi-e-laccoglienza-tra-caccia-e-bombardieri-i-dossier-sul-tavolo-del-vertice-trump-xi/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 06:09:36 +0000</pubDate>
 <description>Dario Murri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/44IBCNX4FVPRTBXA5MWKPYIVN4.jpg?focal=273%2C238&amp;auth=930fcaf8d2640b6e3375308a246d12d6a38c0858c199989b7f0e602b2fb72f3a&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Miss Italia 2026 è Sarah Rizea, chi è l’atleta ligure delle Fiamme Oro</title>
-<link>https://www.ilgiornale.it/news/attualita/miss-italia-2026-e-sarah-rizea-chi-e-latleta-ligure-delle-fiamme-oro/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/miss-italia-2026-e-sarah-rizea-chi-e-latleta-ligure-delle-fiamme-oro/</guid>
-<pubDate>Tue, 22 Sep 2026 06:09:21 +0000</pubDate>
-<description>L’80esima edizione del concorso di bellezza ha visto trionfare la 18enne di Savona Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2AP73HA26RHSFCGUHZQEJ4QJYE.jpg?focal=833%2C333&amp;auth=52a795741660a17b58506c319654c707e05fef7ffeb163f9049740a0d3aef09b&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
