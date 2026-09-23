@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 15:50:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 16:01:05 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Cosa prevede il piano del governo</title>
@@ -62,6 +62,14 @@
 <pubDate>Wed, 23 Sep 2026 14:51:54 +0000</pubDate>
 <description>C’è un’indagine sulla presunta distribuzione di schede elettorali con le preferenze già indicate per Mohamed Abdukardir Ali. C’è la possibilità di un ribaltamento nei risultati Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/56WYNZZOGZHHDI52E5CBGU4WP4.jpg?smart=true&amp;auth=3925cc9ed91c1aaad32946973bf14590afba22dfac053a1b721bd9d98bbbc101&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Ddl antisemitismo, la Brigata Ebraica contro Schlein: “Un tradimento”. E il no spacca ancora il Pd</title>
+<link>https://www.ilgiornale.it/news/parlamento/ddl-antisemitismo-la-brigata-ebraica-contro-schlein-un-tradimento-e-il-no-spacca-ancora-il-pd/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/ddl-antisemitismo-la-brigata-ebraica-contro-schlein-un-tradimento-e-il-no-spacca-ancora-il-pd/</guid>
+<pubDate>Wed, 23 Sep 2026 14:46:09 +0000</pubDate>
+<description>Davide Romano attacca la linea dem e parla di una “coltellata alla schiena” degli ebrei italiani. Ma anche nel Pd i riformisti frenano sul voto contrario. Un copione già visto dopo le contestazioni alla Brigata Ebraica al corteo del 25 aprile a Milano Giulia Bernardini</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TCTYWA4LTRLWTOVIBAYHYEOUOU.jpg?focal=1932%2C789&amp;auth=246be5a2667f9f449f30e3aa070d8588e3892dd68faa027e90de17dd1deea3af&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
 <title>Nasce il Premio Gianluca Vialli: da Mancini a Lippi, Rimini celebra il campione</title>
@@ -796,14 +804,6 @@
 <pubDate>Tue, 22 Sep 2026 15:52:46 +0000</pubDate>
 <description>Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MGASAUTUE5EGDBAXLNBECTYE3Y.jpg?focal=1958%2C543&amp;auth=6d1c8b68aea4a8922a4a2f124b3d1be0523f1b6a03675dac96d4f832f2ec06b6&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Quando a proporre il tetto degli stranieri in classe era la sinistra</title>
-<link>https://www.ilgiornale.it/news/interni/quando-a-proporre-il-tetto-degli-stranieri-in-classe-era-la-sinistra/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/quando-a-proporre-il-tetto-degli-stranieri-in-classe-era-la-sinistra/</guid>
-<pubDate>Tue, 22 Sep 2026 15:49:12 +0000</pubDate>
-<description>Francesco Curridori</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/UZIUKPX5IZNVJDJM6JMR5IFYPU.jpg?smart=true&amp;auth=1e9e9dff33a66cf3da47b65968cc96499ca1f87f58c55752d1f49eb62086a7fc&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
