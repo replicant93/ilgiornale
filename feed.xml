@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 13:42:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 13:56:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Giorgetti: “Migliorate le stime dell’Ocse, non siamo in coda in Europa. Bollo auto? Lavoriamo per renderlo strutturale”</title>
+<link>https://www.ilgiornale.it/news/governo/giorgetti-migliorate-le-stime-dellocse-non-siamo-in-coda-in-europa-bollo-auto-lavoriamo-per-renderlo-strutturale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/giorgetti-migliorate-le-stime-dellocse-non-siamo-in-coda-in-europa-bollo-auto-lavoriamo-per-renderlo-strutturale/</guid>
+<pubDate>Wed, 23 Sep 2026 13:49:15 +0000</pubDate>
+<description>Il ministro dell’Economia parla al question time alla Camera: “Sui dati Istat abbiamo fallito? Siamo assolutamente in linea con il preventivato” Francesco Curridori</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5OTJFTKVUJHDRPY3Z5RFH5EAEM.jpg?smart=true&amp;auth=c5dbb1a999eef0fd0edf195f2651d1e872a704474d4a7589e4d117e0f0ad6969&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Tre mesi fa lo sfregio alla targa di Norma Cossetto ma il Comune di Milano non l’ha sostituita: “Vergogna inaccettabile”</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/tre-mesi-fa-lo-sfregio-alla-targa-di-norma-cossetto-ma-il-comune-di-milano-non-lha-sostituita-vergogna-inaccettabile/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 13:37:57 +0000</pubDate>
 <description>I piloti percorreranno complessivamente meno km con le loro monoposto: novità anche in caso di interruzioni dovute a pioggia o ad altri fattori, ecco di cosa si tratta Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JANXWHGDPJLMHBW7AIX7SBSJSY.jpg?smart=true&amp;auth=0096ed90c511a20d01442e512e345bb86bb083cc6294cae6fa22d0ed0374e7c3&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Icardi, patente italiana annullata. Follia in auto e attacco al Ministero: “Riparate le strade invece di grattarvi le p***e”</title>
-<link>https://www.ilgiornale.it/news/attualita/icardi-patente-italiana-annullata-follia-in-auto-e-attacco-al-ministero-riparate-le-strade-invece-di-grattarvi-le-pe/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/icardi-patente-italiana-annullata-follia-in-auto-e-attacco-al-ministero-riparate-le-strade-invece-di-grattarvi-le-pe/</guid>
-<pubDate>Tue, 22 Sep 2026 13:22:20 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CM4IPLTUQVEFLMO4Z5HYR2CD44.jfif?focal=618%2C289&amp;auth=ba2424f820e3e91c9a8ab8dc517e5e45fea5b1bed93eab7b57d663b393e8983a&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
