@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 16:24:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 16:42:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Calci e pugni alla gabbia in vetro ma anche insulti all’avvocato: caos all’udienza per il capotreno ucciso</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/calci-e-pugni-alla-gabbia-in-vetro-ma-anche-insulti-allavvocato-caos-alludienza-per-il-capotreno-ucciso/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/calci-e-pugni-alla-gabbia-in-vetro-ma-anche-insulti-allavvocato-caos-alludienza-per-il-capotreno-ucciso/</guid>
+<pubDate>Wed, 23 Sep 2026 16:34:38 +0000</pubDate>
+<description>Marin Jelenic è stato portato via dall’aula e ha accusato l’Italia: “È un processo politico, è un Paese mafioso”. Il suo avvocato ha chiesto di poter rimettere il mandato Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/A35P6T527VAG5CC4JKWAURRQIU.jpg?focal=1543%2C767&amp;auth=4e4a70eda3d07c0fa8c649434e1ef0843d8821c266a2f43e41903e3367c20977&amp;width=800&amp;height=290" medium="image" />
+</item>
+<item>
+<title>Marco Rizzo smaschera Conte: “Guerrafondaio al governo, pacifinto all’opposizione”</title>
+<link>https://www.ilgiornale.it/news/interni/marco-rizzo-smaschera-conte-guerrafondaio-al-governo-pacifinto-allopposizione/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/marco-rizzo-smaschera-conte-guerrafondaio-al-governo-pacifinto-allopposizione/</guid>
+<pubDate>Wed, 23 Sep 2026 16:26:42 +0000</pubDate>
+<description>Il fondatore di Italia Domani ricorda i voti del M5S nel 2022 sulle forniture militari a Kiev e attacca il leader pentastellato, oggi contrario agli invii: “Movimento double face” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3OAOLR57A5IVTPGGW7VEYJ7V4U.jpg?smart=true&amp;auth=96707f6811202a8e451308a63d7429794d509dfc89784606e2117850240b22af&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Cosa prevede il piano del governo</title>
 <link>https://www.ilgiornale.it/news/politica-economica/l-italia-torna-nucleare-breve-legge-quadro-2423888.html</link>
@@ -788,22 +804,6 @@
 <pubDate>Tue, 22 Sep 2026 16:32:58 +0000</pubDate>
 <description>Musica Sfera Ebbasta gira il videoclip davanti al Cenacolo. Ed è subito polemica È il primo artista ad avere girato un video nel refettorio del convento di Santa Maria delle Grazie, a Milano, davanti all’Ultima Cena di Leonardo Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VXA2CR2GPRA2XEHCO6NL7B4KPA.png?smart=true&amp;auth=4be2a728830d7ed9a9d966168fd25e566743422d5564bccc2718097b2811f077&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Groenlandia, il patto che avvicina l’America all’Artico: due nuove basi Usa e lo stop a Cina e Russia</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/groenlandia-il-patto-che-avvicina-lamerica-allartico-due-nuove-basi-usa-e-lo-stop-a-cina-e-russia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/groenlandia-il-patto-che-avvicina-lamerica-allartico-due-nuove-basi-usa-e-lo-stop-a-cina-e-russia/</guid>
-<pubDate>Tue, 22 Sep 2026 15:53:10 +0000</pubDate>
-<description>Francesca Salvatore</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/X66MB3ZCURHKXDBZ6MD7S4OLJY.jpg?smart=true&amp;auth=1e0890f134d424b40393abd267f38a106b73bf3246ecd7cd221080d8818c4ab1&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Da AI a super intelligenza: cosa c’è dietro la mossa del tycoon</title>
-<link>https://www.ilgiornale.it/news/politica-estera/da-intelligenza-artificiale-a-super-intelligenza-cosa-ce-dietro-la-mossa-di-trump-lanciata-allonu/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/da-intelligenza-artificiale-a-super-intelligenza-cosa-ce-dietro-la-mossa-di-trump-lanciata-allonu/</guid>
-<pubDate>Tue, 22 Sep 2026 15:52:46 +0000</pubDate>
-<description>Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MGASAUTUE5EGDBAXLNBECTYE3Y.jpg?focal=1958%2C543&amp;auth=6d1c8b68aea4a8922a4a2f124b3d1be0523f1b6a03675dac96d4f832f2ec06b6&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
