@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 16:42:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 16:57:05 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Terremoto all’Unità: licenziata l’intera redazione. Flop della trattiva con il Pd</title>
+<link>https://www.ilgiornale.it/news/editoria-e-media/terremoto-allunita-licenziata-lintera-redazione-flop-della-trattiva-con-il-pd/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/editoria-e-media/terremoto-allunita-licenziata-lintera-redazione-flop-della-trattiva-con-il-pd/</guid>
+<pubDate>Wed, 23 Sep 2026 16:47:48 +0000</pubDate>
+<description>Dopo lo stop alle pubblicazioni del 7 luglio, Romeo Editore manda a casa cinque dipendenti. Due licenziamenti sono già stati impugnati, mentre resta aperta la partita con il Pd sul futuro della testata Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/W6WQTLU54FPT5OG3QPMR52U76Y.jpg?smart=true&amp;auth=39f11655ace82cb0711e585bac0e43e24fcf3bb2a46b6e67db218883f896369d&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Calci e pugni alla gabbia in vetro ma anche insulti all’avvocato: caos all’udienza per il capotreno ucciso</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/calci-e-pugni-alla-gabbia-in-vetro-ma-anche-insulti-allavvocato-caos-alludienza-per-il-capotreno-ucciso/</link>
@@ -796,14 +804,6 @@
 <pubDate>Tue, 22 Sep 2026 16:52:49 +0000</pubDate>
 <description>Le bambine, 8 e 12 anni, avevano deciso di trascorrere la notte nell’esercizio commerciale di San Cataldo dopo aver visto sui social video in cui influencer si nascondono nei negozi fino al mattino. La Procura esclude il coinvolgimento di terzi Giulia Sorrentino</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/XPIKACXP4BNYHDYFD5K47BHT3M.jpg?focal=477%2C101&amp;auth=c7366674ff03200364eb9bdf8e430efda90175546b790dbc8f91e3f3e4c0fe9f&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Sfera Ebbasta gira il videoclip davanti al Cenacolo. Ed è subito polemica</title>
-<link>https://www.ilgiornale.it/news/musica/sfera-ebbasta-gira-il-videoclip-davanti-al-cenacolo-ed-e-subito-polemica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/sfera-ebbasta-gira-il-videoclip-davanti-al-cenacolo-ed-e-subito-polemica/</guid>
-<pubDate>Tue, 22 Sep 2026 16:32:58 +0000</pubDate>
-<description>Musica Sfera Ebbasta gira il videoclip davanti al Cenacolo. Ed è subito polemica È il primo artista ad avere girato un video nel refettorio del convento di Santa Maria delle Grazie, a Milano, davanti all’Ultima Cena di Leonardo Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/VXA2CR2GPRA2XEHCO6NL7B4KPA.png?smart=true&amp;auth=4be2a728830d7ed9a9d966168fd25e566743422d5564bccc2718097b2811f077&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
