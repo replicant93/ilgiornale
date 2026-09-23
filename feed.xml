@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 09:17:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 09:33:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Veniamo a farle il vaccino”, ma è di un impostore: la nuova truffa in tempo di vaccinazioni fa scattare l’allarme</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/veniamo-a-farle-il-vaccino-ma-e-di-un-impostore-la-nuova-truffa-in-tempo-di-vaccinazioni-fa-scattare-lallarme/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/veniamo-a-farle-il-vaccino-ma-e-di-un-impostore-la-nuova-truffa-in-tempo-di-vaccinazioni-fa-scattare-lallarme/</guid>
+<pubDate>Wed, 23 Sep 2026 09:24:45 +0000</pubDate>
+<description>Cronaca giudiziaria “Veniamo a farle il vaccino”, ma è di un impostore: la nuova truffa in tempo di vaccinazioni fa scattare l’allarme I truffatori, fingendosi sanitari, tentano il colpo millantando vaccinazioni a domicilio. Ecco come funziona il raggiro. Ancora una volta gli anziani sono nel mirino Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YQMCYAJYYBIPJLSGWRQCIF3JYM.jpg?smart=true&amp;auth=5b6966636a0fdfaf60fe81cb1557f13c29517f949cb0336b8b2c32014750e973&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Enzo Biagi, ciglio asciutto e lacrime del popolo</title>
 <link>https://www.ilgiornale.it/news/personaggi/enzo-biagi-ciglio-asciutto-e-lacrime-del-popolo/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 08:34:58 +0000</pubDate>
 <description>L’indebitamento netto delle Amministrazioni pubbliche in rapporto al Pil è stato pari nel 2025 a -3,1% (era -3,4% nel 2024) Valentina Menassi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/4FVJILOEURKBFKMD5P3WQJ2WFA.jpg?smart=true&amp;auth=97288869899a2b83fdbe04818bf52f1e1be7e9b895d325e99871d200f4a80bdc&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Bonus colonnine, domande al via: la guida per ottenere fino a 8mila euro</title>
-<link>https://www.ilgiornale.it/news/cittadini/bonus-colonnine-domande-al-via-la-guida-per-ottenere-fino-a-8mila-euro/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/bonus-colonnine-domande-al-via-la-guida-per-ottenere-fino-a-8mila-euro/</guid>
-<pubDate>Tue, 22 Sep 2026 08:34:14 +0000</pubDate>
-<description>Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/AHZZ6W6TUFLO3LTZIAYJLZ46Y4.jpg?smart=true&amp;auth=c59d5428735f492254fda983494b8065cf89c71e1ad10a29f99e018fe4a1e83a&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
