@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 10:41:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 10:57:30 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tetto agli stranieri, cosa prevedevano le due circolari di Mattarella citate da Meloni</title>
+<link>https://www.ilgiornale.it/news/interni/tetto-agli-stranieri-cosa-prevedevano-le-due-circolari-di-mattarella-citate-da-meloni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/tetto-agli-stranieri-cosa-prevedevano-le-due-circolari-di-mattarella-citate-da-meloni/</guid>
+<pubDate>Wed, 23 Sep 2026 10:47:28 +0000</pubDate>
+<description>Dai conti agli stranieri a scuola. Replica al Colle e accuse all’Istat La voragine del Superbonus rinvia l’addio alla procedura Ue La premier: “Sul deficit-Pil non vorrei che come sempre le stime fossero riviste fra un anno. Sulle classi-ghetto misura di buon senso, Mattarella quando era ministro redigeva circolari simili” Adalberto Signore Tetto agli stranieri, cosa prevedevano le due circolari di Mattarella citate da Meloni</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/O54XYI3UFZH4LLVTVPLFF736R4.jpg?focal=1959%2C775&amp;auth=b62710648c27cd35390e4cece75265da6034dc7157d7a1ef89ca07e2d7f430f5&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Oscar 2027, la scelta italiana è L’Estranea: Paolo Strippoli punta alla statuetta</title>
 <link>https://www.ilgiornale.it/news/cinema/oscar-2027-la-scelta-italiana-e-lestranea-paolo-strippoli-punta-alla-statuetta-2/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 10:24:12 +0000</pubDate>
 <description>Adalberto Signore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/H5OFDYKNIRGX7BINVEM7KVAAPM.jpg?focal=3302%2C967&amp;auth=3f99c5e5ad1e34e075aad5e7af8fb6b611f6a28abc9ce53d4426bb214f55469e&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Fuggi fuggi in Sardegna di cinquecento iscritti</title>
-<link>https://www.ilgiornale.it/news/interni/vannacci-gia-si-sgonfia-fuggi-fuggi-in-sardegna-di-cinquecento-iscritti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/vannacci-gia-si-sgonfia-fuggi-fuggi-in-sardegna-di-cinquecento-iscritti/</guid>
-<pubDate>Tue, 22 Sep 2026 10:23:16 +0000</pubDate>
-<description>Bomba su Vannacci: arrestato l’ex responsabile di FN per la Lombardia "Deve cambiare nome al partito". Ammesso l'atto di opposizione di Nazione Futura Luca Carleo, ex direttore generale di società del gruppo di telecomunicazione Ops, è finito in manette assieme all’ex ad Ciro Di Melio. Sono indagati per frodi sul mercato finanziario da 30 milioni di euro Alessandro Gonzato Fuggi fuggi in Sardegna di cinquecento iscritti E la sua “sporca dozzina” ha fatto bingo con la politica</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZDBBGUQRFJAKXMA2L6JMDGBMTU.jpg?smart=true&amp;auth=65d0cd551a52912078edd5543a221f1a8b0e9665fe999f2184d05df7b44ef85d&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
