@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 04:00:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 04:20:16 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cantina Chitarra, tutti i colori della Sicilia</title>
+<link>https://www.ilgiornale.it/news/retrogusto/cantina-chitarra-tutti-i-colori-della-sicilia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/cantina-chitarra-tutti-i-colori-della-sicilia/</guid>
+<pubDate>Wed, 23 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Cantina Chitarra, tutti i colori della Sicilia Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NPURTBQ7ZJE6TG3KAH3DK4W5VU.jpeg?smart=true&amp;auth=962c446f7e401189f51baee673b9a3791186817192a9ca43b13191d1d2f1c261&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Salis invoca la polizia per cacciare i giornalisti, la battuta di Vannacci e Mattarella: quindi, oggi…</title>
 <link>https://www.ilgiornale.it/news/quindi-oggi/salis-invoca-la-polizia-per-cacciare-i-giornalisti-la-battuta-di-vannacci-e-mattarella-quindi-oggi/</link>
@@ -793,14 +801,6 @@
 <pubDate>Mon, 21 Sep 2026 18:28:42 +0000</pubDate>
 <description>Vittorio Contarina è stato eletto coordinatore romano di Progetto Civico Italia con 1.167 voti. Nel 2013 era candidato nella lista civica di Alemanno alle Comunali. Ora guiderà nella Capitale il partito fondato da Onorato, nato per rafforzare l’area civica del centrosinistra Francesco Boezi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/QNWEVNRWZRANBMJDQEMQOVFCKI.jpeg?focal=521%2C428&amp;auth=8ba6474207c9109abdf6624ab0dafaa8843e7899c5aaac48c31d986c59cd4c74&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Denise Cosco, la procura indaga per istigazione al suicidio, intanto la salma è ferma in obitorio da 11 giorni</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/denise-cosco-la-procura-indaga-per-istigazione-al-suicidio-intanto-la-salma-e-ferma-in-obitorio-da-11-giorni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/denise-cosco-la-procura-indaga-per-istigazione-al-suicidio-intanto-la-salma-e-ferma-in-obitorio-da-11-giorni/</guid>
-<pubDate>Mon, 21 Sep 2026 18:07:19 +0000</pubDate>
-<description>Fatta l’autopsia infatti, si poteva da subito celebrare le esequie eppure solo oggi si è saputo che la 35enne figlia di Lea Garofalo verrà sepolta in Calabria, a Petilia Policastro dove è nata la madre, giovedì o venerdì Cristina Bassi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/PBSRSGA365HNPIABJKTA7RKKB4.jpg?smart=true&amp;auth=1bab218f0a26a9c21168eee2ff190ad23d9499d86bb516dd4d094974e48324bd&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
