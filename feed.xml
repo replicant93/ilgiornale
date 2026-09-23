@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 12:00:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 12:24:24 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>In libreria “Mostri a piede libero” di Antonella Penati. “Dalla testimonianza della morte di mio figlio Federico B., all’analisi del fenomeno”</title>
+<link>https://www.ilgiornale.it/news/letteratura/in-libreria-mostri-a-piede-libero-di-antonella-penati-dalla-testimonianza-della-morte-di-mio-figlio-federico-b-allanalisi-del-fenomeno/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/letteratura/in-libreria-mostri-a-piede-libero-di-antonella-penati-dalla-testimonianza-della-morte-di-mio-figlio-federico-b-allanalisi-del-fenomeno/</guid>
+<pubDate>Wed, 23 Sep 2026 12:22:23 +0000</pubDate>
+<description>Letteratura In libreria “Mostri a piede libero” di Antonella Penati. “Dalla testimonianza della morte di mio figlio Federico B., all’analisi del fenomeno” Domani la presentazione a Milano alla libreria Orti Letterari-Cinema Anteo, via Milazzo 9 Manuela Messina</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/6M6GRFL5KVDPZIZBDLVEULGCGA.jpg?smart=true&amp;auth=66ef00409d6d257f3d5c5b67b43be2ec01bdcce5c0d63ae35ee34718b3fe3346&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Calo del 55% rispetto allo scorso anno. In aumento del 34% i rimpatri</title>
 <link>https://www.ilgiornale.it/news/governo/migranti-calo-del-55-rispetto-allo-scorso-anno-in-aumento-del-34-i-rimpatri/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 12:04:49 +0000</pubDate>
 <description>Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/M4ECZJTBUJJRTGAND5TJRPUKIE.jpg?smart=true&amp;auth=25ca0b9ea46149e3c628a01d178b194d8dc33e7c0f83f6016d24bb36484d447c&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Se esclusi ormai sono i non arabi</title>
-<link>https://www.ilgiornale.it/news/attualita/se-esclusi-ormai-sono-i-non-arabi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/se-esclusi-ormai-sono-i-non-arabi/</guid>
-<pubDate>Tue, 22 Sep 2026 11:31:08 +0000</pubDate>
-<description>commento Attualità Se esclusi ormai sono i non arabi Filippo Facci</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2F3HVFMH7JMFL5PB2RLDPDA32HTE.jpg?smart=true&amp;auth=5fafc1fb93f37d3b5f3175d5762059fba1bdd1e991f2cca5f517ddb4577aae79&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
