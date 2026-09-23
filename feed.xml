@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 07:35:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 07:49:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il coltello nascosto nei bagni della scuola, l’azione organizzata su Telegram: fermato 14enne che pianificava un’aggressione alla prof</title>
+<link>https://www.ilgiornale.it/news/nazionale/il-coltello-nascosto-nei-bagni-della-scuola-lazione-organizzata-su-telegram-fermato-14enne-che-pianificava-unaggressione-alla-prof/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-coltello-nascosto-nei-bagni-della-scuola-lazione-organizzata-su-telegram-fermato-14enne-che-pianificava-unaggressione-alla-prof/</guid>
+<pubDate>Wed, 23 Sep 2026 07:47:47 +0000</pubDate>
+<description>Ultim'ora Lamezia Terme Il coltello nascosto nei bagni della scuola, l’azione organizzata su Telegram: fermato 14enne che pianificava un’aggressione alla prof Il ragazzino avrebbe voluto colpire la docente di italiano. Il tentativo sarebbe stato sventato dai carabinieri intercettando i messaggi online. Sequestrati cellulare e abiti usati dal minore nelle foto social Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DFH7ZS2Q3NJKVBSWPMC4MH46KU.jpg?focal=164%2C109&amp;auth=e9bd6b8246d0b0850f44050ac96f390c660b608d43f145dd61987f9ff2ba871e&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Vanessa Incontrada e Rossano Laurini, matrimonio in Toscana: dall’incontro a Follonica all’altare</title>
 <link>https://www.ilgiornale.it/news/personaggi/vanessa-incontrada-e-rossano-laurini-matrimonio-in-toscana-dallincontro-a-follonica-allaltare/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 05:42:18 +0000</pubDate>
 <description>commento Calcio Una miseria figlia dell’oblio Felice Manti</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FEEV4BNTHUJPMXPEDJIVOBIQOFQ.jpg?smart=true&amp;auth=db8d1ec80e7b9db27f7beb320f45714df4fffc4f3387771581baeecbf33245b7&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Inter, la risposta allo Stadium: applausi alla delegazione Juve</title>
-<link>https://www.ilgiornale.it/news/calcio/inter-la-risposta-allo-stadium-applausi-alla-delegazione-juve/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/inter-la-risposta-allo-stadium-applausi-alla-delegazione-juve/</guid>
-<pubDate>Tue, 22 Sep 2026 05:40:29 +0000</pubDate>
-<description>Oltraggio a Mazzola. Subito l’indagine Figc Inter, la risposta allo Stadium: applausi alla delegazione Juve Tutti contro gli ultrà Juve. Oggi il giudice sportivo: multa o chiusura della curva. La Russa: “Tifosi di spalle? Stupidità umana”. Malagò: “Società vittima” Marcello Di Dio</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FFDF53FL4FDCRDYCBIYBQHDFQA.jpg?smart=true&amp;auth=2c86a26c5c9856b49d3db52e69e62531e326e6e729582d3bda49663796481090&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
