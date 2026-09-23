@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 12:59:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 13:21:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Via libera della Commissione al Senato: ora l’abolizione del canone Rai è sempre più vicina. Lega: “Vince nostra battaglia storica”</title>
+<link>https://www.ilgiornale.it/news/interni/via-libera-della-commissione-al-senato-ora-labolizione-del-canone-rai-e-sempre-piu-vicina-lega-vince-nostra-battaglia-storica/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/via-libera-della-commissione-al-senato-ora-labolizione-del-canone-rai-e-sempre-piu-vicina-lega-vince-nostra-battaglia-storica/</guid>
+<pubDate>Wed, 23 Sep 2026 13:07:13 +0000</pubDate>
+<description>“Un risultato politico importante per il centrodestra e una vittoria della Lega che da anni porta avanti questa battaglia per alleggerire il peso del canone sulle famiglie italiane” le parole dei senatori Bergesio, Minasi e Potenti Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/LVR46UHVSVCXNC2IO45TYN2RDY.png?focal=692%2C240&amp;auth=370a6ba7083d5d2be8c77d37f56927a42a490f852006d2b5370657ded1cfddc6&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>In libreria “Mostri a piede libero” di Antonella Penati. “Dalla testimonianza della morte di mio figlio Federico B., all’analisi del fenomeno”</title>
 <link>https://www.ilgiornale.it/news/letteratura/in-libreria-mostri-a-piede-libero-di-antonella-penati-dalla-testimonianza-della-morte-di-mio-figlio-federico-b-allanalisi-del-fenomeno/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 12:10:26 +0000</pubDate>
 <description>Dopo il voto simbolico di Piddington, anche Barnham valuta la secessione: meno di 600 abitanti contro il piano per ospitare 1.250 richiedenti asilo nella vicina base Raf Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/CUKO4QTSQFLHVCPGEWMFYD5QOA.jpg?focal=1656%2C875&amp;auth=1db2e063e1adbcbea5712c30098c823e1556fbcf26bc391176961910fa184165&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>L’analista arabo difende Meloni sul velo e inchioda la sinistra: “Più musulmana dei musulmani”</title>
-<link>https://www.ilgiornale.it/news/interni/lanalista-arabo-difende-meloni-sul-velo-e-inchioda-la-sinistra-piu-musulmana-dei-musulmani/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lanalista-arabo-difende-meloni-sul-velo-e-inchioda-la-sinistra-piu-musulmana-dei-musulmani/</guid>
-<pubDate>Tue, 22 Sep 2026 12:04:49 +0000</pubDate>
-<description>Massimo Balsamo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/M4ECZJTBUJJRTGAND5TJRPUKIE.jpg?smart=true&amp;auth=25ca0b9ea46149e3c628a01d178b194d8dc33e7c0f83f6016d24bb36484d447c&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
