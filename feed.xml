@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 11:31:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 11:49:07 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Calo del 55% rispetto allo scorso anno. In aumento del 34% i rimpatri</title>
+<link>https://www.ilgiornale.it/news/governo/migranti-calo-del-55-rispetto-allo-scorso-anno-in-aumento-del-34-i-rimpatri/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/migranti-calo-del-55-rispetto-allo-scorso-anno-in-aumento-del-34-i-rimpatri/</guid>
+<pubDate>Wed, 23 Sep 2026 11:39:52 +0000</pubDate>
+<description>Blitz contro l’immigrazione irregolare in 4 Paesi europei: favorivano l’ingresso illegale nel Regno Unito Calo del 55% rispetto allo scorso anno. In aumento del 34% i rimpatri Operazione della Polizia di Bologna in quattro Paesi europei, Italia, Spagna, Regno Unito e Austria, con il supporto di Europol. Sei arresti. L’indagine ha ricostruito il sistema usato dai migranti per arrivare nel Regno Unito con documenti sostituiti dopo l’ingresso nell’Unione europea Redazione web Gli inglesi si ribellano ancora: in centinaia a Gosport bloccano lo sbarco di un gommone</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/KK7JJCDPPNNSTAHJGDAGFNDJHI.jpg?focal=1402%2C1001&amp;auth=0d0c2f04efb72d0afa19bed89b4037607304ad0668b780be0fc8801b2c51fbee&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Cos’è la “24 Hour Overnight Challenge”, la vecchia sfida social imitata dalle due sorelle di San Cataldo</title>
 <link>https://www.ilgiornale.it/news/societa/cose-la-24-hour-overnight-challenge-la-vecchia-sfida-social-imitata-dalle-due-sorelle-di-san-cataldo/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 11:30:13 +0000</pubDate>
 <description>Marco Leardi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/PCSI3HBEXFAP5FJNDUIKK5ICBU.jpg?focal=1596%2C624&amp;auth=2ed0f995f0cc979dd1f602a77e3549f7928f1bc02ce884816fa062c1021f9450&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Vannacci: “Gonna corta o lunga? Una donna la preferisco sempre senza”</title>
-<link>https://www.ilgiornale.it/news/nazionale/vannacci-gonna-corta-o-lunga-una-donna-la-preferisco-sempre-senza-gonna/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/vannacci-gonna-corta-o-lunga-una-donna-la-preferisco-sempre-senza-gonna/</guid>
-<pubDate>Tue, 22 Sep 2026 10:52:27 +0000</pubDate>
-<description>Bomba su Vannacci: arrestato l’ex responsabile di FN per la Lombardia "Deve cambiare nome al partito". Ammesso l'atto di opposizione di Nazione Futura Luca Carleo, ex direttore generale di società del gruppo di telecomunicazione Ops, è finito in manette assieme all’ex ad Ciro Di Melio. Sono indagati per frodi sul mercato finanziario da 30 milioni di euro Alessandro Gonzato Vannacci: “Gonna corta o lunga? Una donna la preferisco sempre senza” E la sua “sporca dozzina” ha fatto bingo con la politica</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZDBBGUQRFJAKXMA2L6JMDGBMTU.jpg?smart=true&amp;auth=65d0cd551a52912078edd5543a221f1a8b0e9665fe999f2184d05df7b44ef85d&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
