@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 11:32:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 11:49:28 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ragazza di 20 anni accoltellata alle spalle a Salerno, è giallo: caccia all’aggressore</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/ragazza-di-20-anni-accoltellata-alle-spalle-a-salerno-e-giallo-caccia-allaggressore/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/ragazza-di-20-anni-accoltellata-alle-spalle-a-salerno-e-giallo-caccia-allaggressore/</guid>
+<pubDate>Thu, 24 Sep 2026 11:39:08 +0000</pubDate>
+<description>È accaduto in pieno centro storico. Una ragazza è stata trasportata in ospedale in gravi condizioni. Indagini in corso per ricostruire la dinamica e il movente Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/S4QONFLCT5FYLCSDMPOLL522YQ.png?smart=true&amp;auth=b5ca9524f3b52e5bcaae263ef265c36191ccb1e8a0455df7b66c1d1a4002b181&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Le nostre difese in vista dello scudo Michelangelo - L'analisi</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/le-difese-italiane-contro-i-droni-in-vista-dello-scudo-michelangelo/</link>
@@ -793,14 +801,6 @@
 <pubDate>Wed, 23 Sep 2026 12:22:23 +0000</pubDate>
 <description>Letteratura In libreria “Mostri a piede libero” di Antonella Penati. “Dalla testimonianza della morte di mio figlio Federico B., all’analisi del fenomeno” Domani la presentazione a Milano alla libreria Orti Letterari-Cinema Anteo, via Milazzo 9 Manuela Messina</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/6M6GRFL5KVDPZIZBDLVEULGCGA.jpg?smart=true&amp;auth=66ef00409d6d257f3d5c5b67b43be2ec01bdcce5c0d63ae35ee34718b3fe3346&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Calo del 55% rispetto allo scorso anno. In aumento del 34% i rimpatri</title>
-<link>https://www.ilgiornale.it/news/governo/migranti-calo-del-55-rispetto-allo-scorso-anno-in-aumento-del-34-i-rimpatri/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/migranti-calo-del-55-rispetto-allo-scorso-anno-in-aumento-del-34-i-rimpatri/</guid>
-<pubDate>Wed, 23 Sep 2026 11:39:52 +0000</pubDate>
-<description>Blitz contro l’immigrazione irregolare in 4 Paesi europei: favorivano l’ingresso illegale nel Regno Unito Calo del 55% rispetto allo scorso anno. In aumento del 34% i rimpatri Operazione della Polizia di Bologna in quattro Paesi europei, Italia, Spagna, Regno Unito e Austria, con il supporto di Europol. Sei arresti. L’indagine ha ricostruito il sistema usato dai migranti per arrivare nel Regno Unito con documenti sostituiti dopo l’ingresso nell’Unione europea Redazione web Gli inglesi si ribellano ancora: in centinaia a Gosport bloccano lo sbarco di un gommone</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/KK7JJCDPPNNSTAHJGDAGFNDJHI.jpg?focal=1402%2C1001&amp;auth=0d0c2f04efb72d0afa19bed89b4037607304ad0668b780be0fc8801b2c51fbee&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
