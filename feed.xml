@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 04:23:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 05:31:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La Cia: “La Russia prepara attacchi con droni in Italia, Francia e Spagna”. Pioggia di missili su Kiev</title>
+<link>https://www.ilgiornale.it/diretta/cronaca-internazionale/el-mundo-la-russia-prepara-attacchi-con-droni-in-italia-francia-e-spagna-pioggia-di-missili-su-kiev/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/cronaca-internazionale/el-mundo-la-russia-prepara-attacchi-con-droni-in-italia-francia-e-spagna-pioggia-di-missili-su-kiev/</guid>
+<pubDate>Thu, 24 Sep 2026 05:22:45 +0000</pubDate>
+<description>DIRETTA La Cia: “La Russia prepara attacchi con droni in Italia, Francia e Spagna”. Pioggia di missili su Kiev Zelensky all’Onu: “Guerra ridicola, deve finire. Putin paziente zero”. Ma Rubio invita lo zar al G20 di Miami. Allarme all’aeroporto di Berlino Le rivelazioni del quotidiano spagnolo El Mundo. I servizi segreti Usa hanno raccolto informazioni sui piani di escalation di Putin e le hanno condivise con i governi europei Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HNCPQCJJYZBSLHVSSI74EFCMBI.jpg?smart=true&amp;auth=d77ec306ee25f2f78c4740147d60b271fad6b4918ed0df6f0d725b5cf629940d&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>La Milano Wine Week dal 17 al 25 ottobre</title>
 <link>https://www.ilgiornale.it/news/retrogusto/la-milano-wine-week-dal-17-al-25-ottobre/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 20:32:11 +0000</pubDate>
 <description>Quindi oggi Salis invoca la polizia per cacciare i giornalisti, la battuta di Vannacci e Mattarella: quindi, oggi… Giuseppe De Lorenzo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/OM2KY6BHRJODBLGD7YCFW7CBWA.jpg?smart=true&amp;auth=34840904a5045df86a71369a77c98db12c3f3d9a5777e6a1579df20a721a515f&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Alessandro Di Battista: “Tornerò prestissimo, mi sento meglio”</title>
-<link>https://www.ilgiornale.it/news/politica/di-battista-tornero-prestissimo-mi-sento-meglio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/di-battista-tornero-prestissimo-mi-sento-meglio/</guid>
-<pubDate>Tue, 22 Sep 2026 20:18:51 +0000</pubDate>
-<description>Politica Alessandro Di Battista: “Tornerò prestissimo, mi sento meglio” L’ex deputato ha parlato in videocollegamento con La7: “I medici cubani mi hanno salvato la vita” Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/JTZPCN3N4BFNNPVP7FH66DXPIA.jpeg?smart=true&amp;auth=ea013c9734e6e70f36253268e4f97c1b4645cc074bc19631d334250dd835f71c&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
