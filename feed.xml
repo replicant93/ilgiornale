@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 06:45:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 06:59:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Trump riceve Xi a Washington: al via la visita di Stato negli Usa</title>
@@ -123,6 +123,14 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-comune-disprezza-la-targa-per-norma/</guid>
 <pubDate>Thu, 24 Sep 2026 03:43:25 +0000</pubDate>
 <description>commento Interni Il Comune disprezza la targa per Norma Giannino della Frattina</description>
+</item>
+<item>
+<title>Zelensky all’Onu: “Guerra ridicola, deve finire. Putin paziente zero”. Ma Rubio invita lo zar al G20 di Miami. Allarme all’aeroporto di Berlino</title>
+<link>https://www.ilgiornale.it/diretta/guerra/zelensky-pronto-a-incontrare-putin-e-chiede-a-trump-i-patriot-per-linverno/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/zelensky-pronto-a-incontrare-putin-e-chiede-a-trump-i-patriot-per-linverno/</guid>
+<pubDate>Wed, 23 Sep 2026 21:32:00 +0000</pubDate>
+<description>DIRETTA La Cia: “La Russia prepara attacchi con droni in Italia, Francia e Spagna”. Pioggia di missili su Kiev Zelensky all’Onu: “Guerra ridicola, deve finire. Putin paziente zero”. Ma Rubio invita lo zar al G20 di Miami. Allarme all’aeroporto di Berlino Le rivelazioni del quotidiano spagnolo El Mundo. I servizi segreti Usa hanno raccolto informazioni sui piani di escalation di Putin e le hanno condivise con i governi europei Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HNCPQCJJYZBSLHVSSI74EFCMBI.jpg?smart=true&amp;auth=d77ec306ee25f2f78c4740147d60b271fad6b4918ed0df6f0d725b5cf629940d&amp;width=800&amp;height=450" medium="image" />
 </item>
 <item>
 <title>Meloni alla cena di gala della Fashion Week di Milano</title>
@@ -795,14 +803,6 @@
 <pubDate>Wed, 23 Sep 2026 05:52:24 +0000</pubDate>
 <description>Pier Augusto Stagi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BGD4KKFFEZABZIV4XSESRIPE74.jpg?focal=1512%2C670&amp;auth=011ef8f7fbcf1785c5f212d47c9b09d5c79a2ef458f5adf6c6607a0eca5954af&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Oltraggio a Mazzola, Juve graziata per due motivi</title>
-<link>https://www.ilgiornale.it/news/calcio/oltraggio-a-mazzola-juve-graziata-per-due-motivi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/oltraggio-a-mazzola-juve-graziata-per-due-motivi/</guid>
-<pubDate>Wed, 23 Sep 2026 05:51:20 +0000</pubDate>
-<description>La presa di distanze del club e i tifosi dissociati evitano guai peggiori Franco Ordine</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FFDF53FL4FDCRDYCBIYBQHDFQA.jpg?smart=true&amp;auth=2c86a26c5c9856b49d3db52e69e62531e326e6e729582d3bda49663796481090&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
