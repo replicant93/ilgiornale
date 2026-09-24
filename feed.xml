@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 17:22:14 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:39:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La sinistra parte all’attacco: “Vergogna, propaganda sulla pelle dei bambini”</title>
+<link>https://www.ilgiornale.it/news/interni/dl-scuola-la-sinistra-parte-allattacco-vergogna-propaganda-sulla-pelle-dei-bambini/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/dl-scuola-la-sinistra-parte-allattacco-vergogna-propaganda-sulla-pelle-dei-bambini/</guid>
+<pubDate>Thu, 24 Sep 2026 17:20:35 +0000</pubDate>
+<description>In aggiornamento Burqa vietato, multe fino a 1.000 euro se genitori non imparano l’italiano: approvato il decreto scuola. Meloni: “Integrare senza rinunciare alle regole” La premier a tutto campo: "Abbiamo tagliato le tasse su lavoro, imprese e famiglie" Approvati anche il decreto legge che evita il blocco della circolazione dei veicoli diesel Euro 5 nel Bacino Padano e il dl in materia di giustizia che conferisce al Procuratore nazionale antimafia poteri anche per procedimenti su minori Redazione web La sinistra parte all’attacco: “Vergogna, propaganda sulla pelle dei bambini”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QZEKGPZVLJIQNHPTRL6QOJTOKQ.jpg?focal=1949%2C1070&amp;auth=79b9ed4cc469b488a6f4defcb37dcf92e1f7d36bd6c1095f98d5c1ebd52a18c3&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>La premier a tutto campo: "Abbiamo tagliato le tasse su lavoro, imprese e famiglie"</title>
 <link>https://www.ilgiornale.it/news/governo/tasse-scuola-immigrazione-e-sicurezza-meloni-a-tutto-campo-alla-festa-de-il-tempo/</link>
@@ -793,13 +801,6 @@
 <pubDate>Wed, 23 Sep 2026 16:26:42 +0000</pubDate>
 <description>Il fondatore di Italia Domani ricorda i voti del M5S nel 2022 sulle forniture militari a Kiev e attacca il leader pentastellato, oggi contrario agli invii: “Movimento double face” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/3OAOLR57A5IVTPGGW7VEYJ7V4U.jpg?smart=true&amp;auth=96707f6811202a8e451308a63d7429794d509dfc89784606e2117850240b22af&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Nucleare Opens in new window</title>
-<link>https://www.ilgiornale.it/news/governo/nucleare-con-81-si-il-senato-da-il-via-a-legge-delega-picchetto-giornata-storica-per-litalia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/nucleare-con-81-si-il-senato-da-il-via-a-legge-delega-picchetto-giornata-storica-per-litalia/</guid>
-<pubDate>Wed, 23 Sep 2026 15:57:15 +0000</pubDate>
-<description>Nucleare Opens in new window</description>
 </item>
 </channel>
 </rss>
