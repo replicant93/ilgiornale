@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 03:49:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 04:23:28 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La Milano Wine Week dal 17 al 25 ottobre</title>
+<link>https://www.ilgiornale.it/news/retrogusto/la-milano-wine-week-dal-17-al-25-ottobre/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/la-milano-wine-week-dal-17-al-25-ottobre/</guid>
+<pubDate>Thu, 24 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto La Milano Wine Week dal 17 al 25 ottobre Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GBJPDOT2SJGTTMF6SNDAMI5AJQ.jpg?focal=1067%2C751&amp;auth=d7b276a12780a676c221193eaefc1a210b4c56555b219dda6689a75617d47922&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Il Comune disprezza la targa per Norma</title>
 <link>https://www.ilgiornale.it/news/interni/il-comune-disprezza-la-targa-per-norma/</link>
@@ -795,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 20:18:51 +0000</pubDate>
 <description>Politica Alessandro Di Battista: “Tornerò prestissimo, mi sento meglio” L’ex deputato ha parlato in videocollegamento con La7: “I medici cubani mi hanno salvato la vita” Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JTZPCN3N4BFNNPVP7FH66DXPIA.jpeg?smart=true&amp;auth=ea013c9734e6e70f36253268e4f97c1b4645cc074bc19631d334250dd835f71c&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Violenza sessuale al Senato, la procura di Roma chiede l’archiviazione</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/violenza-sessuale-al-senato-la-procura-di-roma-chiede-larchiviazione/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/violenza-sessuale-al-senato-la-procura-di-roma-chiede-larchiviazione/</guid>
-<pubDate>Tue, 22 Sep 2026 19:34:28 +0000</pubDate>
-<description>Cronaca giudiziaria Violenza sessuale al Senato, la procura di Roma chiede l’archiviazione Coinvolto Francesco Silvestro, senatore di Forza Italia. A rendere nota la decisione dei pm è stato l’avvocato Teresa Manente, che difende la presunta vittima, imprenditrice del settore vinicolo Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/EVQMOTOKOBBEHMDFVNW6XQB3PU.jpg?smart=true&amp;auth=f359753b46a6d91ce7900362418c627c00b52b8e70d12f2abbd52a2432fd7cf2&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
