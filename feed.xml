@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 10:41:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 11:32:45 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Le nostre difese in vista dello scudo Michelangelo - L'analisi</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/le-difese-italiane-contro-i-droni-in-vista-dello-scudo-michelangelo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/le-difese-italiane-contro-i-droni-in-vista-dello-scudo-michelangelo/</guid>
+<pubDate>Thu, 24 Sep 2026 11:16:11 +0000</pubDate>
+<description>DIRETTA La Cia: “La Russia prepara attacchi con droni in Italia, Francia e Spagna”. Crosetto: “Nessuna conferma, evitare benzina sul fuoco” Le nostre difese in vista dello scudo Michelangelo - L'analisi Le rivelazioni del quotidiano spagnolo El Mundo. I servizi segreti Usa hanno raccolto informazioni sui piani di escalation di Putin e le hanno condivise con i governi europei Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HNCPQCJJYZBSLHVSSI74EFCMBI.jpg?smart=true&amp;auth=d77ec306ee25f2f78c4740147d60b271fad6b4918ed0df6f0d725b5cf629940d&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Meta presenta i nuovi AI glasses e l’agente Muse</title>
 <link>https://www.ilgiornale.it/news/wearable/meta-presenta-la-nuova-generazione-di-ai-glasses-e-lagente-muse/</link>
@@ -793,14 +801,6 @@
 <pubDate>Wed, 23 Sep 2026 11:39:52 +0000</pubDate>
 <description>Blitz contro l’immigrazione irregolare in 4 Paesi europei: favorivano l’ingresso illegale nel Regno Unito Calo del 55% rispetto allo scorso anno. In aumento del 34% i rimpatri Operazione della Polizia di Bologna in quattro Paesi europei, Italia, Spagna, Regno Unito e Austria, con il supporto di Europol. Sei arresti. L’indagine ha ricostruito il sistema usato dai migranti per arrivare nel Regno Unito con documenti sostituiti dopo l’ingresso nell’Unione europea Redazione web Gli inglesi si ribellano ancora: in centinaia a Gosport bloccano lo sbarco di un gommone</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/KK7JJCDPPNNSTAHJGDAGFNDJHI.jpg?focal=1402%2C1001&amp;auth=0d0c2f04efb72d0afa19bed89b4037607304ad0668b780be0fc8801b2c51fbee&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Cos’è la “24 Hour Overnight Challenge”, la vecchia sfida social imitata dalle due sorelle di San Cataldo</title>
-<link>https://www.ilgiornale.it/news/societa/cose-la-24-hour-overnight-challenge-la-vecchia-sfida-social-imitata-dalle-due-sorelle-di-san-cataldo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/cose-la-24-hour-overnight-challenge-la-vecchia-sfida-social-imitata-dalle-due-sorelle-di-san-cataldo/</guid>
-<pubDate>Wed, 23 Sep 2026 11:16:46 +0000</pubDate>
-<description>Dietro la temporanea sparizione delle sorelline si nasconde il fenomeno delle sfide sui social Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/QCSOBQIX7FHKZHEYVOXNDNIFGQ.jfif?focal=1027%2C625&amp;auth=136ed2902919459fd69c3083088c254d79540f5f94f773e4723f71f9baab7582&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
