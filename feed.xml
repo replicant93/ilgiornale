@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 19:11:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 19:43:58 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sette gli indagati per la morte dell’operaio, Andrea Moretti, al Colosseo</title>
+<link>https://www.ilgiornale.it/news/nazionale/sette-gli-indagati-per-la-morte-delloperaio-andrea-moretti-al-colosseo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sette-gli-indagati-per-la-morte-delloperaio-andrea-moretti-al-colosseo/</guid>
+<pubDate>Thu, 24 Sep 2026 19:42:20 +0000</pubDate>
+<description>La Procura di Roma procede per omicidio colposo con violazione delle norme sulla sicurezza sul lavoro. Il 22enne era precipitato mentre lavorava in quota all’interno dell’Anfiteatro Flavio. Lunedì sarà conferito l’incarico per l’autopsia Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RPFZSD4C45A2XJ2ZGMS2J27JVI.jpg?focal=1593%2C791&amp;auth=104d960480f3ab2001e2c2b8c1a5f76bcfdc1ba3a8ed984f9057703dc63c79e0&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Report Cia, Macron si unisce a Crosetto: “Possiamo smentire”</title>
+<link>https://www.ilgiornale.it/news/politica-estera/report-cia-macron-si-unisce-a-crosetto-possiamo-smentire/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/report-cia-macron-si-unisce-a-crosetto-possiamo-smentire/</guid>
+<pubDate>Thu, 24 Sep 2026 19:27:58 +0000</pubDate>
+<description>“La Russia prepara attacchi con droni in Italia, Francia e Spagna” Citando il ministro della Difesa italiano, il presidente della Repubblica ha negato l’esistenza del report sull’attacco coi droni nel sud dell’Europa ma ha definito “inquietante” la situazione Francesca Galici Le nostre difese in vista dello scudo Michelangelo - L'analisi di Biloslavo (VIDEO)</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FX3WPUKROFCSVCAM2LIN33WBR4.jpg?focal=1505%2C695&amp;auth=efa80bc0dba8f987763b3ae34f724f8478b390078656ebba8d1863667eacfe4f&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Trump-Xi, IA e commercio al centro. Pechino chiede a Washington di tornare all’intesa con l’Iran</title>
 <link>https://www.ilgiornale.it/news/politica-estera/trump-xi-ia-e-commercio-al-centro-pechino-chiede-a-washington-di-tornare-allintesa-con-liran/</link>
@@ -786,21 +802,6 @@
 <pubDate>Wed, 23 Sep 2026 19:27:41 +0000</pubDate>
 <description>Alle 2.17 del mattino il 35enne ha chiamato i soccorsi informando di aver usato l’arma da fuoco: “Ho avuto paura, ho fatto da solo, avevo la pistola” Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YZEROFP2SFHYLAXF5XGK4KYBY4.jpg?smart=true&amp;auth=ce23c9528cb6054bff958cd831135392ba5121b0ccd9db36550888cadaaf33ed&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Meloni a Milano per la cena di gala della Fashion Week: “Giusto esserci, governo vicino al settore”</title>
-<link>https://www.ilgiornale.it/news/interni/meloni-a-milano-per-la-cena-di-gala-della-fashion-week-giusto-esserci-governo-vicino-al-settore/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/meloni-a-milano-per-la-cena-di-gala-della-fashion-week-giusto-esserci-governo-vicino-al-settore/</guid>
-<pubDate>Wed, 23 Sep 2026 19:19:29 +0000</pubDate>
-<description>Sono passati dieci anni dall’ultima volta che un premier ha partecipato alla settimana della moda. La premier: “Un modo bello per dire grazie a un comparto che continua a darci grandi risultati” Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/P4RXJDF5YZHVXOLTX52TBXNZWY.jpg?smart=true&amp;auth=5a8841d6773efdf67cee4e99ab119af826cfbb079dff5e024ef8a16c1e357107&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Colosseo Opens in new window</title>
-<link>https://www.ilgiornale.it/news/nazionale/tragedia-al-colosseo-operaio-di-22-anni-muore-dopo-una-caduta-di-10-metri-il-ministro-giuli-siamo-sgomenti-e-storditi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/tragedia-al-colosseo-operaio-di-22-anni-muore-dopo-una-caduta-di-10-metri-il-ministro-giuli-siamo-sgomenti-e-storditi/</guid>
-<pubDate>Wed, 23 Sep 2026 17:44:50 +0000</pubDate>
-<description>Colosseo Opens in new window</description>
 </item>
 </channel>
 </rss>
