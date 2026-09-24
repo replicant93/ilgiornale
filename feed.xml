@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 20:16:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 20:33:47 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>È morta Elena Pero, la voce del tennis italiano: addio alla storica telecronista di Sky</title>
+<link>https://www.ilgiornale.it/news/tennis/e-morta-elena-pero-la-voce-del-tennis-italiano-addio-alla-storica-telecronista-di-sky/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/e-morta-elena-pero-la-voce-del-tennis-italiano-addio-alla-storica-telecronista-di-sky/</guid>
+<pubDate>Thu, 24 Sep 2026 20:16:49 +0000</pubDate>
+<description>Aveva 60 anni. Per oltre vent’anni ha raccontato il tennis al fianco di Paolo Bertolucci, accompagnando in tv la grande stagione dei campioni italiani fino alle imprese di Jannik Sinner Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FBNUMNFTKJEY5G3RRGEZWEGUZM.jpg?focal=1472%2C305&amp;auth=5e4ec568cc1ad0ea0a6ffefa2c4fb85e65593fbd77ed401ff46c60ca3fd5df29&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Damiano David e Dove Cameron si sono sposati a Montalcino: nozze intime e folla di fan</title>
 <link>https://www.ilgiornale.it/news/personaggi/damiano-david-e-dove-cameron-si-sono-sposati-a-montalcino-nozze-intime-e-folla-di-fan/</link>
@@ -794,14 +802,6 @@
 <pubDate>Wed, 23 Sep 2026 20:31:43 +0000</pubDate>
 <description>Meloni a Milano per la cena di gala della Fashion Week: “Giusto esserci. La gonna? Non ingigantite” La premier: "Qui per dire grazie al settore della moda" Sono passati dieci anni dall’ultima volta che un premier ha partecipato alla settimana della moda. La premier: “Un modo bello per dire grazie a un comparto che continua a darci grandi risultati” Redazione web Meloni alla cena di gala della Fashion Week di Milano</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/P4RXJDF5YZHVXOLTX52TBXNZWY.jpg?smart=true&amp;auth=5a8841d6773efdf67cee4e99ab119af826cfbb079dff5e024ef8a16c1e357107&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Evasi due tunisini durante il rimpatrio: uno ha fatto perdere le sue tracce. È caccia all’uomo</title>
-<link>https://www.ilgiornale.it/news/nazionale/evasi-due-tunisini-durante-il-rimpatrio-uno-ha-fatto-perdere-le-sue-tracce-e-caccia-alluomo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/evasi-due-tunisini-durante-il-rimpatrio-uno-ha-fatto-perdere-le-sue-tracce-e-caccia-alluomo/</guid>
-<pubDate>Wed, 23 Sep 2026 19:43:53 +0000</pubDate>
-<description>Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/U7V2OQFH7JMOZEY7OTW5HRMKGU.jpg?smart=true&amp;auth=13eb7bd32e67940a7636cb428251201a6e65e39b9fd179e2b951bdf589d8648b&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
