@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 16:33:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 16:50:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Giorgetti omaggia Bossi: “Ha dato un’identità politica al Nord. Tutto quello che so l’ho imparato da lui”</title>
+<link>https://www.ilgiornale.it/news/interni/giorgetti-omaggia-bossi-ha-dato-unidentita-politica-al-nord-tutto-quello-che-so-lho-imparato-da-lui/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/giorgetti-omaggia-bossi-ha-dato-unidentita-politica-al-nord-tutto-quello-che-so-lho-imparato-da-lui/</guid>
+<pubDate>Thu, 24 Sep 2026 16:36:09 +0000</pubDate>
+<description>Il ministro dell’Economia ricorda il fondatore della Lega: “Veniva dal basso e girava paese per paese”. Poi la lezione sui giornali: “Se ne leggi troppi finisci per pensare quello che dicono loro” Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/4P2LGZZBW5DMHCBT4ZZPMFOJ5M.jpg?focal=4039%2C917&amp;auth=0287cab5d3b2f1a37c86f1994cbe277bea395e6baa81148a8f55b08cd703f76b&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Mafia e terrorismo, l’Antimafia potrà intervenire anche sui minori</title>
 <link>https://www.ilgiornale.it/news/governo/dl-giustizia-piu-poteri-allantimafia-anche-nei-procedimenti-che-coinvolgono-minori/</link>
@@ -792,14 +800,6 @@
 <pubDate>Wed, 23 Sep 2026 15:46:11 +0000</pubDate>
 <description>Nucleare, via libera definitivo del Senato al Ddl delega. Meloni: “Impegno mantenuto”. Pichetto: “Giornata storica per l’Italia” Cosa prevede il piano del governo L’aula del Senato, con 81 voti favorevoli, 51 contrari e sette astenuti, dà il via libera definitivo al disegno di legge con la delega al governo in materia di energia nucleare sostenibile Giulia Bernardini</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/D657O6E2LRBULD6ITK6D4LZN2A.jpg?focal=1681%2C1186&amp;auth=52faebc5568b3fca1316af6bd80a758c5bce01a249a54801e9aa467b078a50d3&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Musetti incanta alla Milano fashion Week: prima sfila, poi fa ballare Jennifer Lopez</title>
-<link>https://www.ilgiornale.it/news/personaggi/musetti-incanta-alla-milano-fashion-week-prima-sfila-poi-fa-ballare-jennifer-lopez/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/musetti-incanta-alla-milano-fashion-week-prima-sfila-poi-fa-ballare-jennifer-lopez/</guid>
-<pubDate>Wed, 23 Sep 2026 15:32:48 +0000</pubDate>
-<description>Il tennista azzurro ha sfilato all’evento di Vogue e si è reso protagonista di un bel momento con la popstar americana Pietro Santini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/QBIAUEYU3ZCMHAM5RPT7TB2UUE.jpg?focal=1800%2C714&amp;auth=e05c696f9957706bc3c068e68bcbef758ef8e41e007d64da5aea81d2935d8bc7&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
