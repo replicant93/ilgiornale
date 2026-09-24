@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 16:13:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 16:33:20 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Mafia e terrorismo, l’Antimafia potrà intervenire anche sui minori</title>
@@ -779,6 +779,13 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/3OAOLR57A5IVTPGGW7VEYJ7V4U.jpg?smart=true&amp;auth=96707f6811202a8e451308a63d7429794d509dfc89784606e2117850240b22af&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Nucleare Opens in new window</title>
+<link>https://www.ilgiornale.it/news/governo/nucleare-con-81-si-il-senato-da-il-via-a-legge-delega-picchetto-giornata-storica-per-litalia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/nucleare-con-81-si-il-senato-da-il-via-a-legge-delega-picchetto-giornata-storica-per-litalia/</guid>
+<pubDate>Wed, 23 Sep 2026 15:57:15 +0000</pubDate>
+<description>Nucleare Opens in new window</description>
+</item>
+<item>
 <title>Cosa prevede il piano del governo</title>
 <link>https://www.ilgiornale.it/news/politica-economica/l-italia-torna-nucleare-breve-legge-quadro-2423888.html</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/l-italia-torna-nucleare-breve-legge-quadro-2423888.html</guid>
@@ -793,14 +800,6 @@
 <pubDate>Wed, 23 Sep 2026 15:32:48 +0000</pubDate>
 <description>Il tennista azzurro ha sfilato all’evento di Vogue e si è reso protagonista di un bel momento con la popstar americana Pietro Santini</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/QBIAUEYU3ZCMHAM5RPT7TB2UUE.jpg?focal=1800%2C714&amp;auth=e05c696f9957706bc3c068e68bcbef758ef8e41e007d64da5aea81d2935d8bc7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La trasformazione di Sogin, pronta per la svolta nucleare di Meloni</title>
-<link>https://www.ilgiornale.it/news/aziende/la-trasformazione-di-sogin-pronta-per-la-svolta-nucleare-di-meloni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/aziende/la-trasformazione-di-sogin-pronta-per-la-svolta-nucleare-di-meloni/</guid>
-<pubDate>Wed, 23 Sep 2026 15:32:05 +0000</pubDate>
-<description>Diana Alfieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/IHCUDI77JNO65D4OFGZYR45DZI.jpg?smart=true&amp;auth=2828f5577774a3b4929aa6802cafdd484983cda46cc988c5261e9c95629ffb2e&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
