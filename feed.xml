@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 07:49:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 08:00:48 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Uno spray nasale contro l’Alzheimer</title>
@@ -541,6 +541,13 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/WC56DR5UYVFCDLF76OEGU3GBYM.jpg?focal=1600%2C761&amp;auth=233ff6d68f08e1eb72c039e791ed38f1c58b0dbe649c8782ec14ac977d04df89&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
+<title>immigrazione Opens in new window</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/blitz-contro-limmigrazione-irregolare-in-4-paesi-europei-favorivano-lingresso-illegale-nel-regno-unito/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/blitz-contro-limmigrazione-irregolare-in-4-paesi-europei-favorivano-lingresso-illegale-nel-regno-unito/</guid>
+<pubDate>Wed, 23 Sep 2026 10:07:41 +0000</pubDate>
+<description>immigrazione Opens in new window</description>
+</item>
+<item>
 <title>Italia risanata, regole Ue fuori dal tempo</title>
 <link>https://www.ilgiornale.it/news/europa/italia-risanata-regole-ue-fuori-dal-tempo/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/europa/italia-risanata-regole-ue-fuori-dal-tempo/</guid>
@@ -795,14 +802,6 @@
 <pubDate>Wed, 23 Sep 2026 07:02:39 +0000</pubDate>
 <description>Dopo quasi vent’anni di storia, una separazione e il ritorno in coppia, Vanessa Incontrada e Rossano Laurini hanno scelto di sposarsi in Toscana Novella Toloni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/XSK7YOBV4VH6XC6JFRKGNSUWSQ.jpg?focal=389%2C266&amp;auth=cc25e03f5ae80bd2cb03b867406098fcbb4a193b7ebc5f82710289c2af8652e9&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Tragedia al Colosseo, operaio di 22 anni muore dopo una caduta di 10 metri. Il ministro Giuli: “Siamo sgomenti e storditi”</title>
-<link>https://www.ilgiornale.it/news/nazionale/tragedia-al-colosseo-operaio-di-22-anni-muore-dopo-una-caduta-di-10-metri-il-ministro-giuli-siamo-sgomenti-e-storditi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/tragedia-al-colosseo-operaio-di-22-anni-muore-dopo-una-caduta-di-10-metri-il-ministro-giuli-siamo-sgomenti-e-storditi/</guid>
-<pubDate>Wed, 23 Sep 2026 06:43:19 +0000</pubDate>
-<description>Il giovane, operaio rocciatore, era impegnato nei lavori in quota per l’installazione di un nuovo impianto di illuminazione del monumento. Inutili i tentativi di rianimazione del personale del 118 Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FEOBOAPYX5HSTAK4VLSFIEGGWA.jpg?focal=1657%2C745&amp;auth=961420a83aca22f89e5b80fe1a02a906e644041c137483629531f41ab980db87&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
