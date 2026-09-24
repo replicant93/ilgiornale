@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 23 Sep 2026 20:33:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 03:49:30 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Comune disprezza la targa per Norma</title>
+<link>https://www.ilgiornale.it/news/interni/il-comune-disprezza-la-targa-per-norma/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-comune-disprezza-la-targa-per-norma/</guid>
+<pubDate>Thu, 24 Sep 2026 03:43:25 +0000</pubDate>
+<description>commento Interni Il Comune disprezza la targa per Norma Giannino della Frattina</description>
+</item>
 <item>
 <title>Meloni alla cena di gala della Fashion Week di Milano</title>
 <link>https://www.ilgiornale.it/gallery/interni/meloni-alla-cena-di-gala-della-fashion-week-di-milano/</link>
@@ -796,14 +803,6 @@
 <pubDate>Tue, 22 Sep 2026 19:34:28 +0000</pubDate>
 <description>Cronaca giudiziaria Violenza sessuale al Senato, la procura di Roma chiede l’archiviazione Coinvolto Francesco Silvestro, senatore di Forza Italia. A rendere nota la decisione dei pm è stato l’avvocato Teresa Manente, che difende la presunta vittima, imprenditrice del settore vinicolo Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/EVQMOTOKOBBEHMDFVNW6XQB3PU.jpg?smart=true&amp;auth=f359753b46a6d91ce7900362418c627c00b52b8e70d12f2abbd52a2432fd7cf2&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La sinistra si compatta nell’attacco alla premier: “Provoca il presidente della Repubblica”</title>
-<link>https://www.ilgiornale.it/news/politica/la-sinistra-si-compatta-nellattacco-alla-premier-provoca-il-presidente-della-repubblica/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/la-sinistra-si-compatta-nellattacco-alla-premier-provoca-il-presidente-della-repubblica/</guid>
-<pubDate>Tue, 22 Sep 2026 19:23:30 +0000</pubDate>
-<description>Meloni: “Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe”. E sul deficit: “Dispiaciuta, forse l’Istat ci sottostima” La sinistra si compatta nell’attacco alla premier: “Provoca il presidente della Repubblica” La premier ospite di Bruno Vespa ha smontato le polemiche sul bollo auto, spiegando che “niente viene tagliato alla sanità”. E ha ricordato i 200 miliardi di euro di bonus edilizi del governo Conte Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OZMA7G2SK5BEBINXY4HV5YGHQE.jpg?smart=true&amp;auth=e5e1c9dd2dacc090aa581bbc3adfda0b0d38d8e1b88a39f302d9350b1add9097&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
