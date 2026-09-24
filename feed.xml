@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 06:59:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 07:20:19 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Cos’è il Gerbera, il drone russo che potrebbe partire dalle navi e che minaccia Nato ed Europa</title>
+<link>https://www.ilgiornale.it/news/guerra/cose-il-gerbera-il-drone-russo-che-potrebbe-partire-dalle-navi-e-che-minaccia-nato-ed-europa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/cose-il-gerbera-il-drone-russo-che-potrebbe-partire-dalle-navi-e-che-minaccia-nato-ed-europa/</guid>
+<pubDate>Thu, 24 Sep 2026 07:19:06 +0000</pubDate>
+<description>Alberto Bellotto</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/RY6DTZLYRBEJXNQZPDD26GJFFQ.jpeg?smart=true&amp;auth=1b3965dca16a4775e14ebd22fe2f4d606fd6b34fadef6d5fc11e213133aab299&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>La difesa italiana alla prova della Russia</title>
+<link>https://www.ilgiornale.it/news/difesa/la-difesa-italiana-alla-prova-della-russia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/difesa/la-difesa-italiana-alla-prova-della-russia/</guid>
+<pubDate>Thu, 24 Sep 2026 07:16:07 +0000</pubDate>
+<description>Lirio Abbate</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/AQ5RH724TROLJHJYR7366ILEDM.jpg?smart=true&amp;auth=a3716b62efc30521bc5cb00923fe62ea2995ce1b29e485d6f6d123181811c1ed&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Trump riceve Xi a Washington: al via la visita di Stato negli Usa</title>
 <link>https://www.ilgiornale.it/news/politica-estera/trump-riceve-xi-a-washington-al-via-la-visita-di-stato-negli-usa/</link>
@@ -787,22 +803,6 @@
 <pubDate>Wed, 23 Sep 2026 06:01:52 +0000</pubDate>
 <description>I villaggi si ribellano (via referendum) ai centri per migranti Operazione della Polizia di Bologna in quattro Paesi europei, Italia, Spagna, Regno Unito e Austria, con il supporto di Europol. A Bologna eseguiti un mandato di arresto e quattro perquisizioni Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/KK7JJCDPPNNSTAHJGDAGFNDJHI.jpg?focal=1402%2C1001&amp;auth=0d0c2f04efb72d0afa19bed89b4037607304ad0668b780be0fc8801b2c51fbee&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>“Vent’anni per cambiarlo, il volley donne va difeso”</title>
-<link>https://www.ilgiornale.it/news/altri-sport/ventanni-per-cambiarlo-il-volley-donne-va-difeso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/altri-sport/ventanni-per-cambiarlo-il-volley-donne-va-difeso/</guid>
-<pubDate>Wed, 23 Sep 2026 05:54:14 +0000</pubDate>
-<description>Filippo Ferraioli</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/WI4O3E7YN5KC3E2LA6JDH4YFYQ.jpg?focal=3631%2C949&amp;auth=3b75f8121dc93f652a78c11e6e39f7117410f014deb60ccdfb7e6628fa374b56&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Italia, sei forte: un oro che fa bene al movimento</title>
-<link>https://www.ilgiornale.it/news/ciclismo/italia-sei-forte-un-oro-che-fa-bene-al-movimento/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/ciclismo/italia-sei-forte-un-oro-che-fa-bene-al-movimento/</guid>
-<pubDate>Wed, 23 Sep 2026 05:52:24 +0000</pubDate>
-<description>Pier Augusto Stagi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BGD4KKFFEZABZIV4XSESRIPE74.jpg?focal=1512%2C670&amp;auth=011ef8f7fbcf1785c5f212d47c9b09d5c79a2ef458f5adf6c6607a0eca5954af&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
