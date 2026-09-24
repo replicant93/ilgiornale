@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 05:31:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 06:24:31 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump riceve Xi a Washington: al via la visita di Stato negli Usa</title>
+<link>https://www.ilgiornale.it/news/politica-estera/trump-riceve-xi-a-washington-al-via-la-visita-di-stato-negli-usa/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-riceve-xi-a-washington-al-via-la-visita-di-stato-negli-usa/</guid>
+<pubDate>Thu, 24 Sep 2026 06:21:14 +0000</pubDate>
+<description>L’allarme sull’Ia, l’ombra di nuovi dazi e l’accoglienza tra caccia e bombardieri: i dossier sul tavolo del vertice Trump-Xi Visita di Stato di tre giorni negli Usa. Sul tavolo intelligenza artificiale, commercio, Taiwan e microchip, mentre i grandi network americani oscurano l’arrivo Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/GWX45ZRB3ZGV5FYE24J7EGR6ME.jpg?smart=true&amp;auth=86c500fcb37b36857e2213dcf178b7cbf4825e197c40bc73806036ddda29545c&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>La Cia: “La Russia prepara attacchi con droni in Italia, Francia e Spagna”. Pioggia di missili su Kiev</title>
 <link>https://www.ilgiornale.it/diretta/cronaca-internazionale/el-mundo-la-russia-prepara-attacchi-con-droni-in-italia-francia-e-spagna-pioggia-di-missili-su-kiev/</link>
@@ -795,14 +803,6 @@
 <pubDate>Wed, 23 Sep 2026 04:00:01 +0000</pubDate>
 <description>Retrogusto Cantina Chitarra, tutti i colori della Sicilia Andrea Cuomo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NPURTBQ7ZJE6TG3KAH3DK4W5VU.jpeg?smart=true&amp;auth=962c446f7e401189f51baee673b9a3791186817192a9ca43b13191d1d2f1c261&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Salis invoca la polizia per cacciare i giornalisti, la battuta di Vannacci e Mattarella: quindi, oggi…</title>
-<link>https://www.ilgiornale.it/news/quindi-oggi/salis-invoca-la-polizia-per-cacciare-i-giornalisti-la-battuta-di-vannacci-e-mattarella-quindi-oggi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/quindi-oggi/salis-invoca-la-polizia-per-cacciare-i-giornalisti-la-battuta-di-vannacci-e-mattarella-quindi-oggi/</guid>
-<pubDate>Tue, 22 Sep 2026 20:32:11 +0000</pubDate>
-<description>Quindi oggi Salis invoca la polizia per cacciare i giornalisti, la battuta di Vannacci e Mattarella: quindi, oggi… Giuseppe De Lorenzo</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OM2KY6BHRJODBLGD7YCFW7CBWA.jpg?smart=true&amp;auth=34840904a5045df86a71369a77c98db12c3f3d9a5777e6a1579df20a721a515f&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
