@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 18:35:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 19:11:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump-Xi, IA e commercio al centro. Pechino chiede a Washington di tornare all’intesa con l’Iran</title>
+<link>https://www.ilgiornale.it/news/politica-estera/trump-xi-ia-e-commercio-al-centro-pechino-chiede-a-washington-di-tornare-allintesa-con-liran/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-xi-ia-e-commercio-al-centro-pechino-chiede-a-washington-di-tornare-allintesa-con-liran/</guid>
+<pubDate>Thu, 24 Sep 2026 19:10:48 +0000</pubDate>
+<description>La cerimonia di benvenuto con Donald e Melania - FOTO Il faccia a faccia alla Casa Bianca si chiude dopo le 13.30 ora locale. Trump: “Ottimo incontro”. Sul tavolo superintelligenza, commercio e Iran. Xi chiede una relazione “stabile” tra le due potenze, ma Pechino non conferma ancora la proroga della tregua commerciale fino al 10 gennaio 2027 Giulia Bernardini Melania spiazza Donald Trump: “Bellissima infanzia sotto il comunismo”</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/2W6PL4YRPNHCFFPOPHRFBRRKZY.jpg?focal=1605%2C643&amp;auth=1b3919ef6a28a382ac5c525da080052489fbe8b6e80dd75e2262dcf097fa6dc4&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Netanyahu sfida l’Onu: delegati fuori dall’aula. “Codardi. Il 7 ottobre è 16 volte l’11 settembre”</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/netanyahu-sfida-lonu-delegati-fuori-dallaula-codardi-il-7-ottobre-e-16-volte-l11-settembre/</link>
@@ -793,14 +801,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/tragedia-al-colosseo-operaio-di-22-anni-muore-dopo-una-caduta-di-10-metri-il-ministro-giuli-siamo-sgomenti-e-storditi/</guid>
 <pubDate>Wed, 23 Sep 2026 17:44:50 +0000</pubDate>
 <description>Colosseo Opens in new window</description>
-</item>
-<item>
-<title>Sulle magliette dei Pulcini spunta lo sponsor “Predappio Tricolore”. Bufera sulla squadra di calcio</title>
-<link>https://www.ilgiornale.it/news/nazionale/sulle-magliette-dei-pulcini-spunta-lo-sponsor-predappio-tricolore-bufera-sulla-squadra-di-calcio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sulle-magliette-dei-pulcini-spunta-lo-sponsor-predappio-tricolore-bufera-sulla-squadra-di-calcio/</guid>
-<pubDate>Wed, 23 Sep 2026 17:37:03 +0000</pubDate>
-<description>La società difende le proprie scelte, forte anche dell’accordo stretto con le famiglie dei piccoli atleti prima di prendere la decisione definitiva Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/MPX62EFUMRHZNAR72GWCOGTOKM.jpg?smart=true&amp;auth=18cb6f1206d3378ba4fce787626993c3bda5ecee1c2409828075c97c842736a9&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
