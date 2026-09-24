@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 18:14:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 18:35:25 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Netanyahu sfida l’Onu: delegati fuori dall’aula. “Codardi. Il 7 ottobre è 16 volte l’11 settembre”</title>
+<link>https://www.ilgiornale.it/news/politica-internazionale/netanyahu-sfida-lonu-delegati-fuori-dallaula-codardi-il-7-ottobre-e-16-volte-l11-settembre/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/netanyahu-sfida-lonu-delegati-fuori-dallaula-codardi-il-7-ottobre-e-16-volte-l11-settembre/</guid>
+<pubDate>Thu, 24 Sep 2026 18:29:05 +0000</pubDate>
+<description>Tajani: "Non abituiamoci alla guerra" Decine di diplomatici abbandonano l’aula durante l’intervento del premier israeliano, che li accusa di codardia e rivendica gli attacchi contro l’Iran. Da New York, Mamdani risponde con un ramoscello di ulivo Francesca Salvatore</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/7HA3KQJOWRBKRDWAWY7DFIQRBQ.jpg?focal=1334%2C529&amp;auth=a01b3b06e58e917616dc26f7076e22317e5719dd592df4cfed6c44d221ef2a60&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Susan Sarandon arrestata a New York durante la protesta pro-Palestina: fermate anche Cynthia Nixon e Hannah Einbinder</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/susan-sarandon-arrestata-davanti-alla-sede-onu-durante-una-protesta-pro-pal/</link>
@@ -793,14 +801,6 @@
 <pubDate>Wed, 23 Sep 2026 17:37:03 +0000</pubDate>
 <description>La società difende le proprie scelte, forte anche dell’accordo stretto con le famiglie dei piccoli atleti prima di prendere la decisione definitiva Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MPX62EFUMRHZNAR72GWCOGTOKM.jpg?smart=true&amp;auth=18cb6f1206d3378ba4fce787626993c3bda5ecee1c2409828075c97c842736a9&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Arriva la condanna per Harvey Weinstein, 15 anni di carcere per l’aggressione sessuale del 2006</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/arriva-la-condanna-per-harvey-weinstein-15-anni-di-carcere-per-laggressione-sessuale-del-2006/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/arriva-la-condanna-per-harvey-weinstein-15-anni-di-carcere-per-laggressione-sessuale-del-2006/</guid>
-<pubDate>Wed, 23 Sep 2026 17:02:46 +0000</pubDate>
-<description>Il produttore di Hollywood è stato condannato a 15 anni per l’aggressione a Miriam Haley. La sentenza arriva dopo l’annullamento della prima condanna e nuovi processi Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/YCT3QBBRYVBGHJ5VCSDZFADDPU.png?focal=659%2C338&amp;auth=317069a8c8ac3258c31d8fa70622cfc75bb900baa284d3d7d53022bdd752fa77&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
