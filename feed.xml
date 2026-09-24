@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 16:50:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:22:14 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La premier a tutto campo: "Abbiamo tagliato le tasse su lavoro, imprese e famiglie"</title>
+<link>https://www.ilgiornale.it/news/governo/tasse-scuola-immigrazione-e-sicurezza-meloni-a-tutto-campo-alla-festa-de-il-tempo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/tasse-scuola-immigrazione-e-sicurezza-meloni-a-tutto-campo-alla-festa-de-il-tempo/</guid>
+<pubDate>Thu, 24 Sep 2026 17:14:59 +0000</pubDate>
+<description>In aggiornamento Burqa vietato, multe fino a 1.000 euro se genitori non imparano l’italiano: approvato il decreto scuola. Meloni: “Integrare senza rinunciare alle regole” La premier a tutto campo: "Abbiamo tagliato le tasse su lavoro, imprese e famiglie" Approvati anche il decreto legge che evita il blocco della circolazione dei veicoli diesel Euro 5 nel Bacino Padano e il dl in materia di giustizia che conferisce al Procuratore nazionale antimafia poteri anche per procedimenti su minori Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QZEKGPZVLJIQNHPTRL6QOJTOKQ.jpg?focal=1949%2C1070&amp;auth=79b9ed4cc469b488a6f4defcb37dcf92e1f7d36bd6c1095f98d5c1ebd52a18c3&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Giorgetti omaggia Bossi: “Ha dato un’identità politica al Nord. Tutto quello che so l’ho imparato da lui”</title>
 <link>https://www.ilgiornale.it/news/interni/giorgetti-omaggia-bossi-ha-dato-unidentita-politica-al-nord-tutto-quello-che-so-lho-imparato-da-lui/</link>
@@ -792,14 +800,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/governo/nucleare-con-81-si-il-senato-da-il-via-a-legge-delega-picchetto-giornata-storica-per-litalia/</guid>
 <pubDate>Wed, 23 Sep 2026 15:57:15 +0000</pubDate>
 <description>Nucleare Opens in new window</description>
-</item>
-<item>
-<title>Cosa prevede il piano del governo</title>
-<link>https://www.ilgiornale.it/news/politica-economica/l-italia-torna-nucleare-breve-legge-quadro-2423888.html</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/l-italia-torna-nucleare-breve-legge-quadro-2423888.html</guid>
-<pubDate>Wed, 23 Sep 2026 15:46:11 +0000</pubDate>
-<description>Nucleare, via libera definitivo del Senato al Ddl delega. Meloni: “Impegno mantenuto”. Pichetto: “Giornata storica per l’Italia” Cosa prevede il piano del governo L’aula del Senato, con 81 voti favorevoli, 51 contrari e sette astenuti, dà il via libera definitivo al disegno di legge con la delega al governo in materia di energia nucleare sostenibile Giulia Bernardini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/D657O6E2LRBULD6ITK6D4LZN2A.jpg?focal=1681%2C1186&amp;auth=52faebc5568b3fca1316af6bd80a758c5bce01a249a54801e9aa467b078a50d3&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
