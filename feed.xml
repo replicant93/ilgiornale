@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 21:00:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 21:18:55 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Noi facciamo le inchieste, i vannacciani bruciano i giornali. Così mandano al rogo anche la democrazia</title>
+<link>https://www.ilgiornale.it/news/interni/noi-facciamo-le-inchieste-i-vannacciani-bruciano-i-giornali-cosi-mandano-al-rogo-anche-la-democrazia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/noi-facciamo-le-inchieste-i-vannacciani-bruciano-i-giornali-cosi-mandano-al-rogo-anche-la-democrazia/</guid>
+<pubDate>Fri, 25 Sep 2026 21:12:28 +0000</pubDate>
+<description>Nelle chat dei sostenitori del generale girano la locandina con i giornali dati alle fiamme e gli attacchi contro Libero e il Giornale. Un segnale che chi non sa spegnere le notizie tenta di spegnere chi le pubblica Lirio Abbate</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/EUG7KCW2V5HOHHPLHHP6T73JKY.jpg?smart=true&amp;auth=d343ecf63d6a2642a39d718ab95009afee25edc06a4749a53d04b603b8545306&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Inizia con una sconfitta il Mancini-bis: il Belgio supera 2-0 l’Italia all’Olimpico</title>
 <link>https://www.ilgiornale.it/news/calcio/inizia-con-una-sconfitta-il-mancini-bis-il-belgio-supera-2-0-litalia-allolimpico/</link>
@@ -790,13 +798,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica-internazionale/netanyahu-sfida-lonu-delegati-fuori-dallaula-codardi-il-7-ottobre-e-16-volte-l11-settembre/</guid>
 <pubDate>Thu, 24 Sep 2026 20:51:36 +0000</pubDate>
 <description>Netanyahu Opens in new window</description>
-</item>
-<item>
-<title>Colosseo Opens in new window</title>
-<link>https://www.ilgiornale.it/news/nazionale/sette-gli-indagati-per-la-morte-delloperaio-andrea-moretti-al-colosseo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sette-gli-indagati-per-la-morte-delloperaio-andrea-moretti-al-colosseo/</guid>
-<pubDate>Thu, 24 Sep 2026 20:45:52 +0000</pubDate>
-<description>Colosseo Opens in new window</description>
 </item>
 </channel>
 </rss>
