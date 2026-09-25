@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 14:51:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 15:13:33 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pacchi extra-Ue, l’Europa alza il conto: 2 euro per articolo oltre al dazio. La stretta sull’e-commerce low cost</title>
+<link>https://www.ilgiornale.it/news/politica-economica/pacchi-extra-ue-leuropa-alza-il-conto-2-euro-per-articolo-oltre-al-dazio-la-stretta-sulle-commerce-low-cost/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-economica/pacchi-extra-ue-leuropa-alza-il-conto-2-euro-per-articolo-oltre-al-dazio-la-stretta-sulle-commerce-low-cost/</guid>
+<pubDate>Fri, 25 Sep 2026 14:50:02 +0000</pubDate>
+<description>La Commissione europea fissa la nuova “handling fee” destinata a finanziare i maggiori costi sostenuti dalle dogane per gestire il boom delle spedizioni acquistate online fuori dall’Unione Valentina Menassi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/CDCB2GBNUNO5TDWYWDVKKGWXKQ.jpg?smart=true&amp;auth=dfb05f2c71917f71d049707a0e3b2f0628dcb986f92e91e91b44be654b306a47&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Amanda Knox torna in Italia (e in tv): “Non dimentico Meredith, le accuse contro di me sono misoginia”</title>
+<link>https://www.ilgiornale.it/news/nazionale/amanda-knox-torna-in-italia-e-in-tv-non-dimentico-meredith-le-accuse-contro-di-me-sono-misoginia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/amanda-knox-torna-in-italia-e-in-tv-non-dimentico-meredith-le-accuse-contro-di-me-sono-misoginia/</guid>
+<pubDate>Fri, 25 Sep 2026 14:41:58 +0000</pubDate>
+<description>Amanda Knox parla a Verissimo e ripercorre le critiche che in questi anni l’hanno accompagnata dopo l’assoluzione per il delitto di Perugia, in particolare quelle degli ultimi mesi per il suo spettacolo di stand up comedy Angela Leucci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MBERSRMATBGMRPXR4BJ3LGPRP4.jpeg?focal=860%2C372&amp;auth=ddd52ae1501cb3735dbaf5b32c5207bbba3a2f730b2fffd60a4be5f5804ec44b&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>Conti correnti a rischio controlli, quando scatta la lente del Fisco: occhio alle novità</title>
 <link>https://www.ilgiornale.it/news/cittadini/conti-correnti-a-rischio-controlli-quando-scatta-la-lente-del-fisco-occhio-alle-novita/</link>
@@ -785,22 +801,6 @@
 <pubDate>Thu, 24 Sep 2026 16:36:09 +0000</pubDate>
 <description>Il ministro dell’Economia ricorda il fondatore della Lega: “Veniva dal basso e girava paese per paese”. Poi la lezione sui giornali: “Se ne leggi troppi finisci per pensare quello che dicono loro” Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/4P2LGZZBW5DMHCBT4ZZPMFOJ5M.jpg?focal=4039%2C917&amp;auth=0287cab5d3b2f1a37c86f1994cbe277bea395e6baa81148a8f55b08cd703f76b&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Mafia e terrorismo, l’Antimafia potrà intervenire anche sui minori</title>
-<link>https://www.ilgiornale.it/news/governo/dl-giustizia-piu-poteri-allantimafia-anche-nei-procedimenti-che-coinvolgono-minori/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/dl-giustizia-piu-poteri-allantimafia-anche-nei-procedimenti-che-coinvolgono-minori/</guid>
-<pubDate>Thu, 24 Sep 2026 16:08:26 +0000</pubDate>
-<description>Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/B7GPEKOBZJLKJDRWOSBT6J5SJQ.jpg?focal=498%2C414&amp;auth=5c19bbea4e8fac390e11a1a643f3e322bf8012116380777377068d060f1211a4&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Velo a scuola, corsi di italiano e licei, ecco cosa prevede il dl Scuola</title>
-<link>https://www.ilgiornale.it/news/interni/velo-a-scuola-corsi-di-italiano-e-licei-ecco-cosa-prevede-il-dl-scuola/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/velo-a-scuola-corsi-di-italiano-e-licei-ecco-cosa-prevede-il-dl-scuola/</guid>
-<pubDate>Thu, 24 Sep 2026 15:59:06 +0000</pubDate>
-<description>Francesca Galici</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/XYITBBPQYVKGVKYTLXTJIN2JQA.jpg?smart=true&amp;auth=9b1955e3a8afd99f7cfd298710c63d91a7c214cf87989a76837c8f142525e078&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
