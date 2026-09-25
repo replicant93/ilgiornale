@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 09:33:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:01:37 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>“Per votare basterà lo smartphone”. Zangrillo lancia la tessera elettorale digitale</title>
+<link>https://www.ilgiornale.it/news/politica/per-votare-bastera-lo-smartphone-zangrillo-lancia-la-tessera-elettorale-digitale/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/per-votare-bastera-lo-smartphone-zangrillo-lancia-la-tessera-elettorale-digitale/</guid>
+<pubDate>Fri, 25 Sep 2026 09:52:28 +0000</pubDate>
+<description>Politica “Per votare basterà lo smartphone”. Zangrillo lancia la tessera elettorale digitale Il ministro della Pubblica amministrazione conferma la novità: il sistema dovrebbe essere operativo già dal prossimo appuntamento con le urne Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/SGYDJWUHUNL6ZFSOBLPXLYCJYY.jpg?smart=true&amp;auth=f36f866a3bdd83f3deae1a648a9d298c2fb633851c7dbe1652f5e503d385527f&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Papa Leone in Francia. Le prime parole sono una frecciatina contro Trump: “Qui la Cnn è benvenuta”</title>
 <link>https://www.ilgiornale.it/news/vaticano/papa-leone-in-francia-le-prime-parole-sono-una-frecciatina-contro-trump-qui-la-cnn-e-benvenuta/</link>
@@ -794,14 +802,6 @@
 <pubDate>Thu, 24 Sep 2026 09:50:49 +0000</pubDate>
 <description>Novella Toloni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/RAJTWCEWINEWHBJZJB3WXKZ5RY.jpg?smart=true&amp;auth=d3594dca6a399a13da0ce664f0f24cd2cc2a3e153e3379567908e49ba75f43fa&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Insultò Segre e gli ebrei, ora ricorre in appello: "La senatrice mi ha provocata". E cita la Albanese</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/insulto-segre-e-gli-ebrei-ora-ricorre-in-appello/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/insulto-segre-e-gli-ebrei-ora-ricorre-in-appello/</guid>
-<pubDate>Thu, 24 Sep 2026 09:48:27 +0000</pubDate>
-<description>La scrittrice Cecilia Parodi disse di volere vedere gli ebrei “tutti appesi per i piedi”. Nell’atto di appello sostiene che ebbe uno “scatto d’ira” dopo un intervento della testimone dell’Olocausto in Senato sull’uso della parola “genocidio” Manuela Messina</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NLTXF3N5HVNURNSPKXXELJJGNQ.jpg?focal=747%2C304&amp;auth=ef7f59bc5b2fc9ef58eda43f62d4dc59ed6b0e521698dfc25d978953a6e9cbe1&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
