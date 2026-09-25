@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 18:58:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 19:15:40 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Lettonia, incidente durante un’esercitazione Nato: feriti quattro bersaglieri italiani</title>
@@ -768,6 +768,13 @@
 <description>Netanyahu Opens in new window</description>
 </item>
 <item>
+<title>Colosseo Opens in new window</title>
+<link>https://www.ilgiornale.it/news/nazionale/sette-gli-indagati-per-la-morte-delloperaio-andrea-moretti-al-colosseo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/sette-gli-indagati-per-la-morte-delloperaio-andrea-moretti-al-colosseo/</guid>
+<pubDate>Thu, 24 Sep 2026 20:45:52 +0000</pubDate>
+<description>Colosseo Opens in new window</description>
+</item>
+<item>
 <title>Quello strano sondaggio sul bollo, la folle teoria sui bimbi stranieri e El Mundo: quindi, oggi…</title>
 <link>https://www.ilgiornale.it/news/quindi-oggi/quello-strano-sondaggio-sul-bollo-la-folle-teoria-sui-bimbi-stranieri-e-el-mundo-quindi-oggi/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/quindi-oggi/quello-strano-sondaggio-sul-bollo-la-folle-teoria-sui-bimbi-stranieri-e-el-mundo-quindi-oggi/</guid>
@@ -790,14 +797,6 @@
 <pubDate>Thu, 24 Sep 2026 20:16:49 +0000</pubDate>
 <description>Aveva 60 anni. Per oltre vent’anni ha raccontato il tennis al fianco di Paolo Bertolucci, accompagnando in tv la grande stagione dei campioni italiani fino alle imprese di Jannik Sinner Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FBNUMNFTKJEY5G3RRGEZWEGUZM.jpg?focal=1472%2C305&amp;auth=5e4ec568cc1ad0ea0a6ffefa2c4fb85e65593fbd77ed401ff46c60ca3fd5df29&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Damiano David e Dove Cameron si sono sposati a Montalcino: nozze intime e folla di fan</title>
-<link>https://www.ilgiornale.it/news/personaggi/damiano-david-e-dove-cameron-si-sono-sposati-a-montalcino-nozze-intime-e-folla-di-fan/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/damiano-david-e-dove-cameron-si-sono-sposati-a-montalcino-nozze-intime-e-folla-di-fan/</guid>
-<pubDate>Thu, 24 Sep 2026 19:55:53 +0000</pubDate>
-<description>Tutte le foto del matrimonio L’arrivo a bordo di una Lancia Flavia d’epoca, gli abiti bianchi, il saluto dei fan e il bacio chiesto a gran voce dal pubblico. Così il leader Maneskin e l’attrice e cantante si sono detti “sì”. Domani la seconda celebrazione a Castiglion del Bosco. Attesi numerosi vip Roberta Damiata I Music Awards, l’invito al concerto, la proposta a casa: la storia d’amore tra Damiano David e Dove Cameron</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/RM76RP7NFVFEBPRQ5G5OLH5OTQ.jpg?focal=1686%2C588&amp;auth=c75ea1c6b6a6ee6e1805ddbee9ce12b5d2f5fc9c1afe4afe43e87a812b3f2e58&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
