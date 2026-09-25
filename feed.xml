@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 19:29:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 20:13:53 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Fischi all’inno belga durante Italia-Belgio: ecco cosa è successo</title>
+<link>https://www.ilgiornale.it/news/calcio/fischi-allinno-belga-durante-italia-belgio-ecco-cosa-e-successo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/fischi-allinno-belga-durante-italia-belgio-ecco-cosa-e-successo/</guid>
+<pubDate>Fri, 25 Sep 2026 19:57:51 +0000</pubDate>
+<description>Prima dell’inizio della partita fischi di disapprovazione all’inno del Belgio hanno rovinato la serata degli omaggi dedicati a Sandro Mazzola e Franco Baresi Antonio Prisco</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Y2QNTKUABJAERH3SWXIDIDD2AI.jfif?focal=932%2C767&amp;auth=92aa159e7081d8d59f3de215aad82c2bf7991d925f7aecc3052b1849c1034ad6&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Caso Garlasco, sentiti dai pm il generale Garofano e gli ex del Ris</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/caso-garlasco-sentiti-dai-pm-il-generale-garofano-e-gli-ex-del-ris/</link>
@@ -789,14 +797,6 @@
 <pubDate>Thu, 24 Sep 2026 20:42:32 +0000</pubDate>
 <description>Quindi oggi Quello strano sondaggio sul bollo, la folle teoria sui bimbi stranieri e El Mundo: quindi, oggi… Giuseppe De Lorenzo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/4GQSM2UORVC63HN5NYH636CULA.jfif?focal=1168%2C321&amp;auth=3d0ab2167149e606b5bf6cd35abef09a3a94427af8702a1f2bba9fe64972af10&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>“La Russia prepara attacchi con droni in Italia, Francia e Spagna”</title>
-<link>https://www.ilgiornale.it/diretta/cronaca-internazionale/el-mundo-la-russia-prepara-attacchi-con-droni-in-italia-francia-e-spagna-pioggia-di-missili-su-kiev/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/diretta/cronaca-internazionale/el-mundo-la-russia-prepara-attacchi-con-droni-in-italia-francia-e-spagna-pioggia-di-missili-su-kiev/</guid>
-<pubDate>Thu, 24 Sep 2026 20:21:08 +0000</pubDate>
-<description>Report Cia, Macron si unisce a Crosetto: “Possiamo smentire” “La Russia prepara attacchi con droni in Italia, Francia e Spagna” Citando il ministro della Difesa italiano, il presidente della Repubblica ha negato l’esistenza del report sull’attacco coi droni nel sud dell’Europa ma ha definito “inquietante” la situazione Francesca Galici Le nostre difese in vista dello scudo Michelangelo - L'analisi di Biloslavo (VIDEO)</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FX3WPUKROFCSVCAM2LIN33WBR4.jpg?focal=1505%2C695&amp;auth=efa80bc0dba8f987763b3ae34f724f8478b390078656ebba8d1863667eacfe4f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
