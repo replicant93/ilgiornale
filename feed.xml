@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 12:01:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 12:49:47 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’AI è troppo eurocentrica. E Stanford ora insegna a “decolonizzarla”</title>
+<link>https://www.ilgiornale.it/news/cultura-e-societa/lai-e-troppo-eurocentrica-e-stanford-ora-insegna-a-decolonizzarla/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cultura-e-societa/lai-e-troppo-eurocentrica-e-stanford-ora-insegna-a-decolonizzarla/</guid>
+<pubDate>Fri, 25 Sep 2026 12:43:42 +0000</pubDate>
+<description>Il nuovo corso parte dalla “sovranità intellettuale africana” e punta a smontare “colonialismo dei dati”, “tecnocapitalismo” e “ingiustizie epistemiche” incorporate nei sistemi di intelligenza artificiale Massimo Balsamo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/M6ONAN522FKZZBEXMIU775SHVE.jpg?smart=true&amp;auth=d2ab811f4415ffba2ffbb580fbfa180c1a1648313fd510ac43f49ee37c7f1052&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>“Non sono ancora pronto”: Jannik Sinner salta anche Pechino, come sta l’azzurro</title>
+<link>https://www.ilgiornale.it/news/tennis/non-sono-ancora-pronto-jannik-sinner-salta-anche-pechino-come-sta-lazzurro/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/non-sono-ancora-pronto-jannik-sinner-salta-anche-pechino-come-sta-lazzurro/</guid>
+<pubDate>Fri, 25 Sep 2026 12:30:20 +0000</pubDate>
+<description>Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/SFWA6JZIRZBE5BTKFHEITIQV6I.jpg?smart=true&amp;auth=8bf86c48b9e6f9732d5b1afd7efc248f8cdcdbd9694f6c3c658b19258bbc5a39&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Il pm vuole sentire anche il figlio di Lavitola</title>
 <link>https://www.ilgiornale.it/news/magistratura/caso-ranucci-il-pm-vuole-sentire-anche-il-figlio-di-lavitola/</link>
@@ -786,22 +802,6 @@
 <pubDate>Thu, 24 Sep 2026 14:29:23 +0000</pubDate>
 <description>Xi Jinping arriva alla Casa Bianca: stretta di mano a favore delle telecamere dei due leader Trump e Melania accolgono Xi Jinping alla Casa Bianca Donald Trump e Melania hanno accolto Xi e la consorte Peng Liyuan alla Casa Bianca. A favore delle telecamere una stretta di mano tra Trump e Xi Redazione web Melania spiazza Donald Trump: “Bellissima infanzia sotto il comunismo” DIRETTA</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/NQZIOQ5XLBBNZFWHOV6RUYCPLA.jpg?focal=1443%2C705&amp;auth=8ae7846843fdcbb7df61af3baf7a000ef2624f297dc33147fd91832156745288&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Xi Jinping arriva alla Casa Bianca: stretta di mano a favore delle telecamere dei due leader</title>
-<link>https://www.ilgiornale.it/diretta/esteri/il-leader-cinese-xi-jinping-arriva-alla-casa-bianca/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/diretta/esteri/il-leader-cinese-xi-jinping-arriva-alla-casa-bianca/</guid>
-<pubDate>Thu, 24 Sep 2026 14:26:06 +0000</pubDate>
-<description>Trump e Melania accolgono Xi Jinping alla Casa Bianca Donald Trump e Melania hanno accolto Xi e la consorte Peng Liyuan alla Casa Bianca. A favore delle telecamere una stretta di mano tra Trump e Xi Redazione web Melania spiazza Donald Trump: “Bellissima infanzia sotto il comunismo” DIRETTA</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/NQZIOQ5XLBBNZFWHOV6RUYCPLA.jpg?focal=1443%2C705&amp;auth=8ae7846843fdcbb7df61af3baf7a000ef2624f297dc33147fd91832156745288&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Arrestato Riccardo Bossi, primo figlio del fondatore della Lega: deve scontare quasi 6 anni</title>
-<link>https://www.ilgiornale.it/news/nazionale/arrestato-riccardo-bossi-primo-figlio-del-fondatore-della-lega-deve-scontare-quasi-6-anni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/arrestato-riccardo-bossi-primo-figlio-del-fondatore-della-lega-deve-scontare-quasi-6-anni/</guid>
-<pubDate>Thu, 24 Sep 2026 14:00:27 +0000</pubDate>
-<description>Le condanne a suo carico sono per appropriazione indebita, truffa e indebita percezione del reddito di cittadinanza Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/U3DTZIVSNRBUXLWRV5RTDFK3UQ.jpg?smart=true&amp;auth=c16e7dbe7eb81a0218e470d462e4f2f90d718cae4b16a202c1980f5dbd89bb72&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
