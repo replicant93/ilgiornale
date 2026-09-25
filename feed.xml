@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 13:58:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 14:19:12 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A 6 anni va a scuola con un coltello nello zaino: allarme in un istituto del Leccese</title>
+<link>https://www.ilgiornale.it/news/nazionale/a-6-anni-va-a-scuola-con-un-coltello-nello-zaino-allarme-in-un-istituto-del-leccese/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/a-6-anni-va-a-scuola-con-un-coltello-nello-zaino-allarme-in-un-istituto-del-leccese/</guid>
+<pubDate>Fri, 25 Sep 2026 14:11:07 +0000</pubDate>
+<description>Esaltavano Hitler online, volevano fare attentati e tecniche per produrre ordigni: perquisiti 14 minori. “Proposto anche un attacco a scuola” A 6 anni va a scuola con un coltello nello zaino: allarme in un istituto del Leccese Le perquisizioni sono partite in diverse città. Alcuni ragazzi partecipavano al gruppo social “Chat del Nuovo Ordine Europeo”, mentre altri facevano parte del “Fronte Fascista Italiano”. All’interno dei gruppi anche contenuti contro ebrei, omosessuali e persone di colore Redazione web “La radicalizzazione web? Può accadere in qualsiasi famiglia” True Crime Community, nic</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/AIY3QQPYMZBDXNHQ5CGQQTB6I4.jpg?focal=1801%2C523&amp;auth=7b0d003e5d80ceead7e59eed06556d39b1bbb1498d6baa291263c7ab8d7d305d&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>“Fascista e collaborazionista”. La vile aggressione al prof durante una lezione all’università di Liegi</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/fascista-e-collaborazionista-la-vile-aggressione-al-prof-durante-una-lezione-alluniversita-di-liegi/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 24 Sep 2026 14:53:40 +0000</pubDate>
 <description>Il progetto pilota ha dato i risultati sperati e ora il piano è di estendere il programma anche ad altre carceri sul territorio Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/PHSXERZ7NNOQ3DP5BZKJASIKQA.jpg?smart=true&amp;auth=71e704b2f0225dbacff0a22b43eb1eeaf41e6e037b400a6e6fef6c51f49b0de2&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Hai ricevuto un bonifico sbagliato? Cosa fare subito per non rischiare una condanna</title>
-<link>https://www.ilgiornale.it/news/cittadini/hai-ricevuto-un-bonifico-sbagliato-cosa-fare-subito-per-non-rischiare-una-condanna/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/hai-ricevuto-un-bonifico-sbagliato-cosa-fare-subito-per-non-rischiare-una-condanna/</guid>
-<pubDate>Thu, 24 Sep 2026 14:52:33 +0000</pubDate>
-<description>Anche se ormai si tende a escludere il reato penale, trattenere il denaro può portare a pesanti conseguenze civili. Ecco come comportarsi per evitare contenziosi Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/RBHY2HVTPBMLHB4OUQZW3NYL7Y.jpg?smart=true&amp;auth=c7c41d527bf0b09517bedd4b53c42df797d31c767f75c040e3f30d21595991f7&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
