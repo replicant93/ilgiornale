@@ -5,8 +5,15 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 24 Sep 2026 20:50:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 05:16:56 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tre candidati di prestigio e i moderati ora ci credono</title>
+<link>https://www.ilgiornale.it/news/interni/tre-candidati-di-prestigio-e-i-moderati-ora-ci-credono/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/tre-candidati-di-prestigio-e-i-moderati-ora-ci-credono/</guid>
+<pubDate>Fri, 25 Sep 2026 05:01:16 +0000</pubDate>
+<description>commento Interni Tre candidati di prestigio e i moderati ora ci credono Giannino della Frattina</description>
+</item>
 <item>
 <title>Quello strano sondaggio sul bollo, la folle teoria sui bimbi stranieri e El Mundo: quindi, oggi…</title>
 <link>https://www.ilgiornale.it/news/quindi-oggi/quello-strano-sondaggio-sul-bollo-la-folle-teoria-sui-bimbi-stranieri-e-el-mundo-quindi-oggi/</link>
@@ -794,14 +801,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-comune-disprezza-la-targa-per-norma/</guid>
 <pubDate>Thu, 24 Sep 2026 03:43:25 +0000</pubDate>
 <description>commento Interni Il Comune disprezza la targa per Norma Giannino della Frattina</description>
-</item>
-<item>
-<title>Zelensky all’Onu: “Guerra ridicola, deve finire. Putin paziente zero”. Ma Rubio invita lo zar al G20 di Miami. Allarme all’aeroporto di Berlino</title>
-<link>https://www.ilgiornale.it/diretta/guerra/zelensky-pronto-a-incontrare-putin-e-chiede-a-trump-i-patriot-per-linverno/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/zelensky-pronto-a-incontrare-putin-e-chiede-a-trump-i-patriot-per-linverno/</guid>
-<pubDate>Wed, 23 Sep 2026 21:32:00 +0000</pubDate>
-<description>DIRETTA La Cia: “La Russia prepara attacchi con droni in Italia, Francia e Spagna”. Pioggia di missili su Kiev Zelensky all’Onu: “Guerra ridicola, deve finire. Putin paziente zero”. Ma Rubio invita lo zar al G20 di Miami. Allarme all’aeroporto di Berlino Le rivelazioni del quotidiano spagnolo El Mundo. I servizi segreti Usa hanno raccolto informazioni sui piani di escalation di Putin e le hanno condivise con i governi europei Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HNCPQCJJYZBSLHVSSI74EFCMBI.jpg?smart=true&amp;auth=d77ec306ee25f2f78c4740147d60b271fad6b4918ed0df6f0d725b5cf629940d&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
