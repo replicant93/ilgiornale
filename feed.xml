@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 13:42:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 13:58:15 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>“Fascista e collaborazionista”. La vile aggressione al prof durante una lezione all’università di Liegi</title>
@@ -447,6 +447,13 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/SZNZWOWH5FHEPDPTKIGVRXMOIM.jfif?smart=true&amp;auth=67e27f0aa6bc36be53012edd608aeec02533a0767760907db3451f3943065c0b&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Decreto Scuola Opens in new window</title>
+<link>https://www.ilgiornale.it/news/interni/multe-fino-a-1000-euro-per-il-burqa-giustizia-e-diesel-euro-5-al-via-il-cdm-i-decreti-legge-su-cui-decidere/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/multe-fino-a-1000-euro-per-il-burqa-giustizia-e-diesel-euro-5-al-via-il-cdm-i-decreti-legge-su-cui-decidere/</guid>
+<pubDate>Fri, 25 Sep 2026 07:50:03 +0000</pubDate>
+<description>Decreto Scuola Opens in new window</description>
+</item>
+<item>
 <title>La voce clonata che ha ingannato Fideuram: mancano ancora 36 milioni dopo il finto messaggio di Messina</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/la-voce-clonata-che-ha-ingannato-fideuram-mancano-ancora-36-milioni-dopo-il-finto-messaggio-di-messina/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/la-voce-clonata-che-ha-ingannato-fideuram-mancano-ancora-36-milioni-dopo-il-finto-messaggio-di-messina/</guid>
@@ -794,14 +801,6 @@
 <pubDate>Thu, 24 Sep 2026 14:52:33 +0000</pubDate>
 <description>Anche se ormai si tende a escludere il reato penale, trattenere il denaro può portare a pesanti conseguenze civili. Ecco come comportarsi per evitare contenziosi Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/RBHY2HVTPBMLHB4OUQZW3NYL7Y.jpg?smart=true&amp;auth=c7c41d527bf0b09517bedd4b53c42df797d31c767f75c040e3f30d21595991f7&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Paura sul volo Düsseldorf-Brindisi, fumo a bordo: cosa è successo</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/paura-sul-volo-dusseldorf-brindisi-fumo-a-bordo-cosa-e-successo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/paura-sul-volo-dusseldorf-brindisi-fumo-a-bordo-cosa-e-successo/</guid>
-<pubDate>Thu, 24 Sep 2026 14:51:07 +0000</pubDate>
-<description>Un volo di soli 7 minuti, poi il rientro come previsto dalle norme internazionali: ecco cosa è accaduto sul volo Eurowings Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/5ID2QZJTU5HC7BRGITDX6K5XWI.jpg?smart=true&amp;auth=a80ceee099c0004644e7b764fc1150afcfd5439f805340733d8947ae53d73504&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
