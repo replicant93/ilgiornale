@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 05:16:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 05:32:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump e Xi, la (piccola) tregua dei giganti</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/trump-e-xi-la-piccola-tregua-dei-giganti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/trump-e-xi-la-piccola-tregua-dei-giganti/</guid>
+<pubDate>Fri, 25 Sep 2026 05:27:22 +0000</pubDate>
+<description>Cronaca internazionale Trump e Xi, la (piccola) tregua dei giganti Le foto del bilaterale tra i due leader Il vertice alla Casa Bianca mette in scena il disgelo diplomatico, senza sciogliere i nodi della competizione Francesca Salvatore</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MBVIQ4OTFRCIRFGEG6LHD6YXCI.jpg?smart=true&amp;auth=33c58e8be2764db54ff8daaade0274b971d8fb6e776f65a23e3b913bdb25ef5c&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Cronaca internazionale</title>
+<link>https://www.ilgiornale.it/esteri/cronaca-internazionale</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/esteri/cronaca-internazionale</guid>
+<pubDate>Fri, 25 Sep 2026 05:15:03 +0000</pubDate>
+<description>Trump e Xi, la (piccola) tregua dei giganti Le foto del bilaterale tra i due leader Il vertice alla Casa Bianca mette in scena il disgelo diplomatico, senza sciogliere i nodi della competizione Francesca Salvatore</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/MBVIQ4OTFRCIRFGEG6LHD6YXCI.jpg?smart=true&amp;auth=33c58e8be2764db54ff8daaade0274b971d8fb6e776f65a23e3b913bdb25ef5c&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Tre candidati di prestigio e i moderati ora ci credono</title>
 <link>https://www.ilgiornale.it/news/interni/tre-candidati-di-prestigio-e-i-moderati-ora-ci-credono/</link>
@@ -786,21 +802,6 @@
 <pubDate>Thu, 24 Sep 2026 04:00:01 +0000</pubDate>
 <description>Retrogusto La Milano Wine Week dal 17 al 25 ottobre Andrea Cuomo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/GBJPDOT2SJGTTMF6SNDAMI5AJQ.jpg?focal=1067%2C751&amp;auth=d7b276a12780a676c221193eaefc1a210b4c56555b219dda6689a75617d47922&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Tre rapper per girare un video paralizzano la Milano-Meda</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/tre-rapper-per-girare-un-video-paralizzano-la-milano-meda/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/tre-rapper-per-girare-un-video-paralizzano-la-milano-meda/</guid>
-<pubDate>Thu, 24 Sep 2026 03:47:43 +0000</pubDate>
-<description>Nicolò Rubeis</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/U3ZSCVJT75CETM5W2U5WFSM3BQ.jpg?focal=697%2C305&amp;auth=129b7b2b82aec61d44f12892423614bad446e0dd7de845636bd4ded80518886b&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Il Comune disprezza la targa per Norma</title>
-<link>https://www.ilgiornale.it/news/interni/il-comune-disprezza-la-targa-per-norma/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/il-comune-disprezza-la-targa-per-norma/</guid>
-<pubDate>Thu, 24 Sep 2026 03:43:25 +0000</pubDate>
-<description>commento Interni Il Comune disprezza la targa per Norma Giannino della Frattina</description>
 </item>
 </channel>
 </rss>
