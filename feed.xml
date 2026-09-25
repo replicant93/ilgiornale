@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 19:15:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 19:29:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Caso Garlasco, sentiti dai pm il generale Garofano e gli ex del Ris</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/caso-garlasco-sentiti-dai-pm-il-generale-garofano-e-gli-ex-del-ris/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/caso-garlasco-sentiti-dai-pm-il-generale-garofano-e-gli-ex-del-ris/</guid>
+<pubDate>Fri, 25 Sep 2026 19:14:18 +0000</pubDate>
+<description>Non è escluso che la Procura diretta da Fabio Napoleone abbia deciso di effettuare approfondimenti mirati sulle analisi scientifiche dell’epoca, visti i numerosi errori e le omissioni del fascicolo del 2007 Rita Cavallaro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/D6VMARP4WZPKVAB2GQRVMARSNU.jpg?focal=578%2C342&amp;auth=b05435193946e1a7ba3ffefb37ed151cac18a3378ae75030f3a5e6f505699b4e&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Lettonia, incidente durante un’esercitazione Nato: feriti quattro bersaglieri italiani</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/lettonia-incidente-durante-unesercitazione-nato-feriti-quattro-bersaglieri-italiani/</link>
@@ -789,14 +797,6 @@
 <pubDate>Thu, 24 Sep 2026 20:21:08 +0000</pubDate>
 <description>Report Cia, Macron si unisce a Crosetto: “Possiamo smentire” “La Russia prepara attacchi con droni in Italia, Francia e Spagna” Citando il ministro della Difesa italiano, il presidente della Repubblica ha negato l’esistenza del report sull’attacco coi droni nel sud dell’Europa ma ha definito “inquietante” la situazione Francesca Galici Le nostre difese in vista dello scudo Michelangelo - L'analisi di Biloslavo (VIDEO)</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FX3WPUKROFCSVCAM2LIN33WBR4.jpg?focal=1505%2C695&amp;auth=efa80bc0dba8f987763b3ae34f724f8478b390078656ebba8d1863667eacfe4f&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>È morta Elena Pero, la voce del tennis italiano: addio alla storica telecronista di Sky</title>
-<link>https://www.ilgiornale.it/news/tennis/e-morta-elena-pero-la-voce-del-tennis-italiano-addio-alla-storica-telecronista-di-sky/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/tennis/e-morta-elena-pero-la-voce-del-tennis-italiano-addio-alla-storica-telecronista-di-sky/</guid>
-<pubDate>Thu, 24 Sep 2026 20:16:49 +0000</pubDate>
-<description>Aveva 60 anni. Per oltre vent’anni ha raccontato il tennis al fianco di Paolo Bertolucci, accompagnando in tv la grande stagione dei campioni italiani fino alle imprese di Jannik Sinner Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FBNUMNFTKJEY5G3RRGEZWEGUZM.jpg?focal=1472%2C305&amp;auth=5e4ec568cc1ad0ea0a6ffefa2c4fb85e65593fbd77ed401ff46c60ca3fd5df29&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
