@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 25 Sep 2026 21:34:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 04:18:32 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Caino, da mezzo secolo il migliore ristorante della Maremma</title>
+<link>https://www.ilgiornale.it/news/retrogusto/caino-da-mezzo-secolo-il-migliore-ristorante-della-maremma/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/caino-da-mezzo-secolo-il-migliore-ristorante-della-maremma/</guid>
+<pubDate>Sat, 26 Sep 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Caino, da mezzo secolo il migliore ristorante della Maremma Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/4LYIQMLFYVCSRKU5WEMHPUWZSI.jpg?focal=368%2C258&amp;auth=1bd878a571e32970976a81f96f30b4a7e1d6dab4ae88a9b4cc05c5adbf21f597&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Moody’s alza la stima del Pil 2026 a +0,8%</title>
 <link>https://www.ilgiornale.it/news/aziende/moodys-deficit-dell-italia-al-3-nel-2026-e-al-29-nel-2027/</link>
@@ -791,14 +799,6 @@
 <pubDate>Fri, 25 Sep 2026 04:00:01 +0000</pubDate>
 <description>Cronaca internazionale Trump e Xi, la (piccola) tregua dei giganti Le foto del bilaterale tra i due leader Il vertice alla Casa Bianca mette in scena il disgelo diplomatico, senza sciogliere i nodi della competizione Francesca Salvatore Il pacco dirottato, i pezzi spariti e i segreti dell’F-35: così la Cina ha messo le mani sul caccia stealth</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MBVIQ4OTFRCIRFGEG6LHD6YXCI.jpg?smart=true&amp;auth=33c58e8be2764db54ff8daaade0274b971d8fb6e776f65a23e3b913bdb25ef5c&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La vera storia del “Revenge Dress”, l’abito simbolo della libertà conquistata da Lady Diana</title>
-<link>https://www.ilgiornale.it/news/personaggi/la-vera-storia-del-revenge-dress-labito-simbolo-della-liberta-conquistata-da-lady-diana/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/la-vera-storia-del-revenge-dress-labito-simbolo-della-liberta-conquistata-da-lady-diana/</guid>
-<pubDate>Fri, 25 Sep 2026 04:00:01 +0000</pubDate>
-<description>Francesca Rossi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/PJFHT6QERVLBXGNN7RKHEVVS7Q.jpg?smart=true&amp;auth=64e95751e42e0d5438ad4b3aab9a23e752d044b2664fbee7331b4b850e69e598&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
