@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 06:58:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 08:34:25 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nuova eruzione dell’Etna: cenere lavica costringe l’aeroporto di Catania a chiudere</title>
+<link>https://www.ilgiornale.it/news/cronaca-locale/nuova-eruzione-delletna-cenere-lavica-costringe-laeroporto-di-catania-a-chiudere/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/nuova-eruzione-delletna-cenere-lavica-costringe-laeroporto-di-catania-a-chiudere/</guid>
+<pubDate>Sat, 26 Sep 2026 08:12:23 +0000</pubDate>
+<description>Una nube alta 4 km, spinta dai venti in direzione Sud, rende impossibile le operazioni di decollo e atterraggio: qual è la situazione nello scalo etneo Alessandro Ferro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/OMWVDTRXFFEQZLT6WVVF73XR64.jpg?smart=true&amp;auth=30f56aa8062cdaa95f425bced15019199687f9dc772c7512c687796fabde68bb&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Fuga selvaggia sulla E45: 15enne alla guida di un Suv sperona un’auto, poi lo scontro coi carabinieri</title>
+<link>https://www.ilgiornale.it/news/nazionale/fuga-selvaggia-sulla-e45-15enne-alla-guida-di-un-suv-sperona-unauto-poi-lo-scontro-coi-carabinieri/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/fuga-selvaggia-sulla-e45-15enne-alla-guida-di-un-suv-sperona-unauto-poi-lo-scontro-coi-carabinieri/</guid>
+<pubDate>Sat, 26 Sep 2026 08:03:39 +0000</pubDate>
+<description>Un giovanissimo pirata della strada ha cercato di seminare le forze dell’ordine a bordo di un mezzo rubato. Ecco che cosa è successo Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/WUFPJPJIWNASVPYFZNXNP2XDS4.jpg?smart=true&amp;auth=383648813c25704ff4ca61c7cfb944e5bcea4f4c063db6fb704ade8455f99c6b&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Dai pro Pal ad Askatasuna, a Torino piazze per tutti ma non per la polizia Penitenziaria: “Persa un’occasione”</title>
 <link>https://www.ilgiornale.it/news/nazionale/dai-pro-pal-ad-askatasuna-a-torino-piazze-per-tutti-ma-non-per-la-polizia-penitenziaria-persa-unoccasione/</link>
@@ -784,22 +800,6 @@
 <pubDate>Fri, 25 Sep 2026 06:09:50 +0000</pubDate>
 <description>Oggi a Napoli il via alle regate preliminari di America’s Cup. Il team principal di New Zealand, detentrice del trofeo e patron del nuovo format, è Matteo de Nora, l’uomo che ha deciso per l’Italia e per il capoluogo partenopeo Antonio Vettese</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/RVMCPSAVVZLXNCJBK7J4ZTB42A.jpg?focal=416%2C214&amp;auth=2f473a56924a2d2120e540aff27949f7a76c0e979371524f50742ec8720f17cd&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Calcio, la corsa anti-commissario</title>
-<link>https://www.ilgiornale.it/news/calcio/calcio-la-corsa-anti-commissario/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/calcio-la-corsa-anti-commissario/</guid>
-<pubDate>Fri, 25 Sep 2026 06:09:05 +0000</pubDate>
-<description>Calcio, la corsa anti-commissario</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HU3HASZYPJC4VFULM4TO5666SA.jpg?focal=2241%2C1518&amp;auth=21abe90b4134d5c549f97137c86cb1ade62be181782f1fc23384d7c561410df2&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Lo strano caso di Svilar, l’“esodato” delle nazionali</title>
-<link>https://www.ilgiornale.it/news/calcio/lo-strano-caso-di-svilar-lesodato-delle-nazionali/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/lo-strano-caso-di-svilar-lesodato-delle-nazionali/</guid>
-<pubDate>Fri, 25 Sep 2026 06:08:16 +0000</pubDate>
-<description>Pietro Santini</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TFNGVJLWYJMFJPG2EJNKWLZZGE.jpg?focal=2010%2C1183&amp;auth=f2bff5768776a472a28bc2cd5717cd505eb1d96f88a40f682ca29928995853e1&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
