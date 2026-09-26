@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 05:17:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 05:32:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pioggia di droni russi su Kiev, e l’Ucraina risponde colpendo le raffinerie russe</title>
+<link>https://www.ilgiornale.it/diretta/guerra/pioggia-di-droni-russi-su-kiev-e-lucraina-risponde-colpendo-le-raffinerie-russe/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/diretta/guerra/pioggia-di-droni-russi-su-kiev-e-lucraina-risponde-colpendo-le-raffinerie-russe/</guid>
+<pubDate>Sat, 26 Sep 2026 05:23:30 +0000</pubDate>
+<description>DIRETTA Pioggia di droni russi su Kiev, e l’Ucraina risponde colpendo le raffinerie russe Lettonia, incidente durante un’esercitazione Nato: feriti quattro bersaglieri italiani Mentre Zelensky conferma il via libera di Trump a Kiev per produrre in patria missili Patriot. Putin frena sulla possibilità di riprendere i negoziati. Ancora raid reciproci fra Russia e Ucraina nella notte, incendi e vittime Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/Z57QOUM54ZG4JNAONQPVBGMT3A.jpg?smart=true&amp;auth=ae3ab00fa7cf521892cb681538a1702e0cfcb90ef974ecda0ccdacc55e2cb431&amp;width=800&amp;height=290" medium="image" />
+</item>
 <item>
 <title>E spunta la mediazione per far tornare in onda Sigfrido</title>
 <link>https://www.ilgiornale.it/news/politica/il-giudice-di-ranucci-lo-stesso-di-almasri-e-spunta-la-mediazione-per-tornare-in-onda/</link>
@@ -792,13 +800,6 @@
 <pubDate>Fri, 25 Sep 2026 05:15:03 +0000</pubDate>
 <description>Trump e Xi, la (piccola) tregua dei giganti Le foto del bilaterale tra i due leader Il vertice alla Casa Bianca mette in scena il disgelo diplomatico, senza sciogliere i nodi della competizione Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MBVIQ4OTFRCIRFGEG6LHD6YXCI.jpg?smart=true&amp;auth=33c58e8be2764db54ff8daaade0274b971d8fb6e776f65a23e3b913bdb25ef5c&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Tre candidati di prestigio e i moderati ora ci credono</title>
-<link>https://www.ilgiornale.it/news/interni/tre-candidati-di-prestigio-e-i-moderati-ora-ci-credono/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/tre-candidati-di-prestigio-e-i-moderati-ora-ci-credono/</guid>
-<pubDate>Fri, 25 Sep 2026 05:01:16 +0000</pubDate>
-<description>commento Interni Tre candidati di prestigio e i moderati ora ci credono Giannino della Frattina</description>
 </item>
 </channel>
 </rss>
