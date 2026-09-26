@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 08:34:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 08:48:58 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Oasis a Roma, allarme truffe sui biglietti: falsi codici, email contraffatte e siti clone</title>
+<link>https://www.ilgiornale.it/news/musica/oasis-a-roma-allarme-truffe-sui-biglietti-falsi-codici-email-contraffatte-e-siti-clone/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/oasis-a-roma-allarme-truffe-sui-biglietti-falsi-codici-email-contraffatte-e-siti-clone/</guid>
+<pubDate>Sat, 26 Sep 2026 08:33:57 +0000</pubDate>
+<description>La Polizia di Stato mette in guardia i fan in vista della corsa ai posti: il codice di accesso non può essere acquistato ed è personale e non trasferibile Roberta Damiata</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3TSVELM7ZJERVBXUAZO6UJ2RTM.jpg?smart=true&amp;auth=e74413b1fd155c66ec72d080585d07812f135c3d3a37f5dc325efba3e566524b&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Nuova eruzione dell’Etna: cenere lavica costringe l’aeroporto di Catania a chiudere</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/nuova-eruzione-delletna-cenere-lavica-costringe-laeroporto-di-catania-a-chiudere/</link>
@@ -792,14 +800,6 @@
 <pubDate>Fri, 25 Sep 2026 06:26:27 +0000</pubDate>
 <description>Affari d'oro Deficit, tanto rumore per nulla Marcello Zacché</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/UVXXKXNE2VA6VHUCSQ7BVRPPZY.jpg?smart=true&amp;auth=660db37f6d2c3c40019bfb407cd9d621c0aee9395c5692a5cb5f2fff1360b579&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>“La Coppa America come la Formula uno. Questo deve essere il nostro futuro”</title>
-<link>https://www.ilgiornale.it/news/altri-sport/la-coppa-america-come-la-formula-uno-questo-deve-essere-il-nostro-futuro/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/altri-sport/la-coppa-america-come-la-formula-uno-questo-deve-essere-il-nostro-futuro/</guid>
-<pubDate>Fri, 25 Sep 2026 06:09:50 +0000</pubDate>
-<description>Oggi a Napoli il via alle regate preliminari di America’s Cup. Il team principal di New Zealand, detentrice del trofeo e patron del nuovo format, è Matteo de Nora, l’uomo che ha deciso per l’Italia e per il capoluogo partenopeo Antonio Vettese</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/RVMCPSAVVZLXNCJBK7J4ZTB42A.jpg?focal=416%2C214&amp;auth=2f473a56924a2d2120e540aff27949f7a76c0e979371524f50742ec8720f17cd&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
