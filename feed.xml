@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 13:47:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 13:58:08 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Paura per Daniel Osvaldo, ricoverato d’urgenza e operato: “Era in condizioni molto gravi”. Come sta l’ex di Juve e Roma</title>
@@ -684,6 +684,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/IVQWTJVMS5MMFHYV2PSSYGTUR4.jpg?smart=true&amp;auth=6582f7c8666ac8c56bfcede66f3cc74e209f4322f886f96b54235783cb24d8db&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
+<title>L’imam tifa burqa: “Il velo non è una libera scelta ma un atto divino”</title>
+<link>https://www.ilgiornale.it/news/interni/lislam-infuriato-il-velo-non-e-una-libera-scelta-ma-un-atto-divino/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lislam-infuriato-il-velo-non-e-una-libera-scelta-ma-un-atto-divino/</guid>
+<pubDate>Fri, 25 Sep 2026 11:04:08 +0000</pubDate>
+<description>“Nessuna resti nascosta”. Al via la campagna di FdI a tutela delle donne contro l’integralismo islamico Niqab fuori dalle scuole di Monfalcone. “L’islam radicale è già arrivato” Sono 20 le tappe nella prima fase, con inizio in Basilicata e termine a Milano. Al centro un pacchetto di proposte per l’integrazione e l’emancipazione femminile nel contesto islamico Alessandra Corradi L’imam tifa burqa: “Il velo non è una libera scelta ma un atto divino” Il 7 ottobre in piazza a Torino per celebrare un massacro: la chiamata dell’associazione di Hannoun</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TRQXR2GTARDDTB2HPKUF7IYWMI.png?smart=true&amp;auth=349a18102349b4a98239c5ff8a35112a6c3e1b20bb34018e206e59ee0102fc6e&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
 <title>L’influencer hard Fabrizio Santamaria imputato di revenge porn: “Pubblicato un video intimo senza consenso”</title>
 <link>https://www.ilgiornale.it/news/cronaca-giudiziaria/linfluencer-hard-fabrizio-santamaria-imputato-di-revenge-porn-pubblicato-un-video-intimo-senza-consenso/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/linfluencer-hard-fabrizio-santamaria-imputato-di-revenge-porn-pubblicato-un-video-intimo-senza-consenso/</guid>
@@ -793,14 +801,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/media-banditi-e-potere-presidenziale/</guid>
 <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Politica estera Media banditi e potere presidenziale Lucio Martino</description>
-</item>
-<item>
-<title>La certezza della pena è la misura della civiltà</title>
-<link>https://www.ilgiornale.it/news/stanza-di-feltri/la-certezza-della-pena-e-la-misura-della-civilta/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/stanza-di-feltri/la-certezza-della-pena-e-la-misura-della-civilta/</guid>
-<pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-<description>La stanza di Feltri La certezza della pena è la misura della civiltà Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/EAGLUCWCUVMWLBPI4SRTGIX2AI.jpg?smart=true&amp;auth=fe1ff3b3d75c797ce17b8714592a5b366420de6560191088db666686541a320d&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
