@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 14:16:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 14:48:06 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Questione sicurezza, Tajani: “Colpirne uno per educarne cento”. La replica degli avvocati: “No a pene esemplari”</title>
+<link>https://www.ilgiornale.it/news/interni/questione-sicurezza-tajani-colpirne-uno-per-educarne-cento-la-replica-degli-avvocati-no-a-pene-esemplari/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/questione-sicurezza-tajani-colpirne-uno-per-educarne-cento-la-replica-degli-avvocati-no-a-pene-esemplari/</guid>
+<pubDate>Sat, 26 Sep 2026 14:26:01 +0000</pubDate>
+<description>Il ministro degli Esteri: “Dobbiamo dare dei segnali che garantiscano ai cittadini il fatto che i ceffi non possono agire impuniti” Filippo Jacopo Carpani</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/5SYLCCROQREW3GXVFDWYYTM5XY.jpg?smart=true&amp;auth=3061d5b85ab13e5ad8f74aff4cd227761f2f45bfa39085c9d6f4b47fff615a4f&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Tragedia in Sri Lanka, 27enne italiana muore precipitando da una cascata</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/tragedia-in-sri-lanka-27enne-italiana-muore-precipitando-da-una-cascata/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Interni Riformisti battete un colpo Augusto Minzolini</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FTD45PSNL2RNC3DSYRE5KK5XYSY.jpg?smart=true&amp;auth=e12e9f99f76369afd201892404841dba6e9773f13d454793ce795aabb97d992a&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Meloni, l’Onu e la scelta fashion</title>
-<link>https://www.ilgiornale.it/news/governo/meloni-lonu-e-la-scelta-fashion/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/governo/meloni-lonu-e-la-scelta-fashion/</guid>
-<pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Governo Meloni, l’Onu e la scelta fashion Carlo Lottieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FO5RYXSRD2FPWXIEOS7TNG3T4EU.jpg?smart=true&amp;auth=1e6a79530d81b8e094449aa27a4ceec9dd05cacbf4a3dd3910f05c2c4e60cc3a&amp;width=100&amp;height=100" medium="image" />
 </item>
 </channel>
 </rss>
