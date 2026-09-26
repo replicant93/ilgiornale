@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 11:16:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 11:31:19 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Omicidio di Crépol, in 11 a processo per “razzismo contro i bianchi e la nazione francese” per la morte di Thomas Perotto</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/omicidio-di-crepol-in-11-a-processo-per-razzismo-contro-i-bianchi-e-la-nazione-francese-per-la-morte-di-thomas-perotto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/omicidio-di-crepol-in-11-a-processo-per-razzismo-contro-i-bianchi-e-la-nazione-francese-per-la-morte-di-thomas-perotto/</guid>
+<pubDate>Sat, 26 Sep 2026 11:20:12 +0000</pubDate>
+<description>Dopo un iter giudiziario ostico in cui i pm si opponevano all’aggravante, i giudici hanno rigettato le contestazioni ed emesso il rinvio a giudizio riconoscendo il razzismo Francesca Galici</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JJJSBG3POFOQVO3QL2MQ534GOU.png?smart=true&amp;auth=58453c5daa7d28e07a2401a0d81d9cf09b10c1a0c744cee7ae913441ba4391ef&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Alice Mangione ricoverata in ospedale per un’infezione: come sta l’attrice</title>
 <link>https://www.ilgiornale.it/news/cinema/alice-mangione-ricoverata-in-ospedale-per-uninfezione-come-sta-lattrice/</link>
@@ -793,14 +801,6 @@
 <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
 <description>Fausto Biloslavo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ASSBDASAWVNPNITKCTHKUEENLQ.jpg?focal=1481%2C772&amp;auth=7098f03b7598c6993736361efa298cde73372c456e7e0dfbf374b06a505fdf3e&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Macron avverte: “Temo attacco in stile Lipsia”. E sul diesel Usa: “No al blocco”</title>
-<link>https://www.ilgiornale.it/news/guerra/macron-avverte-temo-attacco-in-stile-lipsia-e-sul-diesel-usa-no-al-blocco/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/macron-avverte-temo-attacco-in-stile-lipsia-e-sul-diesel-usa-no-al-blocco/</guid>
-<pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-<description>Francesco De Remigis</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7XZPR3WKHZEG3EFHRIBIWRAIQI.jpg?focal=1472%2C786&amp;auth=fb9026358717b807190c122f94c6aa1af8fb8c97d9546e5296a3b9baf1824725&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
