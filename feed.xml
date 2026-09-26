@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 15:48:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 16:34:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pensioni, novembre senza trattenute: come ed entro quando chiedere la riduzione o l’annullamento dell’acconto Irpef</title>
+<link>https://www.ilgiornale.it/news/cittadini/pensioni-novembre-senza-trattenute-come-ed-entro-quando-chiedere-la-riduzione-o-lannullamento-dellacconto-irpef/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/pensioni-novembre-senza-trattenute-come-ed-entro-quando-chiedere-la-riduzione-o-lannullamento-dellacconto-irpef/</guid>
+<pubDate>Sat, 26 Sep 2026 16:21:25 +0000</pubDate>
+<description>Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/O3ZEZOJES5PYNOBH2EDBBCE6JY.jpg?smart=true&amp;auth=60b6fbee710cd5f032fa89e7b74b966c3146acb2498832eacbf842f137314f40&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>La forzista Matilde Siracusano “spogliata” dall’intelligenza artificiale: bufera su Roberto Vannacci. Lei: “Incredula”</title>
 <link>https://www.ilgiornale.it/news/interni/onorevole-di-fi-spogliata-dallintelligenza-artificiale-bufera-su-roberto-vannacci/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 10:37:31 +0000</pubDate>
 <description>Tre tentativi falliti di atterraggio in Scozia, poi il dirottamento sullo scalo inglese con un quantitativo sempre più basso di carburante: cosa dice l’indagine dell’Aaib Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/UEGF7DJWIROQFEA7LEYP7BV62E.jpg?smart=true&amp;auth=9018f3cdd00d0d6846db1dddc2caffa0a3876b841df161ee998ff99e39bfb35c&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Cinquant’anni degli U2, cinque curiosità: il nuovo singolo, il volantino, il Live Aid, l’album fantasma e l’incursione al cinema</title>
-<link>https://www.ilgiornale.it/news/musica/cinquantanni-degli-u2-cinque-curiosita-il-nuovo-singolo-il-volantino-il-live-aid-lalbum-fantasma-e-lincursione-al-cinema/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/cinquantanni-degli-u2-cinque-curiosita-il-nuovo-singolo-il-volantino-il-live-aid-lalbum-fantasma-e-lincursione-al-cinema/</guid>
-<pubDate>Fri, 25 Sep 2026 10:25:30 +0000</pubDate>
-<description>Il volantino di Larry Mullen, la performance di “Bad” al Live Aid, la svolta di “Achtung Baby” e l’album rimasto nel cassetto: cinque curiosità sulla band irlandese Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TAOLOUSN5BAZNBKKT3SM32R5TY.jpg?focal=2125%2C586&amp;auth=d72d2f9e1f89706cff3a2ea978f699186af57f615f77224c5ef05dd64d487b82&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
