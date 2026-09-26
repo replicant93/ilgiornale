@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 13:58:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 14:16:52 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tragedia in Sri Lanka, 27enne italiana muore precipitando da una cascata</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/tragedia-in-sri-lanka-27enne-italiana-muore-precipitando-da-una-cascata/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/tragedia-in-sri-lanka-27enne-italiana-muore-precipitando-da-una-cascata/</guid>
+<pubDate>Sat, 26 Sep 2026 14:07:49 +0000</pubDate>
+<description>La polizia locale si trova ancora al lavoro per ricostruire l’esatta dinamica dell’incidente: il volo da trenta metri davanti agli occhi dell’amica Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/N2SY5VBGTZBI3O3KSEFEVNLWCA.jpg?smart=true&amp;auth=2c54010d1cdcdd242a903b575058bfbcd960142346e3754278ee651da846087e&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Paura per Daniel Osvaldo, ricoverato d’urgenza e operato: “Era in condizioni molto gravi”. Come sta l’ex di Juve e Roma</title>
 <link>https://www.ilgiornale.it/news/calcio/paura-per-daniel-osvaldo-ricoverato-durgenza-e-operato-era-in-condizioni-molto-gravi-come-sta-lex-di-juve-e-roma/</link>
@@ -794,13 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
 <description>commento Governo Meloni, l’Onu e la scelta fashion Carlo Lottieri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FO5RYXSRD2FPWXIEOS7TNG3T4EU.jpg?smart=true&amp;auth=1e6a79530d81b8e094449aa27a4ceec9dd05cacbf4a3dd3910f05c2c4e60cc3a&amp;width=100&amp;height=100" medium="image" />
-</item>
-<item>
-<title>Media banditi e potere presidenziale</title>
-<link>https://www.ilgiornale.it/news/politica-estera/media-banditi-e-potere-presidenziale/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/media-banditi-e-potere-presidenziale/</guid>
-<pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-<description>commento Politica estera Media banditi e potere presidenziale Lucio Martino</description>
 </item>
 </channel>
 </rss>
