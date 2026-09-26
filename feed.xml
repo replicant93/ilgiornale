@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 15:33:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 15:48:34 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>La forzista Matilde Siracusano “spogliata” dall’intelligenza artificiale: bufera su Roberto Vannacci. Lei: “Incredula”</title>
+<link>https://www.ilgiornale.it/news/interni/onorevole-di-fi-spogliata-dallintelligenza-artificiale-bufera-su-roberto-vannacci/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/onorevole-di-fi-spogliata-dallintelligenza-artificiale-bufera-su-roberto-vannacci/</guid>
+<pubDate>Sat, 26 Sep 2026 15:40:04 +0000</pubDate>
+<description>Matilde Siracusano ha trovato una sua foto modificata artificialmente togliendole il top sotto la giacca: “Una cosa schifosa, oltre ogni limite” Alessandra Corradi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ZCWIIHGLSJFRPOWJCRNIYUMHFM.jpg?smart=true&amp;auth=28d0e8192748cf93610fcc16bc3af5b8d4601a5181395d7841b8924345f1b517&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Mappa e istruzioni per trovare le 4 mila stazioni che aderiscono</title>
 <link>https://www.ilgiornale.it/news/cittadini/caro-carburanti-arriva-lo-sconto-eni-mappa-e-istruzioni-per-trovare-le-4-mila-stazioni-che-aderiscono/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 10:25:30 +0000</pubDate>
 <description>Il volantino di Larry Mullen, la performance di “Bad” al Live Aid, la svolta di “Achtung Baby” e l’album rimasto nel cassetto: cinque curiosità sulla band irlandese Novella Toloni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TAOLOUSN5BAZNBKKT3SM32R5TY.jpg?focal=2125%2C586&amp;auth=d72d2f9e1f89706cff3a2ea978f699186af57f615f77224c5ef05dd64d487b82&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Esaltavano Hitler online, proponevano attentati e tecniche per produrre ordigni: perquisiti 14 minori</title>
-<link>https://www.ilgiornale.it/news/attualita/esaltavano-hitler-online-proponevano-attentati-e-tecniche-per-produrre-ordigni-perquisiti-14-minori/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/esaltavano-hitler-online-proponevano-attentati-e-tecniche-per-produrre-ordigni-perquisiti-14-minori/</guid>
-<pubDate>Fri, 25 Sep 2026 10:20:41 +0000</pubDate>
-<description>Le perquisizioni sono partite in diverse città. Alcuni ragazzi partecipavano al gruppo social “Chat del Nuovo Ordine Europeo”, mentre altri facevano parte del “Fronte Fascista Italiano”. All’interno dei gruppi anche contenuti contro ebrei, omosessuali e persone di colore Redazione web “La radicalizzazione web? Può accadere in qualsiasi famiglia” True Crime Community, nichilisti e accelerazionisti: tutte le sigle della galassia violenta</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/AIY3QQPYMZBDXNHQ5CGQQTB6I4.jpg?focal=1801%2C523&amp;auth=7b0d003e5d80ceead7e59eed06556d39b1bbb1498d6baa291263c7ab8d7d305d&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
