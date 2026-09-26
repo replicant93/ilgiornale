@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 16:34:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 17:32:02 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tragedia nel Lodigiano: il selfie, l’ombra di una sfida social. 15enne muore folgorato su un traliccio</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/tragedia-nel-lodigiano-il-selfie-lombra-di-una-sfida-social-15enne-muore-folgorato-su-un-traliccio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/tragedia-nel-lodigiano-il-selfie-lombra-di-una-sfida-social-15enne-muore-folgorato-su-un-traliccio/</guid>
+<pubDate>Sat, 26 Sep 2026 17:21:28 +0000</pubDate>
+<description>Mentre la comunità locale si stringe nel dolore, gli inquirenti della Procura hanno sequestrato lo smartphone dell’adolescente. Ecco cosa sappiamo Federico Garau</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/NL6NOWXM7BCYVO5774AOHFJZOA.jpg?smart=true&amp;auth=252380bc1c12fc0bad0100b6347aee4afe885ee630175c91a55194ef9485b551&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Pensioni, novembre senza trattenute: come ed entro quando chiedere la riduzione o l’annullamento dell’acconto Irpef</title>
 <link>https://www.ilgiornale.it/news/cittadini/pensioni-novembre-senza-trattenute-come-ed-entro-quando-chiedere-la-riduzione-o-lannullamento-dellacconto-irpef/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 10:44:24 +0000</pubDate>
 <description>Trump e Xi, la (piccola) tregua dei giganti Cappotto e guanti con 19 gradi: come sta il tycoon Il vertice alla Casa Bianca mette in scena il disgelo diplomatico, senza sciogliere i nodi della competizione. I dossier sul tavolo: Taiwan, le forniture militari, l’Ia e l’Iran Francesca Salvatore Il pacco dirottato, i pezzi spariti e i segreti dell’F-35: così la Cina ha messo le mani sul caccia stealth Peng canta, Melania loda il comunismo. First lady in sintonia</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/MBVIQ4OTFRCIRFGEG6LHD6YXCI.jpg?smart=true&amp;auth=33c58e8be2764db54ff8daaade0274b971d8fb6e776f65a23e3b913bdb25ef5c&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Solo 9 minuti restanti di carburante”. E il volo Pisa-Prestwick viene dirottato a Manchester, cosa è successo</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/solo-9-minuti-restanti-di-carburante-e-il-volo-pisa-prestwick-viene-dirottato-a-manchester-cosa-e-successo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/solo-9-minuti-restanti-di-carburante-e-il-volo-pisa-prestwick-viene-dirottato-a-manchester-cosa-e-successo/</guid>
-<pubDate>Fri, 25 Sep 2026 10:37:31 +0000</pubDate>
-<description>Tre tentativi falliti di atterraggio in Scozia, poi il dirottamento sullo scalo inglese con un quantitativo sempre più basso di carburante: cosa dice l’indagine dell’Aaib Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/UEGF7DJWIROQFEA7LEYP7BV62E.jpg?smart=true&amp;auth=9018f3cdd00d0d6846db1dddc2caffa0a3876b841df161ee998ff99e39bfb35c&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
