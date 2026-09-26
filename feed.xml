@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 17:47:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 18:37:26 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nessuna stretta di mano e lutto al braccio per Gaza. L’Irlanda ha scelto di giocare contro Israele</title>
+<link>https://www.ilgiornale.it/news/calcio/nessuna-stretta-di-mano-e-lutto-al-braccio-per-gaza-lirlanda-ha-scelto-di-giocare-contro-israele/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/nessuna-stretta-di-mano-e-lutto-al-braccio-per-gaza-lirlanda-ha-scelto-di-giocare-contro-israele/</guid>
+<pubDate>Sat, 26 Sep 2026 18:29:57 +0000</pubDate>
+<description>Dopo mesi di polemiche la sfida di Nations League si giocherà regolarmente ma non ci saranno strette di mano tra i calciatori. L’unico a chiamarsi fuori è il portiere Gavin Bazunu Antonio Prisco</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/VG2EJCP4VFCMZB554JJCMP2XGY.jpg?smart=true&amp;auth=2001156bedac5e7f1d2bb5f3d7cf010cca7c38c434e49f098e8dbe6e6d02f35e&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Mercedes CLA Shooting Brake, il viaggio comincia a bordo</title>
 <link>https://www.ilgiornale.it/news/auto-moto-motori/mercedes-cla-shooting-brake-il-viaggio-comincia-a-bordo/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 10:47:52 +0000</pubDate>
 <description>“Il referendum ci è costato miliardi. Ora l’Italia avrà più sovranità energetica” Dal combustibile alla sicurezza: i segreti del nuovo nucleare “Una sola carica di uranio dura da 18 a 24 mesi e le scorte di combustibile possono essere stoccate per anni in poco spazio”. Parla Chicco Testa Hoara Borselli</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/N4ZDO36IHJCYZJESZV6I6BONB4.jpg?focal=425%2C464&amp;auth=8894ac07dd20caef6b930392c890a75e344813d2d8b16335814834a292121fb9&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>L’esercito di Vannacci sogna il colpaccio. Ma a Reggio il generale rischia di fare flop</title>
-<link>https://www.ilgiornale.it/news/interni/lesercito-di-vannacci-sogna-il-colpaccio-ma-a-reggio-il-generale-rischia-di-fare-flop/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lesercito-di-vannacci-sogna-il-colpaccio-ma-a-reggio-il-generale-rischia-di-fare-flop/</guid>
-<pubDate>Fri, 25 Sep 2026 10:47:00 +0000</pubDate>
-<description>Sondaggi in calo, il suo blitz in Calabria a suon di insulti per far perdere l’azzurro Roscioli alle Suppletive Felice Manti</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/A36QZ257DNH2ZEHJKGOZQSTAT4.jpg?focal=2097%2C395&amp;auth=f85ca40a2e94290ed2d5d5806000ff5e3b194a0744d1d73c8bd2baee5a990235&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
