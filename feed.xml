@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 27 Sep 2026 08:34:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 08:49:18 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Allarme in Inghilterra: “Esplosivi vicino a una base della Raf usata dagli Stati Uniti”. Diversi arresti, evacuate delle abitazioni</title>
@@ -764,6 +764,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/D6VMARP4WZPKVAB2GQRVMARSNU.jpg?focal=578%2C342&amp;auth=b05435193946e1a7ba3ffefb37ed151cac18a3378ae75030f3a5e6f505699b4e&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
+<title>Niqab fuori dalle scuole di Monfalcone. “L’islam radicale è già arrivato”</title>
+<link>https://www.ilgiornale.it/news/nazionale/niqab-fuori-dalle-scuole-di-monfalcone-rabbia-di-cisint-lislam-radicale-e-gia-arrivato/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/niqab-fuori-dalle-scuole-di-monfalcone-rabbia-di-cisint-lislam-radicale-e-gia-arrivato/</guid>
+<pubDate>Fri, 25 Sep 2026 18:53:47 +0000</pubDate>
+<description>“Nessuna resti nascosta”. Al via la campagna di FdI a tutela delle donne contro l’integralismo islamico Niqab fuori dalle scuole di Monfalcone. “L’islam radicale è già arrivato” Sono 20 le tappe nella prima fase, con inizio in Basilicata e termine a Milano. Al centro un pacchetto di proposte per l’integrazione e l’emancipazione femminile nel contesto islamico Alessandra Corradi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TRQXR2GTARDDTB2HPKUF7IYWMI.png?smart=true&amp;auth=349a18102349b4a98239c5ff8a35112a6c3e1b20bb34018e206e59ee0102fc6e&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
 <title>Lettonia, incidente durante un’esercitazione Nato: feriti quattro bersaglieri italiani</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/lettonia-incidente-durante-unesercitazione-nato-feriti-quattro-bersaglieri-italiani/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/lettonia-incidente-durante-unesercitazione-nato-feriti-quattro-bersaglieri-italiani/</guid>
@@ -793,14 +801,6 @@
 <pubDate>Fri, 25 Sep 2026 16:50:21 +0000</pubDate>
 <description>Report, Ranucci presenta ricorso e chiede la reintegrazione immediata: “Dalla Rai opacità, commistione e interferenze” Piervincenzi: "Mi ha detto 'se rinunci sei un grande'" Ecco il ricorso che il Giornale ha potuto visionare. Così il conduttore alza ulteriormente il livello dello scontro Pasquale Napolitano , Giulia Sorrentino Il pm vuole sentire anche il figlio di Lavitola</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/F2MFX6FI6ZG3DOBQGJ2VNNMK7I.jpg?smart=true&amp;auth=c621ee71e57f7381949f1215422f164f2629de169e3ed782e38dc616fc45ce3a&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Curnutu sì tu e cu nun t’u dice”. Lo show di Cannizzaro contro Vannacci</title>
-<link>https://www.ilgiornale.it/news/interni/curnutu-si-tu-e-cu-nun-tu-dice-lo-show-di-cannizzaro-contro-vannacci/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/curnutu-si-tu-e-cu-nun-tu-dice-lo-show-di-cannizzaro-contro-vannacci/</guid>
-<pubDate>Fri, 25 Sep 2026 16:32:12 +0000</pubDate>
-<description>Il sindaco di Reggio Calabria ha attaccato il generale leader di Futuro Nazionale Francesco Curridori</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/KI6WU33WEZESZJQTAA2KFUVTRI.jpg?focal=972%2C864&amp;auth=e97c613ffc8f993e26c2fc0e5bf9f03a97d130b20f741adeed4e0aad1bf98e69&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
