@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 26 Sep 2026 18:53:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 03:58:01 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tanto panico e un romano luce “fioca”</title>
+<link>https://www.ilgiornale.it/news/calcio/tanto-panico-e-un-romano-luce-fioca/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/tanto-panico-e-un-romano-luce-fioca/</guid>
+<pubDate>Sun, 27 Sep 2026 03:41:57 +0000</pubDate>
+<description>commento Calcio Tanto panico e un romano luce “fioca” Franco Ordine</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FVGLRUMTYFZN2FGZXZ5FH7XMHQM.png?smart=true&amp;auth=6bf20b14ce8de379780c0f760747266a920485c669758159108bbaaef3bf074a&amp;width=100&amp;height=100" medium="image" />
+</item>
 <item>
 <title>“Abbiamo usato più droghe per giorni”. Così de Oliveira Morando ha confessato l’omicidio di Fabio Colapietro</title>
 <link>https://www.ilgiornale.it/news/cronaca-nera/abbiamo-usato-piu-droghe-per-giorni-cosi-de-oliveira-morando-ha-confessato-lomicidio-di-fabio-colapietro/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 11:04:08 +0000</pubDate>
 <description>“Nessuna resti nascosta”. Al via la campagna di FdI a tutela delle donne contro l’integralismo islamico Niqab fuori dalle scuole di Monfalcone. “L’islam radicale è già arrivato” Sono 20 le tappe nella prima fase, con inizio in Basilicata e termine a Milano. Al centro un pacchetto di proposte per l’integrazione e l’emancipazione femminile nel contesto islamico Alessandra Corradi L’imam tifa burqa: “Il velo non è una libera scelta ma un atto divino” Il 7 ottobre in piazza a Torino per celebrare un massacro: la chiamata dell’associazione di Hannoun</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/TRQXR2GTARDDTB2HPKUF7IYWMI.png?smart=true&amp;auth=349a18102349b4a98239c5ff8a35112a6c3e1b20bb34018e206e59ee0102fc6e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>L’influencer hard Fabrizio Santamaria imputato di revenge porn: “Pubblicato un video intimo senza consenso”</title>
-<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/linfluencer-hard-fabrizio-santamaria-imputato-di-revenge-porn-pubblicato-un-video-intimo-senza-consenso/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/linfluencer-hard-fabrizio-santamaria-imputato-di-revenge-porn-pubblicato-un-video-intimo-senza-consenso/</guid>
-<pubDate>Fri, 25 Sep 2026 10:53:20 +0000</pubDate>
-<description>L’attore molto noto sulla piattaforma Onlyfans finisce nel guai dopo la denuncia di un 29enne sardo. L’udienza preliminare a novembre Manuela Messina</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZUUAXQOIYVCRPE7WVGWL2BFDIU.jpg?smart=true&amp;auth=bcf6b5103e4479abade2e21584a320362f1ccc827cc902c365f9d54f3b481b46&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
