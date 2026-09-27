@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 27 Sep 2026 10:33:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 10:48:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Il giudice di Ranucci salvò Conte e Speranza dall’inchiesta sul Covid</title>
@@ -133,6 +133,62 @@
 <pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
 <description>L’ex premier: “Incontrare un dipendente di Palazzo Chigi secondo Report era più sospetto che andare a cena con personaggi dalla fedina penale tutt’altro che immacolata” Matteo Renzi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/PYTMGMS45NAIPAKJEUH5ZVNHV4.jpg?focal=741%2C244&amp;auth=7da8e649fb8daea4f7d0ff34aa95ee752d364496459d7ca7a0295e93c614e9d2&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Giancarlo Aneri, l’uomo che imbottiglia amicizie</title>
+<link>https://www.ilgiornale.it/news/attualita/giancarlo-aneri-luomo-che-imbottiglia-amicizie/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/giancarlo-aneri-luomo-che-imbottiglia-amicizie/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>Da trent’anni acquista le uve migliori per fare Prosecco, Chianti e Amarone. Feltri: “Grazie a lui sono diventato intimo di Draghi e ho fatto pace con Montanelli” Vittorio Feltri</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QQDYKBGYA5BJBHZ67BIDYQ3GNM.png?focal=275%2C118&amp;auth=ef4f29161758810b186a9b1ee85f040a4daa3543d70448d18bed75690be50e25&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Lavrov, offensiva contro l’Occidente. “Bloccano la pace. Non ci fermiamo”</title>
+<link>https://www.ilgiornale.it/news/politica-estera/lavrov-offensiva-contro-loccidente-bloccano-la-pace-non-ci-fermiamo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/lavrov-offensiva-contro-loccidente-bloccano-la-pace-non-ci-fermiamo/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>Il ministro degli Esteri russo rivendica l’invasione dell’Ucraina e attacca Europa e Usa: “Vogliono sconfiggerci” Valeria Robecco</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/E4Z3NM2VSJHYJEIOLX6BXWLK6A.jpg?focal=2493%2C909&amp;auth=4e0c4e68ce177c5316d30f0203aa765ca0dd6e0efceff2c9a81e3d694db95e6f&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Donald-Xi, amicizia con interessi. Senza un vero padrone</title>
+<link>https://www.ilgiornale.it/news/politica-estera/donald-xi-amicizia-con-interessi-senza-un-vero-padrone/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/donald-xi-amicizia-con-interessi-senza-un-vero-padrone/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>Giacomo Cozzaglio</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/YI7ALEEAO5BQLEVG5RUIAL2UII.jpg?focal=1534%2C346&amp;auth=d310ec2ac392eb0a716df1edf0eeae3acdd547dcbd1e01ee651046c9bd4044f5&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Trump dice no alla tregua e fa suo (sulla carta) Hormuz. L’Iran apre agli ispettori</title>
+<link>https://www.ilgiornale.it/news/politica-estera/trump-dice-no-alla-tregua-e-fa-suo-sulla-carta-hormuz-liran-apre-agli-ispettori/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-dice-no-alla-tregua-e-fa-suo-sulla-carta-hormuz-liran-apre-agli-ispettori/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>Chiara Clausi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/3RRA5BLQT5B7XIG6DLRYEAB3MY.jpg?focal=1967%2C814&amp;auth=d8d797a303b145824ca1fd3ea7fa3bddc62b777dbe2a725f60cda6623c9c3fed&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Leone a Parigi: “Non nascondete la fede”</title>
+<link>https://www.ilgiornale.it/news/politica/leone-a-parigi-non-nascondete-la-fede/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/politica/leone-a-parigi-non-nascondete-la-fede/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>E oggi a Lourdes Prevost incontra sette vittime di abusi In 800mila sugli Champs -Élysées per la Messa. Assente Macron. La sorpresa del Papa per il boom di battesimi agli adulti Serena Sartini</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TSV2XGFXHNAADMHSZ7RRM5IVUY.jpg?focal=3538%2C3395&amp;auth=87de6a5313147bbaf811c6d0c0df69e738ac3e2c78ea9c757012b49cb0644642&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>E oggi a Lourdes Prevost incontra sette vittime di abusi</title>
+<link>https://www.ilgiornale.it/news/vaticano/e-oggi-a-lourdes-prevost-incontra-sette-vittime-di-abusi/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/vaticano/e-oggi-a-lourdes-prevost-incontra-sette-vittime-di-abusi/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>Leone a Parigi: “Non nascondete la fede” E oggi a Lourdes Prevost incontra sette vittime di abusi In 800mila sugli Champs -Élysées per la Messa. Assente Macron. La sorpresa del Papa per il boom di battesimi agli adulti Serena Sartini</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/TSV2XGFXHNAADMHSZ7RRM5IVUY.jpg?focal=3538%2C3395&amp;auth=87de6a5313147bbaf811c6d0c0df69e738ac3e2c78ea9c757012b49cb0644642&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Garlasco, ultimo atto. Sempio incriminato ma restano i misteri su indagini e veleni</title>
+<link>https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-ultimo-atto-sempio-incriminato-ma-restano-i-misteri-su-indagini-e-veleni/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-ultimo-atto-sempio-incriminato-ma-restano-i-misteri-su-indagini-e-veleni/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>Domani la chiusura della seconda inchiesta sul delitto di Chiara Poggi e la richiesta del processo a carico del nuovo indagato Rita Cavallaro</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DTN7NQIJ75O43DOUGAYRIU3OL4.jpg?focal=1048%2C356&amp;auth=73fb720bce72ec12ff22b29ca377d27e8528924798389b9bd0602d03a79d117b&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
 <title>Bimbo di 5 anni investito a Torino, rintracciata e arrestata la conducente di 24enne: è la ex del padre</title>
@@ -746,62 +802,6 @@
 <pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
 <description>Intese commerciali (e scintille sull’Iran). Xi saluta Trump: “Ci vediamo presto” Il Dragone canta vittoria. E Taiwan teme per il futuro Patti su prodotti agricoli, dispositivi medici e beni di consumo. Resta escluso l’hi-tech: terre rare, chip e AI Gaia Cesare</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JZ7SRKFWFVDIJGTDXDIVLJEV4E.jpg?focal=1356%2C499&amp;auth=2c1decadddaeff6687a6c6215dac5e5da1a70492b0946c74d2fcf227fd348002&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Un cadavere a pezzi. La madre denuncia: il figlio confessa. Il mistero di Torino</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/un-cadavere-a-pezzi-la-madre-denuncia-il-figlio-confessa-il-mistero-di-torino/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/un-cadavere-a-pezzi-la-madre-denuncia-il-figlio-confessa-il-mistero-di-torino/</guid>
-<pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
-<description>Trovato un corpo nei sacchi in casa di una prof di Rieti. Con lei un trans e un amico del killer. Sequestrati due coltelli Stefano Vladovich</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/SN2EOT7HCBF2PDFG2UJF4MUVS4.jpg?focal=1162%2C519&amp;auth=81a39f1ecea1dd801266f65064a80175573195713a7a517da8c57659fe637d84&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Ponte sullo Stretto, il direttore tecnico lascia e passa all’Anas: “Nuovo incarico condiviso da tempo”</title>
-<link>https://www.ilgiornale.it/news/economia/ponte-sullo-stretto-il-direttore-tecnico-lascia-e-passa-allanas-nuovo-incarico-condiviso-da-tempo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/economia/ponte-sullo-stretto-il-direttore-tecnico-lascia-e-passa-allanas-nuovo-incarico-condiviso-da-tempo/</guid>
-<pubDate>Sat, 26 Sep 2026 09:54:34 +0000</pubDate>
-<description>Nei prossimi giorni ci sarà l’avvio dell’istruttoria presso il Cipess, con la quale si aprirà una nuova fase del progetto Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TMFGH6CXMVDRNIPIOCEPWLDZ5Y.jpg?smart=true&amp;auth=63e4c341ca1853d3301f39f7800da0e830368742b79704bd5859dab788fb26a5&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Nessuna resti nascosta”. Al via la campagna di FdI a tutela delle donne contro l’integralismo islamico</title>
-<link>https://www.ilgiornale.it/news/interni/nessuna-resti-nascosta-al-via-la-campagna-di-fdi-a-tutela-delle-donne-contro-lintegralismo-islamico/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/nessuna-resti-nascosta-al-via-la-campagna-di-fdi-a-tutela-delle-donne-contro-lintegralismo-islamico/</guid>
-<pubDate>Sat, 26 Sep 2026 09:08:44 +0000</pubDate>
-<description>Niqab fuori dalle scuole di Monfalcone. “L’islam radicale è già arrivato” Sono 20 le tappe nella prima fase, con inizio in Basilicata e termine a Milano. Al centro un pacchetto di proposte per l’integrazione e l’emancipazione femminile nel contesto islamico Alessandra Corradi L’imam tifa burqa: “Il velo non è una libera scelta ma un atto divino” Il 7 ottobre in piazza a Torino per celebrare un massacro: la chiamata dell’associazione di Hannoun</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TRQXR2GTARDDTB2HPKUF7IYWMI.png?smart=true&amp;auth=349a18102349b4a98239c5ff8a35112a6c3e1b20bb34018e206e59ee0102fc6e&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Multa per parcheggio sulle strisce blu: ecco quando il verbale è nullo e come dimostrarlo</title>
-<link>https://www.ilgiornale.it/news/cittadini/multa-per-parcheggio-sulle-strisce-blu-ecco-quando-il-verbale-e-nullo-e-come-dimostrarlo/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/multa-per-parcheggio-sulle-strisce-blu-ecco-quando-il-verbale-e-nullo-e-come-dimostrarlo/</guid>
-<pubDate>Sat, 26 Sep 2026 09:02:16 +0000</pubDate>
-<description>Esistono casi specifici in cui il verbale è nullo per legge: ecco quali prove raccogliere e i documenti indispensabili per vincere il ricorso Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/QILI33W4IFMJPM2RWOCGDMPRIY.jpg?smart=true&amp;auth=8617052c03c1cf669f177761cc966924e3b9fc495d7ca30e367f4b19d9fb3a34&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Oasis a Roma, allarme truffe sui biglietti: falsi codici, email contraffatte e siti clone</title>
-<link>https://www.ilgiornale.it/news/musica/oasis-a-roma-allarme-truffe-sui-biglietti-falsi-codici-email-contraffatte-e-siti-clone/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/musica/oasis-a-roma-allarme-truffe-sui-biglietti-falsi-codici-email-contraffatte-e-siti-clone/</guid>
-<pubDate>Sat, 26 Sep 2026 08:33:57 +0000</pubDate>
-<description>La Polizia di Stato mette in guardia i fan in vista della corsa ai posti: il codice di accesso non può essere acquistato ed è personale e non trasferibile Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3TSVELM7ZJERVBXUAZO6UJ2RTM.jpg?smart=true&amp;auth=e74413b1fd155c66ec72d080585d07812f135c3d3a37f5dc325efba3e566524b&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Nuova eruzione dell’Etna: cenere lavica costringe l’aeroporto di Catania a chiudere</title>
-<link>https://www.ilgiornale.it/news/cronaca-locale/nuova-eruzione-delletna-cenere-lavica-costringe-laeroporto-di-catania-a-chiudere/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-locale/nuova-eruzione-delletna-cenere-lavica-costringe-laeroporto-di-catania-a-chiudere/</guid>
-<pubDate>Sat, 26 Sep 2026 08:12:23 +0000</pubDate>
-<description>Una nube alta 4 km, spinta dai venti in direzione Sud, rende impossibile le operazioni di decollo e atterraggio: qual è la situazione nello scalo etneo Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/OMWVDTRXFFEQZLT6WVVF73XR64.jpg?smart=true&amp;auth=30f56aa8062cdaa95f425bced15019199687f9dc772c7512c687796fabde68bb&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Fuga selvaggia sulla E45: 15enne alla guida di un Suv sperona un’auto, poi lo scontro coi carabinieri</title>
-<link>https://www.ilgiornale.it/news/nazionale/fuga-selvaggia-sulla-e45-15enne-alla-guida-di-un-suv-sperona-unauto-poi-lo-scontro-coi-carabinieri/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/fuga-selvaggia-sulla-e45-15enne-alla-guida-di-un-suv-sperona-unauto-poi-lo-scontro-coi-carabinieri/</guid>
-<pubDate>Sat, 26 Sep 2026 08:03:39 +0000</pubDate>
-<description>Un giovanissimo pirata della strada ha cercato di seminare le forze dell’ordine a bordo di un mezzo rubato. Ecco che cosa è successo Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/WUFPJPJIWNASVPYFZNXNP2XDS4.jpg?smart=true&amp;auth=383648813c25704ff4ca61c7cfb944e5bcea4f4c063db6fb704ade8455f99c6b&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
