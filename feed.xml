@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 27 Sep 2026 10:48:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 10:58:59 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Papa a Lourdes: “Gli abusi sono una piaga, indispensabile riconoscere errori”</title>
+<link>https://www.ilgiornale.it/news/vaticano/il-papa-a-lourdes-gli-abusi-sono-una-piaga-indispensabile-riconoscere-errori/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/vaticano/il-papa-a-lourdes-gli-abusi-sono-una-piaga-indispensabile-riconoscere-errori/</guid>
+<pubDate>Sun, 27 Sep 2026 10:45:44 +0000</pubDate>
+<description>Omelia di Prevost al Santuario di Nostra Signora di Lourdes. E prima l’incontro coi vescovi francesi Nico Spuntoni</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QZBFF7HQXFD6VCGQSSZIW5IVVU.jpg?smart=true&amp;auth=bea9dd69debf8ab72d68a5e4c917f28ca63a54b57cc153232d6920c19d5335fb&amp;width=800&amp;height=600" medium="image" />
+</item>
 <item>
 <title>Il giudice di Ranucci salvò Conte e Speranza dall’inchiesta sul Covid</title>
 <link>https://www.ilgiornale.it/news/magistratura/il-giudice-di-ranucci-salvo-conte-e-speranza-dallinchiesta-sul-covid/</link>
@@ -793,14 +801,6 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/politica/intese-commerciali-e-scintille-sulliran-xi-saluta-trump-ci-vediamo-presto/</guid>
 <pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
 <description>Il Dragone canta vittoria. E Taiwan teme per il futuro Patti su prodotti agricoli, dispositivi medici e beni di consumo. Resta escluso l’hi-tech: terre rare, chip e AI Gaia Cesare</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/JZ7SRKFWFVDIJGTDXDIVLJEV4E.jpg?focal=1356%2C499&amp;auth=2c1decadddaeff6687a6c6215dac5e5da1a70492b0946c74d2fcf227fd348002&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Il Dragone canta vittoria. E Taiwan teme per il futuro</title>
-<link>https://www.ilgiornale.it/news/politica-estera/il-dragone-canta-vittoria-e-taiwan-teme-per-il-futuro/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/il-dragone-canta-vittoria-e-taiwan-teme-per-il-futuro/</guid>
-<pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
-<description>Intese commerciali (e scintille sull’Iran). Xi saluta Trump: “Ci vediamo presto” Il Dragone canta vittoria. E Taiwan teme per il futuro Patti su prodotti agricoli, dispositivi medici e beni di consumo. Resta escluso l’hi-tech: terre rare, chip e AI Gaia Cesare</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JZ7SRKFWFVDIJGTDXDIVLJEV4E.jpg?focal=1356%2C499&amp;auth=2c1decadddaeff6687a6c6215dac5e5da1a70492b0946c74d2fcf227fd348002&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
