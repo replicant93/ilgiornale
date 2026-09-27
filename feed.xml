@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 27 Sep 2026 03:58:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 05:21:49 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bisol1542, gli acquerelli di Valdobbiadene</title>
+<link>https://www.ilgiornale.it/news/retrogusto/bisol1542-gli-acquerelli-di-valdobbiadene/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/bisol1542-gli-acquerelli-di-valdobbiadene/</guid>
+<pubDate>Sun, 27 Sep 2026 05:00:00 +0000</pubDate>
+<description>Retrogusto Bisol1542, gli acquerelli di Valdobbiadene Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JLGQJHNNSJHFRJEMBAOC3VZI6M.jfif?smart=true&amp;auth=eaf966f2632c4a14803d49c29c9cab664806f88e7088e47c02670aa68558e294&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Tanto panico e un romano luce “fioca”</title>
 <link>https://www.ilgiornale.it/news/calcio/tanto-panico-e-un-romano-luce-fioca/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 11:17:42 +0000</pubDate>
 <description>L’imam tifa burqa: “Il velo non è una libera scelta ma un atto divino” Il 7 ottobre in piazza a Torino per celebrare un massacro: la chiamata dell’associazione di Hannoun Da Catania a Torino, le comunità musulmane contestano le mosse del governo. E l’imam attacca le donne Giulia Sorrentino “A Berlino Hamas ha trovato casa politica nella sinistra”. L’allarme dopo le elezioni L’ex ministro Pd Fioroni: “Stranieri, saggio il tetto”</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/IVQWTJVMS5MMFHYV2PSSYGTUR4.jpg?smart=true&amp;auth=6582f7c8666ac8c56bfcede66f3cc74e209f4322f886f96b54235783cb24d8db&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>L’imam tifa burqa: “Il velo non è una libera scelta ma un atto divino”</title>
-<link>https://www.ilgiornale.it/news/interni/lislam-infuriato-il-velo-non-e-una-libera-scelta-ma-un-atto-divino/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lislam-infuriato-il-velo-non-e-una-libera-scelta-ma-un-atto-divino/</guid>
-<pubDate>Fri, 25 Sep 2026 11:04:08 +0000</pubDate>
-<description>“Nessuna resti nascosta”. Al via la campagna di FdI a tutela delle donne contro l’integralismo islamico Niqab fuori dalle scuole di Monfalcone. “L’islam radicale è già arrivato” Sono 20 le tappe nella prima fase, con inizio in Basilicata e termine a Milano. Al centro un pacchetto di proposte per l’integrazione e l’emancipazione femminile nel contesto islamico Alessandra Corradi L’imam tifa burqa: “Il velo non è una libera scelta ma un atto divino” Il 7 ottobre in piazza a Torino per celebrare un massacro: la chiamata dell’associazione di Hannoun</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/TRQXR2GTARDDTB2HPKUF7IYWMI.png?smart=true&amp;auth=349a18102349b4a98239c5ff8a35112a6c3e1b20bb34018e206e59ee0102fc6e&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
