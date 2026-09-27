@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 27 Sep 2026 19:21:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 22:28:13 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Terrore a Reggio Emilia, 26enne di origini egiziane aggredisce una donna con un cacciavite e investe due persone</title>
+<link>https://www.ilgiornale.it/news/cronaca-nera/aggredisce-una-donna-con-un-cacciavite-e-ne-investe-volontariamente-altre-due-panico-in-un-distributore-di-reggio-emilia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/aggredisce-una-donna-con-un-cacciavite-e-ne-investe-volontariamente-altre-due-panico-in-un-distributore-di-reggio-emilia/</guid>
+<pubDate>Sun, 27 Sep 2026 20:48:41 +0000</pubDate>
+<description>L’episodio fa risprofondare l’Emilia nella paura dopo l’attentato a Modena di Salim El Koudri. Il giovane è stato arrestato dopo circa un’ora. Al vaglio le sue condizioni psicologiche Alessandra Corradi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QOYDIET5SZFMPB4ZOG43KZSB5Q.png?smart=true&amp;auth=2381d70cb38282c37de738a1319c57287ac695b34ef343ab99685c2d31a9d9fc&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Tre anni, 60 anni, 80 anni. Che confusione con il “genocidio”</title>
+<link>https://www.ilgiornale.it/news/attualita/tre-anni-60-anni-80-anni-che-confusione-con-il-genocidio/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/tre-anni-60-anni-80-anni-che-confusione-con-il-genocidio/</guid>
+<pubDate>Sun, 27 Sep 2026 20:37:22 +0000</pubDate>
+<description>“In piazza per i martiri di Gaza”. I pro pal e l’estrema sinistra universitaria organizzano il corteo per il 10 ottobre Tre anni, 60 anni, 80 anni. Che confusione con il “genocidio” Dalla Sapienza è arrivata la chiamata per la manifestazione a ridosso del 7 ottobre, terzo anniversario del pogrom di Hamas in Israele Francesca Galici , Giulia Sorrentino</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/XM4C6KJ4JZGXBKPDM5SCBT5ILM.jpeg?smart=true&amp;auth=8e68585522f700cb47849ab4c10fa628936d6996583bdf6ae3000ec427e46fde&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>Elezioni a Reggio Calabria, si vota oggi e domani: affluenza alle 19 il 10,26%</title>
 <link>https://www.ilgiornale.it/news/interni/elezioni-a-reggio-calabria-si-vota-oggi-e-domani-affluenza-alle-19-il-1026/</link>
@@ -784,22 +800,6 @@
 <pubDate>Sat, 26 Sep 2026 10:13:27 +0000</pubDate>
 <description>Rapite dall’Isis e Hamas: le testimoni della ferocia islamista La “sacerdotessa” pro Pal si rifiuta di rispondere alle domande sull’attentato del 16 maggio in città Parole gelide sulla strage: “Io non ho seguito la faccenda, non vivo in Italia, non seguo tutti i fatti di cronaca” Alessandro Gonzato</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/QYEXMP7KGZPTZC7MS2EPCR4DJI.jpg?focal=1022%2C456&amp;auth=b8b171b96bf1e9886a5d47c1fe869e958c33141d4a33c1127ed03cd36d74245e&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La pentola e il coperchio</title>
-<link>https://www.ilgiornale.it/news/interni/la-pentola-e-il-coperchio/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-pentola-e-il-coperchio/</guid>
-<pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
-<description>La pentola e il coperchio</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
-</item>
-<item>
-<title>Che tristezza questi matrimoni “social”</title>
-<link>https://www.ilgiornale.it/news/societa/che-tristezza-questi-matrimoni-social/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/societa/che-tristezza-questi-matrimoni-social/</guid>
-<pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
-<description>La stanza di Feltri Che tristezza questi matrimoni “social” Vittorio Feltri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/LR6TJ3AGCZOVXB252YNGOVQPL4.jpg?focal=189%2C79&amp;auth=d9ecc3baff0b9a2b2309122767d034c1364e076a601024ed4eb23c42ad52c26b&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
