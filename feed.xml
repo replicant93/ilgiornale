@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 27 Sep 2026 09:18:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 09:33:59 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tajani rivendica la vittoria sui carburanti: “Anche nel centrodestra si volevano tassare le imprese”</title>
+<link>https://www.ilgiornale.it/news/interni/tajani-rivendica-la-vittoria-sui-carburanti-anche-nel-centrodestra-si-volevano-tassare-le-imprese/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/tajani-rivendica-la-vittoria-sui-carburanti-anche-nel-centrodestra-si-volevano-tassare-le-imprese/</guid>
+<pubDate>Sun, 27 Sep 2026 09:22:31 +0000</pubDate>
+<description>Il leader di Forza Italia elogia la scelta di Eni sul tetto ai prezzi e avverte: “Tassando le imprese avremmo spaventato i mercati” Anna Maria Greco</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/S35NGHND2BDG3NOEJN53U3UE3E.jpg?smart=true&amp;auth=22277e0678c585c0edf45f38b07faec433af50567cdf0b4d2034b78eff84fd94&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>La marcia unionista lungo la via cattolica dopo 28 anni e la catena umana per fermarla: torna la tensione in Irlanda del Nord</title>
 <link>https://www.ilgiornale.it/news/politica-estera/la-marcia-unionista-lungo-la-via-cattolica-dopo-28-anni-e-la-catena-umana-per-fermarla-torna-la-tensione-in-irlanda-del-nord/</link>
@@ -794,14 +802,6 @@
 <pubDate>Fri, 25 Sep 2026 19:57:51 +0000</pubDate>
 <description>Prima dell’inizio della partita fischi di disapprovazione all’inno del Belgio hanno rovinato la serata degli omaggi dedicati a Sandro Mazzola e Franco Baresi Antonio Prisco</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/Y2QNTKUABJAERH3SWXIDIDD2AI.jfif?focal=932%2C767&amp;auth=92aa159e7081d8d59f3de215aad82c2bf7991d925f7aecc3052b1849c1034ad6&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Caso Garlasco, sentiti dai pm il generale Garofano e gli ex del Ris</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/caso-garlasco-sentiti-dai-pm-il-generale-garofano-e-gli-ex-del-ris/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/caso-garlasco-sentiti-dai-pm-il-generale-garofano-e-gli-ex-del-ris/</guid>
-<pubDate>Fri, 25 Sep 2026 19:14:18 +0000</pubDate>
-<description>Non è escluso che la Procura diretta da Fabio Napoleone abbia deciso di effettuare approfondimenti mirati sulle analisi scientifiche dell’epoca, visti i numerosi errori e le omissioni del fascicolo del 2007 Rita Cavallaro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/D6VMARP4WZPKVAB2GQRVMARSNU.jpg?focal=578%2C342&amp;auth=b05435193946e1a7ba3ffefb37ed151cac18a3378ae75030f3a5e6f505699b4e&amp;width=800&amp;height=533" medium="image" />
 </item>
 </channel>
 </rss>
