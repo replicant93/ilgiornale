@@ -5,8 +5,23 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 27 Sep 2026 09:59:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 10:18:05 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Spacciatori in décolleté</title>
+<link>https://www.ilgiornale.it/news/interni/spacciatori-in-decollete/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/spacciatori-in-decollete/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>Spacciatori in décolleté</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
+</item>
+<item>
+<title>Se Sala fa il sindaco non di tutti</title>
+<link>https://www.ilgiornale.it/news/interni/se-sala-fa-il-sindaco-non-di-tutti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/se-sala-fa-il-sindaco-non-di-tutti/</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+<description>commento Interni Se Sala fa il sindaco non di tutti Antonio Ruzzo</description>
+</item>
 <item>
 <title>Bimbo di 5 anni investito a Torino, rintracciata e arrestata la conducente di 24enne: è la ex del padre</title>
 <link>https://www.ilgiornale.it/news/cronaca-locale/bimbo-di-5-anni-investito-a-torino-rintracciata-e-arrestata-la-conducente-di-24enne-e-la-ex-del-padre/</link>
@@ -785,22 +800,6 @@
 <pubDate>Fri, 25 Sep 2026 21:25:01 +0000</pubDate>
 <description>L’agenzia conferma il rating Baa2 con outlook stabile e promuove la tenuta dei conti pubblici: quest’anno deficit al 3% e debito in calo. Resilienza agli shock e spinta dalle riforme per blindare il rientro del disavanzo Gian Maria De Francesco</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/KCOR4PVINNKTZMTWMPPIWWUZRQ.jpg?focal=308%2C231&amp;auth=6c40f763d4304cf869efcca4419eefd33d21b445f8a5980ad8b4afde6a981b39&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Noi facciamo le inchieste, i vannacciani bruciano i giornali. Così mandano al rogo anche la democrazia</title>
-<link>https://www.ilgiornale.it/news/interni/noi-facciamo-le-inchieste-i-vannacciani-bruciano-i-giornali-cosi-mandano-al-rogo-anche-la-democrazia/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/noi-facciamo-le-inchieste-i-vannacciani-bruciano-i-giornali-cosi-mandano-al-rogo-anche-la-democrazia/</guid>
-<pubDate>Fri, 25 Sep 2026 21:12:28 +0000</pubDate>
-<description>Nelle chat dei sostenitori del generale girano la locandina con i giornali dati alle fiamme e gli attacchi contro Libero e il Giornale. Un segnale che chi non sa spegnere le notizie tenta di spegnere chi le pubblica Lirio Abbate</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/EUG7KCW2V5HOHHPLHHP6T73JKY.jpg?smart=true&amp;auth=d343ecf63d6a2642a39d718ab95009afee25edc06a4749a53d04b603b8545306&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Inizia con una sconfitta il Mancini-bis: il Belgio supera 2-0 l’Italia all’Olimpico</title>
-<link>https://www.ilgiornale.it/news/calcio/inizia-con-una-sconfitta-il-mancini-bis-il-belgio-supera-2-0-litalia-allolimpico/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/inizia-con-una-sconfitta-il-mancini-bis-il-belgio-supera-2-0-litalia-allolimpico/</guid>
-<pubDate>Fri, 25 Sep 2026 20:53:17 +0000</pubDate>
-<description>Prova deludente della nuova Italia di Mancini, tornato sulla panchina azzurra dopo tre anni. Vince il Belgio con un gol per tempo di Godts e Lukebakio Antonio Prisco</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/R52V2FGBUND6ZKMPVWF3YKD4P4.jpg?focal=2144%2C729&amp;auth=c61222f1dba195ac635ec6c1e36efdf796e2ff94a089feffa8793ff776e8a27f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
