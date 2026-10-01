@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 30 Sep 2026 23:04:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 02:05:04 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Vittorio Sgarbi ricoverato al Gemelli in terapia intensiva</title>
@@ -549,6 +549,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2F2MRFFKMRU5KA3D3OGNC776N7SM.jpg?smart=true&amp;auth=0ec8eb76e1ea35381bdc1a81e0412978e469e7ce4b2c91ee8d4407c5d07200f0&amp;width=100&amp;height=100" medium="image" />
 </item>
 <item>
+<title>I sindacati a favore del ponte</title>
+<link>https://www.ilgiornale.it/news/giu-la-maschera/i-sindacati-a-favore-del-ponte/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/i-sindacati-a-favore-del-ponte/</guid>
+<pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+<description>Giù la maschera I sindacati a favore del ponte Luigi Mascheroni</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/HTW7H3RO3VAAZBYKPN7NOPAWN4.jpg?focal=1405%2C509&amp;auth=b1fb64fb102788312f93994916646f7b82e77b06f9eb40d1424c5fcf02dd1cbc&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
 <title>Sette cibi che fanno bene al cuore</title>
 <link>https://www.ilgiornale.it/news/dieta-e-alimentazione/sette-cibi-che-fanno-bene-al-cuore/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/dieta-e-alimentazione/sette-cibi-che-fanno-bene-al-cuore/</guid>
@@ -791,14 +799,6 @@
 <pubDate>Tue, 29 Sep 2026 15:20:56 +0000</pubDate>
 <description>Il giornalista è stato trovato senza vita nella sua abitazione in zona Maciachini. Il cordoglio di La Russa, Fontana, Giuli e Bignami Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/UEOGVSJQINBFBP7ZLQQEVP2AOA.jpeg?focal=635%2C216&amp;auth=6c0ac7df24e98d1faed3f2256ee1e7c135b1d8d1701eefcbadd6a75a4f5918ce&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Precipita un Tu-95: la Russia perde un altro “Bear”, sei morti</title>
-<link>https://www.ilgiornale.it/news/cronaca-internazionale/russia-precipita-un-tu-95-mosca-perde-un-altro-bear-sei-morti/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/russia-precipita-un-tu-95-mosca-perde-un-altro-bear-sei-morti/</guid>
-<pubDate>Tue, 29 Sep 2026 14:25:20 +0000</pubDate>
-<description>Mosca avverte la Nato: “Difenderemo Kaliningrad con l’intero arsenale”. Lavrov: “Europa conduce una guerra contro di noi” Precipita un Tu-95: la Russia perde un altro “Bear”, sei morti Il Papa: “Russia e Ucraina si parlino”. Il Paese invaso: “Intercettati più di 100 droni e tre missili balistici” Redazione web DIRETTA</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/BUFZHCW7CJFLBM3QWZVEWMAO4Y.jpg?smart=true&amp;auth=164bbd5eee02134d4afbb1be8b69df13e366a3d62e06b0e4c22ce5a3750fcb14&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
