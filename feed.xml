@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 03 Oct 2026 21:45:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 05:49:17 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Ucraina, il rapporto choc dell’Onu: “Nel 2026 uccisi o feriti 15mila civili”</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/ucraina-il-rapporto-choc-dellonu-nel-2026-uccisi-o-feriti-15mila-civili/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/ucraina-il-rapporto-choc-dellonu-nel-2026-uccisi-o-feriti-15mila-civili/</guid>
+<pubDate>Sun, 04 Oct 2026 05:29:49 +0000</pubDate>
+<description>“La Russia vuole destabilizzare l’Ue. Il piano di Putin: influenzare le urne” Volker Turk, Alto Commissario per i Diritti umani ha rilevato che gli attacchi russi stanno provocando un numero crescente di vittime civili. Ha parlato di livelli "scioccanti" di violenza sessuale contro civili e prigionieri di guerra Redazione web</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FMRUS3VKXVD7FNLUKCYU27RCG4.jpg?smart=true&amp;auth=b9111125493124c7a8ad2608513b3dbbf4819fb9284db5bcd8299fe459cb4ea4&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Lucente, la chiave d’ingresso a Tenuta Luce</title>
+<link>https://www.ilgiornale.it/news/retrogusto/lucente-la-chiave-dingresso-a-tenuta-luce/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/lucente-la-chiave-dingresso-a-tenuta-luce/</guid>
+<pubDate>Sun, 04 Oct 2026 05:00:00 +0000</pubDate>
+<description>Retrogusto Lucente, la chiave d’ingresso a Tenuta Luce Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/STFHLBZ5ONFY5EST5LDERF3XFU.jfif?smart=true&amp;auth=0b70e61581d1a38d698e4c7e457e1042b832a11e42b1b50292b635e94d6d0f7e&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Albanese scende in campo contro il ddl Antisemitismo: “Le forze progressiste votino no”</title>
 <link>https://www.ilgiornale.it/news/interni/albanese-scende-in-campo-contro-il-ddl-antisemitismo-le-forze-progressiste-votino-no/</link>
@@ -786,22 +802,6 @@
 <pubDate>Fri, 02 Oct 2026 14:16:31 +0000</pubDate>
 <description>A Porto Vecchio è stata portata una bara coi nomi dei responsabili davanti alla gendarmeria: “La Corsica ha un’anima e un rispetto per il sacro che non permetteremo a nessuno di sgretolare” Francesca Galici</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/VOOLZXY4OFFHFPIS2BEJMXXDEA.png?smart=true&amp;auth=95c4718615008537e9a9a511f97d0eaecbe9d79f8c58550b54bf0a682e1729cc&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Roberto Vecchioni torna dal vivo, poi l’annuncio: “Per altri mesi non potrò cantare”</title>
-<link>https://www.ilgiornale.it/news/personaggi/roberto-vecchioni-torna-dal-vivo-poi-lannuncio-per-altri-mesi-non-potro-cantare/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/roberto-vecchioni-torna-dal-vivo-poi-lannuncio-per-altri-mesi-non-potro-cantare/</guid>
-<pubDate>Fri, 02 Oct 2026 14:14:08 +0000</pubDate>
-<description>Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/UZPB2NDODBKNJOO2FXPLVBNYBY.jpg?focal=2686%2C666&amp;auth=1a62d01d9b4045900bb1d4730663f3cbd6a9b38afe9c9cf4997bd5834ccd1dc0&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Raf, nuovo intervento alla faringe: posticipato il tour al 2027</title>
-<link>https://www.ilgiornale.it/news/personaggi/raf-nuovo-intervento-alla-faringe-posticipato-il-tour-al-2027/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/personaggi/raf-nuovo-intervento-alla-faringe-posticipato-il-tour-al-2027/</guid>
-<pubDate>Fri, 02 Oct 2026 12:46:02 +0000</pubDate>
-<description>Novella Toloni</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/3H5KHB234ZMRTEM55L34DXRMFA.jpg?smart=true&amp;auth=7640dde868d04a32db547af2680bd3a7b71a185f49fa256ffedfa8b27fa4851f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
