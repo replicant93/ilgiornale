@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 14 Oct 2026 21:00:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 23:52:23 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Garlasco, Garofano torna in tv e replica alle polemiche: “Penso di aver sbagliato qualcosa? Assolutamente no”</title>
@@ -636,6 +636,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/DVWXJNAODBB5PBX72B6DID374A.jfif?focal=895%2C829&amp;auth=37e846cae079425f6e9924c5733c0998b9b77b611fe3891858599db262c7ae87&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
+<title>Essere vignaioli, per sé e per gli altri</title>
+<link>https://www.ilgiornale.it/news/retrogusto/essere-vignaioli-per-se-e-per-gli-altri/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/essere-vignaioli-per-se-e-per-gli-altri/</guid>
+<pubDate>Wed, 14 Oct 2026 04:00:00 +0000</pubDate>
+<description>Retrogusto Essere vignaioli, per sé e per gli altri Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/QOPAYLKJO5AWLICVYYAIZGNF2A.jfif?smart=true&amp;auth=8866fd5bccce1adba6df8787bb331945d76b4b580945a66ecfb420edf5a59f9f&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
 <title>Il Napoli si illude poi cade 3-1 a Villareal: seconda sconfitta per gli azzurri in Champions</title>
 <link>https://www.ilgiornale.it/news/calcio/il-napoli-si-illude-poi-cade-3-1-a-villareal-seconda-sconfitta-per-gli-azzurri-in-champions/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-napoli-si-illude-poi-cade-3-1-a-villareal-seconda-sconfitta-per-gli-azzurri-in-champions/</guid>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 13 Oct 2026 15:13:14 +0000</pubDate>
 <description>DIRETTA Raid russi sull’Ucraina, Zelensky: “I partner non ci hanno avvisato degli attacchi di stanotte su Kiev” I segreti del missile Kinzhal: cosa sappiamo dell’arma di Putin Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/ZM7CBZ4LPZESLIIJY6IIM3DEEQ.jpg?focal=5077%2C3885&amp;auth=b79f950939d0477294b15ebf39706512c4dc42a836427c96080e9f03ccfee138&amp;width=800&amp;height=533" medium="image" />
-</item>
-<item>
-<title>Ex bonus Renzi, fino a 1.200 euro recuperabili: cosa fare ed entro quando agire per non perderli</title>
-<link>https://www.ilgiornale.it/news/cittadini/ex-bonus-renzi-fino-a-1200-euro-recuperabili-cosa-fare-ed-entro-quando-agire-per-non-perderli/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cittadini/ex-bonus-renzi-fino-a-1200-euro-recuperabili-cosa-fare-ed-entro-quando-agire-per-non-perderli/</guid>
-<pubDate>Tue, 13 Oct 2026 15:09:07 +0000</pubDate>
-<description>Federico Garau</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CXD4RHXHONN7VH67WYD4KVLSQ4.jpg?smart=true&amp;auth=7cdcf8e9a20b6327b18bdaae274c6cd002656c61af7ee5c1c86d737edcaeba84&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
