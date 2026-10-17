@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 17 Oct 2026 00:25:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 04:50:57 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Chiude Miro, l’Osteria del Cinema</title>
+<link>https://www.ilgiornale.it/news/retrogusto/chiude-miro-losteria-del-cinema/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/chiude-miro-losteria-del-cinema/</guid>
+<pubDate>Sat, 17 Oct 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Chiude Miro, l’Osteria del Cinema Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/FEICBV4EKJCSFOHT6BBKSDOKTM.jpg?smart=true&amp;auth=69cc5ccb43eca53703ba7efb6842859ca6ee431e2abce2a9c4d9764460939fd1&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Rating, Dbrs conferma l’Italia ad A (low) con prospettive stabili</title>
 <link>https://www.ilgiornale.it/news/politica-economica/rating-dbrs-conferma-litalia-ad-a-low-con-prospettive-stabili/</link>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 15 Oct 2026 18:07:59 +0000</pubDate>
 <description>La vigilanza di Francoforte ha autorizzato gli italiani ad andare oltre il 30% del gruppo tedesco. Si tratta di un passaggio cruciale nella scalata della banca tedesca Marcello Astorri</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/JRUTE5A5XZDCFFM4UESYPK4J7U.jpg?smart=true&amp;auth=c134ad2a14675913a9951e9a6bd07cced2da9ccbc63d643dd90d7ed1a083bfcd&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>Trump ci ripensa, niente fucilazione in diretta per il killer di Fort Hood: ecco chi potrà assistere</title>
-<link>https://www.ilgiornale.it/news/politica-estera/trump-ci-ripensa-niente-fucilazione-in-diretta-per-il-killer-di-fort-hood-ecco-chi-potra-assistere/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/politica-estera/trump-ci-ripensa-niente-fucilazione-in-diretta-per-il-killer-di-fort-hood-ecco-chi-potra-assistere/</guid>
-<pubDate>Thu, 15 Oct 2026 17:30:14 +0000</pubDate>
-<description>Dopo la valanga di critiche, il presidente Usa rinuncia allo streaming dell’esecuzione di Nidal Hasan. I familiari delle 13 vittime potranno assistere di persona Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/CQSR5DX7TVDZPJB4WOJHUCDQCI.jpg?smart=true&amp;auth=d4ee4e993422c1d138cbcd489bb674f023d42749e8eb50c4e09486b107b9f9b7&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
