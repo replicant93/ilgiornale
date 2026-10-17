@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 16 Oct 2026 22:03:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:25:15 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Rating, Dbrs conferma l’Italia ad A (low) con prospettive stabili</title>
@@ -54,6 +54,14 @@
 <pubDate>Fri, 16 Oct 2026 18:48:30 +0000</pubDate>
 <description>“Vergogna”, “Fuori”. L’Anpi contestata al quartiere ebraico di Roma I partigiani Fiap: “All’Anpi è mancata chiarezza e sensibilità” La delegazione dell’associazione partigiana, accusata di compiacenza verso l’ostilità pro Pal, costretta a lasciare la commemorazione del rastrellamento del “ghetto”. Il presidente della Comunità Fadlun: “Siamo rimasti feriti. L’associazione torni al suo ruolo, che è la memoria e non la politica” Alberto Giannoni</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/7J4GPA5XWVGPHMUECXEBUMJ7V4.png?smart=true&amp;auth=2e4bae3a3dfdf62cb73a6d99b8eec02f2c1b0c28f49970be7381ac49c8905427&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Politica internazionale</title>
+<link>https://www.ilgiornale.it/politica/politica-internazionale</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/politica/politica-internazionale</guid>
+<pubDate>Fri, 16 Oct 2026 18:31:01 +0000</pubDate>
+<description>Lucianina, Pedro e Elly: ridono anche a sinistra. "Il triangolo no" Tommaso Cerno</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fd1etan7144q81b.cloudfront.net%2F10-14-2026%2Ft_bd645e2a815641eaa179f3701e66a0eb_name_Cerno_Sanchez_scaled.jpg?smart=true&amp;auth=24082582a56bb9a2876f9551e136116b94e0269173c908ae0ca4f908bdbef885&amp;width=1920&amp;height=1080" medium="image" />
 </item>
 <item>
 <title>Cesare Battisti non potrà vedere il figlio fuori dal carcere. Il tribunale: “Motivi familiari non sufficienti”</title>
@@ -793,14 +801,6 @@
 <pubDate>Thu, 15 Oct 2026 17:30:14 +0000</pubDate>
 <description>Dopo la valanga di critiche, il presidente Usa rinuncia allo streaming dell’esecuzione di Nidal Hasan. I familiari delle 13 vittime potranno assistere di persona Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/CQSR5DX7TVDZPJB4WOJHUCDQCI.jpg?smart=true&amp;auth=d4ee4e993422c1d138cbcd489bb674f023d42749e8eb50c4e09486b107b9f9b7&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Studentessa in Erasmus violentata a Milano: “Immobilizzata da due uomini”</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/studentessa-in-erasmus-violentata-a-milano-immobilizzata-da-due-uomini/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/studentessa-in-erasmus-violentata-a-milano-immobilizzata-da-due-uomini/</guid>
-<pubDate>Thu, 15 Oct 2026 17:24:33 +0000</pubDate>
-<description>È successo giovedì mattina all’alba in via Crespi, nei pressi del Parco Trotter. Si analizzano i filmati delle videocamere Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/AUNEM5COTJF5LNGLGYPZ2TI57Q.jpg?smart=true&amp;auth=1ce2ede3a35d112a79602c127b97aed6dc5600d31e78fd10fc6497301de0752d&amp;width=800&amp;height=290" medium="image" />
 </item>
 </channel>
 </rss>
