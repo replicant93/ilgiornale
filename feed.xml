@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 19 Oct 2026 23:52:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 03:50:03 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Lotta partigiana ed estremismo anni Settanta: ecco il volto oscuro di “Italia in Piazza”</title>
@@ -372,6 +372,14 @@
 <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
 <description>commento Attualità Chi condanna le violenze (e chi fa finta) Hoara Borselli</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FUCW7WQKGCNITPJXYAJX44653RE.png?smart=true&amp;auth=21cd9cfac7d336fc5ef6f4a8b15e10ada3cdbf29fd1ea91acd39cd76fe7e0fa8&amp;width=100&amp;height=100" medium="image" />
+</item>
+<item>
+<title>A Milano non basta il pugno duro: ne servono due</title>
+<link>https://www.ilgiornale.it/news/attualita/a-milano-non-basta-il-pugno-duro-ne-servono-due/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/a-milano-non-basta-il-pugno-duro-ne-servono-due/</guid>
+<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+<description>commento Attualità A Milano non basta il pugno duro: ne servono due Vittorio Feltri</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FOHE6KNO7Q5JX7LKRZKFQUKW6KE.jpg?smart=true&amp;auth=bb0fa3e9a72b4dfd5068608ba8009649f50d7fba509cbbb03108f038b40a16ce&amp;width=100&amp;height=100" medium="image" />
 </item>
 <item>
 <title>“Il male è dentro di noi. E ne abbiamo bisogno”. Kader Abdolah racconta la rivoluzione di Zarathustra</title>
@@ -794,14 +802,6 @@
 <pubDate>Sun, 18 Oct 2026 11:44:54 +0000</pubDate>
 <description>Lodovica Bulian</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YWCH462I4ZCUHJWNSTFKKRHOVQ.jpg?focal=2060%2C1208&amp;auth=6f3dd0f3f900f20bfcbcdaa6efd3751773cfba3ad4fe6c0a6a8bad91721a720f&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>“Copia le tattiche dell’Iran”: così Putin ha portato il conflitto nelle acque della Nato</title>
-<link>https://www.ilgiornale.it/news/guerra/copia-le-tattiche-delliran-cosi-putin-ha-portato-il-conflitto-nelle-acque-della-nato/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/copia-le-tattiche-delliran-cosi-putin-ha-portato-il-conflitto-nelle-acque-della-nato/</guid>
-<pubDate>Sun, 18 Oct 2026 11:26:09 +0000</pubDate>
-<description>Drone nello spazio aereo lituano: caccia italiani in volo. Trump sfida Kiev e Bruxelles: “Stop alle sanzioni alla Russia un’ottima decisione” Da Trump un assist per Putin. Sanzioni congelate, ira Zelensky Il presidente Usa sospende per 60 giorni le nuove sanzioni alla Russia e valuta il ritorno del gas russo in Europa. Nella notte Mosca attacca Kiev con 180 droni Redazione web Oleshky, dramma senza fine. Lo Zar prepara il “cuscinetto” “Copia le tattiche dell’Iran”: così Putin ha portato il conflitto nelle acque della Nato DIRETTA</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FVJQFLTTY5BAZFCEHVF7D6VKAU.jpg?smart=true&amp;auth=819bef8d9d52653df3fa892a2df3d232a17739fb1f692a3a42d149224f0590de&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
