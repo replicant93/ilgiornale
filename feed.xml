@@ -5,8 +5,23 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 20 Oct 2026 21:48:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 04:59:41 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>L’urgenza di stare dalla parte civile</title>
+<link>https://www.ilgiornale.it/news/interni/lurgenza-di-stare-dalla-parte-civile/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/lurgenza-di-stare-dalla-parte-civile/</guid>
+<pubDate>Wed, 21 Oct 2026 04:14:46 +0000</pubDate>
+<description>commento Interni L’urgenza di stare dalla parte civile Antonio Ruzzo</description>
+</item>
+<item>
+<title>Ecco i cinquanta birrifici artigianali migliori d’Italia</title>
+<link>https://www.ilgiornale.it/news/retrogusto/ecco-i-cinquanta-birrifici-artigianali-migliori-ditalia/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/ecco-i-cinquanta-birrifici-artigianali-migliori-ditalia/</guid>
+<pubDate>Wed, 21 Oct 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Ecco i cinquanta birrifici artigianali migliori d’Italia Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/OTFPTSIVGNFNBFAVBDYKA647PA.jpg?focal=3383%2C1567&amp;auth=49d9eede4af778fb17e0ad6b7fd86d79e78940f9369594b34c41702d949d6329&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Roma a valanga, lo Slovan Bratislava viene demolito con un nettissimo 4-0</title>
 <link>https://www.ilgiornale.it/news/calcio/roma-a-valanga-lo-slovan-bratislava-viene-demolito-con-un-nettissimo-4-0/</link>
@@ -784,22 +799,6 @@
 <pubDate>Mon, 19 Oct 2026 14:39:07 +0000</pubDate>
 <description>Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/EJ5MHGOI4BDWLEEJHNOTMYMVFI.jpg?focal=1541%2C878&amp;auth=a57d0bc870b13dd385272011d591474b05c1d90ec1a513603ae1ee0e48f0dede&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Salis, Greta, la Albanese: ecco il “partito Mélenchon”. Tremano Bonelli e Fratoianni</title>
-<link>https://www.ilgiornale.it/news/interni/salis-greta-la-albanese-ecco-il-partito-melenchon-tremano-bonelli-e-fratoianni/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/salis-greta-la-albanese-ecco-il-partito-melenchon-tremano-bonelli-e-fratoianni/</guid>
-<pubDate>Mon, 19 Oct 2026 14:13:29 +0000</pubDate>
-<description>Il ritorno del papà di Ilaria e le manovre per prendersi Avs La sinistra antagonista ha trovato nell’europarlamentare Avs la nuova leader. Lei sventola i vessilli dei partigiani pro-Tito e plaude ai pasdaran della protesta Alessandro Gonzato</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/RKNWDP24VZCYTAQIILGUSKST3E.jpg?focal=1311%2C474&amp;auth=26c2aa81b144b86b2d6f456f0efbb9faa163c8af797df90e09973bb9480410cd&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Antonio Villani morto sulla E45 mentre scortava i tifosi. Meloni: “Cordoglio del governo”</title>
-<link>https://www.ilgiornale.it/news/cronaca-nera/antonio-villani-lultima-trasferta-per-scortare-i-tifosi-chi-era-lispettore-della-digos-morto-investito-sulla-e45/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-nera/antonio-villani-lultima-trasferta-per-scortare-i-tifosi-chi-era-lispettore-della-digos-morto-investito-sulla-e45/</guid>
-<pubDate>Mon, 19 Oct 2026 14:00:09 +0000</pubDate>
-<description>Originario dell’Irpinia, aveva 54 anni, una moglie e due figlie. Prima di entrare alla Digos di Avellino aveva prestato servizio a Sant’Angelo dei Lombardi. Il ricordo dei colleghi e il cordoglio delle istituzioni Roberta Damiata</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/7QVDRCIUBZBD3D77RK4BFOVDC4.jpg?focal=1243%2C1715&amp;auth=2c8546c3da507bab283f6147834bbfb300bd46dea827c3d9c64e44a3ab276b87&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
