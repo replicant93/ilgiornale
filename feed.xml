@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 21 Oct 2026 22:36:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 05:49:09 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Uliassi esce dalla top 50 dei ristoranti del mondo</title>
+<link>https://www.ilgiornale.it/news/retrogusto/uliassi-esce-dalla-top-50-dei-ristoranti-del-mondo/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/uliassi-esce-dalla-top-50-dei-ristoranti-del-mondo/</guid>
+<pubDate>Thu, 22 Oct 2026 04:00:01 +0000</pubDate>
+<description>Retrogusto Uliassi esce dalla top 50 dei ristoranti del mondo Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/55SM6ADSFVFWRCUFIBU66L5ESQ.jpeg?focal=636%2C280&amp;auth=fb1d576990ede17f310245913db065a57304a8ff9328a027a97dff0c74f4450d&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Meta, nuova stangata da 25 miliardi: guai per Zuckerberg sulla privacy</title>
 <link>https://www.ilgiornale.it/news/cronaca-internazionale/meta-nuova-stangata-da-25-miliardi-guai-per-zuckerberg-sulla-privacy/</link>
@@ -793,14 +801,6 @@
 <pubDate>Tue, 20 Oct 2026 17:28:35 +0000</pubDate>
 <description>Caso Shalabayeva, la sentenza slitta a giovedì. Il pg della Cassazione chiede un nuovo appello per i poliziotti Il sequestro inesistente e un processo di 13 anni- L'analisi di Abbate I Supremi giudici hanno comunicato che la lettura del dispositivo si terrà il prossimo 22 ottobre alle ore 15 Redazione web</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/KJBALKIKK5IS3PFOQ4U3CLBF6E.jpg?smart=true&amp;auth=be910a5546a367bbe6b0f6bca7e4f93dea0297178fd3b3c7cf018d8c69e305cd&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Finte liste di stupri e minacce di devastazioni in chat: sul web si cerca di alzare la tensione</title>
-<link>https://www.ilgiornale.it/news/nazionale/finte-liste-di-stupri-e-minacce-di-devastazioni-in-chat-sul-web-si-cerca-di-alzare-la-tensione/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/finte-liste-di-stupri-e-minacce-di-devastazioni-in-chat-sul-web-si-cerca-di-alzare-la-tensione/</guid>
-<pubDate>Tue, 20 Oct 2026 17:25:14 +0000</pubDate>
-<description>Alessandra Corradi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/A7GED7AR3FCNFBUO4IJDJGKQWU.png?focal=1017%2C646&amp;auth=fd523350fa19a8c2db9c3d7c49e75ede7ff09388fcba8be161d98f0674555a0f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
