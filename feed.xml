@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 25 Oct 2026 22:21:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 00:34:58 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Brasile, urne chiuse nel caos. Lula e Bolsonaro si contendono la presidenza, attesa per i primi risultati</title>
@@ -62,6 +62,14 @@
 <pubDate>Sun, 25 Oct 2026 20:09:12 +0000</pubDate>
 <description>LUIZ INÁCIO LULA DA SILVA L’ultima battaglia dell’operaio diventato presidente del Brasile Francesca Salvatore</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/W4ASYUON2REV5PUAGI75HUADWU.jpg?focal=1822%2C469&amp;auth=fe728d15e77a85c4a2c2401484e49a0dba3f84576a4b58751992c78e957b4109&amp;width=800&amp;height=600" medium="image" />
+</item>
+<item>
+<title>Savini contro i “giornalisti servi”. E scoppia la polemica con Corriere e Repubblica</title>
+<link>https://www.ilgiornale.it/news/interni/savini-contro-i-giornalisti-servi-e-scoppia-la-polemica-con-corriere-e-repubblica/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/savini-contro-i-giornalisti-servi-e-scoppia-la-polemica-con-corriere-e-repubblica/</guid>
+<pubDate>Sun, 25 Oct 2026 20:02:32 +0000</pubDate>
+<description>Lega, Salvini confermato segretario. La frecciata ai dissidenti: “Invitare a boicottare Pontida è tradimento del leghismo”. E promette: “Basta soldi a Kiev” Via “Salvini premier”, arriva “Italia federale”. Ecco il nuovo simbolo della Lega Dal congresso della Lega a Milano, al voto. Il vicepremier dichiara di non voler più mandare i soldi degli italiani a Kiev e parla delle ombre dietro la corruzione del governo Zelensky Giulia Bernardini Savini contro i “giornalisti servi”. E scoppia la polemica con Corriere e Repubblica</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JJPP2R7QM5D5ZINHZZQQQAK32A.jpg?smart=true&amp;auth=16f30de1287cc49bf3f91368d7297670e614cf7d15e25b4ab8fffd2ae19b67db&amp;width=800&amp;height=290" medium="image" />
 </item>
 <item>
 <title>Indagata anche la moglie Sagia Hammoud</title>
@@ -796,14 +804,6 @@
 <pubDate>Sat, 24 Oct 2026 08:17:06 +0000</pubDate>
 <description>L'Udu lo attacca ma fa una figuraccia sui numeri delle borse di studio Digitando il nome utente @BrunoVespa non si arriva a nessuna pagina. Qualche giorno fa le polemiche sulla puntata di Porta a Porta con una rappresentante di Unione degli Universitari Federico Garau</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YZUXGZR6NJMXXI5Y5PMOGYF2M4.jpg?smart=true&amp;auth=1537c747452f5b923eaf4a04c8eff1e616f086e0c89ec76eada939de1230bf80&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>La mappa delle piazze più calde</title>
-<link>https://www.ilgiornale.it/gallery/nazionale/la-mappa/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/gallery/nazionale/la-mappa/</guid>
-<pubDate>Sat, 24 Oct 2026 08:10:57 +0000</pubDate>
-<description>DIRETTA Manifestazioni in Italia, piazze blindate. A Roma oltre 50 giovani identificati, 20 portati in Questura: si valuta il fermo preventivo La mappa delle piazze più calde Gli aggiornamenti da tutta Italia. Oggi perquisizioni in venti città per evitare nuovi scontri dopo i disordini dello scorso fine settimana Redazione web</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/V6M6K77NBJHL7CBQNM6CEVPSDQ.jpg?smart=true&amp;auth=767d46e8734446056f1ea55903aa257272869be59c608da43976b748094e4f4f&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
