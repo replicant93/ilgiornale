@@ -5,8 +5,24 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sun, 01 Nov 2026 00:48:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 06:55:12 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>F1, impresa di Hamilton in Messico. A lui la pole position, Antonelli quarto</title>
+<link>https://www.ilgiornale.it/news/motori/f1-impresa-di-hamilton-in-messico-a-lui-la-pole-position-antonelli-quarto/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/motori/f1-impresa-di-hamilton-in-messico-a-lui-la-pole-position-antonelli-quarto/</guid>
+<pubDate>Sun, 01 Nov 2026 06:36:17 +0000</pubDate>
+<description>Luca Bocci</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/JY3DAPJKVRE3VJZBJZI77GRBEI.jpg?focal=914%2C1029&amp;auth=91049f2d17ef2cfc94be9cffa31bffc11ce617bd16a41c5fd237626eaa169595&amp;width=800&amp;height=450" medium="image" />
+</item>
+<item>
+<title>Famiglia Casadei, tre vini per le prossime feste</title>
+<link>https://www.ilgiornale.it/news/retrogusto/famiglia-casadei-tre-vini-per-le-prossime-feste/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/retrogusto/famiglia-casadei-tre-vini-per-le-prossime-feste/</guid>
+<pubDate>Sun, 01 Nov 2026 05:00:01 +0000</pubDate>
+<description>Retrogusto Famiglia Casadei, tre vini per le prossime feste Andrea Cuomo</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/4LNH5CW5RNFLNE5XJUKUGMNUBY.jpg?smart=true&amp;auth=f450a6250a79ed73d35de3771c4af9c0a1cb4bc1b574e5aa0f9d4a8c727e82f4&amp;width=800&amp;height=533" medium="image" />
+</item>
 <item>
 <title>Il Milan stende l’Inter 3-1 e conquista il Derby: Amorim dà una lezione a Chivu</title>
 <link>https://www.ilgiornale.it/news/calcio/il-milan-stende-linter-3-1-e-conquista-il-derby-amorim-da-una-lezione-a-chivu/</link>
@@ -782,21 +798,6 @@
 <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
 <description>DIRETTA Cortei in più di 50 città italiane, scontri e tensione con almeno 10 poliziotti feriti. A Napoli brucia la foto di Meloni. Salis e Albanese in prima fila A Milano 30mila persone invadono la Tangenziale Per il momento tre manifestanti e 10 poliziotti sarebbero rimasti feriti negli scontri, il dato non è ancora preciso e si attendono nuovi aggiornamenti. A Milano in 30mila sulla Tangenziale Est esplodono petardi, a Livorno la protesta “Meloni a testa in giù”. A Torino le cariche in Piazza Castello Giulia Bernardini Ecco con chi prendersela se oggi la protesta blocca le città</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/BNQ2IYNML5CIFM3QRL4XAZCL6E.jpeg?focal=503%2C446&amp;auth=0b343b7f007ab63a8245111c48f757f652244ba691f8761102a52b0d3e232a9d&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Eroi morti per la pace</title>
-<link>https://www.ilgiornale.it/news/nazionale/eroi-morti-per-la-pace/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/eroi-morti-per-la-pace/</guid>
-<pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
-<description>commento Nazionale Eroi morti per la pace Lirio Abbate</description>
-</item>
-<item>
-<title>Il Chinook, camion dei cieli dell’Eufor a guida tricolore</title>
-<link>https://www.ilgiornale.it/news/nazionale/il-chinook-camion-dei-cieli-delleufor-a-guida-tricolore/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-chinook-camion-dei-cieli-delleufor-a-guida-tricolore/</guid>
-<pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
-<description>Matteo Sacchi</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FRTTV7MBGVD5NNVYQGTHALVCXE.jpg?smart=true&amp;auth=8acff931512cfaf4c9107179afca511ccb9135b324ea413d3f864937724bc152&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
