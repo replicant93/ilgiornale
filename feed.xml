@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 31 Oct 2026 21:56:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 00:48:28 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Il Milan stende l’Inter 3-1 e conquista il Derby: Amorim dà una lezione a Chivu</title>
+<link>https://www.ilgiornale.it/news/calcio/il-milan-stende-linter-3-1-e-conquista-il-derby-amorim-da-una-lezione-a-chivu/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/calcio/il-milan-stende-linter-3-1-e-conquista-il-derby-amorim-da-una-lezione-a-chivu/</guid>
+<pubDate>Sat, 31 Oct 2026 21:57:54 +0000</pubDate>
+<description>Succede tutto nel primo tempo. Grande inizio dei rossoneri avanti con i gol di Pulisic e Rabiot. L’Inter accorcia le distanze con Bastoni poi Moreira fissa il risultato sul 3-1 Antonio Prisco</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/PBCCCJT565AA7FGTTJSB74Y36Q.jpg?smart=true&amp;auth=b4562d5ae7935698afa600f87e7b26cd6dd42ffecb3c75fb2f755e1cf16866a6&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>La Roma schianta 5-2 l’Udinese e si avvicina a Inter e Lazio</title>
 <link>https://www.ilgiornale.it/news/calcio/la-roma-schianta-5-2-ludinese-e-si-avvicina-a-inter-e-lazio/</link>
@@ -789,14 +797,6 @@
 <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
 <description>Matteo Sacchi</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/FRTTV7MBGVD5NNVYQGTHALVCXE.jpg?smart=true&amp;auth=8acff931512cfaf4c9107179afca511ccb9135b324ea413d3f864937724bc152&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>Ecco i “trucchi” della toga per scagionare l’ultrà</title>
-<link>https://www.ilgiornale.it/news/magistratura/ecco-i-trucchi-della-toga-per-scagionare-lultra/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/magistratura/ecco-i-trucchi-della-toga-per-scagionare-lultra/</guid>
-<pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
-<description>Filippo Facci</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/FITDS6LGQVGWBMSVFSLQJC3VMU.jpg?focal=1063%2C786&amp;auth=c7e3e98410e47adabfff52b85fce031cdc391d627f2092c703b2263d7d6bdd5a&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
