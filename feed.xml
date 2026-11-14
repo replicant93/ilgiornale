@@ -5,8 +5,16 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Sat, 14 Nov 2026 19:54:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 23:42:05 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Attacco hacker alle Poste francesi: rubati i dati di 22milioni di utenti</title>
+<link>https://www.ilgiornale.it/news/cronaca-internazionale/attaccate-le-poste-francesi-rubati-i-dati-di-22milioni-di-utenti/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/cronaca-internazionale/attaccate-le-poste-francesi-rubati-i-dati-di-22milioni-di-utenti/</guid>
+<pubDate>Sat, 14 Nov 2026 20:36:31 +0000</pubDate>
+<description>Il Gruppo ha annunciato che si tratta di “una delle più gravi violazioni di dati in Francia”: informate le autorità Alessandra Corradi</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/DGGZ3MQAO5IGLCJVNEJUSXRTVQ.jpg?smart=true&amp;auth=70d740e9f90b81f3da1554dbc7861b45c66fbf33eddcfd02373dc2bb7cd6653a&amp;width=800&amp;height=450" medium="image" />
+</item>
 <item>
 <title>L’Italia apre alla Germania sul GCAP: Roma smentisce le indiscrezioni del Financial Times</title>
 <link>https://www.ilgiornale.it/news/politica-internazionale/litalia-apre-alla-germania-sul-gcap-roma-smentisce-le-indiscrezioni-del-financial-times/</link>
@@ -793,14 +801,6 @@
 <pubDate>Fri, 13 Nov 2026 12:34:59 +0000</pubDate>
 <description>L’incidente nella notte a Palazzo Nuovo. Bernini: “Occupare significa trasformare uno spazio sicuro in un luogo pericoloso”. Tensione tra studenti e ateneo Massimo Balsamo</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/YSO5VLNVZRBJDMPT7J2EB5WCNE.jpg?smart=true&amp;auth=49471db82dc1fa9dd70d7dcfbf641f698dc4e1fbee6198453ff801050bbb3a48&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>È arrivato il giorno della fine del mondo: lo studio sull’Apocalisse del 13 novembre 2026</title>
-<link>https://www.ilgiornale.it/news/attualita/e-arrivato-il-giorno-della-fine-del-mondo-lo-studio-sullapocalisse-del-13-novembre-2026/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/e-arrivato-il-giorno-della-fine-del-mondo-lo-studio-sullapocalisse-del-13-novembre-2026/</guid>
-<pubDate>Fri, 13 Nov 2026 11:24:01 +0000</pubDate>
-<description>Tutto nacque dal fisico austro-americano Heinz von Foerster e dal suo team di ricerca: il tema riguarda la sovrappopolazione mondiale Alessandro Ferro</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ULETH6YIYNG4BEFQEM6TZXPKL4.jfif?smart=true&amp;auth=84a697c0acfd5b06d9bb7143acd8ff200a78b57821804da77f5f6ba2093443ce&amp;width=800&amp;height=600" medium="image" />
 </item>
 </channel>
 </rss>
