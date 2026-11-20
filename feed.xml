@@ -5,7 +5,7 @@
 <link>https://www.ilgiornale.it/</link>
 <description>Feed RSS personale delle ultime notizie pubblicate da il Giornale</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 19 Nov 2026 23:50:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 04:29:27 +0000</lastBuildDate>
 <atom:link href="https://replicant93.github.io/ilgiornale/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Welfare cuccagna dei migranti, l’incontro Putin-Xi-Trump e i libri digitali: quindi, oggi…</title>
@@ -279,6 +279,14 @@
 <media:content url="https://www.ilgiornale.it/resizer/v2/URN4C62Y2BCOTEREYQOLVTNPDQ.jpg?smart=true&amp;auth=93276a890de014a387586a22132c7bd13a9824c5d2870370932f3ba189a5dd41&amp;width=800&amp;height=600" medium="image" />
 </item>
 <item>
+<title>Croci celtiche a sinistra</title>
+<link>https://www.ilgiornale.it/news/parlamento/croci-celtiche-a-sinistra/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/parlamento/croci-celtiche-a-sinistra/</guid>
+<pubDate>Thu, 19 Nov 2026 11:16:33 +0000</pubDate>
+<description>Croci celtiche a sinistra</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2FJYDFFPWYCNPZFHYXRC64VASHG4.png?smart=true&amp;auth=f7b5cdbac7fa729087fafec96c938383abf85becaad37c1cd860dce39929e094&amp;width=120&amp;height=120" medium="image" />
+</item>
+<item>
 <title>Il conto choc dei collettivi: oltre 300 mila euro di danni all’Università di Torino</title>
 <link>https://www.ilgiornale.it/news/nazionale/il-conto-choc-dei-collettivi-oltre-300-mila-euro-di-danni-alluniversita-di-torino/</link>
 <guid isPermaLink="true">https://www.ilgiornale.it/news/nazionale/il-conto-choc-dei-collettivi-oltre-300-mila-euro-di-danni-alluniversita-di-torino/</guid>
@@ -332,6 +340,30 @@
 <guid isPermaLink="true">https://www.ilgiornale.it/news/animali/lori-lento-estinto-ma-morde-ancora/</guid>
 <pubDate>Thu, 19 Nov 2026 11:00:00 +0000</pubDate>
 <description>commento Animali Lori lento estinto? Ma morde ancora Serena Coppetti</description>
+</item>
+<item>
+<title>La Fiamma e quel duello mai finito</title>
+<link>https://www.ilgiornale.it/news/interni/la-fiamma-e-quel-duello-mai-finito/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/la-fiamma-e-quel-duello-mai-finito/</guid>
+<pubDate>Thu, 19 Nov 2026 11:00:00 +0000</pubDate>
+<description>commento Interni La Fiamma e quel duello mai finito Marco Valle</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Filgiornale%2F2MRFFKMRU5KA3D3OGNC776N7SM.jpg?smart=true&amp;auth=0ec8eb76e1ea35381bdc1a81e0412978e469e7ce4b2c91ee8d4407c5d07200f0&amp;width=100&amp;height=100" medium="image" />
+</item>
+<item>
+<title>“Tengo famiglia, anzi amici”</title>
+<link>https://www.ilgiornale.it/news/giu-la-maschera/tengo-famiglia-anzi-amici/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/giu-la-maschera/tengo-famiglia-anzi-amici/</guid>
+<pubDate>Thu, 19 Nov 2026 11:00:00 +0000</pubDate>
+<description>Giù la maschera “Tengo famiglia, anzi amici” Luigi Mascheroni</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/EZJL5LONW5MTTG4HMJPUZMXLMU.jpg?focal=246%2C127&amp;auth=73c1ccada7f2c54d313d6f0fc0f3221bc86484a5a07cf06de7cea2e82256ee30&amp;width=800&amp;height=533" medium="image" />
+</item>
+<item>
+<title>Il socialismo in breve</title>
+<link>https://www.ilgiornale.it/news/sporco-bianco/il-socialismo-in-breve/</link>
+<guid isPermaLink="true">https://www.ilgiornale.it/news/sporco-bianco/il-socialismo-in-breve/</guid>
+<pubDate>Thu, 19 Nov 2026 11:00:00 +0000</pubDate>
+<description>Sporco bianco Il socialismo in breve Andrea Indini</description>
+<media:content url="https://www.ilgiornale.it/resizer/v2/ZUFXMNNT3FC5TJZGXIPNJBZNMI.jfif?focal=918%2C565&amp;auth=a30cf06a83b584cd317f0aa2607190139d7f56e8680713991240ee6f2c7125bd&amp;width=800&amp;height=533" medium="image" />
 </item>
 <item>
 <title>Unicredit, Berlino si arrende a Orcel: via libera alla conquista di Commerzbank</title>
@@ -768,38 +800,6 @@
 <pubDate>Wed, 18 Nov 2026 16:04:57 +0000</pubDate>
 <description>Alessandro Ferro</description>
 <media:content url="https://www.ilgiornale.it/resizer/v2/IR2RIPQD7BFWBG45QBBVQ2M6RU.jpg?focal=1567%2C924&amp;auth=03122b7c9ad66ebce3bfab252c8a8e57c59df93da00e7f58eb0713f5d5330580&amp;width=800&amp;height=450" medium="image" />
-</item>
-<item>
-<title>L’imam di Reggio Emilia e il post sullo sceicco legato ad Al-Qaeda. “Revocategli la cittadinanza”</title>
-<link>https://www.ilgiornale.it/news/interni/limam-di-reggio-emilia-e-il-post-sullo-sceicco-legato-ad-al-qaeda-cisint-gli-sia-revocata-la-cittadinanza/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/interni/limam-di-reggio-emilia-e-il-post-sullo-sceicco-legato-ad-al-qaeda-cisint-gli-sia-revocata-la-cittadinanza/</guid>
-<pubDate>Wed, 18 Nov 2026 15:59:57 +0000</pubDate>
-<description>Nuove polemiche su Wagih Saad Hassan Hassan, che dopo il 7 ottobre si rifiutò di definire Hamas un gruppo terroristico. L’europarlamentare della Lega Cisint attacca anche la sinistra per i rapporti con la comunità islamica reggiana Giulia Sorrentino</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/2POWZCRVKBFBZKA3L3KUVEYCTE.jpeg?focal=784%2C347&amp;auth=fc24b4b31f61c5de4bfa4f3f6ee7a1771069469e32fc82615981fffe487771e8&amp;width=800&amp;height=600" medium="image" />
-</item>
-<item>
-<title>“Ho fatto il mio tempo”: anatomia di un tramonto. Il bilancio della Ferragni che (però) non si ritira</title>
-<link>https://www.ilgiornale.it/news/attualita/ho-fatto-il-mio-tempo-anatomia-di-un-tramonto-il-bilancio-della-ferragni-che-pero-non-si-ritira/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/attualita/ho-fatto-il-mio-tempo-anatomia-di-un-tramonto-il-bilancio-della-ferragni-che-pero-non-si-ritira/</guid>
-<pubDate>Wed, 18 Nov 2026 15:53:04 +0000</pubDate>
-<description>Dal Pandoro-gate a Fedez, dalla depressione al docu Netflix. Nell’intervista a Vanity Fair l’influencer riscrive la sua storia Valeria Braghieri</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/ZPQAIFOITVEDPHIA6CTDP3IARM.jpg?smart=true&amp;auth=7a1f78a8862476c2cc651abebeabf9d63204c52dedd4002cb913bfb0b9b94a3a&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Gaza, Israele supera la Linea Gialla: carri armati nel cuore della Striscia e nuovi ordini di evacuazione</title>
-<link>https://www.ilgiornale.it/news/guerra/gaza-israele-supera-la-linea-gialla-carri-armati-nel-cuore-della-striscia-e-nuovi-ordini-di-evacuazione/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/guerra/gaza-israele-supera-la-linea-gialla-carri-armati-nel-cuore-della-striscia-e-nuovi-ordini-di-evacuazione/</guid>
-<pubDate>Wed, 18 Nov 2026 15:42:50 +0000</pubDate>
-<description>L’esercito israeliano avanza nelle aree di Bureij e Nuseirat, oltre la linea di demarcazione prevista dalla tregua dell’ottobre 2025. Chiusa parte della principale arteria stradale dell’enclave Francesca Salvatore</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/HDOVETAHWNHEDD3SKBKKIIVXHE.jpg?smart=true&amp;auth=08915d10c95cedb920bf8da741ee0d12f3a93eafe97aed99335c6e81b79e0351&amp;width=800&amp;height=290" medium="image" />
-</item>
-<item>
-<title>Nuova Kia Seltos, il SUV che punta su Full Hybrid, GPL e trazione integrale: gamma e prezzi</title>
-<link>https://www.ilgiornale.it/news/auto-moto-motori/nuova-kia-seltos-il-suv-che-punta-su-full-hybrid-gpl-e-trazione-integrale-gamma-e-prezzi/</link>
-<guid isPermaLink="true">https://www.ilgiornale.it/news/auto-moto-motori/nuova-kia-seltos-il-suv-che-punta-su-full-hybrid-gpl-e-trazione-integrale-gamma-e-prezzi/</guid>
-<pubDate>Wed, 18 Nov 2026 15:19:14 +0000</pubDate>
-<description>Tommaso Giacomelli</description>
-<media:content url="https://www.ilgiornale.it/resizer/v2/SSDJXKEAFZEVPHA3ZINMKUJVSI.jfif?focal=921%2C822&amp;auth=7da7324b6bae0f78bfb399f192a09ffdb275cf168458214b7e7a0f97674373ba&amp;width=800&amp;height=450" medium="image" />
 </item>
 </channel>
 </rss>
